@@ -43,10 +43,10 @@ def izumi():
         with open(f"{chain}.json", "r") as reader:
             origin_tokens = json.load(reader)
         for t in origin_tokens:
-            origin_addrs.add(t["address"])
+            origin_addrs.add(t["address"].lower())
         new_tokens = origin_tokens
         for t in tokens:
-            if t["address"] in origin_addrs:
+            if t["address"].lower() in origin_addrs:
                 continue
             new_tokens.append(t)
         with open(f"{chain}.json", "w") as writer:
