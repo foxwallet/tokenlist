@@ -1,0 +1,1 @@
+# FoxWallet Token List

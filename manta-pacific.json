@@ -1,0 +1,100 @@
+[
+  {
+    "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+  },
+  {
+    "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+  },
+  {
+    "address": "0x1c466b9371f8aBA0D7c458bE10a62192Fcb8Aa71",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+  },
+  {
+    "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+  },
+  {
+    "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12409.png"
+  },
+  {
+    "address": "0x6E9655611b42C10b9aF25B6ca08bE349Df45c370",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png"
+  },
+  {
+    "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+  },
+  {
+    "address": "0x91647632245caBf3d66121F86C387aE0ad295F9A",
+    "name": "iZUMi Token",
+    "symbol": "iZi",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_izumi.png"
+  },
+  {
+    "address": "0x078f712f038A95BeEA94F036cADB49188a90604b",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_izumi_bond_usd.png"
+  },
+  {
+    "address": "0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a",
+    "name": "Tellor Tributes",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png"
+  },
+  {
+    "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
+    "name": "Wrapped Mountain Protocol USD",
+    "symbol": "wUSDM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_wrapped_mountain_protocol_usd.png"
+  },
+  {
+    "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png"
+  },
+  {
+    "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
+    "name": "Liquid Staking Matic",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_liquid_staking_matic.png"
+  },
+  {
+    "address": "0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png"
+  }
+]
