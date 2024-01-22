@@ -1,1 +1,107 @@
-[]
+[
+  {
+    "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+    "name": "iZUMi Token",
+    "symbol": "iZi",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+  },
+  {
+    "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+  },
+  {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+  },
+  {
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png"
+  },
+  {
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "name": "Arbitrum Token",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/arb.svg"
+  },
+  {
+    "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WBTC.png"
+  },
+  {
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png"
+  },
+  {
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WETH.png"
+  },
+  {
+    "address": "0x4Bd840786F87aEa5c31BC87705516cB9Cc55eDB9",
+    "name": "Poodlera Token",
+    "symbol": "POOD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/pood.png"
+  },
+  {
+    "address": "0x07DD5BEAffb65B8fF2e575d500BDf324a05295DC",
+    "name": "Arbipad",
+    "symbol": "ARBI",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/arbi.png"
+  },
+  {
+    "address": "0x748b5BE12ac1Ce2EF73035189F943591C1822B7d",
+    "name": "MetaLine Gold",
+    "symbol": "MTG",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mtg.png"
+  },
+  {
+    "address": "0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5",
+    "name": "Shared-liquidity USDT",
+    "symbol": "slUSDT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/slusdt.png"
+  },
+  {
+    "address": "0x55a26773A8ba7FA9a8242B43e14a69488e6D2B05",
+    "name": "Shared-liquidity USDC",
+    "symbol": "slUSDC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/slusdc.png"
+  },
+  {
+    "address": "0xe04B30F233E3Bc96Da2401EE146a94f1C7C54917",
+    "name": "Shared-liquidity BTC",
+    "symbol": "slBTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/slbtc.png"
+  },
+  {
+    "address": "0xdF6964C7ccfaBaACe7C3f918B795fA4a894589C8",
+    "name": "Shared-liquidity ETH",
+    "symbol": "slETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sleth.png"
+  }
+]

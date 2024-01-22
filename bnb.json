@@ -5,5 +5,453 @@
     "symbol": "OFN",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28245.png"
+  },
+  {
+    "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+    "name": "iZUMi Token",
+    "symbol": "iZi",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+  },
+  {
+    "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+  },
+  {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+  },
+  {
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png"
+  },
+  {
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "name": "Binance-Peg BUSD Token",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/busd.png"
+  },
+  {
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png"
+  },
+  {
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png"
+  },
+  {
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "name": "Binance-Peg Bitcoin BEP2",
+    "symbol": "BTCB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png"
+  },
+  {
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png"
+  },
+  {
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "name": "Dogecoin Token",
+    "symbol": "DOGE",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/doge.png"
+  },
+  {
+    "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+    "name": "Green Metaverse Token",
+    "symbol": "GMT",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/gmt.png"
+  },
+  {
+    "address": "0xd9dE2B1973E57Dc9DBA90c35d6Cd940ae4A3CBe1",
+    "name": "Milo Inu",
+    "symbol": "MILO",
+    "decimals": 9,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/milo.png"
+  },
+  {
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "name": "PancakeSwap Token",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cake.png"
+  },
+  {
+    "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "name": "Solana Token",
+    "symbol": "SOL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sol.png"
+  },
+  {
+    "address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
+    "name": "Space ID",
+    "symbol": "ID",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/id.png"
+  },
+  {
+    "address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
+    "name": "Tiny Coin",
+    "symbol": "TINC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/TINC.png"
+  },
+  {
+    "address": "0x383268691ee31c68489b19b8f2d7003ec504d534",
+    "name": "ChiChaCoin",
+    "symbol": "CCC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ccc.png"
+  },
+  {
+    "address": "0xa7bD657C5838472dDF85FF0797A2e6fce8fd4833",
+    "name": "Arbipad",
+    "symbol": "ARBI",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/arbi.png"
+  },
+  {
+    "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+    "name": "TokenPocket Token",
+    "symbol": "TPT",
+    "decimals": 4,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/TPT.png"
+  },
+  {
+    "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+    "name": "BurgerCities",
+    "symbol": "BURGER",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/burger.png"
+  },
+  {
+    "address": "0x154d746794449B6CF534FA11A2Cf7FfF5C968977",
+    "name": "Metazodiac Token",
+    "symbol": "MW",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/MW.png"
+  },
+  {
+    "address": "0x1ef6A7e2c966fb7C5403EFEFdE38338b1a95a084",
+    "name": "Shield",
+    "symbol": "SLD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sld.png"
+  },
+  {
+    "address": "0x270178366a592bA598C2e9d2971DA65f7bAa7C86",
+    "name": "KillSwitch Token",
+    "symbol": "KSW",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/KSW.png"
+  },
+  {
+    "address": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+    "name": "Froyo Token",
+    "symbol": "FROYO",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/froyo.png"
+  },
+  {
+    "address": "0x2E1F3D4cB35980F6339C006e64AC3a555dB6676d",
+    "name": "Nebulas Token",
+    "symbol": "NAS",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/nas.png"
+  },
+  {
+    "address": "0xD6ea4ec77fB7e0d5c331F9109f00CcEdE255b9C8",
+    "name": "Jupyter",
+    "symbol": "IOM",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iom.png"
+  },
+  {
+    "address": "0x8f76907B173FBf65ddd84A86519C8767a90b8B90",
+    "name": "Zero Verse Coin",
+    "symbol": "ZVC",
+    "decimals": 9,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ZVC.png"
+  },
+  {
+    "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+    "name": "Liquid Staking BNB",
+    "symbol": "BNBx",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnbx.png"
+  },
+  {
+    "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
+    "name": "Stader Token",
+    "symbol": "SD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sd.png"
+  },
+  {
+    "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+    "name": "Ankr Token",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ankr.png"
+  },
+  {
+    "address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
+    "name": "Ankr Staked BNB",
+    "symbol": "ankrBNB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/abnbc.png"
+  },
+  {
+    "address": "0x7E60C74b9096f8FA6fb5a9FD88405dED8B7D44f3",
+    "name": "INFIBLUE WORLD",
+    "symbol": "MONIE",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/monie.png"
+  },
+  {
+    "address": "0xD767713e787Cb351e4daFb777DD93d54f5381D29",
+    "name": "Great Resilient Incentive",
+    "symbol": "GRI",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/gri.png"
+  },
+  {
+    "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
+    "name": "Volt Inu",
+    "symbol": "VOLT",
+    "decimals": 9,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/volt.png"
+  },
+  {
+    "address": "0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
+    "name": "ZEBEC token",
+    "symbol": "ZBC",
+    "decimals": 9,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zbc.png"
+  },
+  {
+    "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/woo.png"
+  },
+  {
+    "address": "0x68c0E798b749183c97239114BB76fd1e5e3DB98C",
+    "name": "Lingose Token",
+    "symbol": "LING",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ling.png"
+  },
+  {
+    "address": "0x8105ECe4ce08B6B6449539A5db23e23b973DfA8f",
+    "name": "MAP Protocol",
+    "symbol": "MAP",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/map.png"
+  },
+  {
+    "address": "0x1c37948Cb9fC4a802f91e946CA15df4504c91D03",
+    "name": "Gameta Diamond",
+    "symbol": "GDO",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/gdo.png"
+  },
+  {
+    "address": "0xe6906717f129427eebade5406de68cadd57aa0c0",
+    "name": "Meta Interstellar Token",
+    "symbol": "MIT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mit.png"
+  },
+  {
+    "address": "0xe28c51f4fa57dc44af3691c6f73d1ca578b586be",
+    "name": "Hydroxyl Token",
+    "symbol": "HYT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/HYT.png"
+  },
+  {
+    "address": "0x1a131F7B106D58f33eAf0fE5B47DB2f2045E5732",
+    "name": "DegenReborn Token",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/degen.png"
+  },
+  {
+    "address": "0xB6b8CCD230Bb4235C7b87986274E7aB550b72261",
+    "name": "HALO token",
+    "symbol": "HALO",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/halo.png"
+  },
+  {
+    "address": "0x14778860e937f509e651192a90589de711fb88a9",
+    "name": "CyberConnect token",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cyber.png"
+  },
+  {
+    "address": "0x7133ced95c468b76175168600590c6260164f74b",
+    "name": "WOD.AI-BSC",
+    "symbol": "WOD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wod.png"
+  },
+  {
+    "address": "0x93Ac66639D295332762bdCBf223194f16E84Cc70",
+    "name": "BICT",
+    "symbol": "BICT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ict.png"
+  },
+  {
+    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+    "name": "Meter Governance Token",
+    "symbol": "MTRG",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mtrg.png"
+  },
+  {
+    "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+    "name": "LUNA (Wormhole)",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/luna.png"
+  },
+  {
+    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "name": "Ripple Token",
+    "symbol": "XRP",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xrp.png"
+  },
+  {
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "name": "Biswap Token",
+    "symbol": "BSW",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bsw.png"
+  },
+  {
+    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/uni.png"
+  },
+  {
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "name": "Polkadot Token",
+    "symbol": "DOT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/dot.png"
+  },
+  {
+    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/link.png"
+  },
+  {
+    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ltc.png"
+  },
+  {
+    "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/fil.png"
+  },
+  {
+    "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+    "name": "TRON",
+    "symbol": "TRX",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/trx.png"
+  },
+  {
+    "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "name": "SHIBA INU Token",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/shib.png"
+  },
+  {
+    "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+    "name": "Wombat Token",
+    "symbol": "WOM",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wom.png"
+  },
+  {
+    "address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
+    "name": "Wombex Token",
+    "symbol": "WMX",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wmx.png"
+  },
+  {
+    "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+    "name": "Telos Token",
+    "symbol": "TLOS",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/tlos.png"
+  },
+  {
+    "address": "0x65CD2E7d7BAcDaC3AA9dAe68fb5d548dfE1fEFB5",
+    "name": "Shared-liquidity USDT",
+    "symbol": "slUSDT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/slusdt.png"
+  },
+  {
+    "address": "0x55a26773A8ba7FA9a8242B43e14a69488e6D2B05",
+    "name": "Shared-liquidity USDC",
+    "symbol": "slUSDC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/slusdc.png"
+  },
+  {
+    "address": "0xe04B30F233E3Bc96Da2401EE146a94f1C7C54917",
+    "name": "Shared-liquidity BTC",
+    "symbol": "slBTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/slbtc.png"
+  },
+  {
+    "address": "0xdF6964C7ccfaBaACe7C3f918B795fA4a894589C8",
+    "name": "Shared-liquidity ETH",
+    "symbol": "slETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sleth.png"
   }
 ]
