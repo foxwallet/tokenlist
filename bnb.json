@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "address": "0x8899ec96ed8c96b5c86c23c3f069c3def75b6d97",
+    "name": "Openfabric",
+    "symbol": "OFN",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28245.png"
+  }
+]
