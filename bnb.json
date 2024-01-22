@@ -453,5 +453,12 @@
     "symbol": "slETH",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sleth.png"
+  },
+  {
+    "address": "0xf48f91df403976060cC05dBbf8A0901b09fdeFd4",
+    "name": "Minu",
+    "symbol": "MINU",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1624811471417868288/7_16jx0s_400x400.jpg"
   }
 ]
