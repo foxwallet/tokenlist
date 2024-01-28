@@ -9,6 +9,13 @@
   {
     "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
     "name": "USD Coin",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+  },
+  {
+    "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
