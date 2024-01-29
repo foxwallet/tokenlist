@@ -460,5 +460,12 @@
     "symbol": "MINU",
     "decimals": 18,
     "logoURI": "https://pbs.twimg.com/profile_images/1624811471417868288/7_16jx0s_400x400.jpg"
+  },
+  {
+    "address": "0xBd4B29918D92d613B019252091aB0189f354534f",
+    "name": "Matsuri Shiba Inu",
+    "symbol": "MSHIBA",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1709254941305434113/K-h8QY4z_400x400.png"
   }
 ]
