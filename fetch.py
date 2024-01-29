@@ -1,5 +1,6 @@
 import requests
 import json
+from typing import Mapping, List
 
 CHAIN_ID_MAP = {
     "1": "ethereum",
@@ -12,6 +13,22 @@ CHAIN_ID_MAP = {
     "42766": "zkfair",
     "80085": "bera-artio",
 }
+
+def update_tokens(new_tokens: Mapping[str, List]):
+    for chain, tokens in new_tokens.items():
+        origin_tokens = []
+        origin_addrs = set()
+        with open(f"{chain}.json", "r") as reader:
+            origin_tokens = json.load(reader)
+        for t in origin_tokens:
+            origin_addrs.add(t["address"].lower())
+        new_tokens = origin_tokens
+        for t in tokens:
+            if t["address"].lower() in origin_addrs:
+                continue
+            new_tokens.append(t)
+        with open(f"{chain}.json", "w") as writer:
+            json.dump(new_tokens, writer, indent=2)
 
 def izumi():
     data = requests.get("https://raw.githubusercontent.com/izumiFinance/izumi-tokenList/main/build/tokenList.json").json()
@@ -37,21 +54,7 @@ def izumi():
             if not chain in result:
                 result[chain] = []
             result[chain].append(token)
-
-    for chain, tokens in result.items():
-        origin_tokens = []
-        origin_addrs = set()
-        with open(f"{chain}.json", "r") as reader:
-            origin_tokens = json.load(reader)
-        for t in origin_tokens:
-            origin_addrs.add(t["address"].lower())
-        new_tokens = origin_tokens
-        for t in tokens:
-            if t["address"].lower() in origin_addrs:
-                continue
-            new_tokens.append(t)
-        with open(f"{chain}.json", "w") as writer:
-            json.dump(new_tokens, writer, indent=2)
+    update_tokens(result)
 
 
 def bera_artio():
@@ -68,22 +71,7 @@ def bera_artio():
             "logoURI": item["logoURI"],
         }
         result["bera-artio"].append(token)    
-    
-    for chain, tokens in result.items():
-        origin_tokens = []
-        origin_addrs = set()
-        with open(f"{chain}.json", "r") as reader:
-            origin_tokens = json.load(reader)
-        for t in origin_tokens:
-            origin_addrs.add(t["address"].lower())
-        new_tokens = origin_tokens
-        for t in tokens:
-            if t["address"].lower() in origin_addrs:
-                continue
-            new_tokens.append(t)
-        with open(f"{chain}.json", "w") as writer:
-            json.dump(new_tokens, writer, indent=2)
-
+    update_tokens(result)
 
 if __name__ == "__main__":
     bera_artio()
