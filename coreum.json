@@ -1,0 +1,93 @@
+[
+  {
+    "address": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/sara.png",
+    "name": "SARA",
+    "symbol": "SARA",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
+    "name": "OSMO",
+    "symbol": "OSMO",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.png",
+    "name": "GRAV",
+    "symbol": "GRAV",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.png",
+    "name": "KUJI",
+    "symbol": "KUJI",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.png",
+    "name": "BAND",
+    "symbol": "BAND",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.png",
+    "name": "EVMOS",
+    "symbol": "EVMOS",
+    "decimals": 18
+  },
+  {
+    "address": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.png",
+    "name": "AXL",
+    "symbol": "AXL",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.png",
+    "name": "SEI",
+    "symbol": "SEI",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.png",
+    "name": "KAVA",
+    "symbol": "KAVA",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.png",
+    "name": "USDt",
+    "symbol": "USDt",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.png",
+    "name": "ATOM",
+    "symbol": "ATOM",
+    "decimals": 6
+  },
+  {
+    "address": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.png",
+    "name": "DYDX",
+    "symbol": "DYDX",
+    "decimals": 18
+  }
+]

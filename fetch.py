@@ -73,5 +73,34 @@ def bera_artio():
         result["bera-artio"].append(token)    
     update_tokens(result)
 
+def coreum():
+    data = requests.get("https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/mainnet/assets.json").json()
+    
+    metadatas = requests.get("https://full-node.mainnet-1.coreum.dev:1317/cosmos/bank/v1beta1/denoms_metadata").json()
+    metadata_map = {}
+    for item in metadatas["metadatas"]:
+        metadata_map[item["base"]] = item
+
+    result = {
+        "coreum": []
+    }
+    for item in data.get("assets", []):
+        address = item["denom"]
+        meta = metadata_map.get(address)
+        ibc = item.get("ibc_info")
+        if not meta and ibc.get("display_name") is None:
+            continue
+        if address == "ucore":
+            continue
+        token = {
+            "address": address,
+            "logoURI": item["logo_URIs"]["png"],
+            "name": meta["name"] if meta else ibc["display_name"],
+            "symbol": meta["symbol"] if meta else ibc["display_name"],
+            "decimals": meta["denom_units"][-1]["exponent"] if meta else ibc["precision"],
+        }
+        result["coreum"].append(token)    
+    update_tokens(result)
+
 if __name__ == "__main__":
-    bera_artio()
+    coreum()
