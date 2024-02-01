@@ -68,5 +68,12 @@
     "symbol": "CYBER",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cyber.png"
+  },
+  {
+    "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+    "name": "rswETH",
+    "symbol": "rswETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rswETH.webp"
   }
 ]
