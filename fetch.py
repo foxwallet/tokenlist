@@ -9,26 +9,44 @@ CHAIN_ID_MAP = {
     "137": "polygon",
     "169": "manta-pacific",
     "324": "zksync-era",
+    "7000": "zeta-evm",
     "42161": "arbitrum",
     "42766": "zkfair",
     "80085": "bera-artio",
+}
+
+NATIVE_COIN_MAP = {
+    "ethereum": "ETH",
+    "optimism": "ETH",
+    "bnb": "BNB",
+    "polygon": "MATIC",
+    "zksync-era": "ETH",
+    "zeta-evm": "ZETA",
+    "arbitrum": "ETH",
+    "zkfair": "USDC",
+    "bera-artio": "BERA",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
     for chain, tokens in new_tokens.items():
         origin_tokens = []
         origin_addrs = set()
-        with open(f"{chain}.json", "r") as reader:
-            origin_tokens = json.load(reader)
-        for t in origin_tokens:
-            origin_addrs.add(t["address"].lower())
-        new_tokens = origin_tokens
-        for t in tokens:
-            if t["address"].lower() in origin_addrs:
-                continue
-            new_tokens.append(t)
-        with open(f"{chain}.json", "w") as writer:
-            json.dump(new_tokens, writer, indent=2)
+        try:
+            with open(f"{chain}.json", "r") as reader:
+                origin_tokens = json.load(reader)
+            for t in origin_tokens:
+                origin_addrs.add(t["address"].lower())
+            new_tokens = origin_tokens
+            for t in tokens:
+                if t["address"].lower() in origin_addrs:
+                    continue
+                new_tokens.append(t)
+            new_tokens = list(filter(lambda t: t.get("symbol", None) != NATIVE_COIN_MAP.get(chain, ""), new_tokens))
+            with open(f"{chain}.json", "w") as writer:
+                json.dump(new_tokens, writer, indent=2)
+        except BaseException as e:
+            print(chain, e)
+            continue        
 
 def izumi():
     data = requests.get("https://raw.githubusercontent.com/izumiFinance/izumi-tokenList/main/build/tokenList.json").json()
@@ -38,8 +56,8 @@ def izumi():
         symbol = item["symbol"]
         logoURI = item["icon"]
         contracts = item.get("contracts", {})
-        for k, v in contracts.items():
-            chain = CHAIN_ID_MAP.get(k, None)
+        for chain_id, v in contracts.items():
+            chain = CHAIN_ID_MAP.get(chain_id, None)
             if chain is None:
                 continue
             address = v["address"]
@@ -103,4 +121,4 @@ def coreum():
     update_tokens(result)
 
 if __name__ == "__main__":
-    coreum()
+    izumi()

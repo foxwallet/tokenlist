@@ -15,13 +15,6 @@
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png"
-  },
-  {
-    "address": "0x4200000000000000000000000000000000000006",
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,

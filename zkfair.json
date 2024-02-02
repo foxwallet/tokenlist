@@ -1,13 +1,6 @@
 [
   {
     "address": "0xD33Db7EC50A98164cC865dfaa64666906d79319C",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
-  },
-  {
-    "address": "0xD33Db7EC50A98164cC865dfaa64666906d79319C",
     "name": "Wrapped USDC",
     "symbol": "WUSDC",
     "decimals": 18,
@@ -47,5 +40,19 @@
     "symbol": "FLON",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/flon.png"
+  },
+  {
+    "address": "0x922991F913641dFdd14CF6D7A94907aaBC86Ab93",
+    "name": "FPoints Token",
+    "symbol": "IFP",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ifp.png"
+  },
+  {
+    "address": "0x50BCB6ecF1Fddd35D649fB1Bc6760Dd7AA32B348",
+    "name": "Side Token",
+    "symbol": "SIDE",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/side.png"
   }
 ]
