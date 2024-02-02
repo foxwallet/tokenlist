@@ -120,5 +120,28 @@ def coreum():
         result["coreum"].append(token)    
     update_tokens(result)
 
+def one_inch():
+    result = {}
+    for chain_id in ["1", "10", "56", "137", "42161"]:
+        chain = CHAIN_ID_MAP.get(chain_id)
+        if not chain:
+            continue
+        data = requests.get(f"https://tokens.1inch.io/v1.2/{chain_id}").json()
+        for address, item in data.items():
+            logoURI = item.get("logoURI")
+            if not logoURI:
+                continue
+            token = {
+                "address": address,
+                "name": item["name"],
+                "symbol": item["symbol"],
+                "decimals": item["decimals"],
+                "logoURI": logoURI,
+            }
+            if not chain in result:
+                result[chain] = []
+            result[chain].append(token)
+    update_tokens(result)
+
 if __name__ == "__main__":
-    izumi()
+    one_inch()
