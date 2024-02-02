@@ -8,6 +8,7 @@ CHAIN_ID_MAP = {
     "56": "bnb",
     "137": "polygon",
     "169": "manta-pacific",
+    "314": "filecoin-evm",
     "324": "zksync-era",
     "7000": "zeta-evm",
     "42161": "arbitrum",
@@ -143,5 +144,28 @@ def one_inch():
             result[chain].append(token)
     update_tokens(result)
 
+def sushiswap():
+    chain_map = {
+        "filecoin": "filecoin-evm"
+    }
+    result = {}
+    for c in ["filecoin", ]:
+        chain = chain_map.get(c)
+        if not chain:
+            continue
+        data = requests.get(f"https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/{c}.json").json()
+        for item in data:
+            token = {
+                "address": item["address"],
+                "name": item["name"],
+                "symbol": item["symbol"],
+                "decimals": item["decimals"],
+                "logoURI": item["logoURI"],
+            }
+            if chain not in result:
+                result[chain] = []
+            result[chain].append(token)
+    update_tokens(result)
+
 if __name__ == "__main__":
-    one_inch()
+    sushiswap()
