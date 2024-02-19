@@ -26,6 +26,7 @@ NATIVE_COIN_MAP = {
     "arbitrum": "ETH",
     "zkfair": "USDC",
     "bera-artio": "BERA",
+    "filecoin-evm": "FIL",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
