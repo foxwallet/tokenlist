@@ -1,0 +1,100 @@
+[
+  {
+    "address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png"
+  },
+  {
+    "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+  },
+  {
+    "address": "0x7a677e59dC2C8a42d6aF3a62748c5595034A008b",
+    "name": "HUHU CAT",
+    "symbol": "HUHU",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/huhu.png"
+  },
+  {
+    "address": "0xd79f579d7e34782465863a6f837b2692bda7b989",
+    "name": "Jeff Token",
+    "symbol": "JEFF",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/jeff.png"
+  },
+  {
+    "address": "0xa49fc6e5bbb77622b96bf242fee4028b8b61ffa0",
+    "name": "Elixir Token",
+    "symbol": "ELXR",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/elxr.png"
+  },
+  {
+    "address": "0x1dd67628db8661186de74a3adc6e3f44def5709e",
+    "name": "DRAGON Token",
+    "symbol": "DRAGON",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/dragonmerlin.png"
+  },
+  {
+    "address": "0xdbbc61004663f0116dd5ae5751436c722b7168e6",
+    "name": "King Arthur Token",
+    "symbol": "ART",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/art.png"
+  },
+  {
+    "address": "0x6df1b05ac85007bcd4f25aca7ab505415b3d51dc",
+    "name": "MRC404 Token",
+    "symbol": "MRC404",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mrc404.png"
+  },
+  {
+    "address": "0x3cFD33fD6f670ebBf63434D4b09DcA6D403aEFea",
+    "name": "BIUU Token",
+    "symbol": "BIUU",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/biuu.png"
+  },
+  {
+    "address": "0x2503d56065a1369d7270dc2038c16a113699454d",
+    "name": "Wizard Token",
+    "symbol": "Wizard",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wizard.png"
+  },
+  {
+    "address": "0x5782d6FdDFE62cb1650FE42582Ef8E37EAEA03E2",
+    "name": "Merlin Pad Token",
+    "symbol": "MerlinPad",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinpad.png"
+  },
+  {
+    "address": "0x402b2e84CB09b08e18Bd47636594Afb789401ddc",
+    "name": "Merlin Meme Token (Meme)",
+    "symbol": "MERLIN(Meme)",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinmeme.png"
+  },
+  {
+    "address": "0xF18781109992b12580A646ed0392a6Fc50318209",
+    "name": "Merlin Ball Token",
+    "symbol": "BALL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ball.png"
+  },
+  {
+    "address": "0x62e99191071fc1c5947cf1e21aa95708dcc51adb",
+    "name": "Owl Token",
+    "symbol": "Owl",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/owl.png"
+  }
+]

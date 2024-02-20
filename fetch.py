@@ -10,6 +10,7 @@ CHAIN_ID_MAP = {
     "169": "manta-pacific",
     "314": "filecoin-evm",
     "324": "zksync-era",
+    "4200": "merlin",
     "7000": "zeta-evm",
     "42161": "arbitrum",
     "42766": "zkfair",
@@ -27,6 +28,7 @@ NATIVE_COIN_MAP = {
     "zkfair": "USDC",
     "bera-artio": "BERA",
     "filecoin-evm": "FIL",
+    "merlin": "BTC",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
@@ -168,5 +170,23 @@ def sushiswap():
             result[chain].append(token)
     update_tokens(result)
 
+
+def merlinswap():
+    result = {
+        "merlin": []
+    }
+    data = requests.get("https://raw.githubusercontent.com/MerlinSwap/MerlinSwap-tokenList/main/build/tokenList.json").json()
+    for item in data:
+        contract = item["contracts"]["4200"]
+        token = {
+            "address": contract["address"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": contract["decimal"],
+            "logoURI": item["icon"],
+        }
+        result["merlin"].append(token)
+    update_tokens(result)
+
 if __name__ == "__main__":
-    sushiswap()
+    merlinswap()
