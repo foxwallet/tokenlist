@@ -96,5 +96,33 @@
     "symbol": "Owl",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/owl.png"
+  },
+  {
+    "address": "0x480e158395cc5b41e5584347c495584ca2caf78d",
+    "name": "Bridged BRC20 VOYA",
+    "symbol": "VOYA",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/voya.png"
+  },
+  {
+    "address": "0xcd88e36a9ce94e4c36f08b0b8086a80639e11e7a",
+    "name": "SPELL Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/spell.png"
+  },
+  {
+    "address": "0x63c2e663a6cfb0f5568c84a1c8134acbe1b88bec",
+    "name": "Merlin Box Token",
+    "symbol": "MerlinBox",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinbox.png"
+  },
+  {
+    "address": "0xf0db39a5e37eb2df2d2b968f3fc8e5d7a9969dea",
+    "name": "Merlin Land Token",
+    "symbol": "MerlinLand",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinland.png"
   }
 ]
