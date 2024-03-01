@@ -3183,5 +3183,12 @@
     "symbol": "DEFI",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29200.png"
-  }
+  },
+  {
+    "address": "0x30842a9c941d9DE3AF582c41ad12b11D776ba69e",
+    "name": "QnA3.AI Token",
+    "symbol": "GPT",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1670416303360966657/4jzsawPA_400x400.jpg"
+  } 
 ]
