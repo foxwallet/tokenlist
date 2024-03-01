@@ -8972,5 +8972,19 @@
     "symbol": "PIXEL",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png"
+  },
+  {
+    "address": "0x163f8C2467924be0ae7B5347228CABF260318753",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1683371529269137409/1VQdZPHJ_400x400.jpg"
+  },
+  {
+    "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+    "name": "Big Time",
+    "symbol": "BIGTIME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/bigtime.png"
   }
 ]
