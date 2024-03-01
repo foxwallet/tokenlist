@@ -191,5 +191,26 @@ def merlinswap():
         result["merlin"].append(token)
     update_tokens(result)
 
+def uniswap():
+    chain_map = {
+        "mainnet": "ethereum",
+        "optimism": "optimism",
+        "bnb": "bnb",
+        "polygon": "polygon",
+        "arbitrum": "arbitrum",
+    }
+    result = {}
+    for chain, unique_id in chain_map.items():
+        print(chain)
+        url = f"https://raw.githubusercontent.com/Uniswap/default-token-list/main/src/tokens/{chain}.json"
+        data = requests.get(url).json()
+        if unique_id not in result:
+            result[unique_id] = []
+        for token in data:
+            del token["chainId"]
+            result[unique_id].append(token)
+    update_tokens(result)
+
+
 if __name__ == "__main__":
-    one_inch()
+    uniswap()
