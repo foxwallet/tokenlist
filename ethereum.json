@@ -8944,5 +8944,33 @@
     "symbol": "SAVM",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12.png"
+  },
+  {
+    "address": "0xf951e335afb289353dc249e82926178eac7ded78",
+    "name": "swETH",
+    "symbol": "SWETH",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25147.png"
+  },
+  {
+    "address": "0xea81dab2e0ecbc6b5c4172de4c22b6ef6e55bd8f",
+    "name": "Plebbit",
+    "symbol": "PLEB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31903/large/WgMdNjT4_400x400.png?1696530713"
+  },
+  {
+    "address": "0xde342a3e269056fc3305f9e315f4c40d917ba521",
+    "name": "Byte",
+    "symbol": "BYTE",
+    "decimals": 9,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28664.png"
+  },
+  {
+    "address": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31",
+    "name": "Pixels",
+    "symbol": "PIXEL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png"
   }
 ]

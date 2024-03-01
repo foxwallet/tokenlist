@@ -82,5 +82,12 @@
     "symbol": "ZCat",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zcat.png"
+  },
+  {
+    "address": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+    "name": "Accumulated Finance stZETA",
+    "symbol": "stZETA",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stzetaaf.png"
   }
 ]

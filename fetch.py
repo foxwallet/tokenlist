@@ -10,6 +10,7 @@ CHAIN_ID_MAP = {
     "169": "manta-pacific",
     "314": "filecoin-evm",
     "324": "zksync-era",
+    "1100": "dym",
     "4200": "merlin",
     "7000": "zeta-evm",
     "42161": "arbitrum",
@@ -29,6 +30,8 @@ NATIVE_COIN_MAP = {
     "bera-artio": "BERA",
     "filecoin-evm": "FIL",
     "merlin": "BTC",
+    "coreum": "COREUM",
+    "dym": "DYM",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
@@ -189,4 +192,4 @@ def merlinswap():
     update_tokens(result)
 
 if __name__ == "__main__":
-    merlinswap()
+    one_inch()

@@ -1496,5 +1496,12 @@
     "symbol": "STAR",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0xc19669a405067927865b40ea045a2baabbbe57f5.png"
+  },
+  {
+    "address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+    "name": "Wrapped liquid staked Ether 2.0 (PoS)",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd.png"
   }
 ]
