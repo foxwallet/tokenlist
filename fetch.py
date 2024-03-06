@@ -14,18 +14,20 @@ CHAIN_ID_MAP = {
     "4200": "merlin",
     "7000": "zeta-evm",
     "42161": "arbitrum",
+    "43114": "avax",
     "42766": "zkfair",
     "80085": "bera-artio",
 }
 
 NATIVE_COIN_MAP = {
+    "arbitrum": "ETH",
+    "avax": "AVAX",
     "ethereum": "ETH",
     "optimism": "ETH",
     "bnb": "BNB",
     "polygon": "MATIC",
     "zksync-era": "ETH",
     "zeta-evm": "ZETA",
-    "arbitrum": "ETH",
     "zkfair": "USDC",
     "bera-artio": "BERA",
     "filecoin-evm": "FIL",
@@ -129,7 +131,7 @@ def coreum():
 
 def one_inch():
     result = {}
-    for chain_id in ["1", "10", "56", "137", "42161"]:
+    for chain_id in ["1", "10", "56", "137", "324", "42161", "43114"]:
         chain = CHAIN_ID_MAP.get(chain_id)
         if not chain:
             continue
@@ -213,4 +215,4 @@ def uniswap():
 
 
 if __name__ == "__main__":
-    uniswap()
+    one_inch()

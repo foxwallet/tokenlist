@@ -9430,5 +9430,12 @@
     "symbol": "STRK",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png?1696525507"
+  },
+  {
+    "address": "0x9a96ec9b57fb64fbc60b423d1f4da7691bd35079",
+    "name": "Ajna Protocol",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24862.png"
   }
 ]
