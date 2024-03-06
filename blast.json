@@ -1,0 +1,51 @@
+[
+  {
+    "address": "0x4300000000000000000000000000000000000004",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WETH.png"
+  },
+  {
+    "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png"
+  },
+  {
+    "address": "0xf782e172a14ee1c85cd980c15375ba0e87957028",
+    "name": "Ting Tiger Cat",
+    "symbol": "CACA",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/caca.png"
+  },
+  {
+    "address": "0x0bde92b80c759326b89b62c5082febed90e8627f",
+    "name": "Boom!",
+    "symbol": "BOOM",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/boom.png"
+  },
+  {
+    "address": "0x2b193502f4b8f5f8fe22692449a30f52bf6364f2",
+    "name": "Bang!",
+    "symbol": "BANG",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bang.png"
+  },
+  {
+    "address": "0x038f1C6ED5FccF690A920a27b39366eeeF27eFCe",
+    "name": "Frog Rich",
+    "symbol": "RICH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rich.png"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000003",
+    "name": "Rebasing USD",
+    "symbol": "USDB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdb.png"
+  }
+]

@@ -16,6 +16,7 @@ CHAIN_ID_MAP = {
     "42161": "arbitrum",
     "43114": "avax",
     "42766": "zkfair",
+    "81457": "blast",
     "80085": "bera-artio",
 }
 
@@ -215,4 +216,4 @@ def uniswap():
 
 
 if __name__ == "__main__":
-    one_inch()
+    izumi()
