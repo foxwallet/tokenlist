@@ -9405,17 +9405,7 @@
     "name": "Celo native asset (Wormhole)",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
-    "extensions": {
-      "bridgeInfo": {
-        "10": {
-          "tokenAddress": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349"
-        },
-        "42161": {
-          "tokenAddress": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336"
-        }
-      }
-    }
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png"
   },
   {
     "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
@@ -9437,5 +9427,12 @@
     "symbol": "AJNA",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24862.png"
+  },
+  {
+    "address": "0x571d9b73dc04ed88b4e273e048c8d4848f83b779",
+    "name": "ClosedAI",
+    "symbol": "ClosedAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ClosedAI.webp"
   }
 ]
