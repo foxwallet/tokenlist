@@ -9434,5 +9434,12 @@
     "symbol": "ClosedAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ClosedAI.webp"
+  },
+  {
+    "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
+    "name": "ether.fi governance token",
+    "symbol": "ETHFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ETHFI.webp"
   }
 ]
