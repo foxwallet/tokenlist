@@ -9448,5 +9448,12 @@
     "symbol": "STONE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STONE.webp"
+  },
+  {
+    "address": "0x28F0634c3F99ABcA688D074b1628AdC7028BCfC6",
+    "name": "RWAX",
+    "symbol": "RWAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RWAX.webp"
   }
 ]
