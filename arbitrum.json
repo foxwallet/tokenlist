@@ -580,5 +580,12 @@
     "symbol": "MAGIC",
     "decimals": 18,
     "logoURI": "https://dynamic-assets.coinbase.com/30320a63f6038b944c9c0202fcb2392e6a1bd333814f74b4674774dd87f2d06d64fdd74c2f1ab4639917c75b749c323450408bec7a2737af8ae0c17871aa90de/asset_icons/98d278cda11639ed7449a0a3086cd2c83937ce71baf4ee43bb5b777423c00a75.png"
+  },
+  {
+    "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf",
+    "name": "Compound USDC",
+    "symbol": "cUSDCv3",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf.png"
   }
 ]

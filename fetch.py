@@ -8,6 +8,7 @@ CHAIN_ID_MAP = {
     "56": "bnb",
     "137": "polygon",
     "169": "manta-pacific",
+    "196": "xlayer",
     "314": "filecoin-evm",
     "324": "zksync-era",
     "1100": "dym",
@@ -35,6 +36,7 @@ NATIVE_COIN_MAP = {
     "merlin": "BTC",
     "coreum": "COREUM",
     "dym": "DYM",
+    "xlayer": "OKB",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
@@ -215,5 +217,29 @@ def uniswap():
     update_tokens(result)
 
 
+def xlayer():
+    unique_id = "xlayer"
+    result = {
+       unique_id : []
+    }
+    url = "https://rpc.xlayer.tech/priapi/v1/ob/bridge/main-coins/3"
+    data = requests.get(url).json()
+    for item in data.get("data", []):
+        if not item["address"]:
+            continue
+        chainId = item["chainId"]
+        if chainId != "196":
+            continue
+        token = {
+            "address": item["address"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": int(item["decimals"]),
+            "logoURI": item["logoLink"],
+        }
+        result[unique_id].append(token)
+    update_tokens(result)    
+
+
 if __name__ == "__main__":
-    izumi()
+    one_inch()

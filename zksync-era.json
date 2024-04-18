@@ -524,5 +524,12 @@
     "symbol": "ZF",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a.png"
+  },
+  {
+    "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
+    "name": "Velocore",
+    "symbol": "VC",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png"
   }
 ]

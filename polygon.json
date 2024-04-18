@@ -1644,5 +1644,26 @@
     "symbol": "sUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
+  },
+  {
+    "address": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
+    "name": "METAL",
+    "symbol": "METAL",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x200c234721b5e549c3693ccc93cf191f90dc2af9.png"
+  },
+  {
+    "address": "0xf25212e676d1f7f89cd72ffee66158f541246445",
+    "name": "Compound USDC",
+    "symbol": "cUSDCv3",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xf25212e676d1f7f89cd72ffee66158f541246445.png"
+  },
+  {
+    "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "name": "OX Coin",
+    "symbol": "OX",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xba0dda8762c24da9487f5fa026a9b64b695a07ea.png"
   }
 ]

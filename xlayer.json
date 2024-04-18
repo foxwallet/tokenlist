@@ -1,0 +1,37 @@
+[
+  {
+    "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/ETH-20220328.png"
+  },
+  {
+    "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/USDT-991ffed9-e495-4d1b-80c2-a4c5f96ce22d.png"
+  },
+  {
+    "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/WBTC-20230804.png"
+  },
+  {
+    "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+    "name": "Dai",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/dai01.png"
+  },
+  {
+    "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/USDC.png"
+  }
+]
