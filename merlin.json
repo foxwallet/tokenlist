@@ -124,5 +124,131 @@
     "symbol": "MerlinLand",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merlinland.png"
+  },
+  {
+    "address": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
+    "name": "Merlin's Seal BTC",
+    "symbol": "M-BTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+  },
+  {
+    "address": "0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71",
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png"
+  },
+  {
+    "address": "0xbd40c74cb5cf9f9252B3298230Cb916d80430bBa",
+    "name": "MerlinSwap Token",
+    "symbol": "MP",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mp.png"
+  },
+  {
+    "address": "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
+    "name": "Merlin's Seal USDC",
+    "symbol": "M-USDC",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdc.svg"
+  },
+  {
+    "address": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
+    "name": "Merlin's Seal USDT",
+    "symbol": "M-USDT",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdt.svg"
+  },
+  {
+    "address": "0x4DCb91Cc19AaDFE5a6672781EB09abAd00C19E4c",
+    "name": "Bridged BRC20 sats",
+    "symbol": "M-sats",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/msats.png"
+  },
+  {
+    "address": "0x69181A1f082ea83A152621e4FA527C936abFa501",
+    "name": "Bridged BRC20 rats",
+    "symbol": "M-rats",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mrats.png"
+  },
+  {
+    "address": "0x0726523Eba12EdaD467c55a962842Ef358865559",
+    "name": "Bridged BRC20 ordi",
+    "symbol": "M-ordi",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mordi.png"
+  },
+  {
+    "address": "0x9bd60d6FC99843207B8149f9190438C1F81BDdcD",
+    "name": "Bridged BRC20 RUFI",
+    "symbol": "RUFI",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rufi.svg"
+  },
+  {
+    "address": "0x27622B326Ff3ffa7dc10AE291800c3073b55AA39",
+    "name": "Bridged BRC20 MNER",
+    "symbol": "MNER",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mner.png"
+  },
+  {
+    "address": "0x7126bd63713a7212792b08fa2c39d39190a4cf5b",
+    "name": "Escrow MerlinSwap Token",
+    "symbol": "esMP",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/esmp.png"
+  },
+  {
+    "address": "0x09401c470a76Ec07512EEDDEF5477BE74bac2338",
+    "name": "Merlinstarter Token",
+    "symbol": "MSTAR",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mstar.png"
+  },
+  {
+    "address": "0x4c67addF3AF13e84f5F4e4E54e8cF5D40AB2A36D",
+    "name": "Bridged prc-20 pols",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/pols.png"
+  },
+  {
+    "address": "0x33c70a08D0D427eE916576a7594b50d7F8f3FbE1",
+    "name": "Bridged brc-20 bnbs",
+    "symbol": "BNBS",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnbs.png"
+  },
+  {
+    "address": "0x07884346a65F95276C2b0E56b17165b191ab2C49",
+    "name": "Influpia Token",
+    "symbol": "ING",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ing.svg"
+  },
+  {
+    "address": "0xbf108e20fd47995b2b1a316db76c1c145e5bdeac",
+    "name": "RAT404 Token",
+    "symbol": "RAT404",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rat404.png"
+  },
+  {
+    "address": "0xe380a2d2477799fff336a2937ea00a29a84a22c9",
+    "name": "The Grand VOYA Sailor",
+    "symbol": "Sailor",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sailor.png"
+  },
+  {
+    "address": "0xc69a8ef7da38fb6bf035c38ea4a0a5e0a529378d",
+    "name": "Drak Token",
+    "symbol": "DRAK",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/drak.png"
   }
 ]
