@@ -242,4 +242,4 @@ def xlayer():
 
 
 if __name__ == "__main__":
-    merlinswap()
+    one_inch()

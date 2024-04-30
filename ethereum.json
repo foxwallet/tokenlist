@@ -9791,5 +9791,19 @@
     "symbol": "ENA",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x57e114b691db790c35207b2e685d4a43181e6061.png"
+  },
+  {
+    "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+    "name": "Safe",
+    "symbol": "SAFE",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x5afe3855358e112b5647b952709e6165e1c1eeee_1.png"
+  },
+  {
+    "address": "0x3B50805453023a91a8bf641e279401a0b23FA6F9",
+    "name": "Renzo",
+    "symbol": "REZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REZ.webp"
   }
 ]
