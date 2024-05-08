@@ -9805,5 +9805,33 @@
     "symbol": "REZ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REZ.webp"
+  },
+  {
+    "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
+    "name": "Mantle Staked Ether",
+    "symbol": "METH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa.png"
+  },
+  {
+    "address": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xbf5495efe5db9ce00f80364c8b423567e58d2110.png"
+  },
+  {
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "name": "Angle USD",
+    "symbol": "agUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x0000206329b97db379d5e1bf586bbdb969c63274.png"
+  },
+  {
+    "address": "0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4",
+    "name": "Omni Network",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4.png"
   }
 ]

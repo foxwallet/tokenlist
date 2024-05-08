@@ -587,5 +587,33 @@
     "symbol": "cUSDCv3",
     "decimals": 6,
     "logoURI": "https://tokens.1inch.io/0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf.png"
+  },
+  {
+    "address": "0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86",
+    "name": "MOR",
+    "symbol": "MOR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOR.webp"
+  },
+  {
+    "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+    "name": "PancakeSwap Token",
+    "symbol": "Cake",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c.png"
+  },
+  {
+    "address": "0x17a8541b82bf67e10b0874284b4ae66858cb1fd5",
+    "name": "Possum",
+    "symbol": "PSM",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x17a8541b82bf67e10b0874284b4ae66858cb1fd5.png"
+  },
+  {
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x2416092f143378750bb29b79ed961ab195cceea5.png"
   }
 ]
