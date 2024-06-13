@@ -9833,5 +9833,61 @@
     "symbol": "OMNI",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4.png"
+  },
+  {
+    "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+    "name": "LTO Network",
+    "symbol": "LTO",
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0xd01409314acb3b245cea9500ece3f6fd4d70ea30.png"
+  },
+  {
+    "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "RSETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7.png"
+  },
+  {
+    "address": "0xf073bac22dab7faf4a3dd6c6189a70d54110525c",
+    "name": "GenesisLRT restaked ETH",
+    "symbol": "genETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xf073bac22dab7faf4a3dd6c6189a70d54110525c.png"
+  },
+  {
+    "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+    "name": "pufETH",
+    "symbol": "PUFETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xd9a442856c234a39a81a089c06451ebaa4306a72.png"
+  },
+  {
+    "address": "0xb528edbef013aff855ac3c50b381f253af13b997",
+    "name": "Aevo",
+    "symbol": "AEVO",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xb528edbef013aff855ac3c50b381f253af13b997.png"
+  },
+  {
+    "address": "0x3d1c949a761c11e4cc50c3ae6bdb0f24fd7a39da",
+    "name": "Neurahub",
+    "symbol": "NEURA",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x3d1c949a761c11e4cc50c3ae6bdb0f24fd7a39da.png"
+  },
+  {
+    "address": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa",
+    "name": "Zentry",
+    "symbol": "ZENT",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa.png"
+  },
+  {
+    "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384"
   }
 ]

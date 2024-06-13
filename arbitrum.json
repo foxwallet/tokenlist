@@ -615,5 +615,12 @@
     "symbol": "ezETH",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+  },
+  {
+    "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
+    "name": "Curve.Fi USD Stablecoin",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png"
   }
 ]

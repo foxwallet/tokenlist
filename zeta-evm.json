@@ -89,5 +89,19 @@
     "symbol": "stZETA",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stzetaaf.png"
+  },
+  {
+    "address": "0x5d8dc3b34d7b07bb09495c480ad629900c0a2e02",
+    "name": "Zebra USD",
+    "symbol": "zbrUSD",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zbrusd.png"
+  },
+  {
+    "address": "0xe21399d1ad140afebeb83158f8e85ab553f03bca",
+    "name": "Runes Bridge Token",
+    "symbol": "RB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rb.png"
   }
 ]

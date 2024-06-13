@@ -33,5 +33,61 @@
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://static.coinall.ltd/cdn/wallet/logo/USDC.png"
+  },
+  {
+    "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+    "name": "Wrapped OKB",
+    "symbol": "WOKB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/okb.png"
+  },
+  {
+    "address": "0xe7e267284e38461c951e7d464958c8c717c9da9d",
+    "name": "Xlayerinu Token",
+    "symbol": "XINU",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xinu.png"
+  },
+  {
+    "address": "0x0eae5d6bb2c534d20a0452e51479957de49583ca",
+    "name": "XDOG Token",
+    "symbol": "XDOG",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xdogxlayer.png"
+  },
+  {
+    "address": "0xf782E172A14Ee1c85cD980C15375bA0E87957028",
+    "name": "Tiny Tiger Cat",
+    "symbol": "TCAT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/caca.png"
+  },
+  {
+    "address": "0x019f7fdc7342b5bf5d180272ef0fe9c16ae4ee83",
+    "name": "X Layer Cat",
+    "symbol": "XCAT",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xcat2.png"
+  },
+  {
+    "address": "0x734ddad5e0cdab730da30c580f32aea83beab218",
+    "name": "Xcat Token",
+    "symbol": "Xcat",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xcat1.png"
+  },
+  {
+    "address": "0x980855ca48b601df572e6877ff908c8bed38bcb5",
+    "name": "OKOX Token",
+    "symbol": "OKOX",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/okox.png"
+  },
+  {
+    "address": "0x3e40cc5b2ffe8f848e881c28f641131f62eb4ae9",
+    "name": "okx xPEPE Token",
+    "symbol": "XPEPE",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xpepe.png"
   }
 ]

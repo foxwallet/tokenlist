@@ -243,3 +243,8 @@ def xlayer():
 
 if __name__ == "__main__":
     one_inch()
+    xlayer()
+    uniswap()
+    sushiswap()
+    izumi()
+    coreum()
