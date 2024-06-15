@@ -1,19 +1,24 @@
 import requests
 import json
 from typing import Mapping, List
+import os
 
 CHAIN_ID_MAP = {
     "1": "ethereum",
     "10": "optimism",
     "56": "bnb",
+    "100": "gnosis",
     "137": "polygon",
     "169": "manta-pacific",
     "196": "xlayer",
+    "250": "fantom",
     "314": "filecoin-evm",
     "324": "zksync-era",
     "1100": "dym",
     "4200": "merlin",
     "7000": "zeta-evm",
+    "8217": "klay",
+    "8453": "base",
     "42161": "arbitrum",
     "43114": "avax",
     "42766": "zkfair",
@@ -37,6 +42,10 @@ NATIVE_COIN_MAP = {
     "coreum": "COREUM",
     "dym": "DYM",
     "xlayer": "OKB",
+    "base": "ETH",
+    "fantom": "FTM",
+    "gnosis": "xDAI",
+    "klay": "KLAY"
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
@@ -44,17 +53,22 @@ def update_tokens(new_tokens: Mapping[str, List]):
         origin_tokens = []
         origin_addrs = set()
         try:
-            with open(f"{chain}.json", "r") as reader:
-                origin_tokens = json.load(reader)
+            if os.path.exists(f"{chain}.json"):
+                with open(f"{chain}.json", "r") as reader:
+                    origin_tokens = json.load(reader)
+            else:
+                origin_tokens = []
             for t in origin_tokens:
                 origin_addrs.add(t["address"].lower())
             new_tokens = origin_tokens
             for t in tokens:
                 if t["address"].lower() in origin_addrs:
                     continue
+                if len(t["symbol"]) >= 10:
+                    continue
                 new_tokens.append(t)
             new_tokens = list(filter(lambda t: t.get("symbol", None) != NATIVE_COIN_MAP.get(chain, ""), new_tokens))
-            with open(f"{chain}.json", "w") as writer:
+            with open(f"{chain}.json", "w+") as writer:
                 json.dump(new_tokens, writer, indent=2)
         except BaseException as e:
             print(chain, e)
@@ -103,6 +117,7 @@ def bera_artio():
         result["bera-artio"].append(token)    
     update_tokens(result)
 
+
 def coreum():
     data = requests.get("https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/mainnet/assets.json").json()
     
@@ -132,9 +147,10 @@ def coreum():
         result["coreum"].append(token)    
     update_tokens(result)
 
+
 def one_inch():
     result = {}
-    for chain_id in ["1", "10", "56", "137", "324", "42161", "43114"]:
+    for chain_id in ["1", "10", "56", "100", "137", "250", "324", "8217", "8453", "42161", "43114"]:
         chain = CHAIN_ID_MAP.get(chain_id)
         if not chain:
             continue
@@ -154,6 +170,7 @@ def one_inch():
                 result[chain] = []
             result[chain].append(token)
     update_tokens(result)
+
 
 def sushiswap():
     chain_map = {
@@ -195,6 +212,7 @@ def merlinswap():
         }
         result["merlin"].append(token)
     update_tokens(result)
+
 
 def uniswap():
     chain_map = {
