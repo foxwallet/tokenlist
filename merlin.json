@@ -250,5 +250,75 @@
     "symbol": "DRAK",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/drak.png"
+  },
+  {
+    "address": "0x5c46bFF4B38dc1EAE09C5BAc65872a1D8bc87378",
+    "name": "MERL Token",
+    "symbol": "MERL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merl.png"
+  },
+  {
+    "address": "0x4dbe39D987665d0CB9F921B50B2673346b87cAfA",
+    "name": "Bridged BRC20 sats",
+    "symbol": "sats",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sats.png"
+  },
+  {
+    "address": "0x7dcb50b2180BC896Da1200D2726a88AF5D2cBB5A",
+    "name": "Bridged BRC20 ordi",
+    "symbol": "ordi",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ordi.png"
+  },
+  {
+    "address": "0x1411626970e70f5b5d3351E339B58F61BDC68073",
+    "name": "Bridged BRC20 rats",
+    "symbol": "rats",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rats.png"
+  },
+  {
+    "address": "0x4a7aa0d04b36cd5cecaac9828de84f70346b840d",
+    "name": "Bridged BRC20 rcsv",
+    "symbol": "rcsv",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rcsv.png"
+  },
+  {
+    "address": "0x24C1BD5c41D0b0813730B5895e9F343FB8477BEA",
+    "name": "Bridged BRC20 BTCs",
+    "symbol": "BTCs",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btcs.png"
+  },
+  {
+    "address": "0x7b0400231Cddf8a7ACa78D8c0483890cd0c6fFD6",
+    "name": "Bridged Runes THE\u2022BITMAP\u2022TOKEN",
+    "symbol": "BITMAP",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bitmap.png"
+  },
+  {
+    "address": "0xC2EB7Ea813e10a46a01628df848299Fb3312B0cE",
+    "name": "BITUSD Token",
+    "symbol": "bitusd",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bitusd.png"
+  },
+  {
+    "address": "0x825e2cfBb71a92e09Ef73D9e96d15cE2e0f63E9F",
+    "name": "MAGE Token",
+    "symbol": "MAGE",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mage.png"
+  },
+  {
+    "address": "0x8Aed42735027aa6d97023D8196B084eCFbA701af",
+    "name": "MDBL Token",
+    "symbol": "MDBL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mdbl.png"
   }
 ]
