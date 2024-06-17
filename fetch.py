@@ -23,6 +23,7 @@ CHAIN_ID_MAP = {
     "43114": "avax",
     "42766": "zkfair",
     "81457": "blast",
+    "167000": "taiko",
     "80085": "bera-artio",
 }
 
@@ -45,7 +46,8 @@ NATIVE_COIN_MAP = {
     "base": "ETH",
     "fantom": "FTM",
     "gnosis": "xDAI",
-    "klay": "KLAY"
+    "klay": "KLAY",
+    "taiko": "ETH",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
