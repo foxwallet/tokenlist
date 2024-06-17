@@ -14,6 +14,7 @@ CHAIN_ID_MAP = {
     "250": "fantom",
     "314": "filecoin-evm",
     "324": "zksync-era",
+    "463": "areon",
     "1100": "dym",
     "4200": "merlin",
     "7000": "zeta-evm",
@@ -48,6 +49,7 @@ NATIVE_COIN_MAP = {
     "gnosis": "xDAI",
     "klay": "KLAY",
     "taiko": "ETH",
+    "areon": "AREA"
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
@@ -258,7 +260,7 @@ def xlayer():
             "logoURI": item["logoLink"],
         }
         result[unique_id].append(token)
-    update_tokens(result)    
+    update_tokens(result)
 
 
 if __name__ == "__main__":
