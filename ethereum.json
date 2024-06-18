@@ -1225,7 +1225,8 @@
     "name": "Celsius",
     "symbol": "CEL",
     "decimals": 4,
-    "logoURI": "https://tokens.1inch.io/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png"
+    "logoURI": "https://tokens.1inch.io/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d.png",
+    "tag": "recommend"
   },
   {
     "address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
@@ -9007,7 +9008,8 @@
     "name": "Big Time",
     "symbol": "BIGTIME",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/bigtime.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/bigtime.png",
+    "tag": "recommend"
   },
   {
     "name": "Orchid",
@@ -9911,5 +9913,21 @@
     "symbol": "BEAM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384"
+  },
+  {
+    "address": "0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+    "name": "Polyhedra Network",
+    "symbol": "ZKJ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36198/standard/ZK.jpg?1710812518",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
+    "name": "ConstitutionDAO",
+    "symbol": "PEOPLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/20612/standard/GN_UVm3d_400x400.jpg?1696520017",
+    "tag": "recommend"
   }
 ]

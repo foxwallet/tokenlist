@@ -1,0 +1,113 @@
+[
+  {
+    "symbol": "WSOL",
+    "name": "WSOL",
+    "decimals": 9,
+    "address": "So11111111111111111111111111111111111111112",
+    "logoURI": "https://wallet.foxnb.net/addresss/cryptologos/SOL.webp",
+    "tag": "recommend"
+  },
+  {
+    "symbol": "SRM",
+    "name": "SRM",
+    "decimals": 6,
+    "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+    "logoURI": "https://wallet.foxnb.net/addresss/cryptologos/SRM.webp"
+  },
+  {
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 6,
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "logoURI": "https://wallet.foxnb.net/addresss/cryptologos/USDC.webp",
+    "tag": "recommend"
+  },
+  {
+    "symbol": "USDT",
+    "name": "USDT",
+    "decimals": 6,
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "logoURI": "https://wallet.foxnb.net/image/usdt_400x400.png",
+    "tag": "recommend"
+  },
+  {
+    "symbol": "soETH",
+    "name": "soETH",
+    "decimals": 6,
+    "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png"
+  },
+  {
+    "symbol": "RAY",
+    "name": "RAY",
+    "decimals": 6,
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png"
+  },
+  {
+    "symbol": "BTC",
+    "name": "BTC",
+    "decimals": 6,
+    "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+    "logoURI": "https://wallet.foxnb.net/addresss/cryptologos/BTC.webp",
+    "tag": "recommend"
+  },
+  {
+    "symbol": "FIDA",
+    "name": "FIDA",
+    "decimals": 6,
+    "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+    "logoURI": "https://wallet.foxnb.net/addresss/solana/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp.png",
+    "tag": "recommend"
+  },
+  {
+    "symbol": "ATLAS",
+    "name": "ATLAS",
+    "decimals": 8,
+    "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png"
+  },
+  {
+    "symbol": "MNGO",
+    "name": "MNGO",
+    "decimals": 6,
+    "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac/address.png"
+  },
+  {
+    "symbol": "ABR",
+    "name": "ABR",
+    "decimals": 9,
+    "address": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
+    "logoURI": "https://wallet.foxnb.net/addresss/solana/a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp.png"
+  },
+  {
+    "symbol": "SLND",
+    "name": "SLND",
+    "decimals": 6,
+    "address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp/logo.png"
+  },
+  {
+    "symbol": "MNDE",
+    "name": "MNDE",
+    "decimals": 9,
+    "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png"
+  },
+  {
+    "symbol": "ORCA",
+    "name": "ORCA",
+    "decimals": 6,
+    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png"
+  },
+  {
+    "symbol": "TNSR",
+    "name": "Tensor",
+    "decimals": 9,
+    "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+    "logoURI": "https://assets.coingecko.com/coins/images/35972/standard/tnsr.png?1712687367",
+    "tag": "recommend"
+  }
+]

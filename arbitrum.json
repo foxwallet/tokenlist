@@ -633,5 +633,13 @@
     "symbol": "crvUSD",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png"
+  },
+  {
+    "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+    "name": "AIDOGE",
+    "symbol": "AIDOGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29852/standard/photo_2023-04-18_14-25-28.jpg?1696528778",
+    "tag": "recommend"
   }
 ]
