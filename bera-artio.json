@@ -4,21 +4,16 @@
     "name": "Wrapped Berachain Token",
     "symbol": "WBERA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Berachain Token",
-    "symbol": "BERA",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
+    "tag": "recommend"
   },
   {
     "address": "0xAcD97aDBa1207dCf27d5C188455BEa8a32E80B8b",
     "name": "Bera Governance Token",
     "symbol": "BGT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png"
+    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png",
+    "tag": "recommend"
   },
   {
     "address": "0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5",
@@ -32,21 +27,24 @@
     "name": "Honey",
     "symbol": "HONEY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png"
+    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+    "tag": "recommend"
   },
   {
     "address": "0x9DAD8A1F64692adeB74ACa26129e0F16897fF4BB",
     "name": "WBTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png"
+    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+    "tag": "recommend"
   },
   {
     "address": "0x8239FBb3e3D0C2cDFd7888D8aF7701240Ac4DcA4",
     "name": "WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+    "tag": "recommend"
   },
   {
     "address": "0xA64BdDd2b601c2E90613c1a95c5d93ebB7501c5B",

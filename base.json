@@ -4,7 +4,8 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "tag": "recommend"
   },
   {
     "address": "0xbcf19453badf7c7ac0630b11dcb75d52b7eb8930",
@@ -46,7 +47,8 @@
     "name": "USD Base Coin",
     "symbol": "USDbC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca.png"
+    "logoURI": "https://tokens.1inch.io/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca.png",
+    "tag": "recommend"
   },
   {
     "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
@@ -81,7 +83,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
+    "logoURI": "https://tokens.1inch.io/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png",
+    "tag": "recommend"
   },
   {
     "address": "0xbd2dbb8ecea9743ca5b16423b4eaa26bdcfe5ed2",
@@ -123,7 +126,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png"
+    "logoURI": "https://tokens.1inch.io/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png",
+    "tag": "recommend"
   },
   {
     "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",

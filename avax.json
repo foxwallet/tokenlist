@@ -54,7 +54,8 @@
     "name": "TetherToken",
     "symbol": "USDt",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png"
+    "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png",
+    "tag": "recommend"
   },
   {
     "address": "0x75739a693459f33b1fbcc02099eea3ebcf150cbe",
@@ -320,14 +321,16 @@
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png"
+    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+    "tag": "recommend"
   },
   {
     "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
     "name": "Tether USD",
     "symbol": "USDT.e",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xc7198437980c041c805a1edcba50c1ce5db95118.png"
+    "logoURI": "https://tokens.1inch.io/0xc7198437980c041c805a1edcba50c1ce5db95118.png",
+    "tag": "recommend"
   },
   {
     "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
@@ -341,7 +344,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI.e",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tag": "recommend"
   },
   {
     "address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
@@ -439,7 +443,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tag": "recommend"
   },
   {
     "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
@@ -628,7 +633,8 @@
     "name": "Time",
     "symbol": "TIME",
     "decimals": 9,
-    "logoURI": "https://tokens.1inch.io/0x485d17a6f1b8780392d53d64751824253011a260.png"
+    "logoURI": "https://tokens.1inch.io/0x485d17a6f1b8780392d53d64751824253011a260.png",
+    "tag": "recommend"
   },
   {
     "address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
@@ -705,7 +711,8 @@
     "name": "Pendle",
     "symbol": "PENDLE",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png"
+    "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png",
+    "tag": "recommend"
   },
   {
     "address": "0x1db749847c4abb991d8b6032102383e6bfd9b1c7",
@@ -761,7 +768,8 @@
     "name": "Chainlink Token",
     "symbol": "LINK.e",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x697256caa3ccafd62bb6d3aa1c7c5671786a5fd9.png"
+    "logoURI": "https://tokens.1inch.io/0x697256caa3ccafd62bb6d3aa1c7c5671786a5fd9.png",
+    "tag": "recommend"
   },
   {
     "address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",

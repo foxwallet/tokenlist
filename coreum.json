@@ -11,7 +11,8 @@
     "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
     "name": "USDC",
     "symbol": "USDC",
-    "decimals": 6
+    "decimals": 6,
+    "tag": "recommend"
   },
   {
     "address": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
@@ -88,7 +89,8 @@
     "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.png",
     "name": "DYDX",
     "symbol": "DYDX",
-    "decimals": 18
+    "decimals": 18,
+    "tag": "recommend"
   },
   {
     "address": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",

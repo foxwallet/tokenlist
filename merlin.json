@@ -4,7 +4,8 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png",
+    "tag": "recommend"
   },
   {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
@@ -130,7 +131,8 @@
     "name": "Merlin's Seal BTC",
     "symbol": "M-BTC",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
+    "tag": "recommend"
   },
   {
     "address": "0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71",
@@ -151,14 +153,16 @@
     "name": "Merlin's Seal USDC",
     "symbol": "M-USDC",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdc.svg"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdc.svg",
+    "tag": "recommend"
   },
   {
     "address": "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
     "name": "Merlin's Seal USDT",
     "symbol": "M-USDT",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdt.svg"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdt.svg",
+    "tag": "recommend"
   },
   {
     "address": "0x4DCb91Cc19AaDFE5a6672781EB09abAd00C19E4c",
@@ -172,14 +176,16 @@
     "name": "Bridged BRC20 rats",
     "symbol": "M-rats",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mrats.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mrats.png",
+    "tag": "recommend"
   },
   {
     "address": "0x0726523Eba12EdaD467c55a962842Ef358865559",
     "name": "Bridged BRC20 ordi",
     "symbol": "M-ordi",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mordi.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mordi.png",
+    "tag": "recommend"
   },
   {
     "address": "0x9bd60d6FC99843207B8149f9190438C1F81BDdcD",
@@ -207,7 +213,8 @@
     "name": "Merlinstarter Token",
     "symbol": "MSTAR",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mstar.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mstar.png",
+    "tag": "recommend"
   },
   {
     "address": "0x4c67addF3AF13e84f5F4e4E54e8cF5D40AB2A36D",
@@ -256,7 +263,8 @@
     "name": "MERL Token",
     "symbol": "MERL",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merl.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merl.png",
+    "tag": "recommend"
   },
   {
     "address": "0x4dbe39D987665d0CB9F921B50B2673346b87cAfA",
@@ -270,14 +278,16 @@
     "name": "Bridged BRC20 ordi",
     "symbol": "ordi",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ordi.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ordi.png",
+    "tag": "recommend"
   },
   {
     "address": "0x1411626970e70f5b5d3351E339B58F61BDC68073",
     "name": "Bridged BRC20 rats",
     "symbol": "rats",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rats.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rats.png",
+    "tag": "recommend"
   },
   {
     "address": "0x4a7aa0d04b36cd5cecaac9828de84f70346b840d",

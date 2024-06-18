@@ -8,5 +8,6 @@ type Token = {
     decimals: number;
     logoURI: string;
     display?: string;
+    tag?: "recommend" or other string;
 }
 ```

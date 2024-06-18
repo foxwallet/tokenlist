@@ -11,35 +11,40 @@
     "name": "Wrapped Klay",
     "symbol": "WKLAY",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xe4f05a66ec68b54a58b17c22107b02e0232cc817.png"
+    "logoURI": "https://tokens.1inch.io/0xe4f05a66ec68b54a58b17c22107b02e0232cc817.png",
+    "tag": "recommend"
   },
   {
     "address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tag": "recommend"
   },
   {
     "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "tag": "recommend"
   },
   {
     "address": "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86",
     "name": "Wrapped ETH",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "tag": "recommend"
   },
   {
     "address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tag": "recommend"
   },
   {
     "address": "0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121",
@@ -172,21 +177,24 @@
     "name": "Wrapped KLAY",
     "symbol": "WKLAY",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/klaytn.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/klaytn.png",
+    "tag": "recommend"
   },
   {
     "address": "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdcklaytn.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdcklaytn.png",
+    "tag": "recommend"
   },
   {
     "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdtklaytn.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdtklaytn.png",
+    "tag": "recommend"
   },
   {
     "address": "0x0f58d0abaae2f586b0d3b6d045305463e89ba603",

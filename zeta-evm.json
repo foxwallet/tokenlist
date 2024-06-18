@@ -11,7 +11,8 @@
     "name": "Wrapped ZETA",
     "symbol": "WZETA",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zeta.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zeta.png",
+    "tag": "recommend"
   },
   {
     "address": "0xd97B1de3619ed2c6BEb3860147E30cA8A7dC9891",
@@ -46,7 +47,8 @@
     "name": "ZRC20 USDT-eth_mainnet",
     "symbol": "USDT.ETH",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png",
+    "tag": "recommend"
   },
   {
     "address": "0x05BA149A7bd6dC1F937fA9046A9e05C05f3b18b0",

@@ -92,38 +92,43 @@
   },
   {
     "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-    "name": "USD//C on xDai",
+    "name": "USDC on xDai",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tag": "recommend"
   },
   {
     "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
     "name": "Tether on xDai",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "tag": "recommend"
   },
   {
     "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
     "name": "Wrapped BTC on xDai",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "tag": "recommend"
   },
   {
     "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
     "name": "Wrapped Ether from Ethereum",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "tag": "recommend"
   },
   {
     "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
     "name": "Wrapped XDAI",
     "symbol": "WXDAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png"
+    "logoURI": "https://tokens.1inch.io/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png",
+    "tag": "recommend"
   },
   {
     "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
@@ -172,7 +177,8 @@
     "name": "Dai Stablecoin from Ethereum",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tag": "recommend"
   },
   {
     "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
@@ -200,7 +206,8 @@
     "name": "ChainLink Token from Ethereum",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "tag": "recommend"
   },
   {
     "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",

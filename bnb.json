@@ -25,28 +25,32 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "tag": "recommend"
   },
   {
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png",
+    "tag": "recommend"
   },
   {
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "name": "Binance-Peg BUSD Token",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/busd.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/busd.png",
+    "tag": "recommend"
   },
   {
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "name": "Wrapped BNB",
     "symbol": "WBNB",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png",
+    "tag": "recommend"
   },
   {
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
@@ -88,7 +92,8 @@
     "name": "PancakeSwap Token",
     "symbol": "CAKE",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cake.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cake.png",
+    "tag": "recommend"
   },
   {
     "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
@@ -102,7 +107,8 @@
     "name": "Space ID",
     "symbol": "ID",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/id.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/id.png",
+    "tag": "recommend"
   },
   {
     "address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
@@ -242,7 +248,8 @@
     "name": "ZEBEC token",
     "symbol": "ZBC",
     "decimals": 9,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zbc.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zbc.png",
+    "tag": "recommend"
   },
   {
     "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
@@ -354,7 +361,8 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/uni.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/uni.png",
+    "tag": "recommend"
   },
   {
     "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
@@ -1187,7 +1195,8 @@
     "name": "Dai Token",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tag": "recommend"
   },
   {
     "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
@@ -2734,7 +2743,8 @@
     "name": "FLOKI",
     "symbol": "FLOKI",
     "decimals": 9,
-    "logoURI": "https://tokens.1inch.io/0xfb5b838b6cfeedc2873ab27866079ac55363d37e_1.png"
+    "logoURI": "https://tokens.1inch.io/0xfb5b838b6cfeedc2873ab27866079ac55363d37e_1.png",
+    "tag": "recommend"
   },
   {
     "address": "0x522348779dcb2911539e76a1042aa922f9c47ee3",
@@ -2972,7 +2982,8 @@
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0.png"
+    "logoURI": "https://tokens.1inch.io/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0.png",
+    "tag": "recommend"
   },
   {
     "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",

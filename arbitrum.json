@@ -19,21 +19,24 @@
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
-    "display": "USDC.e"
+    "display": "USDC.e",
+    "tag": "recommend"
   },
   {
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png",
+    "tag": "recommend"
   },
   {
     "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
     "name": "Arbitrum Token",
     "symbol": "ARB",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/arb.svg"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/arb.svg",
+    "tag": "recommend"
   },
   {
     "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
@@ -145,7 +148,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png"
+    "logoURI": "https://tokens.1inch.io/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png",
+    "tag": "recommend"
   },
   {
     "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
@@ -159,7 +163,8 @@
     "name": "Pendle",
     "symbol": "PENDLE",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.png"
+    "logoURI": "https://tokens.1inch.io/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.png",
+    "tag": "recommend"
   },
   {
     "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
@@ -299,7 +304,8 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
+    "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
+    "tag": "recommend"
   },
   {
     "address": "0x0f61b24272af65eacf6adfe507028957698e032f",
@@ -313,7 +319,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tag": "recommend"
   },
   {
     "address": "0xd5ebd23d5eb968c2efba2b03f27ee61718609a71",
@@ -327,7 +334,8 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png"
+    "logoURI": "https://tokens.1inch.io/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png",
+    "tag": "recommend"
   },
   {
     "address": "0x739ca6d71365a08f584c8fc4e1029045fa8abc4b",
@@ -362,7 +370,8 @@
     "name": "Lido DAO Token",
     "symbol": "LDO",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60.png"
+    "logoURI": "https://tokens.1inch.io/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60.png",
+    "tag": "recommend"
   },
   {
     "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
@@ -411,7 +420,8 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "tag": "recommend"
   },
   {
     "address": "0x99f40b01ba9c469193b360f72740e416b17ac332",
@@ -488,7 +498,8 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png"
+    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
+    "tag": "recommend"
   },
   {
     "address": "0xc628534100180582e43271448098cb2c185795bd",

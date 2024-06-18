@@ -375,7 +375,8 @@
     "name": "Wrapped Fantom",
     "symbol": "WFTM",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png"
+    "logoURI": "https://tokens.1inch.io/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png",
+    "tag": "recommend"
   },
   {
     "address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
@@ -480,21 +481,24 @@
     "name": "AlpacaToken",
     "symbol": "ALPACA",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+    "logoURI": "https://tokens.1inch.io/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png",
+    "tag": "recommend"
   },
   {
     "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
     "name": "Curve DAO",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png"
+    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
+    "tag": "recommend"
   },
   {
     "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
     "name": "Sushi",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
+    "logoURI": "https://tokens.1inch.io/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
+    "tag": "recommend"
   },
   {
     "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
@@ -550,7 +554,8 @@
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png"
+    "logoURI": "https://tokens.1inch.io/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
+    "tag": "recommend"
   },
   {
     "address": "0xf16e81dce15b08f326220742020379b855b87df9",
@@ -627,6 +632,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "tag": "recommend"
   }
 ]
