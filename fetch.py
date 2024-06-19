@@ -49,7 +49,8 @@ NATIVE_COIN_MAP = {
     "gnosis": "xDAI",
     "klay": "KLAY",
     "taiko": "ETH",
-    "areon": "AREA"
+    "areon": "AREA",
+    "manta-pacific": "ETH",
 }
 
 def update_tokens(new_tokens: Mapping[str, List]):
