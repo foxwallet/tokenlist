@@ -3215,5 +3215,19 @@
     "symbol": "USD+",
     "decimals": 6,
     "logoURI": "https://tokens.1inch.io/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.png"
+  },
+  {
+    "address": "0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27",
+    "name": "WHY",
+    "symbol": "WHY",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1771038693320761344/hVRuC91T_400x400.jpg"
+  },
+  {
+    "address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
+    "name": "Catcoin",
+    "symbol": "CAT",
+    "decimals": 9,
+    "logoURI": "https://pbs.twimg.com/profile_images/1641811792199385091/sEA3ZilT_400x400.jpg"
   }
 ]
