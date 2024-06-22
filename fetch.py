@@ -28,30 +28,35 @@ CHAIN_ID_MAP = {
     "80085": "bera-artio",
 }
 
+
 NATIVE_COIN_MAP = {
     "arbitrum": "ETH",
     "avax": "AVAX",
-    "ethereum": "ETH",
-    "optimism": "ETH",
+    "areon": "AREA",
+    "base": "ETH",
     "bnb": "BNB",
-    "polygon": "MATIC",
-    "zksync-era": "ETH",
-    "zeta-evm": "ZETA",
-    "zkfair": "USDC",
+    "blast": "ETH",
     "bera-artio": "BERA",
-    "filecoin-evm": "FIL",
-    "merlin": "BTC",
     "coreum": "COREUM",
     "dym": "DYM",
-    "xlayer": "OKB",
-    "base": "ETH",
+    "ethereum": "ETH",
+    "filecoin-evm": "FIL",
     "fantom": "FTM",
     "gnosis": "xDAI",
     "klay": "KLAY",
-    "taiko": "ETH",
-    "areon": "AREA",
     "manta-pacific": "ETH",
+    "merlin": "BTC",
+    "optimism": "ETH",
+    "polygon": "MATIC",
+    "solana": "SOL",
+    "taiko": "ETH",
+    "xlayer": "OKB",
+    "zeta-evm": "ZETA",
+    "zkfair": "USDC",
+    "zklink": "ETH",
+    "zksync-era": "ETH",
 }
+
 
 def update_tokens(new_tokens: Mapping[str, List]):
     for chain, tokens in new_tokens.items():
@@ -78,6 +83,76 @@ def update_tokens(new_tokens: Mapping[str, List]):
         except BaseException as e:
             print(chain, e)
             continue        
+
+
+def one_inch():
+    result = {}
+    for chain_id in ["1", "10", "56", "100", "137", "250", "324", "8217", "8453", "42161", "43114"]:
+        chain = CHAIN_ID_MAP.get(chain_id)
+        if not chain:
+            continue
+        data = requests.get(f"https://tokens.1inch.io/v1.2/{chain_id}").json()
+        for address, item in data.items():
+            logoURI = item.get("logoURI")
+            if not logoURI:
+                continue
+            token = {
+                "address": address,
+                "name": item["name"],
+                "symbol": item["symbol"],
+                "decimals": item["decimals"],
+                "logoURI": logoURI,
+            }
+            if not chain in result:
+                result[chain] = []
+            result[chain].append(token)
+    update_tokens(result)
+
+
+def uniswap():
+    chain_map = {
+        "mainnet": "ethereum",
+        "optimism": "optimism",
+        "bnb": "bnb",
+        "polygon": "polygon",
+        "arbitrum": "arbitrum",
+    }
+    result = {}
+    for chain, unique_id in chain_map.items():
+        print(chain)
+        url = f"https://raw.githubusercontent.com/Uniswap/default-token-list/main/src/tokens/{chain}.json"
+        data = requests.get(url).json()
+        if unique_id not in result:
+            result[unique_id] = []
+        for token in data:
+            del token["chainId"]
+            result[unique_id].append(token)
+    update_tokens(result)
+
+
+def sushiswap():
+    chain_map = {
+        "filecoin": "filecoin-evm"
+    }
+    result = {}
+    for c in ["filecoin", ]:
+        chain = chain_map.get(c)
+        if not chain:
+            continue
+        data = requests.get(f"https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/{c}.json").json()
+        for item in data:
+            token = {
+                "address": item["address"],
+                "name": item["name"],
+                "symbol": item["symbol"],
+                "decimals": item["decimals"],
+                "logoURI": item["logoURI"],
+            }
+            if chain not in result:
+                result[chain] = []
+            result[chain].append(token)
+    update_tokens(result)
+
 
 def izumi():
     data = requests.get("https://raw.githubusercontent.com/izumiFinance/izumi-tokenList/main/build/tokenList.json").json()
@@ -106,20 +181,27 @@ def izumi():
     update_tokens(result)
 
 
-def bera_artio():
-    data = requests.get("https://raw.githubusercontent.com/berachain/default-token-list/main/src/tokens/testnet/defaultTokenList.json").json()
+def xlayer():
+    unique_id = "xlayer"
     result = {
-        "bera-artio": []
+       unique_id : []
     }
-    for item in data.get("tokens", []):
+    url = "https://rpc.xlayer.tech/priapi/v1/ob/bridge/main-coins/3"
+    data = requests.get(url).json()
+    for item in data.get("data", []):
+        if not item["address"]:
+            continue
+        chainId = item["chainId"]
+        if chainId != "196":
+            continue
         token = {
             "address": item["address"],
             "name": item["name"],
             "symbol": item["symbol"],
-            "decimals": item["decimals"],
-            "logoURI": item["logoURI"],
+            "decimals": int(item["decimals"]),
+            "logoURI": item["logoLink"],
         }
-        result["bera-artio"].append(token)    
+        result[unique_id].append(token)
     update_tokens(result)
 
 
@@ -153,54 +235,6 @@ def coreum():
     update_tokens(result)
 
 
-def one_inch():
-    result = {}
-    for chain_id in ["1", "10", "56", "100", "137", "250", "324", "8217", "8453", "42161", "43114"]:
-        chain = CHAIN_ID_MAP.get(chain_id)
-        if not chain:
-            continue
-        data = requests.get(f"https://tokens.1inch.io/v1.2/{chain_id}").json()
-        for address, item in data.items():
-            logoURI = item.get("logoURI")
-            if not logoURI:
-                continue
-            token = {
-                "address": address,
-                "name": item["name"],
-                "symbol": item["symbol"],
-                "decimals": item["decimals"],
-                "logoURI": logoURI,
-            }
-            if not chain in result:
-                result[chain] = []
-            result[chain].append(token)
-    update_tokens(result)
-
-
-def sushiswap():
-    chain_map = {
-        "filecoin": "filecoin-evm"
-    }
-    result = {}
-    for c in ["filecoin", ]:
-        chain = chain_map.get(c)
-        if not chain:
-            continue
-        data = requests.get(f"https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/{c}.json").json()
-        for item in data:
-            token = {
-                "address": item["address"],
-                "name": item["name"],
-                "symbol": item["symbol"],
-                "decimals": item["decimals"],
-                "logoURI": item["logoURI"],
-            }
-            if chain not in result:
-                result[chain] = []
-            result[chain].append(token)
-    update_tokens(result)
-
-
 def merlinswap():
     result = {
         "merlin": []
@@ -216,51 +250,6 @@ def merlinswap():
             "logoURI": item["icon"],
         }
         result["merlin"].append(token)
-    update_tokens(result)
-
-
-def uniswap():
-    chain_map = {
-        "mainnet": "ethereum",
-        "optimism": "optimism",
-        "bnb": "bnb",
-        "polygon": "polygon",
-        "arbitrum": "arbitrum",
-    }
-    result = {}
-    for chain, unique_id in chain_map.items():
-        print(chain)
-        url = f"https://raw.githubusercontent.com/Uniswap/default-token-list/main/src/tokens/{chain}.json"
-        data = requests.get(url).json()
-        if unique_id not in result:
-            result[unique_id] = []
-        for token in data:
-            del token["chainId"]
-            result[unique_id].append(token)
-    update_tokens(result)
-
-
-def xlayer():
-    unique_id = "xlayer"
-    result = {
-       unique_id : []
-    }
-    url = "https://rpc.xlayer.tech/priapi/v1/ob/bridge/main-coins/3"
-    data = requests.get(url).json()
-    for item in data.get("data", []):
-        if not item["address"]:
-            continue
-        chainId = item["chainId"]
-        if chainId != "196":
-            continue
-        token = {
-            "address": item["address"],
-            "name": item["name"],
-            "symbol": item["symbol"],
-            "decimals": int(item["decimals"]),
-            "logoURI": item["logoLink"],
-        }
-        result[unique_id].append(token)
     update_tokens(result)
 
 

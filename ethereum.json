@@ -9499,7 +9499,8 @@
     "name": "NEAR Protocol",
     "symbol": "NEAR",
     "decimals": 24,
-    "logoURI": "https://tokens.1inch.io/0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4.png"
+    "logoURI": "https://tokens.1inch.io/0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4.png",
+    "tag": "recommend"
   },
   {
     "address": "0xa17581a9e3356d9a858b789d68b4d866e593ae94",
@@ -9943,5 +9944,48 @@
     "symbol": "PDA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14316/standard/PDA-symbol.png?1710234068"
+  },
+  {
+    "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bnb.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "name": "Frax Staked Ether",
+    "symbol": "SFRXETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xac3e018457b222d93114458476f3e3416abbe38f.png"
+  },
+  {
+    "address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
+    "name": "Liquid Staked ETH",
+    "symbol": "LSETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549.png"
+  },
+  {
+    "address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+    "name": "StakeWise Staked ETH",
+    "symbol": "osETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xf1c9acdc66974dfb6decb12aa385b9cd01190e38.png"
+  },
+  {
+    "address": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a",
+    "name": "Azuro",
+    "symbol": "AZUR",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x9e6be44cc1236eef7e1f197418592d363bedcd5a.png"
+  },
+  {
+    "address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg"
   }
 ]

@@ -641,5 +641,12 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29852/standard/photo_2023-04-18_14-25-28.jpg?1696528778",
     "tag": "recommend"
+  },
+  {
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x35751007a407ca6feffe80b3cb397736d2cf4dbe.png"
   }
 ]
