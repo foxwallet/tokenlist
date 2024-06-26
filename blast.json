@@ -49,5 +49,13 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdb.png",
     "tag": "recommend"
+  },
+  {
+    "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "name": "Blast",
+    "symbol": "BLAST",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1726739354700173312/OeT9Ef1J_400x400.jpg",
+    "tag": "recommend"
   }
 ]

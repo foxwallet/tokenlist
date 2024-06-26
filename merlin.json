@@ -330,5 +330,12 @@
     "symbol": "MDBL",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mdbl.png"
+  },
+  {
+    "address": "0x7460c3dfaD7dFcDB366d52707De3026fc4C4aa3b",
+    "name": "Bridged BRC20 xmonk",
+    "symbol": "xmonk",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xmonk.png"
   }
 ]
