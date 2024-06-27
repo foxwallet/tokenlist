@@ -3242,7 +3242,8 @@
     "name": "ARYZE eUSD",
     "symbol": "eUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32422/standard/ARYZE_eUSD.png?1698118313"
+    "logoURI": "https://assets.coingecko.com/coins/images/32422/standard/ARYZE_eUSD.png?1698118313",
+    "tag": "recommend"
   },
   {
     "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
