@@ -29,5 +29,21 @@
     "symbol": "MAGA",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/maga.png"
+  },
+  {
+    "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+    "name": "Bridged USDC (Stargate)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdcstar.png",
+    "tag": "recommend"
   }
 ]

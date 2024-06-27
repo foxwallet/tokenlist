@@ -23,9 +23,11 @@ CHAIN_ID_MAP = {
     "42161": "arbitrum",
     "43114": "avax",
     "42766": "zkfair",
+    "59144": "linea",
     "81457": "blast",
     "167000": "taiko",
     "80085": "bera-artio",
+    "534352": "scroll",
 }
 
 
@@ -44,10 +46,12 @@ NATIVE_COIN_MAP = {
     "fantom": "FTM",
     "gnosis": "xDAI",
     "klay": "KLAY",
+    "linea": "ETH",
     "manta-pacific": "ETH",
     "merlin": "BTC",
     "optimism": "ETH",
     "polygon": "MATIC",
+    "scroll": "ETH",
     "solana": "SOL",
     "taiko": "ETH",
     "xlayer": "OKB",
@@ -57,6 +61,10 @@ NATIVE_COIN_MAP = {
     "zksync-era": "ETH",
 }
 
+proxies = {
+    "http": "http://127.0.0.1:7890",
+    "https": "http://127.0.0.1:7890"
+}
 
 def update_tokens(new_tokens: Mapping[str, List]):
     for chain, tokens in new_tokens.items():
@@ -86,12 +94,15 @@ def update_tokens(new_tokens: Mapping[str, List]):
 
 
 def one_inch():
+    print("start 1inch")
     result = {}
     for chain_id in ["1", "10", "56", "100", "137", "250", "324", "8217", "8453", "42161", "43114"]:
         chain = CHAIN_ID_MAP.get(chain_id)
         if not chain:
             continue
-        data = requests.get(f"https://tokens.1inch.io/v1.2/{chain_id}").json()
+        print("getting chainId", chain_id)
+        data = requests.get(f"https://wallet.foxnb.net/public/wrap_swap/{chain_id}/tokens", proxies=proxies, timeout=25).json()
+        data = data.get("data", {}).get("tokens", {})
         for address, item in data.items():
             logoURI = item.get("logoURI")
             if not logoURI:
@@ -110,18 +121,21 @@ def one_inch():
 
 
 def uniswap():
+    print("start uniswap")
     chain_map = {
+        "arbitrum": "arbitrum",
         "mainnet": "ethereum",
         "optimism": "optimism",
         "bnb": "bnb",
+        "base": "base",
+        "blast": "blast",
         "polygon": "polygon",
-        "arbitrum": "arbitrum",
     }
     result = {}
     for chain, unique_id in chain_map.items():
         print(chain)
         url = f"https://raw.githubusercontent.com/Uniswap/default-token-list/main/src/tokens/{chain}.json"
-        data = requests.get(url).json()
+        data = requests.get(url, proxies=proxies, timeout=5).json()
         if unique_id not in result:
             result[unique_id] = []
         for token in data:
@@ -131,6 +145,7 @@ def uniswap():
 
 
 def sushiswap():
+    print("start sushi")
     chain_map = {
         "filecoin": "filecoin-evm"
     }
@@ -139,7 +154,7 @@ def sushiswap():
         chain = chain_map.get(c)
         if not chain:
             continue
-        data = requests.get(f"https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/{c}.json").json()
+        data = requests.get(f"https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/{c}.json", proxies=proxies, timeout=5).json()
         for item in data:
             token = {
                 "address": item["address"],
@@ -155,7 +170,8 @@ def sushiswap():
 
 
 def izumi():
-    data = requests.get("https://raw.githubusercontent.com/izumiFinance/izumi-tokenList/main/build/tokenList.json").json()
+    print("start izumi")
+    data = requests.get("https://raw.githubusercontent.com/izumiFinance/izumi-tokenList/main/build/tokenList.json", proxies=proxies, timeout=5).json()
     result = {}
     for item in data:
         name = item["name"]
@@ -182,12 +198,13 @@ def izumi():
 
 
 def xlayer():
+    print("start xlayer")
     unique_id = "xlayer"
     result = {
        unique_id : []
     }
     url = "https://rpc.xlayer.tech/priapi/v1/ob/bridge/main-coins/3"
-    data = requests.get(url).json()
+    data = requests.get(url, proxies=proxies, timeout=5).json()
     for item in data.get("data", []):
         if not item["address"]:
             continue
@@ -206,9 +223,9 @@ def xlayer():
 
 
 def coreum():
-    data = requests.get("https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/mainnet/assets.json").json()
-    
-    metadatas = requests.get("https://full-node.mainnet-1.coreum.dev:1317/cosmos/bank/v1beta1/denoms_metadata").json()
+    print("start coreum")
+    data = requests.get("https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/mainnet/assets.json", proxies=proxies).json()
+    metadatas = requests.get("https://full-node.mainnet-1.coreum.dev:1317/cosmos/bank/v1beta1/denoms_metadata", proxies=proxies).json()
     metadata_map = {}
     for item in metadatas["metadatas"]:
         metadata_map[item["base"]] = item
@@ -236,10 +253,11 @@ def coreum():
 
 
 def merlinswap():
+    print("start merlinswap")
     result = {
         "merlin": []
     }
-    data = requests.get("https://raw.githubusercontent.com/MerlinSwap/MerlinSwap-tokenList/main/build/tokenList.json").json()
+    data = requests.get("https://raw.githubusercontent.com/MerlinSwap/MerlinSwap-tokenList/main/build/tokenList.json", proxies=proxies).json()
     for item in data:
         contract = item["contracts"]["4200"]
         token = {
@@ -255,9 +273,9 @@ def merlinswap():
 
 if __name__ == "__main__":
     one_inch()
-    uniswap()
-    sushiswap()
-    izumi()
-    xlayer()
-    coreum()
-    merlinswap()
+    # uniswap()
+    # sushiswap()
+    # izumi()
+    # xlayer()
+    # coreum()
+    # merlinswap()
