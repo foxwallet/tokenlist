@@ -116,5 +116,13 @@
     "symbol": "CAT",
     "decimals": 3,
     "logoURI": "https://pbs.twimg.com/profile_images/1641811792199385091/sEA3ZilT_400x400.jpg"
+  },
+  {
+    "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
+    "name": "TARS AI",
+    "symbol": "TAI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/37538/standard/tars.jpeg?1714701907",
+    "tag": "recommend"
   }
 ]
