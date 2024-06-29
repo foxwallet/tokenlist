@@ -226,5 +226,12 @@
     "symbol": "MIM",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mim.png"
+  },
+  {
+    "address": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1706379006063288321/rwnCvTH2_400x400.jpg"
   }
 ]
