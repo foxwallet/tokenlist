@@ -1973,7 +1973,8 @@
     "name": "BSC Wrapped Jupiter",
     "symbol": "bwJUP",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7.png"
+    "logoURI": "https://tokens.1inch.io/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7.png",
+    "tag": "skip_coinmarket"
   },
   {
     "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",

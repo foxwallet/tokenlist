@@ -8,6 +8,7 @@ type Token = {
     decimals: number;
     logoURI: string;
     display?: string;
-    tag?: "recommend" or other string;
+    tag?: "recommend" | "skip_coinmarket" | string;
+    coingeckoID?: string;
 }
 ```
