@@ -1437,7 +1437,9 @@
     "symbol": "QUICK",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0xb5c064f955d8e7f38fe0460c556a72987494ee17.png",
-    "coingeckoID": "quickswap"
+    "tag": "default",
+    "coingeckoID": "quickswap",
+    "coinmarketcapID": "quickswap-new"
   },
   {
     "address": "0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc",
