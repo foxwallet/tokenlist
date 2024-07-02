@@ -2940,6 +2940,14 @@
     "logoURI": "https://tokens.1inch.io/0x86ed939b500e121c0c5f493f399084db596dad20.png"
   },
   {
+    "address": "0x8069080a922834460C3A092FB2c1510224dc066b",
+    "name": "SpaceChain",
+    "symbol": "SPC",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x86ed939b500e121c0c5f493f399084db596dad20.png",
+    "tag": "skip_coinmarket"
+  },
+  {
     "address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
     "name": "RAMP DEFI",
     "symbol": "RAMP",
