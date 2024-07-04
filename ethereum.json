@@ -9009,7 +9009,7 @@
     "name": "Worldcoin",
     "symbol": "WLD",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1683371529269137409/1VQdZPHJ_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WLD.webp"
   },
   {
     "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
@@ -9944,7 +9944,7 @@
     "name": "Catcoin",
     "symbol": "CAT",
     "decimals": 9,
-    "logoURI": "https://pbs.twimg.com/profile_images/1641811792199385091/sEA3ZilT_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp"
   },
   {
     "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
@@ -10023,6 +10023,6 @@
     "name": "Mog Coin",
     "symbol": "MOG",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1706379006063288321/rwnCvTH2_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp"
   }
 ]

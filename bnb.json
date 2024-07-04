@@ -460,14 +460,14 @@
     "name": "Minu",
     "symbol": "MINU",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1624811471417868288/7_16jx0s_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MINU.webp"
   },
   {
     "address": "0xBd4B29918D92d613B019252091aB0189f354534f",
     "name": "Matsuri Shiba Inu",
     "symbol": "MSHIBA",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1709254941305434113/K-h8QY4z_400x400.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MSHIBA.webp"
   },
   {
     "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
@@ -3201,7 +3201,7 @@
     "name": "QnA3.AI Token",
     "symbol": "GPT",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1670416303360966657/4jzsawPA_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GPT.webp"
   },
   {
     "address": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
@@ -3222,14 +3222,14 @@
     "name": "WHY",
     "symbol": "WHY",
     "decimals": 18,
-    "logoURI": "https://pbs.twimg.com/profile_images/1771038693320761344/hVRuC91T_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WHY.webp"
   },
   {
     "address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
     "name": "Catcoin",
     "symbol": "CAT",
     "decimals": 9,
-    "logoURI": "https://pbs.twimg.com/profile_images/1641811792199385091/sEA3ZilT_400x400.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp"
   },
   {
     "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
