@@ -536,7 +536,7 @@
     "name": "Lido DAO Token",
     "symbol": "LDO",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LDO.webp",
     "tag": "recommend"
   },
   {
