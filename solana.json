@@ -30,7 +30,7 @@
     "name": "USDT",
     "decimals": 6,
     "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "logoURI": "https://wallet.foxnb.net/image/usdt_400x400.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "type": "SPL",
     "tag": "recommend"
   },

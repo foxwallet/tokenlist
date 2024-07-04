@@ -54,7 +54,7 @@
     "name": "TetherToken",
     "symbol": "USDt",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
   },
   {

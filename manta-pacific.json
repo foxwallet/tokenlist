@@ -4,7 +4,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDT.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
   },
   {

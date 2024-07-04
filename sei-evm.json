@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+    "name": "WSEI",
+    "symbol": "WSEI",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1783226809892397056/oV7Dkq37_400x400.jpg",
+    "tag": "recommend"
+  }
+]

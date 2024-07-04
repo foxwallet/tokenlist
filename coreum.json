@@ -72,7 +72,7 @@
   },
   {
     "address": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/usdt.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "name": "USDt",
     "symbol": "USDt",
     "decimals": 6
