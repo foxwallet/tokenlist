@@ -307,5 +307,12 @@
     "symbol": "1INCH",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0xad42d013ac31486b73b6b059e748172994736426.png"
+  },
+  {
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp"
   }
 ]
