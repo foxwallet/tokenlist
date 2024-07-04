@@ -4,7 +4,7 @@
     "name": "Openfabric",
     "symbol": "OFN",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28245.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OFN.webp"
   },
   {
     "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
@@ -3194,7 +3194,7 @@
     "name": "DeFi",
     "symbol": "DEFI",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29200.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DEFI.webp"
   },
   {
     "address": "0x30842a9c941d9DE3AF582c41ad12b11D776ba69e",

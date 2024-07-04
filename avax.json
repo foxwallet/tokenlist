@@ -804,7 +804,7 @@
     "name": "AVAI",
     "symbol": "AVAI",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12500.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AVAI.webp"
   },
   {
     "address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",

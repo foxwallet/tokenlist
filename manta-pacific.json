@@ -4,7 +4,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDT.webp",
     "tag": "recommend"
   },
   {
@@ -12,7 +12,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
     "tag": "recommend"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DAI.webp",
     "tag": "recommend"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/WBTC.webp",
     "tag": "recommend"
   },
   {
@@ -36,21 +36,21 @@
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12409.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/wstETH.webp"
   },
   {
     "address": "0x6E9655611b42C10b9aF25B6ca08bE349Df45c370",
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rETH.webp"
   },
   {
     "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
     "name": "Matic Token",
     "symbol": "MATIC",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MATIC.webp"
   },
   {
     "address": "0x91647632245caBf3d66121F86C387aE0ad295F9A",
@@ -71,7 +71,7 @@
     "name": "Tellor Tributes",
     "symbol": "TRB",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRB.webp"
   },
   {
     "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
@@ -85,7 +85,7 @@
     "name": "QuickSwap",
     "symbol": "QUICK",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/QUICK.webp"
   },
   {
     "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
@@ -99,7 +99,7 @@
     "name": "Pyth Network",
     "symbol": "PYTH",
     "decimals": 6,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PYTH.webp",
     "tag": "recommend"
   },
   {
