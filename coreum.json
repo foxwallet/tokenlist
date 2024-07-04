@@ -8,7 +8,7 @@
   },
   {
     "address": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/noble/images/USDCoin.png",
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": 6,

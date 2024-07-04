@@ -15,14 +15,6 @@
     "tag": "recommend"
   },
   {
-    "address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-    "tag": "recommend"
-  },
-  {
     "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
     "name": "Wrapped BTC",
     "symbol": "WBTC",
@@ -185,7 +177,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdcklaytn.png",
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
     "tag": "recommend"
   },
   {
