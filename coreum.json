@@ -98,40 +98,5 @@
     "name": "XRP",
     "symbol": "XRP",
     "decimals": 6
-  },
-  {
-    "address": "xrpl11278ecf9e-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/solo/images/solo.png",
-    "name": "XRPL11278ECF9E",
-    "symbol": "XRPL11278ECF9E",
-    "decimals": 15
-  },
-  {
-    "address": "xrpl62a8252400-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/els/images/els.png",
-    "name": "XRPL62A8252400",
-    "symbol": "XRPL62A8252400",
-    "decimals": 15
-  },
-  {
-    "address": "xrpla81f3eb9f8-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/vgb/images/vgb.png",
-    "name": "XRPLA81F3EB9F8",
-    "symbol": "XRPLA81F3EB9F8",
-    "decimals": 15
-  },
-  {
-    "address": "xrpl691210a91a-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/eql/images/eql.png",
-    "name": "XRPL691210A91A",
-    "symbol": "XRPL691210A91A",
-    "decimals": 15
-  },
-  {
-    "address": "xrpl2661e5b556-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/oxp/images/oxp.png",
-    "name": "XRPL2661E5B556",
-    "symbol": "XRPL2661E5B556",
-    "decimals": 15
   }
 ]
