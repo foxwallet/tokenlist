@@ -300,5 +300,12 @@
     "symbol": "USDV",
     "decimals": 6,
     "logoURI": "https://tokens.1inch.io/0x323665443cef804a3b5206103304bd4872ea4253.png"
+  },
+  {
+    "address": "0xad42d013ac31486b73b6b059e748172994736426",
+    "name": "1inch",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xad42d013ac31486b73b6b059e748172994736426.png"
   }
 ]
