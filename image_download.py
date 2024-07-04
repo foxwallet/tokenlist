@@ -12,6 +12,8 @@ def run():
         "https": "http://127.0.0.1:7890"
     }
 
+    replace_list = ["https://pbs.twimg.com/", "https://assets.coingecko.com"]
+
     for f in os.listdir("."):
         if not f.endswith(".json"):
             continue
@@ -22,7 +24,12 @@ def run():
                 symbol: str = token.get("display", token["symbol"])
                 symbol = symbol.replace(" ", "_")
                 logoURI: str = token["logoURI"]
-                if not logoURI.startswith("https://pbs.twimg.com/"):
+                need_replace = False
+                for patten in replace_list:
+                    if logoURI.startswith(patten):
+                        need_replace = True
+                        break
+                if not need_replace:
                     continue
                 _, suffix = splitext(basename(urlparse(logoURI).path))
                 if suffix not in [".jpg", ".png", ".jpeg", ".svg"]:

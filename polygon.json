@@ -1558,7 +1558,7 @@
     "name": "Band Protocol",
     "symbol": "BAND",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BAND.webp"
   },
   {
     "name": "Numeraire",
@@ -1586,7 +1586,7 @@
     "name": "yearn finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/YFI.webp"
   },
   {
     "name": "Republic Token",
@@ -1614,7 +1614,7 @@
     "name": "Civic",
     "symbol": "CVC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic.png?1547034556"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CVC.webp"
   },
   {
     "name": "Storj Token",
@@ -1628,7 +1628,7 @@
     "name": "Amp",
     "symbol": "AMP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMP.webp"
   },
   {
     "name": "Gnosis Token",
@@ -1642,21 +1642,21 @@
     "name": "Keep Network",
     "symbol": "KEEP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KEEP.webp"
   },
   {
     "address": "0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ENS.webp"
   },
   {
     "name": "Synth sUSD",
     "address": "0xF81b4Bec6Ca8f9fe7bE01CA734F55B2b6e03A7a0",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sUSD.webp"
   },
   {
     "address": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
@@ -1684,14 +1684,14 @@
     "name": "ARYZE eEUR",
     "symbol": "eEUR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32421/standard/ARYZE_eEUR.png?1698118176"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eEUR.webp"
   },
   {
     "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
     "name": "ARYZE eUSD",
     "symbol": "eUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32422/standard/ARYZE_eUSD.png?1698118313",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eUSD.webp",
     "tag": "recommend"
   },
   {
@@ -1699,6 +1699,6 @@
     "name": "ARYZE eGBP",
     "symbol": "eGBP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32989/standard/ARYZE_eGBP.png?1700099647"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eGBP.webp"
   }
 ]

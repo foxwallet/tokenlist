@@ -121,7 +121,7 @@
     "name": "Tensor",
     "decimals": 9,
     "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
-    "logoURI": "https://assets.coingecko.com/coins/images/35972/standard/tnsr.png?1712687367",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TNSR.webp",
     "type": "SPL",
     "tag": "recommend"
   },
@@ -138,7 +138,7 @@
     "name": "TARS AI",
     "symbol": "TAI",
     "decimals": 9,
-    "logoURI": "https://assets.coingecko.com/coins/images/37538/standard/tars.jpeg?1714701907",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TAI.webp",
     "type": "SPL",
     "tag": "recommend"
   }

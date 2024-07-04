@@ -3236,14 +3236,14 @@
     "name": "ARYZE eEUR",
     "symbol": "eEUR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32421/standard/ARYZE_eEUR.png?1698118176"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eEUR.webp"
   },
   {
     "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
     "name": "ARYZE eUSD",
     "symbol": "eUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32422/standard/ARYZE_eUSD.png?1698118313",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eUSD.webp",
     "tag": "recommend"
   },
   {
@@ -3251,14 +3251,14 @@
     "name": "ARYZE eGBP",
     "symbol": "eGBP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32989/standard/ARYZE_eGBP.png?1700099647"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eGBP.webp"
   },
   {
     "address": "0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46",
     "name": "Lista DAO",
     "symbol": "LISTA",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/38068/standard/lista.png?1716443925",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LISTA.webp",
     "tag": "recommend"
   }
 ]

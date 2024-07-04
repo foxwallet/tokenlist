@@ -4,14 +4,14 @@
     "name": "ARYZE eEUR",
     "symbol": "eEUR",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32421/standard/ARYZE_eEUR.png?1698118176"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eEUR.webp"
   },
   {
     "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
     "name": "ARYZE eUSD",
     "symbol": "eUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32422/standard/ARYZE_eUSD.png?1698118313",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eUSD.webp",
     "tag": "recommend"
   },
   {
@@ -19,7 +19,7 @@
     "name": "ARYZE eGBP",
     "symbol": "eGBP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/32989/standard/ARYZE_eGBP.png?1700099647"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eGBP.webp"
   },
   {
     "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
