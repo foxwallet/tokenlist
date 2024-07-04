@@ -92,7 +92,7 @@
     "name": "Shared-liquidity stETH",
     "symbol": "stETH",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/steth.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stETH.webp"
   },
   {
     "address": "0xbf6F47970276bcbB4E0Ec9dcFd27b16F68b78E74",
