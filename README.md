@@ -11,6 +11,6 @@ type Token = {
     tag?: "recommend" | "skip_coinmarket" | "default";
     coingeckoID?: string;
     coinmarketcapID?: string;
-    type: "ERC20"(default) | "SPL" | "BRC20" | "QBRC20"
+    type?: "ERC20"(default) | "SPL" | "BRC20" | "QBRC20"
 }
 ```
