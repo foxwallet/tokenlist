@@ -7932,5 +7932,22 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp"
+  },
+  {
+    "address": "0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5",
+    "name": "MAGA",
+    "symbol": "MAGA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA.webp",
+    "coinmarketcapID": "maga-ethereum"
+  },
+  {
+    "address": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
+    "name": "MAGA",
+    "symbol": "TRUMP",
+    "display": "MAGA TRUMP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA_TRUMP.webp",
+    "coinmarketcapID": "maga"
   }
 ]
