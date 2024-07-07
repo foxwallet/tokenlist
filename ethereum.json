@@ -7949,5 +7949,12 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA_TRUMP.webp",
     "coinmarketcapID": "maga"
+  },
+  {
+    "address": "0x525574c899a7c877a11865339e57376092168258",
+    "name": "GURU Token",
+    "symbol": "GURU",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x525574c899a7c877a11865339e57376092168258.png"
   }
 ]

@@ -7,12 +7,27 @@
     "logoURI": "https://tokens.1inch.io/0x5c74070fdea071359b86082bd9f9b3deaafbe32b.png"
   },
   {
+    "address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tag": "recommend"
+  },
+  {
     "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
     "name": "Wrapped Klay",
     "symbol": "WKLAY",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0xe4f05a66ec68b54a58b17c22107b02e0232cc817.png",
     "tag": "recommend"
+  },
+  {
+    "address": "0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121",
+    "name": "Wrapped KLAY v10",
+    "symbol": "WKLAY_2",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121.png"
   },
   {
     "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
@@ -23,6 +38,13 @@
     "tag": "recommend"
   },
   {
+    "address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+    "name": "Orbit Bridge Klaytn Wrapped BTC",
+    "symbol": "oWBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c.png"
+  },
+  {
     "address": "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86",
     "name": "Wrapped ETH",
     "symbol": "WETH",
@@ -31,19 +53,11 @@
     "tag": "recommend"
   },
   {
-    "address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
+    "address": "0x55acee547df909cf844e32dd66ee55a6f81dc71b",
+    "name": "Wrapped ETH (Stargate)",
+    "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
-    "tag": "recommend"
-  },
-  {
-    "address": "0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121",
-    "name": "Wrapped KLAY v10",
-    "symbol": "WKLAY_2",
-    "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wethstar.png"
   },
   {
     "address": "0x976232eb7eb92287ff06c5d145bd0d1c033eca58",
@@ -74,13 +88,6 @@
     "logoURI": "https://tokens.1inch.io/0x5096db80b21ef45230c9e423c373f1fc9c0198dd.png"
   },
   {
-    "address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
-    "name": "Orbit Bridge Klaytn Wrapped BTC",
-    "symbol": "oWBTC",
-    "decimals": 8,
-    "logoURI": "https://tokens.1inch.io/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c.png"
-  },
-  {
     "address": "0xcf87f94fd8f6b6f0b479771f10df672f99eada63",
     "name": "ClaimSwap",
     "symbol": "CLA",
@@ -100,13 +107,6 @@
     "symbol": "KOKOA",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f.png"
-  },
-  {
-    "address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
-    "name": "Orbit Bridge Klaytn USD Coin",
-    "symbol": "oUSDC",
-    "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0x754288077d0ff82af7a5317c7cb8c444d421d103.png"
   },
   {
     "address": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
@@ -144,13 +144,6 @@
     "logoURI": "https://tokens.1inch.io/0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654.png"
   },
   {
-    "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
-    "name": "Orbit Bridge Klaytn USD Tether",
-    "symbol": "oUSDT",
-    "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167.png"
-  },
-  {
     "address": "0x27dcd181459bcddc63c37bab1e404a313c0dfd79",
     "name": "Mineral",
     "symbol": "MNR",
@@ -181,19 +174,11 @@
     "tag": "recommend"
   },
   {
-    "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
-    "name": "Tether USD",
-    "symbol": "USDT",
+    "address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
+    "name": "Synapse Bridged USDC",
+    "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
-    "tag": "recommend"
-  },
-  {
-    "address": "0x0f58d0abaae2f586b0d3b6d045305463e89ba603",
-    "name": "KKUL THE PARROT",
-    "symbol": "KKULP",
-    "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/kkulp.png"
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
   },
   {
     "address": "0xe2053bcf56d2030d2470fb454574237cf9ee3d4b",
@@ -203,6 +188,21 @@
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdcstar.png"
   },
   {
+    "address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+    "name": "Orbit Bridge Klaytn USD Coin",
+    "symbol": "oUSDC",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0x754288077d0ff82af7a5317c7cb8c444d421d103.png"
+  },
+  {
+    "address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  },
+  {
     "address": "0x9025095263d1e548dc890a7589a4c78038ac40ab",
     "name": "Tether USD (Stargate)",
     "symbol": "USDT",
@@ -210,11 +210,18 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp"
   },
   {
-    "address": "0x55acee547df909cf844e32dd66ee55a6f81dc71b",
-    "name": "Wrapped ETH (Stargate)",
-    "symbol": "WETH",
+    "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+    "name": "Orbit Bridge Klaytn USD Tether",
+    "symbol": "oUSDT",
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167.png"
+  },
+  {
+    "address": "0x0f58d0abaae2f586b0d3b6d045305463e89ba603",
+    "name": "KKUL THE PARROT",
+    "symbol": "KKULP",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wethstar.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/kkulp.png"
   },
   {
     "address": "0xe3f85b41a284ed965826adc98365e70e67a2f556",
