@@ -192,7 +192,8 @@
     "name": "Decentralized Insurance Protocol on xDai",
     "symbol": "DIP",
     "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/etherisc_28.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DIP.webp",
+    "coinmarketcapID": "etherisc"
   },
   {
     "address": "0x524b969793a64a602342d89bc2789d43a016b13a",

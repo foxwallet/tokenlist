@@ -7956,5 +7956,13 @@
     "symbol": "GURU",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x525574c899a7c877a11865339e57376092168258.png"
+  },
+  {
+    "address": "0xaedf386b755465871ff874e3e37af5976e247064",
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FTN.webp",
+    "coinmarketcapID": "fasttoken"
   }
 ]

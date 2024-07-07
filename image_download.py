@@ -12,7 +12,12 @@ def run():
         "https": "http://127.0.0.1:7890"
     }
 
-    replace_list = ["https://pbs.twimg.com/", "https://assets.coingecko.com", "https://s2.coinmarketcap.com"]
+    replace_list = [
+        "https://pbs.twimg.com/", 
+        "https://assets.coingecko.com", 
+        "https://s2.coinmarketcap.com",
+        "https://silkswap.me"
+    ]
 
     for f in os.listdir("."):
         if not f.endswith(".json"):

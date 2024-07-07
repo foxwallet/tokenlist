@@ -17,6 +17,7 @@ CHAIN_ID_MAP = {
     "463": "areon",
     "1100": "dym",
     "4200": "merlin",
+    "5165": "bahamut",
     "7000": "zeta-evm",
     "8217": "klay",
     "8453": "base",
@@ -59,6 +60,7 @@ NATIVE_COIN_MAP = {
     "zkfair": "USDC",
     "zklink": "ETH",
     "zksync-era": "ETH",
+    "bahamut": "FTN",
 }
 
 proxies = {
@@ -271,6 +273,26 @@ def merlinswap():
     update_tokens(result)
 
 
+def silkswap():
+    print("start silkswap")
+    result = {
+        "bahamut": []
+    }
+    data = requests.get("https://raw.githubusercontent.com/blockstars-tech/silk-swap/main/token-list.json", proxies=proxies).json()
+    for item in data.get("tokens", []):
+        if item["chainId"] != 5165 or "logoURI" not in item:
+            continue
+        token = {
+            "address": item["address"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": item["decimals"],
+            "logoURI": item["logoURI"],
+        }
+        result["bahamut"].append(token)
+    update_tokens(result)
+
+
 if __name__ == "__main__":
     one_inch()
     uniswap()
@@ -279,3 +301,4 @@ if __name__ == "__main__":
     xlayer()
     coreum()
     merlinswap()
+    silkswap()
