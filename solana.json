@@ -14,7 +14,8 @@
     "decimals": 6,
     "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "logoURI": "https://wallet.foxnb.net/addresss/cryptologos/SRM.webp",
-    "type": "SPL"
+    "type": "SPL",
+    "coinmarketcapID": "serum"
   },
   {
     "symbol": "USDC",
@@ -90,7 +91,8 @@
     "decimals": 9,
     "address": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
     "logoURI": "https://wallet.foxnb.net/addresss/solana/a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp.png",
-    "type": "SPL"
+    "type": "SPL",
+    "coinmarketcapID": "allbridge"
   },
   {
     "symbol": "SLND",
@@ -106,7 +108,8 @@
     "decimals": 9,
     "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
-    "type": "SPL"
+    "type": "SPL",
+    "coinmarketcapID": "mnde"
   },
   {
     "symbol": "ORCA",
@@ -114,7 +117,8 @@
     "decimals": 6,
     "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png",
-    "type": "SPL"
+    "type": "SPL",
+    "coinmarketcapID": "orca"
   },
   {
     "symbol": "TNSR",
@@ -131,7 +135,8 @@
     "symbol": "CAT",
     "decimals": 3,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp",
-    "type": "SPL"
+    "type": "SPL",
+    "coinmarketcapID": "catcoin"
   },
   {
     "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",

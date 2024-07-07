@@ -104,6 +104,7 @@
     "name": "Runes Bridge Token",
     "symbol": "RB",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rb.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rb.png",
+    "coinmarketcapID": "runesbridge"
   }
 ]

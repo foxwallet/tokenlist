@@ -7824,14 +7824,16 @@
     "name": "Catcoin",
     "symbol": "CAT",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp",
+    "coinmarketcapID": "catcoin"
   },
   {
     "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
     "name": "PlayDapp",
     "symbol": "PDA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PDA.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PDA.webp",
+    "coinmarketcapID": "playdapp"
   },
   {
     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
@@ -7903,7 +7905,8 @@
     "name": "Mog Coin",
     "symbol": "MOG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp",
+    "coinmarketcapID": "mog-coin"
   },
   {
     "address": "0x7051faed0775f664a0286af4f75ef5ed74e02754",

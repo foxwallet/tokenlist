@@ -16,7 +16,8 @@ def run():
         "https://pbs.twimg.com/", 
         "https://assets.coingecko.com", 
         "https://s2.coinmarketcap.com",
-        "https://silkswap.me"
+        "https://silkswap.me",
+        "https://minerva.digital"
     ]
 
     for f in os.listdir("."):

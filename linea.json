@@ -123,7 +123,8 @@
     "name": "Foxy Token",
     "symbol": "FOXY",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/foxy.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/foxy.png",
+    "coinmarketcapID": "foxy"
   },
   {
     "address": "0xB97F21D1f2508fF5c73E7B5AF02847640B1ff75d",
@@ -137,7 +138,8 @@
     "name": "ZeroLend Token",
     "symbol": "ZERO",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zero.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zero.png",
+    "coinmarketcapID": "zerolend"
   },
   {
     "address": "0x3cDEF3c187B271D8c2D71091d3a6506bC929f8B9",

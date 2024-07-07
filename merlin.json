@@ -132,14 +132,16 @@
     "symbol": "M-BTC",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
-    "tag": "recommend"
+    "tag": "recommend",
+    "coinmarketcapID": "bitcoin"
   },
   {
     "address": "0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71",
     "name": "Solv BTC",
     "symbol": "SolvBTC",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png",
+    "coinmarketcapID": "bitcoin"
   },
   {
     "address": "0xbd40c74cb5cf9f9252B3298230Cb916d80430bBa",
@@ -185,7 +187,8 @@
     "symbol": "M-ordi",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mordi.png",
-    "tag": "recommend"
+    "tag": "recommend",
+    "coinmarketcapID": "ordi"
   },
   {
     "address": "0x9bd60d6FC99843207B8149f9190438C1F81BDdcD",
@@ -264,7 +267,8 @@
     "symbol": "MERL",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merl.png",
-    "tag": "recommend"
+    "tag": "recommend",
+    "coinmarketcapID": "merlin-chain"
   },
   {
     "address": "0x4dbe39D987665d0CB9F921B50B2673346b87cAfA",

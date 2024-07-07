@@ -13,6 +13,7 @@
     "symbol": "WSEI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WSEI.webp",
-    "tag": "recommend"
+    "tag": "recommend",
+    "coinmarketcapID": "sei"
   }
 ]

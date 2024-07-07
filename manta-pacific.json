@@ -71,7 +71,8 @@
     "name": "Tellor Tributes",
     "symbol": "TRB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRB.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRB.webp",
+    "coinmarketcapID": "tellor"
   },
   {
     "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
