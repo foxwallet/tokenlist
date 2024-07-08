@@ -17,7 +17,8 @@ def run():
         "https://assets.coingecko.com", 
         "https://s2.coinmarketcap.com",
         "https://silkswap.me",
-        "https://minerva.digital"
+        "https://minerva.digital",
+        "https://basescan.org/"
     ]
 
     for f in os.listdir("."):

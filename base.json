@@ -256,7 +256,7 @@
     "name": "Seamlesss",
     "symbol": "SEAM",
     "decimals": 18,
-    "logoURI": "https://basescan.org/token/images/seamless_32.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SEAM.webp"
   },
   {
     "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
