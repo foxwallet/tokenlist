@@ -193,7 +193,7 @@
     "symbol": "DIP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DIP.webp",
-    "coinmarketcapID": "etherisc"
+    "cmcID": "etherisc"
   },
   {
     "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
@@ -223,7 +223,7 @@
     "symbol": "MIVA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MIVA.webp",
-    "coinmarketcapID": "minerva-wallet"
+    "cmcID": "minerva-wallet"
   },
   {
     "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",

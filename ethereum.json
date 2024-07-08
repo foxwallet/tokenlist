@@ -7825,7 +7825,7 @@
     "symbol": "CAT",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp",
-    "coinmarketcapID": "catcoin"
+    "cmcID": "catcoin"
   },
   {
     "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
@@ -7833,7 +7833,7 @@
     "symbol": "PDA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PDA.webp",
-    "coinmarketcapID": "playdapp"
+    "cmcID": "playdapp"
   },
   {
     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
@@ -7906,7 +7906,7 @@
     "symbol": "MOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp",
-    "coinmarketcapID": "mog-coin"
+    "cmcID": "mog-coin"
   },
   {
     "address": "0x7051faed0775f664a0286af4f75ef5ed74e02754",
@@ -7942,7 +7942,7 @@
     "symbol": "MAGA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA.webp",
-    "coinmarketcapID": "maga-ethereum"
+    "cmcID": "maga-ethereum"
   },
   {
     "address": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
@@ -7951,7 +7951,7 @@
     "display": "MAGA TRUMP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA_TRUMP.webp",
-    "coinmarketcapID": "maga"
+    "cmcID": "maga"
   },
   {
     "address": "0x525574c899a7c877a11865339e57376092168258",
@@ -7966,6 +7966,6 @@
     "symbol": "FTN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FTN.webp",
-    "coinmarketcapID": "fasttoken"
+    "cmcID": "fasttoken"
   }
 ]

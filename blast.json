@@ -6,7 +6,7 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WETH.png",
     "tag": "recommend",
-    "coinmarketcapID": "ethereum"
+    "cmcID": "ethereum"
   },
   {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
@@ -58,6 +58,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BLAST.webp",
     "tag": "recommend",
-    "coinmarketcapID": "blast"
+    "cmcID": "blast"
   }
 ]

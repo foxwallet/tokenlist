@@ -45,7 +45,7 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/op.png",
     "tag": "recommend",
-    "coinmarketcapID": "optimism-ethereum"
+    "cmcID": "optimism-ethereum"
   },
   {
     "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
@@ -53,7 +53,7 @@
     "symbol": "SNX",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
-    "coinmarketcapID": "synthetix"
+    "cmcID": "synthetix"
   },
   {
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",

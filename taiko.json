@@ -29,7 +29,7 @@
     "symbol": "MAGA",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/maga.png",
-    "coinmarketcapID": "maga-ethereum"
+    "cmcID": "maga-ethereum"
   },
   {
     "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
