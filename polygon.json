@@ -292,7 +292,7 @@
     "name": "Flare Token",
     "symbol": "1FLR",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x5f0197ba06860dac7e31258bdf749f92b6a636d4.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/1FLR.webp"
   },
   {
     "address": "0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d",
@@ -1219,7 +1219,8 @@
     "name": "GAMEE",
     "symbol": "GMEE",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xcf32822ff397ef82425153a9dcb726e5ff61dca7.png"
+    "logoURI": "https://tokens.1inch.io/0xcf32822ff397ef82425153a9dcb726e5ff61dca7.png",
+    "tag": "skip_coinmarket"
   },
   {
     "address": "0xe7804d91dfcde7f776c90043e03eaa6df87e6395",

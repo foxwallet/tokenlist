@@ -237,7 +237,7 @@
     "name": "Raid Guild Token from Ethereum",
     "symbol": "RAID",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RAID.webp"
   },
   {
     "address": "0x4b1e2c2762667331bc91648052f646d1b0d35984",

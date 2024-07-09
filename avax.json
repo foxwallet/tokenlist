@@ -4,7 +4,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp",
     "display": "USDC.e"
   },
   {
@@ -52,7 +52,7 @@
   {
     "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
     "name": "TetherToken",
-    "symbol": "USDt",
+    "symbol": "USDT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
@@ -332,7 +332,7 @@
     "name": "Tether USD",
     "symbol": "USDT.e",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xc7198437980c041c805a1edcba50c1ce5db95118.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
   },
   {

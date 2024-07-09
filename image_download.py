@@ -18,7 +18,8 @@ def run():
         "https://s2.coinmarketcap.com",
         "https://silkswap.me",
         "https://minerva.digital",
-        "https://basescan.org/"
+        "https://basescan.org/",
+        "https://img.cryptorank.io",
     ]
 
     for f in os.listdir("."):
@@ -39,7 +40,7 @@ def run():
                 if not need_replace:
                     continue
                 _, suffix = splitext(basename(urlparse(logoURI).path))
-                if suffix not in [".jpg", ".png", ".jpeg", ".svg"]:
+                if suffix not in [".jpg", ".png", ".jpeg", ".svg", ".webp"]:
                     continue
                 filename = f"./img/{symbol}{suffix}"
                 webpname = f"./img/{symbol}.webp"

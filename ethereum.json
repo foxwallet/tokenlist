@@ -417,7 +417,7 @@
     "name": "Radio Caca V2",
     "symbol": "RACA",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x12bb890508c125661e03b09ec06e404bc9289040.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RACA.webp"
   },
   {
     "address": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
@@ -7771,9 +7771,9 @@
   {
     "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
     "name": "pufETH",
-    "symbol": "PUFETH",
+    "symbol": "pufETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xd9a442856c234a39a81a089c06451ebaa4306a72.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/pufETH.webp"
   },
   {
     "address": "0xb528edbef013aff855ac3c50b381f253af13b997",
@@ -7967,5 +7967,12 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FTN.webp",
     "cmcID": "fasttoken"
+  },
+  {
+    "address": "0x236501327e701692a281934230AF0b6BE8Df3353",
+    "name": "Fluence",
+    "symbol": "FLT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLT.webp"
   }
 ]
