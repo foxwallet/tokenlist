@@ -655,5 +655,19 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp"
+  },
+  {
+    "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "name": "Gho Token",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33.png"
+  },
+  {
+    "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
   }
 ]

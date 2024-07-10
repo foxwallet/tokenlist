@@ -7974,5 +7974,19 @@
     "symbol": "FLT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLT.webp"
+  },
+  {
+    "address": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
+    "name": "Pirate Nation",
+    "symbol": "PIRATE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PIRATE.webp"
+  },
+  {
+    "address": "0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
   }
 ]

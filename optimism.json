@@ -316,5 +316,12 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp"
+  },
+  {
+    "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
   }
 ]

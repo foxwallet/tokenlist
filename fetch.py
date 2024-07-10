@@ -142,6 +142,8 @@ def uniswap():
             result[unique_id] = []
         for token in data:
             del token["chainId"]
+            if "extensions" in token:
+                del token["extensions"]
             result[unique_id].append(token)
     update_tokens(result)
 

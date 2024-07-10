@@ -3283,5 +3283,12 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GHX.webp",
     "cmcID": "gamercoin"
+  },
+  {
+    "address": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
   }
 ]
