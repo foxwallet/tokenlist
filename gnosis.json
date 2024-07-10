@@ -4,70 +4,70 @@
     "name": "CoW Protocol Token from Mainnet",
     "symbol": "COW",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x177127622c4a00f3d409b75571e12cb3c8973d3c.png"
   },
   {
     "address": "0x7349c9eaa538e118725a6130e0f8341509b9f8a0",
     "name": "RMM yield generating WXDAI",
     "symbol": "armmWXDAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x7349c9eaa538e118725a6130e0f8341509b9f8a0.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x7349c9eaa538e118725a6130e0f8341509b9f8a0.png"
   },
   {
     "address": "0x2cfab362fdb1e8c7d58659d0c6b04f575eaaba25",
     "name": "RMM yield generating WETH",
     "symbol": "armmWETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x2cfab362fdb1e8c7d58659d0c6b04f575eaaba25.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x2cfab362fdb1e8c7d58659d0c6b04f575eaaba25.png"
   },
   {
     "address": "0x890ab77c02c2e85e78c05bbb431b46bab0bee220",
     "name": "RMM yield generating WBTC",
     "symbol": "armmWBTC",
     "decimals": 8,
-    "logoURI": "https://tokens.1inch.io/0x890ab77c02c2e85e78c05bbb431b46bab0bee220.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x890ab77c02c2e85e78c05bbb431b46bab0bee220.png"
   },
   {
     "address": "0xa0c95bebe678eeed33a51dc24acf60fd1900552a",
     "name": "RMM yield generating USDT",
     "symbol": "armmUSDT",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0xa0c95bebe678eeed33a51dc24acf60fd1900552a.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xa0c95bebe678eeed33a51dc24acf60fd1900552a.png"
   },
   {
     "address": "0x05d909006cd38ba9e73db72c083081726b67971d",
     "name": "RMM yield generating USDC",
     "symbol": "armmUSDC",
     "decimals": 6,
-    "logoURI": "https://tokens.1inch.io/0x05d909006cd38ba9e73db72c083081726b67971d.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x05d909006cd38ba9e73db72c083081726b67971d.png"
   },
   {
     "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
     "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
     "symbol": "wstETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6.png"
   },
   {
     "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
     "name": "Monerium EUR emoney",
     "symbol": "EURe",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xcb444e90d8198415266c6a2724b7900fb12fc56e.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xcb444e90d8198415266c6a2724b7900fb12fc56e.png"
   },
   {
     "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
     "name": "DXdao from Ethereum",
     "symbol": "DXD",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xa1d65e8fb6e87b60feccbc582f7f97804b725521.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xa1d65e8fb6e87b60feccbc582f7f97804b725521.png"
   },
   {
     "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
     "name": "FOX from Ethereum",
     "symbol": "FOX",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc770eefad204b5180df6a14ee197d99d808ee52d.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xc770eefad204b5180df6a14ee197d99d808ee52d.png"
   },
   {
     "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
@@ -81,7 +81,7 @@
     "name": "Gnosis from Ethereum",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6810e776880c02933d47db1b9fc05908e5386b96.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x6810e776880c02933d47db1b9fc05908e5386b96.png"
   },
   {
     "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
@@ -111,7 +111,7 @@
     "name": "Wrapped BTC on xDai",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "logoURI": "https://tokens-data.1inch.io/images/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
     "tag": "recommend"
   },
   {
@@ -119,7 +119,7 @@
     "name": "Wrapped Ether from Ethereum",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "logoURI": "https://tokens-data.1inch.io/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
     "tag": "recommend"
   },
   {
@@ -127,7 +127,7 @@
     "name": "Wrapped XDAI",
     "symbol": "WXDAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png",
+    "logoURI": "https://tokens-data.1inch.io/images/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png",
     "tag": "recommend"
   },
   {
@@ -142,14 +142,14 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png"
   },
   {
     "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
     "name": "Stake Token on xDai",
     "symbol": "STAKE",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x0ae055097c6d159879521c384f1d2123d1f195e6.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x0ae055097c6d159879521c384f1d2123d1f195e6.png"
   },
   {
     "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
@@ -170,14 +170,14 @@
     "name": "BUSD Token from BSC",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x4fabb145d64652a948d72533023f6e7a623c7c53.png"
   },
   {
     "address": "0x44fa8e6f47987339850636f88629646662444217",
     "name": "Dai Stablecoin from Ethereum",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "logoURI": "https://tokens-data.1inch.io/images/0x6b175474e89094c44da98b954eedeac495271d0f.png",
     "tag": "recommend"
   },
   {
@@ -185,7 +185,7 @@
     "name": "Streamr DATA on xDai",
     "symbol": "DATA",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x8f693ca8d21b157107184d29d398a8d082b38b76.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x8f693ca8d21b157107184d29d398a8d082b38b76.png"
   },
   {
     "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
@@ -200,14 +200,14 @@
     "name": "Donut on xDai",
     "symbol": "DONUT",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9.png"
   },
   {
     "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
     "name": "ChainLink Token from Ethereum",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "logoURI": "https://tokens-data.1inch.io/images/0x514910771af9ca656af840dff83e8264ecf986ca.png",
     "tag": "recommend"
   },
   {
@@ -230,7 +230,7 @@
     "name": "Pinakion on xDai",
     "symbol": "PNK",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d.png"
   },
   {
     "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
@@ -244,34 +244,34 @@
     "name": "EURA (previously agEUR)",
     "symbol": "EURA",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x4b1e2c2762667331bc91648052f646d1b0d35984.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x4b1e2c2762667331bc91648052f646d1b0d35984.png"
   },
   {
     "address": "0xed538cc614208f66ac1c087fb4fa37532d47a5b6",
     "name": "Citrus WXDAI on RMM Vault",
     "symbol": "crmmWXDAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xed538cc614208f66ac1c087fb4fa37532d47a5b6.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xed538cc614208f66ac1c087fb4fa37532d47a5b6.png"
   },
   {
     "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
     "name": "Savings xDAI",
     "symbol": "sDAI",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xaf204776c7245bf4147c2612bf6e5972ee483701.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xaf204776c7245bf4147c2612bf6e5972ee483701.png"
   },
   {
     "address": "0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f",
     "name": "Autonolas from Mainnet",
     "symbol": "OLAS",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xce11e14225575945b8e6dc0d4f2dd4c570f79d9f.png"
   },
   {
     "address": "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce",
     "name": "RealToken Ecosystem Governance",
     "symbol": "REG",
     "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xe5f7ef61443fc36ae040650aa585b0395aef77c8.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xe5f7ef61443fc36ae040650aa585b0395aef77c8.png"
   }
 ]
