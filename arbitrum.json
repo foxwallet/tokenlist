@@ -463,7 +463,7 @@
     "name": "CelerToken",
     "symbol": "CELR",
     "decimals": 18,
-    "logoURI": "https://zapper.fi/images/CELR-icon.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CELR.webp"
   },
   {
     "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",

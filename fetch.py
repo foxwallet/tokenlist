@@ -68,6 +68,12 @@ proxies = {
     "https": "http://127.0.0.1:7890"
 }
 
+skip_addrs = set()
+with open("./skiplist.txt", "r") as skipReader:
+    for addr in skipReader:
+        skip_addrs.add(addr.strip().lower())
+
+
 def update_tokens(new_tokens: Mapping[str, List]):
     for chain, tokens in new_tokens.items():
         origin_tokens = []
@@ -85,6 +91,8 @@ def update_tokens(new_tokens: Mapping[str, List]):
                 if t["address"].lower() in origin_addrs:
                     continue
                 if len(t["symbol"]) >= 10:
+                    continue
+                if t["address"].lower() in skip_addrs:
                     continue
                 new_tokens.append(t)
             new_tokens = list(filter(lambda t: t.get("symbol", None) != NATIVE_COIN_MAP.get(chain, ""), new_tokens))

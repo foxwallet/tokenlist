@@ -40,7 +40,7 @@
     "name": "soETH",
     "decimals": 6,
     "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/soETH.webp",
     "type": "SPL"
   },
   {
@@ -48,7 +48,7 @@
     "name": "RAY",
     "decimals": 6,
     "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RAY.webp",
     "type": "SPL"
   },
   {
@@ -74,7 +74,7 @@
     "name": "ATLAS",
     "decimals": 8,
     "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ATLAS.webp",
     "type": "SPL"
   },
   {
@@ -82,7 +82,7 @@
     "name": "MNGO",
     "decimals": 6,
     "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac/address.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MNGO.webp",
     "type": "SPL"
   },
   {
@@ -99,7 +99,7 @@
     "name": "SLND",
     "decimals": 6,
     "address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SLND.webp",
     "type": "SPL"
   },
   {
@@ -107,7 +107,7 @@
     "name": "MNDE",
     "decimals": 9,
     "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MNDE.webp",
     "type": "SPL",
     "cmcID": "mnde"
   },
@@ -116,7 +116,7 @@
     "name": "ORCA",
     "decimals": 6,
     "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/address-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ORCA.webp",
     "type": "SPL",
     "cmcID": "orca"
   },

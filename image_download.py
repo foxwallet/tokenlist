@@ -7,12 +7,13 @@ from os.path import basename, splitext
 from PIL import Image
 
 
-def run():
-    proxies = {
-        "http": "http://127.0.0.1:7890",
-        "https": "http://127.0.0.1:7890"
-    }
+proxies = {
+    "http": "http://127.0.0.1:7890",
+    "https": "http://127.0.0.1:7890"
+}
 
+
+def download():
     replace_list = [
         r"^https://pbs\.twimg\.com", 
         r"^https://assets\.coingecko\.com", 
@@ -22,6 +23,8 @@ def run():
         r"^https://basescan\.org",
         r"^https://img\.cryptorank.io",
         r"^https://img\.cryptorank.io",
+        r"^https://raw\.githubusercontent\.com/1Hive/",
+        r"^https://raw\.githubusercontent\.com/solana-labs"
     ]
 
     for f in os.listdir("."):
@@ -62,6 +65,8 @@ def run():
                     except BaseException as e:
                         print(f"cannot download image for {token['address']} due to {e}")  
                         continue  
+                else:
+                    print(f"reuse {symbol}.webp")
                 tokens[index]["logoURI"] = f"https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/{symbol}.webp"
                 need_update = True
         if need_update:
@@ -69,5 +74,33 @@ def run():
                 json.dump(tokens, writer, indent=2) 
             print("updated", f)
 
+
+def is_image_url_valid(url):
+    try:
+        response = requests.head(url, proxies=proxies)
+        if 200 <= response.status_code < 300:
+            return True 
+        return False
+    except requests.RequestException as e:
+        return False
+
+
+def check_dead_link():
+    for f in os.listdir("."):
+        if not f.endswith(".json"):
+            continue
+        print(f"working on {f}")
+        with open(f, "r") as reader:
+            tokens = json.load(reader)
+            for token in tokens:
+                logoURI: str = token["logoURI"]
+                if logoURI.startswith("https://tokens-data.1inch.io"):
+                    continue
+                if not is_image_url_valid(logoURI):
+                    print(f"{logoURI} is dead")
+
+
+
 if __name__ == "__main__":
-    run()
+    download()
+    # check_dead_link()

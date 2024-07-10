@@ -135,7 +135,7 @@
     "name": "xDai Native Comb",
     "symbol": "xCOMB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/xCOMB.webp"
   },
   {
     "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
@@ -156,14 +156,14 @@
     "name": "Agave",
     "symbol": "AGVE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AGVE.webp"
   },
   {
     "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
     "name": "Bright from Ethereum",
     "symbol": "BRIGHT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BRIGHT.webp"
   },
   {
     "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
@@ -215,7 +215,7 @@
     "name": "Honey",
     "symbol": "HNY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HNY.webp"
   },
   {
     "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
