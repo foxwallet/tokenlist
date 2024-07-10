@@ -213,7 +213,7 @@
     "name": "iZUMi Token",
     "symbol": "iZi",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iZi.webp"
   },
   {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
@@ -242,7 +242,7 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg"
+    "logoURI": "https://tokens.1inch.io/0xc00e94cb662c3520282e6f5717214004a7f26888.png"
   },
   {
     "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",

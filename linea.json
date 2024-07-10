@@ -26,7 +26,7 @@
     "name": "iZUMi Token",
     "symbol": "iZi",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iZi.webp"
   },
   {
     "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
@@ -94,7 +94,7 @@
     "name": "Merlin BTC",
     "symbol": "M-BTC",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/M-BTC.webp"
   },
   {
     "address": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",

@@ -131,7 +131,7 @@
     "name": "Merlin's Seal BTC",
     "symbol": "M-BTC",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/M-BTC.webp",
     "tag": "recommend",
     "cmcID": "bitcoin"
   },
@@ -155,7 +155,7 @@
     "name": "Merlin's Seal USDC",
     "symbol": "M-USDC",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdc.svg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp",
     "tag": "recommend"
   },
   {
@@ -163,7 +163,7 @@
     "name": "Merlin's Seal USDT",
     "symbol": "M-USDT",
     "decimals": 6,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/musdt.svg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
   },
   {
@@ -195,7 +195,7 @@
     "name": "Bridged BRC20 RUFI",
     "symbol": "RUFI",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rufi.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RUFI.webp"
   },
   {
     "address": "0x27622B326Ff3ffa7dc10AE291800c3073b55AA39",
@@ -238,7 +238,9 @@
     "name": "Influpia Token",
     "symbol": "ING",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ing.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ING.webp",
+    "coingeckoID": "influpia",
+    "tag": "skip_coinmarket"
   },
   {
     "address": "0xbf108e20fd47995b2b1a316db76c1c145e5bdeac",

@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import re
 from urllib.parse import urlparse
 from os.path import basename, splitext
 from PIL import Image
@@ -13,13 +14,14 @@ def run():
     }
 
     replace_list = [
-        "https://pbs.twimg.com/", 
-        "https://assets.coingecko.com", 
-        "https://s2.coinmarketcap.com",
-        "https://silkswap.me",
-        "https://minerva.digital",
-        "https://basescan.org/",
-        "https://img.cryptorank.io",
+        r"^https://pbs\.twimg\.com", 
+        r"^https://assets\.coingecko\.com", 
+        r"^https://s2\.coinmarketcap\.com",
+        r"^https://silkswap\.me",
+        r"^https://minerva\.digital",
+        r"^https://basescan\.org",
+        r"^https://img\.cryptorank.io",
+        r"^https://img\.cryptorank.io",
     ]
 
     for f in os.listdir("."):
@@ -34,13 +36,15 @@ def run():
                 logoURI: str = token["logoURI"]
                 need_replace = False
                 for patten in replace_list:
-                    if logoURI.startswith(patten):
+                    if re.search(patten, logoURI):
                         need_replace = True
                         break
                 if not need_replace:
                     continue
+                if "assets.coingecko.com" in logoURI:
+                    logoURI = logoURI.replace("/standard/", "/large/")
                 _, suffix = splitext(basename(urlparse(logoURI).path))
-                if suffix not in [".jpg", ".png", ".jpeg", ".svg", ".webp"]:
+                if suffix not in [".jpg", ".png", ".jpeg", ".webp"]:
                     continue
                 filename = f"./img/{symbol}{suffix}"
                 webpname = f"./img/{symbol}.webp"

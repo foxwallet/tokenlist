@@ -4,7 +4,7 @@
     "name": "iZUMi Token",
     "symbol": "iZi",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iZi.webp"
   },
   {
     "address": "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
@@ -69,7 +69,7 @@
     "name": "Staked ZETA",
     "symbol": "stZETA",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stzeta.svg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stZETA.webp"
   },
   {
     "address": "0x7a677e59dC2C8a42d6aF3a62748c5595034A008b",
@@ -90,7 +90,7 @@
     "name": "Accumulated Finance stZETA",
     "symbol": "stZETA",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/stzetaaf.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stZETA.webp"
   },
   {
     "address": "0x5d8dc3b34d7b07bb09495c480ad629900c0a2e02",

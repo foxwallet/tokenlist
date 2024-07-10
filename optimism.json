@@ -52,7 +52,7 @@
     "name": "Synthetix",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/SNX.svg",
+    "logoURI": "https://tokens.1inch.io/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png",
     "cmcID": "synthetix"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Dai stable coin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=010",
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
     "tag": "recommend"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://ethereum-optimism.github.io/logos/WBTC.svg",
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WBTC.png",
     "tag": "recommend"
   },
   {
