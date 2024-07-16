@@ -530,7 +530,8 @@
     "name": "Kommunitas",
     "symbol": "KOM",
     "decimals": 8,
-    "logoURI": "https://tokens-data.1inch.io/images/0xc004e2318722ea2b15499d6375905d75ee5390b8.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xc004e2318722ea2b15499d6375905d75ee5390b8.png",
+    "priceSource": "cmc:kommunitas"
   },
   {
     "address": "0x42d61d766b85431666b39b89c43011f24451bff6",
@@ -925,7 +926,9 @@
     "name": "Wrapped UST Token (PoS)",
     "symbol": "UST",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x692597b009d13c4049a947cab2239b7d6517875f.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x692597b009d13c4049a947cab2239b7d6517875f.png",
+    "display": "USTC",
+    "priceSource": "cmc:terrausd"
   },
   {
     "address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
@@ -1221,7 +1224,7 @@
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0xcf32822ff397ef82425153a9dcb726e5ff61dca7.png",
     "tag": "default",
-    "priceSource": "static:0"
+    "priceSource": "1inch"
   },
   {
     "address": "0xe7804d91dfcde7f776c90043e03eaa6df87e6395",

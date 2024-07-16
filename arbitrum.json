@@ -156,7 +156,8 @@
     "name": "JoeToken",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png",
+    "priceSource": "cmc:joe"
   },
   {
     "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",

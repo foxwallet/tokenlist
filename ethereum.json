@@ -3072,7 +3072,9 @@
     "name": "Wrapped UST Token",
     "symbol": "UST",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xa47c8bf37f92abed4a126bda807a7b7498661acd.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xa47c8bf37f92abed4a126bda807a7b7498661acd.png",
+    "display": "USTC",
+    "priceSource": "cmc:terrausd"
   },
   {
     "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
@@ -5737,7 +5739,8 @@
     "name": "GAMEE",
     "symbol": "GMEE",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373.png",
+    "priceSource": "cmc:gamee"
   },
   {
     "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
@@ -7340,7 +7343,8 @@
     "name": "ClosedAI",
     "symbol": "ClosedAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ClosedAI.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ClosedAI.webp",
+    "priceSource": "1inch"
   },
   {
     "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",

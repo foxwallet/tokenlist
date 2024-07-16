@@ -102,7 +102,8 @@
     "symbol": "SolvBTC.m",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "lifi"
   },
   {
     "address": "0x2416092f143378750bb29b79ed961ab195cceea5",

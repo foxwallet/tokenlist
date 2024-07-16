@@ -691,7 +691,8 @@
     "name": "PNL",
     "symbol": "TruePNL",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xb346c52874c7023df183068c39478c3b7b2515bc.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xb346c52874c7023df183068c39478c3b7b2515bc.png",
+    "priceSource": "cmc:truepnl"
   },
   {
     "address": "0xa83bfcf9e252adf1f39937984a4e113eda6e445b",
@@ -1171,10 +1172,12 @@
   },
   {
     "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-    "name": "Wrapped UST Token",
+    "name": "Wrapped USTC Token",
     "symbol": "UST",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xa47c8bf37f92abed4a126bda807a7b7498661acd.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xa47c8bf37f92abed4a126bda807a7b7498661acd.png",
+    "display": "USTC",
+    "priceSource": "cmc:terrausd"
   },
   {
     "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
@@ -1975,7 +1978,7 @@
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7.png",
     "tag": "default",
-    "priceSource": "static:0"
+    "priceSource": "1inch"
   },
   {
     "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
@@ -2893,7 +2896,8 @@
     "name": "GAMEE",
     "symbol": "GMEE",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x84e9a6f9d240fdd33801f7135908bfa16866939a.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x84e9a6f9d240fdd33801f7135908bfa16866939a.png",
+    "priceSource": "cmc:gamee"
   },
   {
     "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
