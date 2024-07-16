@@ -7,6 +7,6 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PIZZA.webp",
     "type": "BRC20",
     "tag": "recommend",
-    "coingeckoID": "pizza-brc20"
+    "priceSource": "coingecko"
   }
 ]

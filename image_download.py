@@ -24,7 +24,8 @@ def download():
         r"^https://img\.cryptorank.io",
         r"^https://img\.cryptorank.io",
         r"^https://raw\.githubusercontent\.com/1Hive/",
-        r"^https://raw\.githubusercontent\.com/solana-labs"
+        r"^https://raw\.githubusercontent\.com/solana-labs",
+        r"^https://static\.oklink\.com"
     ]
 
     for f in os.listdir("."):

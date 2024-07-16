@@ -15,7 +15,7 @@
     "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/SRM.webp",
     "type": "SPL",
-    "cmcID": "serum"
+    "priceSource": "cmc:serum"
   },
   {
     "symbol": "USDC",
@@ -92,7 +92,7 @@
     "address": "a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp",
     "logoURI": "https://wallet.foxnb.net/tokens/solana/a11bdAAuV8iB2fu7X6AxAvDTo1QZ8FXB3kk5eecdasp.png",
     "type": "SPL",
-    "cmcID": "allbridge"
+    "priceSource": "cmc:allbridge"
   },
   {
     "symbol": "SLND",
@@ -109,7 +109,7 @@
     "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MNDE.webp",
     "type": "SPL",
-    "cmcID": "mnde"
+    "priceSource": "cmc:mnde"
   },
   {
     "symbol": "ORCA",
@@ -118,7 +118,7 @@
     "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ORCA.webp",
     "type": "SPL",
-    "cmcID": "orca"
+    "priceSource": "cmc:orca"
   },
   {
     "symbol": "TNSR",
@@ -136,7 +136,7 @@
     "decimals": 3,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp",
     "type": "SPL",
-    "cmcID": "catcoin"
+    "priceSource": "cmc:catcoin"
   },
   {
     "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
@@ -146,7 +146,7 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TAI.webp",
     "type": "SPL",
     "tag": "recommend",
-    "cmcID": "tars-protocol"
+    "priceSource": "cmc:tars-protocol"
   },
   {
     "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
@@ -156,7 +156,7 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/POPCAT.webp",
     "type": "SPL",
     "tag": "recommend",
-    "cmcID": "popcat-sol"
+    "priceSource": "cmc:popcat-sol"
   },
   {
     "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
@@ -167,6 +167,6 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WIF.webp",
     "type": "SPL",
     "tag": "recommend",
-    "cmcID": "dogwifhat"
+    "priceSource": "cmc:dogwifhat"
   }
 ]

@@ -1220,7 +1220,8 @@
     "symbol": "GMEE",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0xcf32822ff397ef82425153a9dcb726e5ff61dca7.png",
-    "tag": "skip_coinmarket"
+    "tag": "default",
+    "priceSource": "static:0"
   },
   {
     "address": "0xe7804d91dfcde7f776c90043e03eaa6df87e6395",
@@ -1439,8 +1440,7 @@
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0xb5c064f955d8e7f38fe0460c556a72987494ee17.png",
     "tag": "default",
-    "coingeckoID": "quickswap",
-    "cmcID": "quickswap-new"
+    "priceSource": "cmc:quickswap-new"
   },
   {
     "address": "0x3c720206bfacb2d16fa3ac0ed87d2048dbc401fc",

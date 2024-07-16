@@ -535,7 +535,7 @@
     "symbol": "VC",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png",
-    "cmcID": "velocore"
+    "priceSource": "cmc:velocore"
   },
   {
     "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
@@ -552,7 +552,7 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zk.png",
     "tag": "recommend",
-    "cmcID": "zksync"
+    "priceSource": "cmc:zksync"
   },
   {
     "address": "0x9Db6BF8B0215A02BEA9beF28A92D829FD008D480",

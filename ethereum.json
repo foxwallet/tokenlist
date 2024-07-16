@@ -2903,7 +2903,8 @@
     "symbol": "SPC",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0x86ed939b500e121c0c5f493f399084db596dad20.png",
-    "tag": "skip_coinmarket"
+    "tag": "default",
+    "priceSource": "static:0"
   },
   {
     "address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
@@ -7065,7 +7066,8 @@
     "symbol": "STX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Stox.webp",
-    "tag": "skip_coinmarket"
+    "tag": "default",
+    "priceSource": "static:0"
   },
   {
     "address": "0xc1D204d77861dEf49b6E769347a883B15EC397Ff",
@@ -7818,7 +7820,7 @@
     "symbol": "CAT",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp",
-    "cmcID": "catcoin"
+    "priceSource": "cmc:catcoin"
   },
   {
     "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
@@ -7826,7 +7828,7 @@
     "symbol": "PDA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PDA.webp",
-    "cmcID": "playdapp"
+    "priceSource": "cmc:playdapp"
   },
   {
     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
@@ -7899,7 +7901,7 @@
     "symbol": "MOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp",
-    "cmcID": "mog-coin"
+    "priceSource": "cmc:mog-coin"
   },
   {
     "address": "0x7051faed0775f664a0286af4f75ef5ed74e02754",
@@ -7935,7 +7937,7 @@
     "symbol": "MAGA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA.webp",
-    "cmcID": "maga-ethereum"
+    "priceSource": "cmc:maga-ethereum"
   },
   {
     "address": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
@@ -7944,7 +7946,7 @@
     "display": "MAGA TRUMP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGA_TRUMP.webp",
-    "cmcID": "maga"
+    "priceSource": "cmc:maga"
   },
   {
     "address": "0x525574c899a7c877a11865339e57376092168258",
@@ -7959,7 +7961,7 @@
     "symbol": "FTN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FTN.webp",
-    "cmcID": "fasttoken"
+    "priceSource": "cmc:fasttoken"
   },
   {
     "address": "0x236501327e701692a281934230AF0b6BE8Df3353",

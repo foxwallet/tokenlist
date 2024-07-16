@@ -7,10 +7,9 @@ type Token = {
     symbol: string;
     decimals: number;
     logoURI: string;
-    display?: string;
-    tag?: "recommend" | "skip_coinmarket" | "default";
-    coingeckoID?: string;
-    cmcID?: string;
-    type?: "ERC20"(default) | "SPL" | "BRC20" | "QBRC20"
+    display?: string; 
+    tag?: "recommend" | "default";
+    type?: "ERC20"(default) | "SPL" | "BRC20" | "QBRC20";
+    priceSource?: "static:{value}"  | "cmc:{ID}" | "coingecko" | "1inch" | "lifi";
 }
 ```

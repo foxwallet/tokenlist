@@ -95,5 +95,14 @@
     "symbol": "XPEPE",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xpepe.png"
+  },
+  {
+    "address": "0x770F030FDBf63EBF1C939De8BCFf8943C2C2d454",
+    "name": "FBPay",
+    "symbol": "FB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FB.webp",
+    "priceSource": "1inch",
+    "tag": "recommend"
   }
 ]

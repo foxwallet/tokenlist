@@ -1974,7 +1974,8 @@
     "symbol": "bwJUP",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7.png",
-    "tag": "skip_coinmarket"
+    "tag": "default",
+    "priceSource": "static:0"
   },
   {
     "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
@@ -2969,8 +2970,7 @@
     "name": "O3 Swap Token",
     "symbol": "O3",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xee9801669c6138e84bd50deb500827b776777d28.png",
-    "cmcID": "o3-swap"
+    "logoURI": "https://tokens-data.1inch.io/images/0xee9801669c6138e84bd50deb500827b776777d28.png"
   },
   {
     "address": "0x0864c156b3c5f69824564dec60c629ae6401bf2a",
@@ -2978,7 +2978,7 @@
     "symbol": "DATA",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0x0864c156b3c5f69824564dec60c629ae6401bf2a.png",
-    "cmcID": "streamr"
+    "priceSource": "cmc:streamr"
   },
   {
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
@@ -3190,15 +3190,14 @@
     "symbol": "TOKEN",
     "decimals": 9,
     "logoURI": "https://tokens-data.1inch.io/images/0x4507cef57c46789ef8d1a19ea45f4216bae2b528.png",
-    "cmcID": "tokenfi"
+    "priceSource": "cmc:tokenfi"
   },
   {
     "address": "0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1",
     "name": "DeFi",
     "symbol": "DEFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DEFI.webp",
-    "cmcID": "de-fi"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DEFI.webp"
   },
   {
     "address": "0x30842a9c941d9DE3AF582c41ad12b11D776ba69e",
@@ -3206,7 +3205,7 @@
     "symbol": "GPT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GPT.webp",
-    "cmcID": "qna3ai"
+    "priceSource": "cmc:qna3ai"
   },
   {
     "address": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
@@ -3228,7 +3227,7 @@
     "symbol": "WHY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WHY.webp",
-    "cmcID": "why"
+    "priceSource": "cmc:why"
   },
   {
     "address": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
@@ -3236,7 +3235,7 @@
     "symbol": "CAT",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAT.webp",
-    "cmcID": "catcoin"
+    "priceSource": "cmc:catcoin"
   },
   {
     "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
@@ -3267,7 +3266,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LISTA.webp",
     "tag": "recommend",
-    "cmcID": "lista-dao"
+    "priceSource": "cmc:lista-dao"
   },
   {
     "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
@@ -3281,8 +3280,7 @@
     "name": "GamerCoin",
     "symbol": "GHX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GHX.webp",
-    "cmcID": "gamercoin"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GHX.webp"
   },
   {
     "address": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc",
@@ -3290,5 +3288,14 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
+  },
+  {
+    "address": "0x770F030FDBf63EBF1C939De8BCFf8943C2C2d454",
+    "name": "FBPay",
+    "symbol": "FB",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FB.webp",
+    "priceSource": "1inch",
+    "tag": "recommend"
   }
 ]

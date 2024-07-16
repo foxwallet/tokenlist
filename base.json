@@ -5,8 +5,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
-    "tag": "recommend",
-    "cmcID": "ethereum"
+    "tag": "recommend"
   },
   {
     "address": "0xbcf19453badf7c7ac0630b11dcb75d52b7eb8930",
@@ -78,7 +77,7 @@
     "symbol": "BASE",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0x0bf0ba3962a189d56f358143f38b7ffd26b8d48f.png",
-    "cmcID": "basetools"
+    "priceSource": "cmc:basetools"
   },
   {
     "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
@@ -235,7 +234,7 @@
     "symbol": "MOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp",
-    "cmcID": "mog-coin"
+    "priceSource": "cmc:mog-coin"
   },
   {
     "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",

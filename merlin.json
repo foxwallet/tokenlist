@@ -133,7 +133,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/M-BTC.webp",
     "tag": "recommend",
-    "cmcID": "bitcoin"
+    "priceSource": "cmc:bitcoin"
   },
   {
     "address": "0x41D9036454BE47d3745A823C4aaCD0e29cFB0f71",
@@ -141,7 +141,7 @@
     "symbol": "SolvBTC",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solvbtc.png",
-    "cmcID": "bitcoin"
+    "priceSource": "cmc:bitcoin"
   },
   {
     "address": "0xbd40c74cb5cf9f9252B3298230Cb916d80430bBa",
@@ -188,7 +188,7 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mordi.png",
     "tag": "recommend",
-    "cmcID": "ordi"
+    "priceSource": "cmc:ordi"
   },
   {
     "address": "0x9bd60d6FC99843207B8149f9190438C1F81BDdcD",
@@ -239,8 +239,8 @@
     "symbol": "ING",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ING.webp",
-    "coingeckoID": "influpia",
-    "tag": "skip_coinmarket"
+    "tag": "default",
+    "priceSource": "static:0"
   },
   {
     "address": "0xbf108e20fd47995b2b1a316db76c1c145e5bdeac",
@@ -270,7 +270,7 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/merl.png",
     "tag": "recommend",
-    "cmcID": "merlin-chain"
+    "priceSource": "cmc:merlin-chain"
   },
   {
     "address": "0x4dbe39D987665d0CB9F921B50B2673346b87cAfA",

@@ -124,7 +124,7 @@
     "symbol": "FOXY",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/foxy.png",
-    "cmcID": "foxy"
+    "priceSource": "cmc:foxy"
   },
   {
     "address": "0xB97F21D1f2508fF5c73E7B5AF02847640B1ff75d",
@@ -139,7 +139,7 @@
     "symbol": "ZERO",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zero.png",
-    "cmcID": "zerolend"
+    "priceSource": "cmc:zerolend"
   },
   {
     "address": "0x3cDEF3c187B271D8c2D71091d3a6506bC929f8B9",
