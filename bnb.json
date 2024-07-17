@@ -3299,7 +3299,7 @@
     "symbol": "FB",
     "decimals": 2,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FB.webp",
-    "priceSource": "1inch",
+    "priceSource": "lifi",
     "tag": "recommend"
   }
 ]
