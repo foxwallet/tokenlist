@@ -7342,7 +7342,7 @@
     "address": "0x571d9b73dc04ed88b4e273e048c8d4848f83b779",
     "name": "ClosedAI",
     "symbol": "ClosedAI",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ClosedAI.webp",
     "priceSource": "1inch"
   },
