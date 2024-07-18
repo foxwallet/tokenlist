@@ -135,7 +135,8 @@
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c.png",
+    "tag": "recommend"
   },
   {
     "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1",
@@ -177,7 +178,8 @@
     "name": "Degen",
     "symbol": "DEGEN",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x4ed4e862860bed51a9570b96d89af5e1b0efefed.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x4ed4e862860bed51a9570b96d89af5e1b0efefed.png",
+    "tag": "recommend"
   },
   {
     "address": "0x0578d8a44db98b23bf096a382e016e29a5ce0ffe",
@@ -234,7 +236,8 @@
     "symbol": "MOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOG.webp",
-    "priceSource": "cmc:mog-coin"
+    "priceSource": "cmc:mog-coin",
+    "tag": "recommend"
   },
   {
     "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
@@ -262,6 +265,22 @@
     "name": "LayerZero",
     "symbol": "ZRO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x4c5d8A75F3762c1561D96f177694f67378705E98",
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PYTH.webp"
+  },
+  {
+    "address": "0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7",
+    "name": "Maverick Token",
+    "symbol": "MAV",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mav.png",
+    "tag": "recommend"
   }
 ]
