@@ -3301,5 +3301,13 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FB.webp",
     "priceSource": "lifi",
     "tag": "recommend"
+  },
+  {
+    "address": "0x21FD16cD0eF24A49D28429921e335bb0C1bfAdB3",
+    "name": "FOUR",
+    "symbol": "FOUR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FOUR.webp",
+    "priceSource": "cmc:4-meme"
   }
 ]
