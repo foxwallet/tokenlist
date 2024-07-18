@@ -61,6 +61,7 @@ NATIVE_COIN_MAP = {
     "zklink": "ETH",
     "zksync-era": "ETH",
     "bahamut": "FTN",
+    "qtum": "QTUM",
 }
 
 proxies = {
