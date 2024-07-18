@@ -7987,5 +7987,19 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
+  },
+  {
+    "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WBNB.webp"
+  },
+  {
+    "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+    "name": "OKB",
+    "symbol": "OKB",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x75231f58b43240c9718dd58b4967c5114342a86c.png"
   }
 ]

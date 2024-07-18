@@ -217,5 +217,12 @@
     "symbol": "EGGROLL",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eggroll.png"
+  },
+  {
+    "address": "0x4e198da3efc21ffad5c2d1501a439354157b3269",
+    "name": "Scroll Wif Hat",
+    "symbol": "SWIF",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/swif.png"
   }
 ]

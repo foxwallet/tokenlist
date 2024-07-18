@@ -236,5 +236,26 @@
     "symbol": "KKAKDOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KKAKDOG.webp"
+  },
+  {
+    "address": "0x608e8512d31cae43cd8058d81e6b56203a112539",
+    "name": "Birds Ping",
+    "symbol": "PING",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ping.png"
+  },
+  {
+    "address": "0x8882ec400e9348ff60ae85d3d90a93cf97ce8869",
+    "name": "Multa Ping",
+    "symbol": "MPING",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mping.png"
+  },
+  {
+    "address": "0x4cad05f5afdd4bfc072e356e88b05c33316bb1c5",
+    "name": "Seryuk Ping",
+    "symbol": "KPING",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/kping.png"
   }
 ]
