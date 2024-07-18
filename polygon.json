@@ -1711,5 +1711,13 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRO.webp"
+  },
+  {
+    "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+    "name": "IRON Stablecoin",
+    "symbol": "IRON",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/iron_32.png",
+    "priceSource": "static:0"
   }
 ]

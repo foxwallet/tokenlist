@@ -3309,5 +3309,13 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FOUR.webp",
     "priceSource": "cmc:4-meme"
+  },
+  {
+    "address": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+    "name": "IRON Stablecoin",
+    "symbol": "IRON",
+    "decimals": 18,
+    "logoURI": "https://polygonscan.com/token/images/iron_32.png",
+    "priceSource": "static:0"
   }
 ]

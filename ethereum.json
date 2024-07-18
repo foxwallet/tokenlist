@@ -2825,7 +2825,8 @@
     "name": "THORChain ETH.RUNE",
     "symbol": "RUNE",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x3155ba85d5f96b2d030a4966af206230e46849cb.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x3155ba85d5f96b2d030a4966af206230e46849cb.png",
+    "priceSource": "lifi"
   },
   {
     "address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
