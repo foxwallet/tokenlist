@@ -8002,5 +8002,22 @@
     "symbol": "OKB",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x75231f58b43240c9718dd58b4967c5114342a86c.png"
+  },
+  {
+    "address": "0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
+    "name": "Banana",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BANANA.webp",
+    "priceSource": "cmc:banana-gun"
+  },
+  {
+    "address": "0x92DF60c51C710a1b1C20E42D85e221f3A1bFc7f2",
+    "name": "ApeSwapFinance Banana",
+    "symbol": "BANANA",
+    "display": "APE BANANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APE_BANANA.webp",
+    "priceSource": "apeswap-finance"
   }
 ]
