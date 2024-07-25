@@ -26,6 +26,7 @@ CHAIN_ID_MAP = {
     "42766": "zkfair",
     "59144": "linea",
     "81457": "blast",
+    "168168": "zchains",
     "167000": "taiko",
     "80085": "bera-artio",
     "534352": "scroll",
@@ -62,6 +63,7 @@ NATIVE_COIN_MAP = {
     "zksync-era": "ETH",
     "bahamut": "FTN",
     "qtum": "QTUM",
+    "zchains": "ZCD"
 }
 
 proxies = {

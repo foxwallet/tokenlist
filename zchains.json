@@ -1,0 +1,19 @@
+[
+  {
+    "address": "0x8ef73631891fe90ff30813fbc94c6858fce5117d",
+    "name": "Wrapped ZCD",
+    "symbol": "WZCD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WZCD.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x818a65d080efe45881dbc8f95f4184b9ef3582fd",
+    "name": "Zchains USD",
+    "symbol": "USDZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDZ.webp",
+    "tag": "recommend",
+    "priceSource": "static:1"
+  }
+]
