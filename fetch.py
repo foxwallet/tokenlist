@@ -63,7 +63,9 @@ NATIVE_COIN_MAP = {
     "zksync-era": "ETH",
     "bahamut": "FTN",
     "qtum": "QTUM",
-    "zchains": "ZCD"
+    "zchains": "ZCD",
+    "ton": "TON",
+    "tron": "TRX",
 }
 
 proxies = {
@@ -305,13 +307,42 @@ def silkswap():
         result["bahamut"].append(token)
     update_tokens(result)
 
+def ton_diamonds():
+    print("start ton.diamonds")
+    result = {
+        "ton": []
+    }
+    # url = "https://ton.diamonds/api/v1/dex/jettons/v3?currentPage=1&open_in_browser=true"
+    # headers = {
+    #     "accept": "application/json, text/plain, */*",
+    #     "referer": "https://ton.diamonds/dex/swap?open_in_browser=true",
+    #     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    # }
+    # resp = requests.get(url, headers=headers, proxies=proxies)
+    # data = resp.json()
+    data = json.loads("""{"ok":true,"data":{"items":[{"jettonAddress":"EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs","name":"Tether USD","symbol":"USD₮","description":"Tether Token for Tether USD","image":"https://tether.to/images/logoCircle.png","decimals":6,"imageData":null,"totalSupply":"10000002000000","mintable":true,"adminAddress":"EQBkQP48aUEDg5Y5RRc8SxFHm_C5tNcJDlh3e9pYHC-ZmG2M","createdAt":"2024-04-19T09:06:40.953Z","verified":true,"usdPrice":"1001587306","isDefault":true,"isScam":false,"isCashback":false,"isMultihop":false,"holdersCount":596766,"tonLiquidity":"43532227546821659","volume24":"0","priceChange24":-0.00006},{"jettonAddress":"EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE","name":"Scaleton","symbol":"SCALE","description":null,"image":"ipfs://QmSMiXsZYMefwrTQ3P6HnDQaCpecS4EWLpgKK5EX1G8iA8","decimals":9,"imageData":null,"totalSupply":"16686615203894199","mintable":false,"adminAddress":"EQDIhshKpDtDt-uTawnlGIq-cNijBgB7jyYprczoAOXTWLwf","createdAt":"2023-10-05T13:21:42.148Z","verified":true,"usdPrice":"5354898021","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":15777,"tonLiquidity":"382434570111145","volume24":"0","priceChange24":0.03535},{"jettonAddress":"EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO","name":"STON","symbol":"STON","description":"STON is the utility token of the STON.fi DEX integrated into the core protocol mechanics. STON allows participation in protocol governance through long-term staking.","image":"https://static.ston.fi/logo/ston_symbol.png","decimals":9,"imageData":null,"totalSupply":"99999999876550000","mintable":true,"adminAddress":null,"createdAt":"2023-10-05T13:21:42.148Z","verified":true,"usdPrice":"11747125544","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":46249,"tonLiquidity":"326244440049532","volume24":"0","priceChange24":0.013434},{"jettonAddress":"EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ","name":"ANON","symbol":"ANON","description":null,"image":"https://i.ibb.co/0MZg87z/IMG-8399.png","decimals":9,"imageData":null,"totalSupply":"888888888000000000","mintable":true,"adminAddress":"EQBxeJmFSy425pf4ccxI4aa1JwqBWvDBCtRL5ZqzVdJ_MNTT","createdAt":"2024-04-04T00:00:42.091Z","verified":true,"usdPrice":"6986675","isDefault":true,"isScam":false,"isCashback":false,"isMultihop":true,"holdersCount":34668,"tonLiquidity":"216860127613189","volume24":"0","priceChange24":0.005161},{"jettonAddress":"EQCdpz6QhJtDtm2s9-krV2ygl45Pwl-KJJCV1-XrP-Xuuxoq","name":"$PUNK","symbol":"PUNK","description":"Legendary token on legendary blockchain","image":"https://punk-metaverse.fra1.digitaloceanspaces.com/logo/punk.png","decimals":9,"imageData":null,"totalSupply":"49991540499820000","mintable":true,"adminAddress":"EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c","createdAt":"2023-10-05T13:21:38.259Z","verified":true,"usdPrice":"1136187676","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":39283,"tonLiquidity":"126149647821974","volume24":"0","priceChange24":0.02446},{"jettonAddress":"EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O","name":"Gram","symbol":"GRAM","description":"The first-ever PoW jetton on TON Blockchain.","image":"https://gramcoin.org/img/icon.png","decimals":9,"imageData":null,"totalSupply":"5000000000000000000","mintable":true,"adminAddress":"EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c","createdAt":"2024-01-30T02:34:44.029Z","verified":true,"usdPrice":"5714175","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":92254,"tonLiquidity":"44403626760038","volume24":"0","priceChange24":0.086423},{"jettonAddress":"EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86","name":"Fanzee Token","symbol":"FNZ","description":"fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences","image":"https://media.fanz.ee/images/91ee938a92934656a01131c569b377b6.png","decimals":9,"imageData":null,"totalSupply":"2099999987876525259","mintable":true,"adminAddress":"EQCG5PhzGSNcphDuFb_SvB-D-Ry-aP06jQw4NATQCM_ztW3l","createdAt":"2023-10-05T13:21:38.259Z","verified":true,"usdPrice":"2970198","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":20565,"tonLiquidity":"26897510579168","volume24":"0","priceChange24":0.005675},{"jettonAddress":"EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA","name":"Tether USD","symbol":"jUSDT","description":"Tether USD transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xdac17f958d2ee523a2206206994597c13d831ec7.","image":"https://bridge.ton.org/token/1/0xdac17f958d2ee523a2206206994597c13d831ec7.png","decimals":6,"imageData":null,"totalSupply":"1894513665389","mintable":true,"adminAddress":null,"createdAt":"2023-10-05T13:21:38.259Z","verified":true,"usdPrice":"1005122419","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":20028,"tonLiquidity":"26458385874177","volume24":"0","priceChange24":0.00393},{"jettonAddress":"EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT","name":"Glint Coin","symbol":"GLINT","description":"Glint Coin is a utility token from TON Diamonds, an NFT Marketplace on TON Blockchain. Visit ton.diamonds to learn more about all utilities of $GLINT.","image":"https://nft.ton.diamonds/glint_meta.png","decimals":9,"imageData":null,"totalSupply":"22000000000000000","mintable":true,"adminAddress":"EQDmrX8umof6ClCCoRIr5MlJfoUBSCnWj3BQkjMPIewe9wbk","createdAt":"2023-10-05T16:08:26.469Z","verified":true,"usdPrice":"124959198","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":4619,"tonLiquidity":"24765059191145","volume24":"0","priceChange24":0.024837},{"jettonAddress":"EQCIXQn940RNcOk6GzSorRSiA9WZC9xUz-6lyhl6Ap6na2sh","name":"Shards of Notcoin NFT bond","symbol":"wNOT","description":"Token 1:1 backed by Notcoin through NFT bonds locked in Shardify.app smart contract","image":"https://shardify.app/tokens/notcoin/image.png","decimals":9,"imageData":null,"totalSupply":"20000000000000000","mintable":true,"adminAddress":"EQCpjRqFu3P3ltbS3M7rusJNrtt3YJkcqB_pTVpRt5pHzY7G","createdAt":"2024-03-27T18:13:14.944Z","verified":true,"usdPrice":"13487","isDefault":true,"isScam":false,"isCashback":false,"isMultihop":true,"holdersCount":10405,"tonLiquidity":"2215820283014","volume24":"0","priceChange24":0.000816},{"jettonAddress":"EQCcLAW537KnRg_aSPrnQJoyYjOZkzqYp6FVmRUvN1crSazV","name":"Ambra","symbol":"AMBR","description":"The Whales Club Token","image":"ipfs://bafybeicsvozntp5iatwad32qgvisjxshop62erwohaqnajgsmkl77b6uh4","decimals":9,"imageData":null,"totalSupply":"9999999998364045100","mintable":true,"adminAddress":"EQCMVd9ya3yvhyhOWckBUmrHsle3eLqb_em8npZEmbbR-NOe","createdAt":"2023-10-05T13:23:20.345Z","verified":true,"usdPrice":"536210523","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":2024,"tonLiquidity":"1546865985577","volume24":"0","priceChange24":0.036812},{"jettonAddress":"EQCM3B12QK1e4yZSf8GtBRT0aLMNyEsBc_DhVfRRtOEffLez","name":"Proxy TON","symbol":"pTON","description":"Proxy contract for TON","image":"https://static.ston.fi/logo/ton_symbol.png","decimals":9,"imageData":null,"totalSupply":"0","mintable":true,"adminAddress":null,"createdAt":"2023-10-05T13:21:38.259Z","verified":true,"usdPrice":"6764300000","isDefault":true,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":45,"tonLiquidity":"0","volume24":"0","priceChange24":0},{"jettonAddress":"EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT","name":"Notcoin","symbol":"NOT","description":"Probably nothing","image":"https://cdn.joincommunity.xyz/clicker/not_logo.png","decimals":9,"imageData":null,"totalSupply":"102719221714000000000","mintable":true,"adminAddress":"EQAQQTyWQnLTmerS0GWQYrFYtLogGuXAW_kG5gw-50RVpJXb","createdAt":"2024-05-16T05:39:48.991Z","verified":true,"usdPrice":"13915354","isDefault":false,"isScam":false,"isCashback":false,"isMultihop":false,"holdersCount":2411216,"tonLiquidity":"705647084087769","volume24":"0","priceChange24":0.019085},{"jettonAddress":"EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon","name":"JetTon","symbol":"JETTON","description":"JetTon.Games Platform Token","image":"https://raw.githubusercontent.com/JetTon-Bot/JetTon/main/jetton-256.png","decimals":9,"imageData":null,"totalSupply":"100000000000000000","mintable":false,"adminAddress":"EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c","createdAt":"2023-10-05T13:22:08.943Z","verified":true,"usdPrice":"1937126836","isDefault":false,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":56210,"tonLiquidity":"355009567314226","volume24":"0","priceChange24":0.00853},{"jettonAddress":"EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h","name":"Ton Raffles Token","symbol":"RAFF","description":"$RAFF is a unique utility token, the centerpiece of tonraffles.app ecosystem.","image":"https://tonraffles.store/raffjetton/jetton.svg","decimals":9,"imageData":null,"totalSupply":"20000000000000000","mintable":true,"adminAddress":"EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c","createdAt":"2023-12-12T16:40:46.538Z","verified":true,"usdPrice":"365290803","isDefault":false,"isScam":false,"isCashback":true,"isMultihop":true,"holdersCount":148578,"tonLiquidity":"168456209525544","volume24":"0","priceChange24":0.023602}],"pinned":[],"total":29734,"currentPage":1,"lastPage":1983}}""")
+    for item in data.get("data", {}).get("items", []):
+        if not item["verified"]:
+            continue
+        token = {
+            "address": item["jettonAddress"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": item["decimals"],
+            "logoURI": item["image"],
+            "type": "JETTON"
+        }
+        result["ton"].append(token)
+    update_tokens(result)    
+
 
 if __name__ == "__main__":
-    one_inch()
-    uniswap()
-    sushiswap()
-    izumi()
-    xlayer()
-    coreum()
-    merlinswap()
-    silkswap()
+    # one_inch()
+    # uniswap()
+    # sushiswap()
+    # izumi()
+    # xlayer()
+    # coreum()
+    # merlinswap()
+    # silkswap()
+    ton_diamonds()
