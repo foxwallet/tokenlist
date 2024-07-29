@@ -11,7 +11,7 @@
     "address": "0x818a65d080efe45881dbc8f95f4184b9ef3582fd",
     "name": "Zchains USD",
     "symbol": "USDZ",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDZ.webp",
     "tag": "recommend",
     "priceSource": "static:1"
