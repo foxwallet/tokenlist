@@ -1,0 +1,107 @@
+[
+  {
+    "address": "TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+    "name": "Wrapped TRX",
+    "symbol": "WTRX",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WTRX.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TThzxNRLrW2Brp9DcTQU8i4Wd9udCWEdZ3",
+    "name": "Staked USDT",
+    "symbol": "stUSDT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stUSDT.webp",
+    "type": "TRC20"
+  },
+  {
+    "address": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
+    "name": "HTX",
+    "symbol": "HTX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HTX.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+    "name": "Wrapped BTT",
+    "symbol": "WBTT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WBTT.webp",
+    "type": "TRC20"
+  },
+  {
+    "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+    "name": "APENFT",
+    "symbol": "NFT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NFT.webp",
+    "type": "TRC20"
+  },
+  {
+    "address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+    "name": "JUST",
+    "symbol": "JST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JST.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TUSD.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BTT.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDD.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  },
+  {
+    "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BTC.webp",
+    "type": "TRC20",
+    "tag": "recommend"
+  }
+]
