@@ -282,5 +282,12 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mav.png",
     "tag": "recommend"
+  },
+  {
+    "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "name": "EURC",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURC.webp"
   }
 ]

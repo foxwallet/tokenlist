@@ -106,5 +106,12 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rb.png",
     "priceSource": "cmc:runesbridge"
+  },
+  {
+    "address": "0x1e4bF3CaBD7707089138dD5a545B077413FA83FC",
+    "name": "Puffer Vault",
+    "symbol": "pufETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/pufeth.png"
   }
 ]

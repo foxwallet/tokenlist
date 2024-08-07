@@ -257,5 +257,26 @@
     "symbol": "KPING",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/kping.png"
+  },
+  {
+    "address": "0x0f921c39efd98809fe6d20a88a4357454578987a",
+    "name": "Merlin BTC",
+    "symbol": "M-BTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+  },
+  {
+    "address": "0xb242cb981952c183421e4ac9b0d4861c27d9dc73",
+    "name": "Drum Ping",
+    "symbol": "DPING",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/dping.png"
+  },
+  {
+    "address": "0x7eee60a000986e9efe7f5c90340738558c24317b",
+    "name": "PER Project",
+    "symbol": "PER",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/per.png"
   }
 ]

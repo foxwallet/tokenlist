@@ -8019,5 +8019,26 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APE_BANANA.webp",
     "priceSource": "apeswap-finance"
+  },
+  {
+    "address": "0x3E5A19c91266aD8cE2477B91585d1856B84062dF",
+    "name": "Ancient8",
+    "symbol": "A8",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/A8.webp"
+  },
+  {
+    "address": "0xd0a6053f087E87a25dC60701ba6E663b1a548E85",
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LRDS.webp"
+  },
+  {
+    "address": "0x88909D489678dD17aA6D9609F89B0419Bf78FD9a",
+    "name": "Layer3",
+    "symbol": "L3",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/L3.webp"
   }
 ]

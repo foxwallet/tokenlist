@@ -16,6 +16,7 @@ CHAIN_ID_MAP = {
     "324": "zksync-era",
     "463": "areon",
     "1100": "dym",
+    "1329": "sei-evm",
     "4200": "merlin",
     "5165": "bahamut",
     "7000": "zeta-evm",
@@ -66,6 +67,8 @@ NATIVE_COIN_MAP = {
     "zchains": "ZCD",
     "ton": "TON",
     "tron": "TRX",
+    "sei-evm": "SEI",
+    "sei": "SEI"
 }
 
 proxies = {
@@ -336,13 +339,34 @@ def ton_diamonds():
     update_tokens(result)    
 
 
+def dragonswap():
+    print("start dragonswap")
+    result = {
+        "sei-evm": []
+    }
+    url = "https://raw.githubusercontent.com/dragonswap-app/assets/main/tokenlist-sei-mainnet.json"
+    resp = requests.get(url, proxies=proxies)
+    data = resp.json()
+    for item in data.get("tokens", []):
+        token = {
+            "address": item["address"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": item["decimals"],
+            "logoURI": f"https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/{item['address']}/logo.png",
+        }
+        result["sei-evm"].append(token)
+    update_tokens(result)    
+
+
 if __name__ == "__main__":
-    # one_inch()
-    # uniswap()
-    # sushiswap()
-    # izumi()
-    # xlayer()
-    # coreum()
-    # merlinswap()
-    # silkswap()
+    one_inch()
+    uniswap()
+    sushiswap()
+    izumi()
+    xlayer()
+    coreum()
+    merlinswap()
+    silkswap()
     ton_diamonds()
+    dragonswap()

@@ -800,5 +800,12 @@
     "symbol": "BINGO",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0xb262a485d98d8e19175818d47453e7812ca255a8.png"
+  },
+  {
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0x6985884c4392d348587b19cb9eaaf157f13271cd.png"
   }
 ]

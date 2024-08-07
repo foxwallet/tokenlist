@@ -14,5 +14,155 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WSEI.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+    "name": "iSEI",
+    "symbol": "iSEI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iSEI.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WETH.webp"
+  },
+  {
+    "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+    "name": "TetherToken",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598",
+    "name": "SEIYAN",
+    "symbol": "SEIYAN",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SEIYAN.webp"
+  },
+  {
+    "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FXS.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+    "name": "MILLI",
+    "symbol": "MILLI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MILLI.webp"
+  },
+  {
+    "address": "0xC18b6a15FB0ceaf5eb18696EeFCb5bc7b9107149",
+    "name": "Popo The Cat",
+    "symbol": "POPO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/POPO.webp"
+  },
+  {
+    "address": "0xc6bc81a0e287cc8103cc002147a9d76cae4cd6e5",
+    "name": "SeiBallz",
+    "symbol": "BALLZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BALLZ.webp"
+  },
+  {
+    "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+    "name": "Seipex Credits",
+    "symbol": "SPEX",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPEX.webp"
+  },
+  {
+    "address": "0x17fe1101aF2dAB1aF0317d1ad1BD66cD06Da4B5c",
+    "name": "SeiPepe",
+    "symbol": "SeiPepe",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SeiPepe.webp"
+  },
+  {
+    "address": "0x019EA1347BD9bc912c0221d24983a74E9386B794",
+    "name": "Gokucity Token",
+    "symbol": "GOKU",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GOKU.webp"
+  },
+  {
+    "address": "0x99B85E9dFFfed176E46a3bE009ab9f9FE6AE59ed",
+    "name": "OpenSei",
+    "symbol": "OS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OS.webp"
+  },
+  {
+    "address": "0x6B92994f5d5D7D36608BDeD50724282F1E58FBB1",
+    "name": "$NINJA",
+    "symbol": "NINJA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NINJA.webp"
+  },
+  {
+    "address": "0xD049e189ACC1873BCa8c0a314d6B26835684Fb89",
+    "name": "Red",
+    "symbol": "RED",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RED.webp"
+  },
+  {
+    "address": "0x49d1bBfaf4038D5E53124aEdB6809CEDcA3D28A5",
+    "name": "JOG",
+    "symbol": "JOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JOG.webp"
+  },
+  {
+    "address": "0x9134d733AaC991b96E899af657C717276A627E32",
+    "name": "F you Roy",
+    "symbol": "FROY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FROY.webp"
+  },
+  {
+    "address": "0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
+    "name": "SEIYUN COIN",
+    "symbol": "SEIYUN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SEIYUN.webp"
+  },
+  {
+    "address": "0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
+    "name": "jay jeo",
+    "symbol": "JAYJEO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JAYJEO.webp"
+  },
+  {
+    "address": "0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
+    "name": "INSPECTOR",
+    "symbol": "REX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REX.webp"
+  },
+  {
+    "address": "0xb8D41DB605A3258010D531429E85b13C7abdE579",
+    "name": "CHUCKCOIN",
+    "symbol": "CHUCK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CHUCK.webp"
+  },
+  {
+    "address": "0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
+    "name": "gonad",
+    "symbol": "$gonad",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/$gonad.webp"
   }
 ]

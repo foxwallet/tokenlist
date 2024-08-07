@@ -27,7 +27,8 @@ def download():
         r"^https://raw\.githubusercontent\.com/solana-labs",
         r"^https://static\.oklink\.com",
         r"^https://swap\.zchains\.com",
-        r"^https://static\.tronscan\.org"
+        r"^https://static\.tronscan\.org",
+        r"^https://raw\.githubusercontent\.com/dragonswap-app"
     ]
 
     for f in os.listdir("."):
