@@ -11,7 +11,9 @@
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "tag": "recommend",
+    "priceSource": "static:1"
   },
   {
     "address": "0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8",
@@ -25,7 +27,9 @@
     "name": "Celer Wrapped USDT",
     "symbol": "ceUSDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+    "tag": "recommend",
+    "priceSource": "static:1"
   },
   {
     "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
@@ -33,7 +37,8 @@
     "symbol": "WFIL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "cmc:filecoin"
   },
   {
     "address": "0x6A3F21d2A92a15752912974BbBD5b1469A72B261",
@@ -47,6 +52,24 @@
     "name": "rSPD Token",
     "symbol": "rSPD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rSPD.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rSPD.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x690908f7fa93afC040CFbD9fE1dDd2C2668Aa0e0",
+    "name": "Infinity Pool Staked FIL",
+    "symbol": "iFIL",
+    "decimals": 18,
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/FIL.webp",
+    "priceSource": "cmc:filecoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xC5eA96Dd365983cfEc90E72b6A2daC9562f458Ba",
+    "name": "SFT",
+    "symbol": "SFT",
+    "decimals": 18,
+    "logoURI": "https://wallet.foxnb.net/tokens/filecoin-evm/sfttoken.png",
+    "tag": "recommend"
   }
 ]
