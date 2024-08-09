@@ -8040,5 +8040,12 @@
     "symbol": "L3",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/L3.webp"
+  },
+  {
+    "address": "0xfd418e42783382e86ae91e445406600ba144d162",
+    "name": "Zircuit",
+    "symbol": "ZRC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRC.webp"
   }
 ]

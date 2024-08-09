@@ -25,6 +25,7 @@ CHAIN_ID_MAP = {
     "42161": "arbitrum",
     "43114": "avax",
     "42766": "zkfair",
+    "48900": "zircuit",
     "59144": "linea",
     "81457": "blast",
     "168168": "zchains",
@@ -68,7 +69,8 @@ NATIVE_COIN_MAP = {
     "ton": "TON",
     "tron": "TRX",
     "sei-evm": "SEI",
-    "sei": "SEI"
+    "sei": "SEI",
+    "zircuit": "ETH"
 }
 
 proxies = {
