@@ -168,5 +168,15 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:dogwifhat"
+  },
+  {
+    "address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
+    "name": "io.net",
+    "symbol": "IO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/IO.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:io-net"
   }
 ]
