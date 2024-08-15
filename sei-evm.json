@@ -164,5 +164,19 @@
     "symbol": "$gonad",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/$gonad.webp"
+  },
+  {
+    "address": "0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
+    "name": "Sei Usagi",
+    "symbol": "USA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USA.webp"
+  },
+  {
+    "address": "0xE94a7c93A00B12E803166D8e355F617B920DD48e",
+    "name": "SEIS AI",
+    "symbol": "$SEIS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/$SEIS.webp"
   }
 ]

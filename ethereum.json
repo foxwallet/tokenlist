@@ -8047,5 +8047,19 @@
     "symbol": "ZRC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRC.webp"
+  },
+  {
+    "address": "0x7ABc8A5768E6bE61A6c693a6e4EAcb5B60602C4D",
+    "name": "Covalent X Token",
+    "symbol": "CXT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CXT.webp"
+  },
+  {
+    "address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+    "name": "Gravity",
+    "symbol": "G",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/G.webp"
   }
 ]

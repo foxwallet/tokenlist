@@ -54,5 +54,12 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
+    "name": "iZUMi Token",
+    "symbol": "iZi",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
   }
 ]

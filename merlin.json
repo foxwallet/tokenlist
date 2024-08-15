@@ -343,5 +343,12 @@
     "symbol": "xmonk",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/xmonk.png"
+  },
+  {
+    "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+    "name": "uniBTC",
+    "symbol": "uniBTC",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/unibtc.png"
   }
 ]
