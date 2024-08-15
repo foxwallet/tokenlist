@@ -8061,5 +8061,12 @@
     "symbol": "G",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/G.webp"
+  },
+  {
+    "address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
+    "name": "Neiro",
+    "symbol": "NEIRO",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIRO.webp"
   }
 ]
