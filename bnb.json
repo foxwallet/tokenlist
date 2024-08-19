@@ -3319,5 +3319,13 @@
     "decimals": 18,
     "logoURI": "https://polygonscan.com/token/images/iron_32.png",
     "priceSource": "static:0"
+  },
+  {
+    "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
+    "name": "CHI",
+    "symbol": "CHI",
+    "decimals": 0,
+    "logoURI": "https://wallet.foxnb.net/tokens/bsc/0x0000000000004946c0e9f43f4dee607b0ef1fa1c/logo.png",
+    "priceSource": "cmc:chi-gastoken"
   }
 ]
