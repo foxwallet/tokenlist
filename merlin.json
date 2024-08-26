@@ -350,5 +350,12 @@
     "symbol": "uniBTC",
     "decimals": 8,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/unibtc.png"
+  },
+  {
+    "address": "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819",
+    "name": "RMNER Token",
+    "symbol": "RMNER",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/rmner.png"
   }
 ]

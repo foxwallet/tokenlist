@@ -289,5 +289,12 @@
     "symbol": "EURC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURC.webp"
+  },
+  {
+    "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x4621b7a9c75199271f773ebd9a499dbd165c3191.png"
   }
 ]

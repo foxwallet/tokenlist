@@ -670,5 +670,12 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp"
+  },
+  {
+    "address": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "https://arbiscan.io/token/images/inversedolausd2_32.png"
   }
 ]

@@ -178,5 +178,19 @@
     "symbol": "$SEIS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/$SEIS.webp"
+  },
+  {
+    "address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+    "name": "SeiWhale",
+    "symbol": "SeiWhale",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SeiWhale.webp"
+  },
+  {
+    "address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+    "name": "SAKEINU",
+    "symbol": "SAKE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SAKE.webp"
   }
 ]

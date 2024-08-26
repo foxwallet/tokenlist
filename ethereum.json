@@ -8068,5 +8068,61 @@
     "symbol": "NEIRO",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIRO.webp"
+  },
+  {
+    "address": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
+    "name": "Pirex Ether",
+    "symbol": "pxETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x04c154b66cb340f3ae24111cc767e0184ed00cc6.png"
+  },
+  {
+    "address": "0x4a029f7bcf33acb03547d8fa7be840347973e24e",
+    "name": "MAZZE",
+    "symbol": "MAZZE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4a029f7bcf33acb03547d8fa7be840347973e24e.png"
+  },
+  {
+    "address": "0x6df0e641fc9847c0c6fde39be6253045440c14d3",
+    "name": "Dinero Governance Token",
+    "symbol": "DINERO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x6df0e641fc9847c0c6fde39be6253045440c14d3.png"
+  },
+  {
+    "address": "0xa059b81568fee88791de88232e838465826cf419",
+    "name": "Three Protocol Token",
+    "symbol": "THREE",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xa059b81568fee88791de88232e838465826cf419.png"
+  },
+  {
+    "address": "0xfe18ae03741a5b84e39c295ac9c856ed7991c38e",
+    "name": "Crypto.com Wrapped Staked ETH",
+    "symbol": "CDCETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e.png"
+  },
+  {
+    "address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+    "name": "Turbo",
+    "symbol": "TURBO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TURBO.webp"
+  },
+  {
+    "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ACX.webp"
+  },
+  {
+    "address": "0x9d1A7A3191102e9F900Faa10540837ba84dCBAE7",
+    "name": "EURITE",
+    "symbol": "EURI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURI.webp"
   }
 ]

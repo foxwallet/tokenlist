@@ -231,5 +231,12 @@
     "symbol": "wrsETH",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wrseth.png"
+  },
+  {
+    "address": "0x1f4f171676f8cb3b1c3fd38867b3b160679f934a",
+    "name": "Kalax Token",
+    "symbol": "KALA",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/kala.png"
   }
 ]
