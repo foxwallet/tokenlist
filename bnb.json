@@ -3326,6 +3326,6 @@
     "symbol": "CHI",
     "decimals": 0,
     "logoURI": "https://wallet.foxnb.net/tokens/bsc/0x0000000000004946c0e9f43f4dee607b0ef1fa1c/logo.png",
-    "priceSource": "cmc:chi-gastoken"
+    "priceSource": "static:0"
   }
 ]
