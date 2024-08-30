@@ -1,0 +1,70 @@
+[
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WBTC.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xE544e8a38aDD9B1ABF21922090445Ba93f74B9E5",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x681202351a488040Fa4FdCc24188AfB582c9DD62",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xc3ee2Df14B1Bc526c24ED802f1873d49664a0d5c",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png"
+  },
+  {
+    "address": "0x7537C1F80c9E157ED7AFD93a494be3e1f04f1462",
+    "name": "STONE ETH on BSquared",
+    "symbol": "BSTONE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STONE.webp"
+  },
+  {
+    "address": "0xa0f4470B714677AEEcE0d20074c540b3Cf6a477E",
+    "name": "Bridged BRC20 ordi",
+    "symbol": "ordi",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ordi.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x7eBFcE05E418C380a2b6EB0F65995cA04ef4bc00",
+    "name": "Bridged BRC20 sats",
+    "symbol": "sats",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/sats.png"
+  },
+  {
+    "address": "0xD48d3A551757ac47655fCe25BDE1B0B6b1Cb2a5A",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WETH.png"
+  }
+]

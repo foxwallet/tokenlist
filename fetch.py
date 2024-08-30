@@ -362,7 +362,7 @@ def dragonswap():
 
 
 if __name__ == "__main__":
-    # one_inch()
+    one_inch()
     uniswap()
     sushiswap()
     izumi()
@@ -370,5 +370,5 @@ if __name__ == "__main__":
     coreum()
     merlinswap()
     silkswap()
-    # ton_diamonds()
+    ton_diamonds()
     dragonswap()
