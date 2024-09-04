@@ -57,7 +57,9 @@
     "name": "Binance-Peg Bitcoin BEP2",
     "symbol": "BTCB",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png",
+    "priceSource": "cmc:bitcoin",
+    "tag": "recommend"
   },
   {
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
