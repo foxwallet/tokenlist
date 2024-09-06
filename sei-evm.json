@@ -198,13 +198,13 @@
     "name": "BOOBLE",
     "symbol": "BOOBLE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xF20903d034B12a7266055FE97cEBdB9199Ec6925/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BOOBLE.webp"
   },
   {
     "address": "0x9C367a272f8E318D10118C6367fD69DEf30e430E",
     "name": "Pepei",
     "symbol": "Pepei",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x9C367a272f8E318D10118C6367fD69DEf30e430E/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Pepei.webp"
   }
 ]

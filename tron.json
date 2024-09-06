@@ -103,5 +103,13 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BTC.webp",
     "type": "TRC20",
     "tag": "recommend"
+  },
+  {
+    "address": "TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT",
+    "name": "Sundog",
+    "symbol": "SUNDOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUNDOG.webp",
+    "type": "TRC20"
   }
 ]
