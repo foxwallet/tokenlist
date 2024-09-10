@@ -300,7 +300,8 @@
     "name": "DegenReborn Token",
     "symbol": "DEGEN",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/degen.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/degen.png",
+    "priceSource": "cmc:degenreborn"
   },
   {
     "address": "0xB6b8CCD230Bb4235C7b87986274E7aB550b72261",
