@@ -38,5 +38,19 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Dzook.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0xE53579b19c2A8bc181C3088e8B8bDA6EDD8b228d",
+    "name": "AMDT",
+    "symbol": "AMDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMDT.webp"
+  },
+  {
+    "address": "0x2F5916b89c61c555414BbbC49aC500B0607886d1",
+    "name": "AMDC",
+    "symbol": "AMDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMDC.webp"
   }
 ]

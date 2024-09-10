@@ -677,5 +677,12 @@
     "symbol": "DOLA",
     "decimals": 18,
     "logoURI": "https://arbiscan.io/token/images/inversedolausd2_32.png"
+  },
+  {
+    "address": "0x27f485b62c4a7e635f561a87560adf5090239e93",
+    "name": "DFX Token (L2)",
+    "symbol": "DFX",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x27f485b62c4a7e635f561a87560adf5090239e93.webp"
   }
 ]
