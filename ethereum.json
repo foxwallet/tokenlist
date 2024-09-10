@@ -7891,7 +7891,7 @@
     "symbol": "eUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/eUSD.webp",
-    "tag": "recommend"
+    "tag": "default"
   },
   {
     "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
