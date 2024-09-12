@@ -111,6 +111,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUNDOG.webp",
     "type": "TRC20",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "cmc:sundog"
   }
 ]
