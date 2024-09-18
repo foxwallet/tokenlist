@@ -8063,13 +8063,6 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/G.webp"
   },
   {
-    "address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
-    "name": "Neiro",
-    "symbol": "NEIRO",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIRO.webp"
-  },
-  {
     "address": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
     "name": "Pirex Ether",
     "symbol": "pxETH",
@@ -8131,5 +8124,22 @@
     "symbol": "LIT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LIT.webp"
+  },
+  {
+    "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+    "name": "Neiro",
+    "symbol": "Neiro",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIRO.webp",
+    "priceSource": "cmc:first-neiro-on-ethereum"
+  },
+  {
+    "address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
+    "name": "NEIRO",
+    "symbol": "NEIRO",
+    "display": "NEIROETH",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIROETH.webp",
+    "priceSource": "neiro-eth"
   }
 ]
