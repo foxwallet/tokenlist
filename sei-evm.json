@@ -206,5 +206,47 @@
     "symbol": "Pepei",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Pepei.webp"
+  },
+  {
+    "address": "0x0Bbda0F76e205Fc6A160B90a09975fa443B3fE44",
+    "name": "Anome USD",
+    "symbol": "USDA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDA.webp"
+  },
+  {
+    "address": "0xbB5850008495B4D7e4C242e30fFC5B6A0f7E916E",
+    "name": "Synnax Stablecoin",
+    "symbol": "syUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xbB5850008495B4D7e4C242e30fFC5B6A0f7E916E/logo.png"
+  },
+  {
+    "address": "0xB629b01A0b3Be5fDab174464507B37C67c3c6084",
+    "name": "DogWithHoodie",
+    "symbol": "HOOD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HOOD.webp"
+  },
+  {
+    "address": "0x646E178a05B4Cb4f2b36D04Bd02767CFeed730CA",
+    "name": "Sei Bitch",
+    "symbol": "BITCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BITCH.webp"
+  },
+  {
+    "address": "0xC66a9B784C0FE8c2Ef7dDaBFacCC6c37b15e73AA",
+    "name": "Seiro",
+    "symbol": "SEIRO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SEIRO.webp"
+  },
+  {
+    "address": "0x597f3D8B4e826806915C9158fb0D700367117D7f",
+    "name": "Sei What?",
+    "symbol": "What?",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/What?.webp"
   }
 ]

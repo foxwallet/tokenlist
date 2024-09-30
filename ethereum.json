@@ -8141,5 +8141,68 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIROETH.webp",
     "priceSource": "neiro-eth"
+  },
+  {
+    "address": "0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2",
+    "name": "dlcBTC",
+    "symbol": "DLCBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2.png"
+  },
+  {
+    "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MNT.webp"
+  },
+  {
+    "address": "0x56072c95faa701256059aa122697b133aded9279",
+    "name": "SKY Governance Token",
+    "symbol": "SKY",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x56072c95faa701256059aa122697b133aded9279.png"
+  },
+  {
+    "address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
+    "name": "Tokenize Xchange",
+    "symbol": "TKX",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TKX.webp"
+  },
+  {
+    "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "name": "Wormhole Token",
+    "symbol": "W",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.webp"
+  },
+  {
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.webp"
+  },
+  {
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+    "name": "USDS Stablecoin",
+    "symbol": "USDS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xdc035d45d973e3ec169d2276ddab16f1e407384f.webp"
+  },
+  {
+    "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+    "name": "GateToken",
+    "symbol": "GT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GT.webp"
+  },
+  {
+    "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "name": "Eigen",
+    "symbol": "EIGEN",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xec53bf9167f50cdeb3ae105f56099aaab9061f83.png"
   }
 ]

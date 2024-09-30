@@ -398,11 +398,12 @@
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/fil.png"
   },
   {
-    "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+    "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
     "name": "TRON",
     "symbol": "TRX",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/trx.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/trx.png",
+    "tag": "recommend"
   },
   {
     "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
@@ -3344,5 +3345,61 @@
     "symbol": "EURI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURI.webp"
+  },
+  {
+    "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png"
+  },
+  {
+    "address": "0x26c5e01524d2e6280a48f2c50ff6de7e52e9611c",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x26c5e01524d2e6280a48f2c50ff6de7e52e9611c.webp"
+  },
+  {
+    "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B/logo.png"
+  },
+  {
+    "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BEAM.webp"
+  },
+  {
+    "address": "0xa697e272a73744b343528c3bc4702f2565b2f422",
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xA697e272a73744b343528C3Bc4702F2565b2F422.png"
+  },
+  {
+    "address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xb3ed0a426155b79b898849803e3b36552f7ed507.webp"
+  },
+  {
+    "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FDUSD.webp"
+  },
+  {
+    "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AAVE.webp"
   }
 ]

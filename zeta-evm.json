@@ -113,5 +113,12 @@
     "symbol": "pufETH",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/pufeth.png"
+  },
+  {
+    "address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+    "name": "uniBTC Token",
+    "symbol": "uniBTC",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/unibtc.png"
   }
 ]

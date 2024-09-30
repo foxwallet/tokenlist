@@ -1726,5 +1726,33 @@
     "symbol": "DFX_1",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/137/0x27f485b62c4a7e635f561a87560adf5090239e93.webp"
+  },
+  {
+    "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "name": "Polygon tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0x236aa50979d5f3de3bd1eeb40e81137f22ab794b.png"
+  },
+  {
+    "address": "0x61299774020da444af134c82fa83e3810b309991",
+    "name": "Render Token",
+    "symbol": "RNDR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x61299774020dA444Af134c82fa83E3810b309991/logo.png"
+  },
+  {
+    "address": "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048",
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Bonk.webp"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "name": "Polygon Ecosystem Token",
+    "symbol": "POL",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
   }
 ]

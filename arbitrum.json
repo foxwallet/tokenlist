@@ -684,5 +684,47 @@
     "symbol": "DFX",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0x27f485b62c4a7e635f561a87560adf5090239e93.webp"
+  },
+  {
+    "address": "0x050c24dbf1eec17babe5fc585f06116a259cc77a",
+    "name": "dlcBTC",
+    "symbol": "DLCBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x050c24dbf1eec17babe5fc585f06116a259cc77a.webp"
+  },
+  {
+    "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Bonk.webp"
+  },
+  {
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.jpg"
+  },
+  {
+    "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "name": "Wormhole Token",
+    "symbol": "W",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.webp"
+  },
+  {
+    "address": "0xb2f30a7c980f052f02563fb518dcc39e6bf38175",
+    "name": "Synthetix USD",
+    "symbol": "USDx",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb2f30a7c980f052f02563fb518dcc39e6bf38175.jpg"
+  },
+  {
+    "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xba5ddd1f9d7f570dc94a51479a000e3bce967196.webp"
   }
 ]

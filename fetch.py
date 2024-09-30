@@ -273,26 +273,6 @@ def coreum():
         result["coreum"].append(token)    
     update_tokens(result)
 
-
-def merlinswap():
-    print("start merlinswap")
-    result = {
-        "merlin": []
-    }
-    data = requests.get("https://raw.githubusercontent.com/MerlinSwap/MerlinSwap-tokenList/main/build/tokenList.json", proxies=proxies).json()
-    for item in data:
-        contract = item["contracts"]["4200"]
-        token = {
-            "address": contract["address"],
-            "name": item["name"],
-            "symbol": item["symbol"],
-            "decimals": contract["decimal"],
-            "logoURI": item["icon"],
-        }
-        result["merlin"].append(token)
-    update_tokens(result)
-
-
 def silkswap():
     print("start silkswap")
     result = {
@@ -368,7 +348,6 @@ if __name__ == "__main__":
     izumi()
     xlayer()
     coreum()
-    merlinswap()
     silkswap()
     ton_diamonds()
     dragonswap()

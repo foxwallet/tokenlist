@@ -273,5 +273,12 @@
     "symbol": "REG",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/0xe5f7ef61443fc36ae040650aa585b0395aef77c8.png"
+  },
+  {
+    "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/100/0x4537e328bf7e4efa29d05caea260d7fe26af9d74.webp"
   }
 ]
