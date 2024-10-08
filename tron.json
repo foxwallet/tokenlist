@@ -113,5 +113,15 @@
     "type": "TRC20",
     "tag": "recommend",
     "priceSource": "cmc:sundog"
+  },
+  {
+    "address": "TE2T2vLnEQT1XW647EAQAHWqd6NZL1hweR",
+    "name": "MUNCAT",
+    "symbol": "MUNCAT",
+    "decimals": 18,
+    "logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TE2T2vLnEQT1XW647EAQAHWqd6NZL1hweR.jpeg",
+    "type": "TRC20",
+    "tag": "recommend",
+    "priceSource": "cmc:muncat"
   }
 ]
