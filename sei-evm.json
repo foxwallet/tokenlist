@@ -219,7 +219,7 @@
     "name": "Synnax Stablecoin",
     "symbol": "syUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xbB5850008495B4D7e4C242e30fFC5B6A0f7E916E/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/syUSD.webp"
   },
   {
     "address": "0xB629b01A0b3Be5fDab174464507B37C67c3c6084",

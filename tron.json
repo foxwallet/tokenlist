@@ -119,7 +119,7 @@
     "name": "MUNCAT",
     "symbol": "MUNCAT",
     "decimals": 18,
-    "logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TE2T2vLnEQT1XW647EAQAHWqd6NZL1hweR.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MUNCAT.webp",
     "type": "TRC20",
     "tag": "recommend",
     "priceSource": "cmc:muncat"
