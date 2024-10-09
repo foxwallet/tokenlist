@@ -70,7 +70,8 @@ NATIVE_COIN_MAP = {
     "tron": "TRX",
     "sei-evm": "SEI",
     "sei": "SEI",
-    "zircuit": "ETH"
+    "zircuit": "ETH",
+    "sui": "SUI"
 }
 
 proxies = {
@@ -340,6 +341,28 @@ def dragonswap():
         result["sei-evm"].append(token)
     update_tokens(result)    
 
+def sui_cetus():
+    print("start sui_cetus")
+    unique_id = "sui"
+    result = {
+       unique_id : []
+    }
+    url = "https://api-sui.cetus.zone/v2/sui/coins_info"
+    data = requests.get(url, proxies=proxies, timeout=5).json()
+    for item in data.get("data", {}).get("list", []):
+        if not item["is_trusted"]:
+            continue
+        token = {
+            "address": item["coin_type"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": int(item["decimals"]),
+            "logoURI": item["logo_url"],
+            "type": "SUICoin",
+        }
+        result[unique_id].append(token)
+    update_tokens(result)
+    
 
 if __name__ == "__main__":
     one_inch()
@@ -351,3 +374,4 @@ if __name__ == "__main__":
     silkswap()
     ton_diamonds()
     dragonswap()
+    sui_cetus()

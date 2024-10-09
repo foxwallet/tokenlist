@@ -28,7 +28,10 @@ def download():
         r"^https://static\.oklink\.com",
         r"^https://swap\.zchains\.com",
         r"^https://static\.tronscan\.org",
-        r"^https://raw\.githubusercontent\.com/dragonswap-app"
+        r"^https://raw\.githubusercontent\.com/dragonswap-app",
+        r"^https://archive\.cetus\.zone",
+        r"^https://assets\.playdarktimes\.com",
+        r"^https://.*?\.arweave\.net",
     ]
 
     for f in os.listdir("."):
@@ -102,7 +105,6 @@ def check_dead_link():
                     continue
                 if not is_image_url_valid(logoURI):
                     print(f"{logoURI} is dead")
-
 
 
 if __name__ == "__main__":

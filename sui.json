@@ -1,0 +1,687 @@
+[
+  {
+    "address": "0xed4504e791e1dad7bf93b41e089b4733c27f35fde505693e18186c2ba8e2e14b::suib::SUIB",
+    "name": "Suiba Inu",
+    "symbol": "SUIB",
+    "decimals": 9,
+    "logoURI": "https://fvies4qayyhittfc6gxdfldafsmynmk5o5yitbrtnujlpbktv77a.arweave.net/LVBJcgDGDonMovGuMqxgLJmGsV13cImGM20St4VTr_4",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+    "name": "NAVX Token",
+    "symbol": "NAVX",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NAVX.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb6baa75577e4bbffba70207651824606e51d38ae23aa94fb9fb700e0ecf50064::kimchi::KIMCHI",
+    "name": "KIMCHI",
+    "symbol": "KIMCHI",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KIMCHI.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xf925a9e67cbe498c7e5cd87a17fc09692c455b940f065f4b462f885ea196a89d::smove::SMOVE",
+    "name": "sMOVE",
+    "symbol": "sMOVECOIN",
+    "decimals": 0,
+    "logoURI": "https://4g7mzcwybmcqsnwiygg4eotqtqkays7y6qyyuycm7tetewing4da.arweave.net/4b7MitgLBQk2yMGNwjpwnBQMS_j0MYpgTPzJMlkNNwY",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x202591744d54ee4f4af736ef3b8508f3d46d982c36747d9587032bd549122179::luck::LUCK",
+    "name": "LuckyStar",
+    "symbol": "LUCK",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LUCK.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+    "name": "Ondo US Dollar Yield",
+    "symbol": "USDY",
+    "decimals": 6,
+    "logoURI": "https://ondo.finance/images/tokens/usdy.svg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
+    "name": "Tether (Celer)",
+    "symbol": "cUSDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cUSDT.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::BLUB::BLUB",
+    "name": "BLUB",
+    "symbol": "BLUB",
+    "decimals": 2,
+    "logoURI": "https://453ilwcfza3uzupxtaell2f2acwezft7jynjduuc3skuehtu76pq.arweave.net/53aF2EXIN0zR95gItei6AKxMln9OGpHSgtyVQh50_58",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x9e6d6124287360cc110044d1f1d7d04a0954eb317c76cf7927244bef0706b113::SCUBA::SCUBA",
+    "name": "SCUBA DOG",
+    "symbol": "SCUBA",
+    "decimals": 6,
+    "logoURI": "https://j3i5gtlp36ptsx6lyygrujd2cx7vgzaxbqyeiyqded67ihlbehva.arweave.net/TtHTTW_fnzlfy8YNGiR6Ff9TZBcMMERiAyD99B1hIeo",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+    "name": "Tether (Portal from Eth)",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
+    "type": "SUICoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x6907963ca849faff0957b9a8269a7a07065e3def2eef49cc33b50ab946ea5a9f::coin::COIN",
+    "name": "BonkCoin (Portal from Solana)",
+    "symbol": "BONK",
+    "decimals": 5,
+    "logoURI": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI",
+    "name": "ARTFI",
+    "symbol": "ARTFI",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/dG1ec3skYBn7kZ1rWVmiC8QCotv4c7v2FlmQCw4DOgw",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+    "name": "Haedal staked SUI",
+    "symbol": "haSUI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/haSUI.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN",
+    "name": "Wrapped Matic (Portal from Polygon)",
+    "symbol": "WMATIC",
+    "decimals": 8,
+    "logoURI": "https://fe3wnx45vysrtzfr7kwg4aowt7aqb2tku4szytg2ayfwdyp3jk6q.arweave.net/KTdm352uJRnksfqsbgHWn8EA6mqnJZxM2gYLYeH7Sr0",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+    "name": "Aftermath Staked SUI",
+    "symbol": "afSUI",
+    "decimals": 9,
+    "logoURI": "https://aftermath.finance/coins/afsui.svg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_wsteth_coin::CELER_WSTETH_COIN",
+    "name": "Wrapped stETH (Celer)",
+    "symbol": "wstETH",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/wstETH.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x0e25582daef54ee41052390c4db5e70a82ec1baed97942db0eb6094267624b5d::jwlcetus::JWLCETUS",
+    "name": "JWLCETUS",
+    "symbol": "JWLCETUS",
+    "decimals": 9,
+    "logoURI": "https://t3d7i5s4u6ntxge7nqkwjnfnyswrk22ymd4utk4qmaxlh7zofgyq.arweave.net/nsf0dlynmzuYn2wVZLStxK0Va1hg-UmrkGAus_8uKbE",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x2cd6f14a4b64c3a0fa9c644e8ed88d9c91d789a071886d67d24e6b435147063d::pugwif::PUGWIF",
+    "name": "Pugwifhat",
+    "symbol": "PUGWIF",
+    "decimals": 9,
+    "logoURI": "https://2fqoiyw7ewk4ecchpakhk5rr4brbfy7abyidgjw6cphzlgg464ba.arweave.net/0WDkYt8llcIIR3gUdXYx4GIS4-AOEDMm3hPPlZjc9wI",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://qele7wvrqjkzonp2egfsagymxbgrewy7adtywuxng4tmpdaycfxa.arweave.net/gRZP2rGCVZc1-iGLIBsMuE0SWx8A54tS7Tcmx4wYEW4",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x32d5056aaac1be1f9ae44c1d0728792255a05f1475d458287ee463cc26806ca0::mover_usd::MOVER_USD",
+    "name": "MOVER USD",
+    "symbol": "moverUSD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/moverUSD.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA",
+    "name": "ALPHA Token",
+    "symbol": "ALPHA",
+    "decimals": 9,
+    "logoURI": "https://7taj6jfau6n3dri7agspzfnva7qbj5sizz5xc3lb56nmxpsyoiba.arweave.net/_MCfJKCnm7HFHwGk_JW1B-AU9kjOe3FtYe-ay75YcgI",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x9c6d76eb273e6b5ba2ec8d708b7fa336a5531f6be59f326b5be8d4d8b12348a4::coin::COIN",
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PYTH.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x648f9eab1434c056d509ad857fb657ac170528798d771f7eb1edc35639e3e75c::movecoin::MOVECOIN",
+    "name": "MOVE",
+    "symbol": "MOVE",
+    "decimals": 9,
+    "logoURI": "https://gk4id6fee24ru5cdipjxyz6cl42yjtzl3xfuizlpqjub42hx5rvq.arweave.net/MriB-KQmuRp0Q0PTfGfCXzWEzyvdy0Rlb4JoHmj37Gs",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x66f87084e49c38f76502d17f87d17f943f183bb94117561eb573e075fdc5ff75::coin::COIN",
+    "name": "Wrapped GLMR (Portal from Moonbeam)",
+    "symbol": "WGLMR",
+    "decimals": 8,
+    "logoURI": "https://zuwfvhekgt5rgxaa5e5yraqnxeivprtu2siky5qtffa2ysvcvh6q.arweave.net/zSxanIo0-xNcAOk7iIINuRFXxnTUkKx2EylBrEqiqf0",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x06b145d0322e389d6225f336ab57bba4c67e4e701bd6c6bc959d90675900a17e::meow::MEOW",
+    "name": "meow",
+    "symbol": "meow",
+    "decimals": 6,
+    "logoURI": "https://jzhofbnmt7zm75jiat7owwpjolda3hiwaqybb2kejq2mbtwdamda.arweave.net/Tk7ihayf8s_1KAT-61npcsYNnRYEMBDpREw0wM7DAwY",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
+    "name": "Wrapped AVAX (Portal from Avalanche)",
+    "symbol": "WAVAX",
+    "decimals": 8,
+    "logoURI": "https://dvv5kcjybfklcqlql7dj7mfrfzj4bgunkcdgz6uh3re4usboi5ba.arweave.net/HWvVCTgJVLFBcF_Gn7CxLlPAmo1Qhmz6h9xJykguR0I",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xc44d97a4bc4e5a33ca847b72b123172c88a6328196b71414f32c3070233604b2::slp::SLP",
+    "name": "Sudo LP Token",
+    "symbol": "SLP",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SLP.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x0e25582daef54ee41052390c4db5e70a82ec1baed97942db0eb6094267624b5d::jwlsca::JWLSCA",
+    "name": "JWLSCA",
+    "symbol": "JWLSCA",
+    "decimals": 9,
+    "logoURI": "https://ocknifrosvx5vmpte2zavnpv7fpkauqsqu5tij43iy5shxdle6ha.arweave.net/cJTUFi6Vb9qx8yayCrX1-V6gUhKFOzQnm0Y7I9xrJ44",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x980ec1e7d5a3d11c95039cab901f02a044df2d82bc79d99b60455c02524fad83::pup::PUP",
+    "name": "Pum Pup",
+    "symbol": "PUP",
+    "decimals": 9,
+    "logoURI": "https://res.cetus.zone/coin-metadata/mainnet/icon/pup.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
+    "name": "USD Coin (Portal from BSC)",
+    "symbol": "USDCbnb",
+    "decimals": 8,
+    "logoURI": "https://co3xbx3vz2ww7tcs2tp4p36hdnkz677tuvqt6wgyfyoeefj6or6a.arweave.net/E7dw33XOrW_MUtTfx-_HG1Wff_OlYT9Y2C4cQhU-dHw",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe4239cd951f6c53d9c41e25270d80d31f925ad1655e5ba5b543843d4a66975ee::SUIP::SUIP",
+    "name": "SuiPad",
+    "symbol": "SUIP",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUIP.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 6,
+    "logoURI": "https://cdn.1stdigital.com/icon/fdusd.svg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_fxs_coin::CELER_FXS_COIN",
+    "name": "Frax Share (Celer)",
+    "symbol": "FXS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FXS.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+    "name": "CETUS Token",
+    "symbol": "CETUS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CETUS.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_weth_coin::CELER_WETH_COIN",
+    "name": "Wrapped Ether (Celer)",
+    "symbol": "WETH",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WETH.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x46fbe54691b27d7abd2c9e5a01088913531f241b98f3c2351f8215e45cc17a4c::times::TIMES",
+    "name": "TIMES",
+    "symbol": "TIMES",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TIMES.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB",
+    "name": "Sacabam",
+    "symbol": "SCB",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SCB.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+    "name": "sudeng",
+    "symbol": "HIPPO",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HIPPO.webp",
+    "type": "SUICoin",
+    "priceSource": "cmc:sudeng",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x4e56b39acd75721999cf833062dfb77b1d51e749b02d90f049a5688e21919a64::prl::PRL",
+    "name": "Pearl",
+    "symbol": "PRL",
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PRL.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xc3f8927de33d3deb52c282a836082a413bc73c6ee0bd4d7ec7e3b6b4c28e9abf::coin::COIN",
+    "name": "USD Coin (Portal from Arbitrum, New)",
+    "symbol": "USDCarb",
+    "decimals": 6,
+    "logoURI": "https://boqgq74qfqr7gfo4x7tpesefwkzawnbe4e3anop54gwsh3ctfdoa.arweave.net/C6Bof5AsI_MV3L_m8kiFsrILNCThNga5_eGtI-xTKNw",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+    "name": "Native USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://sigvc4wfhz5h7om4dg4y47mhiwnnzd77gatnd7hmqjadm7lt5ima.arweave.net/kg1RcsU-en-5nBm5jn2HRZrcj_8wJtH87IJANn1z6hg",
+    "type": "SUICoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xae00e078a46616bf6e1e6fb673d18dcd2aa31319a07c9bc92f6063363f597b4e::AXOL::AXOL",
+    "name": "AXOL",
+    "symbol": "AXOL",
+    "decimals": 9,
+    "logoURI": "https://p7op7v4f4nub263xmrqch45p32rkeclriobps4v6nrut5g7q464q.arweave.net/f9z_14XjaB17d2RgI_Ov3qKiCXFDgvlyvmxpPpvw57k",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
+    "name": "Fud The Pug",
+    "symbol": "FUD",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FUD.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN",
+    "name": "Aptos Coin (Portal from Aptos)",
+    "symbol": "APT",
+    "decimals": 8,
+    "logoURI": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x01d430425a8a681ef26315e78a082fe744f8d0bbdbd1ab76b9fd78ada09bedca::Koi::KOI",
+    "name": "KOI",
+    "symbol": "KOI",
+    "decimals": 6,
+    "logoURI": "https://ubxwf7ujw5ktuqvndqeqogfoiu343qxl2a3h3i5l5zkzj66fp6xa.arweave.net/oG9i_om3VTpCrRwJBxiuRTfNwuvQNn2jq-5VlPvFf64",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
+    "name": "Bucket USD",
+    "symbol": "BUCK",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BUCK.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x934692a74595c4f5a0c026130eb2143eea6fc313742f5d7dd9e45fd6ddbb00f1::suime::SUIME",
+    "name": "SUIME",
+    "symbol": "SUIME",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUIME.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x6081300950a4f1e2081580e919c210436a1bed49080502834950d31ee55a2396::coin::COIN",
+    "name": "Wrapped Fantom (Portal from Fantom)",
+    "symbol": "WFTM",
+    "decimals": 8,
+    "logoURI": "https://tqhb43iz7vqrys2frjp73jn2o3uzehbmybq2sv2me2fpo4rocbja.arweave.net/nA4ebRn9YRxLRYpf_aW6dumSHCzAYalXTCaK93IuEFI",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x893aa3f358b70e7dbcf957c64a1f016633630af42fb6097f25c33ef9fa738dd2::cap::CAP",
+    "name": "CAP",
+    "symbol": "CAP",
+    "decimals": 9,
+    "logoURI": "https://owhanwxsgozv6rpjuntz4a32lqhb2tl4kurcmyltpd6ipysudv2a.arweave.net/dY4G2vIzs19F6aNnngN6XA4dTXxVIiZhc3j8h-JUHXQ",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x2cff601fe16f622fd6203f8f64bef4e68d687f51f4d06f13c2bbba17cb84c87e::stash::STASH",
+    "name": "STASH",
+    "symbol": "STASH",
+    "decimals": 9,
+    "logoURI": "https://res.cetus.zone/coin-metadata/mainnet/icon/6738cf10-b0f6-4661-821f-0838c27bc07b.jpeg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x2921ca2fe6ee99698b095f046bc9759ce7a764d2e91ab0ad182c143649c3df79::jwlsui::JWLSUI",
+    "name": "JWLSUI",
+    "symbol": "JWLSUI",
+    "decimals": 9,
+    "logoURI": "https://bwxyokyoypcv4zjesyqn6gnjfopzohnrcv2lqwdvcccgahccintq.arweave.net/Da-HKw7DxV5lJJYg3xmpK5-XHbEVdLhYdRCEYBxCQ2c",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
+    "name": "Wrapped BNB (Portal from BSC)",
+    "symbol": "WBNB",
+    "decimals": 8,
+    "logoURI": "https://4hl5riddvifwsfzqzggti3dyrekvhogjvwkaduy5w5bgs2k7zwga.arweave.net/4dfYoGOqC2kXMMmNNGx4iRVTuMmtlAHTHbdCaWlfzYw",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x1c6cd615ed4c42a34977212a3407a28eec21acc572c8dbe7d0382bf0289a2590::plop::PLOP",
+    "name": "Sui Plop",
+    "symbol": "PLOP",
+    "decimals": 6,
+    "logoURI": "https://fj74jg6iknyhnkkajybduxndrgvp3r7lklyjnlj7w2cvflsc574a.arweave.net/Kn_Em8hTcHapQE4COl2jiar9x-tS8JatP7aFUq5C7_g",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
+    "name": "USD Coin (Celer)",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x1d58e26e85fbf9ee8596872686da75544342487f95b1773be3c9a49ab1061b19::suia_token::SUIA_TOKEN",
+    "name": "Suia Token",
+    "symbol": "SUIA",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUIA.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA",
+    "name": "aaa cat",
+    "symbol": "AAA",
+    "decimals": 6,
+    "logoURI": "https://45hgkrkliypqc7rpknvnhhqvsdpk23m2sfphh3vcmqrukddd74la.arweave.net/505lRUtGHwF-L1Nq054VkN6tbZqRXnPuomQjRQxj_xY",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd2013e206f7983f06132d5b61f7c577638ff63171221f4f600a98863febdfb47::toce::TOCE",
+    "name": "Tocen Token",
+    "symbol": "TOCE",
+    "decimals": 9,
+    "logoURI": "https://ipfs.tocen.co/tocen/toce.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+    "name": "Volo Staked SUI",
+    "symbol": "vSUI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/vSUI.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM",
+    "name": "SPAM",
+    "symbol": "SPAM",
+    "decimals": 4,
+    "logoURI": "https://3fc4a4tjkjryoqps44rgwhydihn5htqyfjmrrmlouf6rt5qyxjbq.arweave.net/2UXAcmlSY4dB8uciax8DQdvTzhgqWRixbqF9GfYYukM",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x9c86d1926a0a39e906f20674d6a35f337be8625ebcb6b799ee8ff011f328bee2::liq::LIQ",
+    "name": "Liquor",
+    "symbol": "LIQ",
+    "decimals": 6,
+    "logoURI": "https://cehaawdywth4eyp6isj3vmv3ie2g5s3x4w36u3yrl6ytjeqcnulq.arweave.net/EQ4AWHi0z8Jh_kSTurK7QTRuy3flt-pvEV-xNJICbRc",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xde2d3e02ba60b806f81ee9220be2a34932a513fe8d7f553167649e95de21c066::reap_token::REAP_TOKEN",
+    "name": "Releap",
+    "symbol": "REAP",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REAP.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x9fe1780ac27ec50c9c441fb31822f5c148f841f09ee455c6a0daf7c634a30a27::aifrens::AIFRENS",
+    "name": "xAIFRENS",
+    "symbol": "xAIFRENS",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/xAIFRENS.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xa340e3db1332c21f20f5c08bef0fa459e733575f9a7e2f5faca64f72cd5a54f2::fomo::FOMO",
+    "name": "FOMO",
+    "symbol": "FOMO",
+    "decimals": 2,
+    "logoURI": "https://godywyt4kj7lpsj5inpfyk2gj6bijnq2u37jpljb34472e6nf4ya.arweave.net/M4eLYnxSfrfJPUNeXCtGT4KEthqm_petId85_RPNLzA",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_dai_coin::CELER_DAI_COIN",
+    "name": "Dai Stablecoin (Celer)",
+    "symbol": "DAI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DAI.webp",
+    "type": "SUICoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x9a7ca7b6de5b6e9a4dadec42fada7cd84068aebd7adbd1faeb713622c4628ca9::meadow::MEADOW",
+    "name": "Meadow",
+    "symbol": "MED",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MED.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x17c334979cd0698ccf9450a3ec2ae0ce1e4c6b0935353fe5facbf69fa77a72af::flamingo::FLAMINGO",
+    "name": "FLAMINGO GRINGO",
+    "symbol": "FLAMINGO",
+    "decimals": 6,
+    "logoURI": "https://42medan3q75itn7ke3v74ukhmzyg6dfif4uajs4unswlk5bbs4oq.arweave.net/5phBgbuH-om36ibr_lFHZnBvDKgvKATLlGystXQhlx0",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x361dd589b98e8fcda9a7ee53b85efabef3569d00416640d2faa516e3801d7ffc::TOKEN::TOKEN",
+    "name": "Suiswap",
+    "symbol": "SSWP",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SSWP.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+    "name": "USD Coin (Portal from Eth)",
+    "symbol": "wUSDC",
+    "decimals": 6,
+    "logoURI": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x9eed28fc98688a799fe51aa6ed39b851bd09d950fc785b2d7c9f543796254631::drip::DRIP",
+    "name": "Dripward",
+    "symbol": "DRIP",
+    "decimals": 9,
+    "logoURI": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed45ad2a-68d2-4761-870f-e2f89a257105.jpeg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+    "name": "Wrapped Ether (Portal from Eth)",
+    "symbol": "WETH",
+    "decimals": 8,
+    "logoURI": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xa198f3be41cda8c07b3bf3fee02263526e535d682499806979a111e88a5a8d0f::coin::COIN",
+    "name": "Celo native asset (Portal from Celo)",
+    "symbol": "CELO",
+    "decimals": 8,
+    "logoURI": "https://lvsbeyhkgqlmrowleqmmshkcp52ym3hqqrtdmsfvbtf7qg7uzcba.arweave.net/XWQSYOo0Fsi6yyQYyR1Cf3WGbPCEZjZItQzL-Bv0yII",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x297b7f887a47fdcdf82364b5b175c2f00c2ece012c06ec7dc58ee7bc0c63aa07::otter::OTTER",
+    "name": "OTTER",
+    "symbol": "OTTER",
+    "decimals": 9,
+    "logoURI": "https://i52dwsbjw2rvuagb4yknsxruq2vwqprdhga6p53ik3co6kzdiwea.arweave.net/R3Q7SCm2o1oAweYU2V40hqtoPiM5gef3aFbE7ysjRYg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+    "name": "Wrapped BTC (Portal from Eth)",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_wbtc_coin::CELER_WBTC_COIN",
+    "name": "Wrapped BTC (Celer)",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WBTC.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
+    "name": "USD Coin (Portal from Solana)",
+    "symbol": "USDCsol",
+    "decimals": 6,
+    "logoURI": "https://ln5rjzkrzlcrgctsbxebvz7gjhbngu7eqk5orymuktocmbgwn5oa.arweave.net/W3sU5VHKxRMKcg3IGufmScLTU-SCuujhlFTcJgTWb1w",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x625d518a3cc78899742d76cf785609cd707e15228d4284aa4fee5ca53caa9849::dgg_token::DGG_TOKEN",
+    "name": "Dungeon Gold",
+    "symbol": "DGG",
+    "decimals": 6,
+    "logoURI": "https://h6bzmql5j4nlpj3hiiizzqdmygd7xfbkzcn2gtfy4chmjsmmpdsq.arweave.net/P4OWQX1PGrenZ0IRnMBswYf7lCrIm6NMuOCOxMmMeOU",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
+    "name": "ETH by Sui Bridge",
+    "symbol": "ETH",
+    "decimals": 8,
+    "logoURI": "https://7pvi3cofz5e2mh4734dwdigm3vggd4fqfiiez66d476kz2tc2gwa.arweave.net/--qNicXPSaYfn98HYaDM3Uxh8LAqEEz7w-f8rOpi0aw",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe32d3ebafa42e6011b87ef1087bbc6053b499bf6f095807b9013aff5a6ecd7bb::coin::COIN",
+    "name": "USD Coin (Portal from Arbitrum, Old)",
+    "symbol": "USDCarb",
+    "decimals": 6,
+    "logoURI": "https://zesrehijzslvuwaf7vplw5qsnhjdz4cpsighhn65watc4fwl22gq.arweave.net/ySUSHQnMl1pYBf1eu3YSadI88E-SDHO33bAmLhbL1o0",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xcf72ec52c0f8ddead746252481fb44ff6e8485a39b803825bde6b00d77cdb0bb::coin::COIN",
+    "name": "USD Coin (Portal from Polygon)",
+    "symbol": "USDCpol",
+    "decimals": 6,
+    "logoURI": "https://otjatct2scltanet7e7untvl3lx4kccddwx5pusxqr6a2pd3qe5a.arweave.net/dNIJinqQlzA0k_k_Rs6r2u_FCEMdr9fSV4R8DTx7gTo",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+    "name": "Suiman",
+    "symbol": "Suiman",
+    "decimals": 6,
+    "logoURI": "https://i.ibb.co/4Ff8v5f/ava.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
+    "name": "Wrapped SOL (Portal from Solana)",
+    "symbol": "WSOL",
+    "decimals": 8,
+    "logoURI": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xbff8dc60d3f714f678cd4490ff08cabbea95d308c6de47a150c79cc875e0c7c6::sbox::SBOX",
+    "name": "SuiBoxer",
+    "symbol": "SBOX",
+    "decimals": 1,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SBOX.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+    "name": "Scallop",
+    "symbol": "SCA",
+    "decimals": 9,
+    "logoURI": "https://vrr7y7aent4hea3r444jrrsvgvgwsz6zi2r2vv2odhgfrgvvs6iq.arweave.net/rGP8fARs-HIDcec4mMZVNU1pZ9lGo6rXThnMWJq1l5E",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xfd48ffd0e62ed5cb839400b7e0bee870cd752f9d01c657a665be2afff16995eb::skart::SKART",
+    "name": "sKART",
+    "symbol": "sKARTCOIN",
+    "decimals": 9,
+    "logoURI": "https://osp3bhhpqkgtrtuww3cn6cqpcy36lxhu2j4djhbr5fu4fzusrt2a.arweave.net/dJ-wnO-CjTjOlrbE3woPFjfl3PTSeDScMelpwuaSjPQ",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x2cddfc6d4fc855917e990e71cd122b1ee8098aa890186ee15a84524ed17cd8c9::suitard::SUITARD",
+    "name": "suitard",
+    "symbol": "STD",
+    "decimals": 9,
+    "logoURI": "https://ddvsphxgmoon42sglizlhz5fpgpbgr2xsd66uflj7l2pym3rdeya.arweave.net/GOsnnuZjnN5qRloys-eleZ4TR1eQ_eoVafr0_DNxGTA",
+    "type": "SUICoin"
+  }
+]
