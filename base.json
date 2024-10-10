@@ -387,5 +387,12 @@
     "symbol": "OETHb",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0xdbfefd2e8460a6ee4955a68582f85708baea60a3.png"
+  },
+  {
+    "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+    "name": "Moonwell",
+    "symbol": "WELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WELL.webp"
   }
 ]

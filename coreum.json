@@ -98,5 +98,12 @@
     "name": "XRP",
     "symbol": "XRP",
     "decimals": 6
+  },
+  {
+    "address": "ulicore-core13gza3msdh8hegqxhgezll9quucsr63s0gp43k274xwt66k4e8pmq5zpnm9",
+    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/liCORE.png",
+    "name": "liCORE",
+    "symbol": "liCORE",
+    "decimals": 6
   }
 ]

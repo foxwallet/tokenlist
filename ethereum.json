@@ -8204,5 +8204,19 @@
     "symbol": "EIGEN",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xec53bf9167f50cdeb3ae105f56099aaab9061f83.png"
+  },
+  {
+    "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+    "name": "BiLira",
+    "symbol": "TRYB",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRYB.webp"
+  },
+  {
+    "address": "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9",
+    "name": "Staked ENA",
+    "symbol": "sENA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9.webp"
   }
 ]

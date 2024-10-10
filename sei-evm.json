@@ -248,5 +248,47 @@
     "symbol": "What?",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/What?.webp"
+  },
+  {
+    "address": "0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+    "name": "CookOnSEI",
+    "symbol": "COOK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/COOK.webp"
+  },
+  {
+    "address": "0x9b31ad7d1eE5a37c64a5972275C5F09fFfbC2C6f",
+    "name": "Master",
+    "symbol": "SENSEI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SENSEI.webp"
+  },
+  {
+    "address": "0xDF3D7DD2848f491645974215474c566E79F2e538",
+    "name": "S8N",
+    "symbol": "SEITAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SEITAN.webp"
+  },
+  {
+    "address": "0xF63980e3818607c0797e994cfD34c1c592968469",
+    "name": "Burger",
+    "symbol": "SUPERSEIZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUPERSEIZ.webp"
+  },
+  {
+    "address": "0x7950C5Fbd48F6BC3555D1dAE2C03e0Ea5Eb987dc",
+    "name": "Mushvro",
+    "symbol": "VROS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/VROS.webp"
+  },
+  {
+    "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+    "name": "LORD SHISHO",
+    "symbol": "SHISHO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SHISHO.webp"
   }
 ]
