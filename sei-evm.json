@@ -290,5 +290,12 @@
     "symbol": "SHISHO",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SHISHO.webp"
+  },
+  {
+    "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+    "name": "fastUSD",
+    "symbol": "fastUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/fastUSD.webp"
   }
 ]

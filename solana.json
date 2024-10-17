@@ -178,5 +178,15 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:io-net"
+  },
+  {
+    "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+    "name": "Goatseus Maximus",
+    "symbol": "GOAT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GOAT.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:goatseus-maximus"
   }
 ]

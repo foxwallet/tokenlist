@@ -8218,5 +8218,12 @@
     "symbol": "sENA",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9.webp"
+  },
+  {
+    "address": "0x4d1C297d39C5c1277964D0E3f8Aa901493664530",
+    "name": "Puffer Finance",
+    "symbol": "PUFFER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PUFFER.webp"
   }
 ]

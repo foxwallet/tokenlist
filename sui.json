@@ -691,5 +691,21 @@
     "decimals": 6,
     "logoURI": "https://lk47si3fdmkhszxbmzuksrg5gcbum5rbnudnjd7cnzxor7g2cd7a.arweave.net/Wrn5I2UbFHlm4WZoqUTdMINGdiFtBtSP4m5u6PzaEP4",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+    "name": "DeepBook Token",
+    "symbol": "DEEP",
+    "decimals": 6,
+    "logoURI": "https://oyflsj63aqulztiwsfy3cg4oly6m34pyw2uirqpbfz2rllr6dzoa.arweave.net/dgq5J9sEKLzNFpFxsRuOXjzN8fi2qIjB4S51Fa4-Hlw",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xaf9e228fd0292e2a27b4859bc57a2f3a9faedb9341b6307c84fef163e44790cc::uni::UNI",
+    "name": "Uni",
+    "symbol": "Uni",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/HK51s6xHPbFRHjHjTLna5XyypW5Yk94c1zjok822FJ88",
+    "type": "SUICoin"
   }
 ]
