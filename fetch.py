@@ -27,10 +27,11 @@ CHAIN_ID_MAP = {
     "42766": "zkfair",
     "48900": "zircuit",
     "59144": "linea",
+    "80085": "bera-artio",
     "81457": "blast",
     "168168": "zchains",
     "167000": "taiko",
-    "80085": "bera-artio",
+    "200901": "bitlayer",
     "534352": "scroll",
 }
 
@@ -71,7 +72,8 @@ NATIVE_COIN_MAP = {
     "sei-evm": "SEI",
     "sei": "SEI",
     "zircuit": "ETH",
-    "sui": "SUI"
+    "sui": "SUI",
+    "bitlayer": "BTC",
 }
 
 proxies = {

@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xfe9f969faf8ad72a83b761138bf25de87eff9dd2",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x9827431e8b77e87c9894bd50b055d6be56be0030",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png",
+    "tag": "recommend"
+  }
+]
