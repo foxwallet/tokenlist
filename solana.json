@@ -188,5 +188,15 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:goatseus-maximus"
+  },
+  {
+    "address": "Afo4NumBNHDXc7m7p6qjZ1pF3LbqYfG5k1CNrGve8rVu",
+    "name": "FalconX",
+    "symbol": "FALX",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FALX.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:falxdex-io"
   }
 ]
