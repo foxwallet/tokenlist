@@ -245,7 +245,8 @@
     "symbol": "SCR",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/scr.png",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "cmc:scroll"
   },
   {
     "address": "0x17a60bb4649a7bb885d05c008d7118a5e513d895",

@@ -120,5 +120,19 @@
     "symbol": "uniBTC",
     "decimals": 8,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/unibtc.png"
+  },
+  {
+    "address": "0x1de70f3e971B62A0707dA18100392af14f7fB677",
+    "name": "ZRC20 Base Mainnet ETH",
+    "symbol": "ETH.BASE",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png"
+  },
+  {
+    "address": "0x96152e6180e085fa57c7708e18af8f05e37b479d",
+    "name": "ZRC20 USDC Base Mainnet",
+    "symbol": "USDC.BASE",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
   }
 ]

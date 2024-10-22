@@ -707,5 +707,37 @@
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/HK51s6xHPbFRHjHjTLna5XyypW5Yk94c1zjok822FJ88",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x594b539e0020ca22f83e9a8f55c1fede4c5730130d5b100fcf01f98ddb4f94c8::awww::AWWW",
+    "name": "awww~~~awww",
+    "symbol": "awww",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/9GnzhvzZsXdpZPGV7YH4nEwaYogYdWTVV8Y2JYGgqmJf",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xfc71274a94f5d9cd1ae6928ecfc9fa910d03eb28258fddeb9842ac3c7b4f3ae6::pigu::PIGU",
+    "name": "PIGU",
+    "symbol": "PIGU",
+    "decimals": 5,
+    "logoURI": "https://idcawqx5x4ziq6wq7xck7wlleckqbzv5jbhqpgbbeynww2kd4pda.arweave.net/QMQLQv2_Moh60P3Er9lrIJUA5r1ITweYISYba2lD48Y",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb779486cfd6c19e9218cc7dc17c453014d2d9ba12d2ee4dbb0ec4e1e02ae1cca::spt::SPT",
+    "name": "SPT",
+    "symbol": "SPT",
+    "decimals": 9,
+    "logoURI": "https://seapad.s3.ap-southeast-1.amazonaws.com/uploads/PROD/public/media/images/logo_1685439392353.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x5a4f64079daed04d923c93f3ac4ee04b637e5b3ea2db87d591981c1049508a27::suilama::SUILAMA",
+    "name": "Suilama",
+    "symbol": "SUILAMA",
+    "decimals": 6,
+    "logoURI": "https://api.movepump.com/uploads/1000030596_8a14750351.jpg",
+    "type": "SUICoin"
   }
 ]

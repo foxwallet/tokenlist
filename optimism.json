@@ -371,5 +371,12 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/10/0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1.webp"
+  },
+  {
+    "address": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+    "name": "Kraken Wrapped Bitcoin",
+    "symbol": "kBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98.png"
   }
 ]
