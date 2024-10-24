@@ -13,7 +13,8 @@
     "symbol": "WSEI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WSEI.webp",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "cmc:wrapped-sei"
   },
   {
     "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
@@ -21,7 +22,8 @@
     "symbol": "iSEI",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iSEI.webp",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "coingecko"
   },
   {
     "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
@@ -297,5 +299,33 @@
     "symbol": "fastUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/fastUSD.webp"
+  },
+  {
+    "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+    "name": "Sei Less",
+    "symbol": "LESS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079/logo.png"
+  },
+  {
+    "address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+    "name": "CHIP$ on SEI",
+    "symbol": "CHIPS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc/logo.png"
+  },
+  {
+    "address": "0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
+    "name": "SHENRON",
+    "symbol": "SHENRN",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896/logo.png"
+  },
+  {
+    "address": "0x40ff962cc119AA9fB5380D316050986805e1a681",
+    "name": "Yoshi",
+    "symbol": "YOSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x40ff962cc119AA9fB5380D316050986805e1a681/logo.png"
   }
 ]
