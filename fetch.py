@@ -74,6 +74,7 @@ NATIVE_COIN_MAP = {
     "zircuit": "ETH",
     "sui": "SUI",
     "bitlayer": "BTC",
+    "aptos": "APT",
 }
 
 proxies = {

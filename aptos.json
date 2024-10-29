@@ -1,0 +1,20 @@
+[
+  {
+    "address": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "whUSDC",
+    "decimals": 6,
+    "logoURI": "https://wallet.foxnb.net/tokens/aptos/0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T.webp",
+    "tag": "recommend",
+    "type": "AptosCoin"
+  }
+]

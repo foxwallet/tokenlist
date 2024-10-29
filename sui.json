@@ -739,5 +739,21 @@
     "decimals": 6,
     "logoURI": "https://api.movepump.com/uploads/1000030596_8a14750351.jpg",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x31348f17429e6b37ed269cc667cc83947ff8c54593dcbd1a56cae06a895a38be::fratt::FRATT",
+    "name": "FroggnRatt",
+    "symbol": "FRATT",
+    "decimals": 2,
+    "logoURI": "https://xatontgesaqf7cfeboedtsik7xnnz2wespeifbf3igqzifiqi6fa.arweave.net/uCbmzMSQIF-IpAuIOckK_drc6sSTyIKEu0GhlBUQR4o",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x41636c138167952207c88f5a75e433c9e880bc7bd5e4e46047d82be266d36712::dak::DAK",
+    "name": "dak",
+    "symbol": "dak",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/JAgm2ztSdQGU5CncYUtNSp4Ce6qtv29nttZKAeQn441S",
+    "type": "SUICoin"
   }
 ]
