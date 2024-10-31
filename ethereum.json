@@ -8239,5 +8239,13 @@
     "symbol": "kBTC",
     "decimals": 8,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98.png"
+  },
+  {
+    "address": "0x61cc6aF18C351351148815c5F4813A16DEe7A7E4",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WCT.webp",
+    "tag": "recommend"
   }
 ]
