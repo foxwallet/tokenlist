@@ -8247,5 +8247,13 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WCT.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0xb612bFC5cE2FB1337Bd29F5Af24ca85DbB181cE2",
+    "name": "Klaus",
+    "symbol": "KLAUS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KLAUS.webp",
+    "tag": "recommend"
   }
 ]
