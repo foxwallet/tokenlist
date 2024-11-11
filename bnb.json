@@ -1520,7 +1520,8 @@
     "name": "ApeSwapFinance Banana",
     "symbol": "BANANA",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95.png",
+    "priceSource": "cmc:apeswap-finance"
   },
   {
     "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",

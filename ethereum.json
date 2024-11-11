@@ -8255,5 +8255,19 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KLAUS.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0xbb22d59b73d7a6f3a8a83a214becc67eb3b511fe",
+    "name": "Constellation ETH",
+    "symbol": "xrETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xbb22d59b73d7a6f3a8a83a214becc67eb3b511fe.png"
+  },
+  {
+    "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDG.webp"
   }
 ]
