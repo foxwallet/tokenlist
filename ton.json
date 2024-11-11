@@ -149,5 +149,14 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DOGS.webp",
     "type": "JETTON",
     "tag": "recommend"
+  },
+  {
+    "address": "EQAfzzRcfpnQeIUeNfXrn6p_TGhk-Cne7MnRvT93jry8HMJd",
+    "name": "NEUTON",
+    "symbol": "NEUTON",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEUTON.webp",
+    "type": "JETTON",
+    "tag": "recommend"
   }
 ]
