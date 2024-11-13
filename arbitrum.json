@@ -697,7 +697,8 @@
     "name": "Bonk",
     "symbol": "Bonk",
     "decimals": 5,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Bonk.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Bonk.webp",
+    "priceSource": "cmc:bonk1"
   },
   {
     "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",

@@ -198,5 +198,15 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:falxdex-io"
+  },
+  {
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "name": "Bonk",
+    "symbol": "BONK",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BONK.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:bonk1"
   }
 ]
