@@ -907,5 +907,13 @@
     "decimals": 8,
     "logoURI": "https://node1.irys.xyz/qg69O3RwWkFt8QG2_GeTh-xGOQEkLbaiPjuU-yDsHqM",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
+    "name": "SuiNS Token",
+    "symbol": "NS",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/FRs7eLL3B5eABDW3hG5xwtaATaU4x8fEZm9V5z8GdFYr",
+    "type": "SUICoin"
   }
 ]

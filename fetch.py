@@ -17,6 +17,7 @@ CHAIN_ID_MAP = {
     "463": "areon",
     "1100": "dym",
     "1329": "sei-evm",
+    "2818": "morph",
     "4200": "merlin",
     "5165": "bahamut",
     "7000": "zeta-evm",
@@ -75,6 +76,7 @@ NATIVE_COIN_MAP = {
     "sui": "SUI",
     "bitlayer": "BTC",
     "aptos": "APT",
+    "morph": "ETH"
 }
 
 proxies = {

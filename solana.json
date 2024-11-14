@@ -2118,7 +2118,7 @@
     "name": "ZynCoin (Wormhole)",
     "symbol": "ZYN",
     "decimals": 8,
-    "logoURI": "https://pbs.twimg.com/profile_images/1734964928434294784/pjyf-A-E.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZYN.webp",
     "type": "SPL"
   },
   {
@@ -7934,7 +7934,7 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SHIB(Portal).webp",
     "type": "SPL"
-  }, 
+  },
   {
     "address": "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt",
     "name": "Edgevana Staked SOL",
