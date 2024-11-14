@@ -8269,5 +8269,12 @@
     "symbol": "USDG",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDG.webp"
+  },
+  {
+    "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+    "name": "Savings crvUSD",
+    "symbol": "scrvUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x0655977feb2f289a4ab78af67bab0d17aab84367.png"
   }
 ]

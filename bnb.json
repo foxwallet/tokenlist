@@ -3402,5 +3402,12 @@
     "symbol": "AAVE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AAVE.webp"
+  },
+  {
+    "address": "0xb617fab6b94ed1fe6df3cad71e1dc997927a2a0e",
+    "name": "InfinitiCoin",
+    "symbol": "INCO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xb617fab6b94ed1fe6df3cad71e1dc997927a2a0e.webp"
   }
 ]

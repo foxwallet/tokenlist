@@ -891,5 +891,21 @@
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/8raXDMcjv2y9sV6pXSJkiyw6PXa7B44GRXNzuBBstfQL",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x5b154911639d47efc2f5e7d84ee65c7b001dc4cae19486de4d318ea9ae005582::BadInu::BADINU",
+    "name": "Bad Inu",
+    "symbol": "BADINU",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BADINU.webp",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
+    "name": "Lorenzo stBTC",
+    "symbol": "stBTC",
+    "decimals": 8,
+    "logoURI": "https://node1.irys.xyz/qg69O3RwWkFt8QG2_GeTh-xGOQEkLbaiPjuU-yDsHqM",
+    "type": "SUICoin"
   }
 ]
