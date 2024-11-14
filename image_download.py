@@ -44,6 +44,9 @@ def download():
                 symbol: str = token.get("display", token["symbol"])
                 symbol = symbol.replace(" ", "_")
                 logoURI: str = token["logoURI"]
+                if not logoURI:
+                    print(f"No logoURI of {symbol}")
+                    return
                 need_replace = False
                 for patten in replace_list:
                     if re.search(patten, logoURI):

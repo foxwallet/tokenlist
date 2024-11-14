@@ -108,6 +108,8 @@ def update_tokens(new_tokens: Mapping[str, List]):
                     continue
                 if t["address"].lower() in skip_addrs:
                     continue
+                if not t["logoURI"]:
+                    continue
                 new_tokens.append(t)
             new_tokens = list(filter(lambda t: t.get("symbol", None) != NATIVE_COIN_MAP.get(chain, ""), new_tokens))
             with open(f"{chain}.json", "w+") as writer:
@@ -367,6 +369,28 @@ def sui_cetus():
     update_tokens(result)
     
 
+def jupiter():
+    print("start jupiter")
+    unique_id = "solana"
+    result = {
+       unique_id : []
+    }
+    url = "https://tokens.jup.ag/tokens?tags=verified"
+    data = requests.get(url, proxies=proxies, timeout=5).json()
+    for item in data:
+        token = {
+            "address": item["address"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": int(item["decimals"]),
+            "logoURI": item["logoURI"],
+            "type": "SPL",
+        }
+        result[unique_id].append(token)
+    update_tokens(result)
+    
+
+
 if __name__ == "__main__":
     one_inch()
     uniswap()
@@ -378,3 +402,4 @@ if __name__ == "__main__":
     ton_diamonds()
     dragonswap()
     sui_cetus()
+    jupiter()
