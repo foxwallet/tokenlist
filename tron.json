@@ -123,5 +123,25 @@
     "type": "TRC20",
     "tag": "recommend",
     "priceSource": "cmc:muncat"
+  },
+  {
+    "address": "TSig7sWzEL2K83mkJMQtbyPpiVSbR6pZnb",
+    "name": "Invest Zone",
+    "symbol": "IVfun",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/IVfun.webp",
+    "type": "TRC20",
+    "tag": "recommend",
+    "priceSource": "cmc:invest-zone"
+  },
+  {
+    "address": "TAt4ufXFaHZAEV44ev7onThjTnF61SEaEM",
+    "name": "Tron Bull",
+    "symbol": "BULL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BULL.webp",
+    "type": "TRC20",
+    "tag": "recommend",
+    "priceSource": "cmc:tron-bull"
   }
 ]
