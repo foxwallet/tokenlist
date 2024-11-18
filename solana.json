@@ -14408,5 +14408,317 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/rakurai-io/token-metadata/master/assets/RaiSOL-Logo.png",
     "type": "SPL"
+  },
+  {
+    "address": "GJtJuWD9qYcCkrwMBmtY1tpapV1sKfB2zUv9Q4aqpump",
+    "name": "Rifampicin",
+    "symbol": "$RIF",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWhxjoSpGKFW3ruyZ3YNVGwW5uooqbccGNpMr82Eeqq8U",
+    "type": "SPL"
+  },
+  {
+    "address": "7ZqzGzTNg5tjK1CHTBdGFHyKjBtXdfvAobuGgdt4pump",
+    "name": "Hasbulla's Cat",
+    "symbol": "BARSIK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQGnY89VpTTxVvrVTvoqEqtptEBj4wE7FCDTA95xrFpou",
+    "type": "SPL"
+  },
+  {
+    "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+    "name": "zerebro",
+    "symbol": "ZEREBRO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD",
+    "type": "SPL"
+  },
+  {
+    "address": "FvgqHMfL9yn39V79huDPy3YUNDoYJpuLWng2JfmQpump",
+    "name": "Urolithin A",
+    "symbol": "$URO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZmvNpAwq1rkrRyGguR25nb3Y15wMCBnA9WVsp3XmuK5V",
+    "type": "SPL"
+  },
+  {
+    "address": "bGxHNbsacaVL35pkYWae5PYQDZXSpuQb3QDyW31pump",
+    "name": "#1 TikTok Squirrel",
+    "symbol": "Peanut",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmS1LXqkdePkjm2wKs7NBVL1Wzfgx3djrEE49tzsy6fNrw",
+    "type": "SPL"
+  },
+  {
+    "address": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
+    "name": "Comedian",
+    "symbol": "Ban",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfKEGFPjMhtMdc6Nud7yvbPS8tiXfbFu2jGMvSUTejF9V",
+    "type": "SPL"
+  },
+  {
+    "address": "79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump",
+    "name": "Dolos The Bully",
+    "symbol": "BULLY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNMsVRQz2dWkC34rUJ9exBtzkCKUa1frfHM5YxizJR4GV",
+    "type": "SPL"
+  },
+  {
+    "address": "BsAEhPN1DKfpjMoSZ5UnDTL4impSYvT9ZpFjnBD2pump",
+    "name": "Reflections of Dissonance AI",
+    "symbol": "AIKA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTXXFV8w9Asgj4zqCRGqnoi1234TRbXn8JMnrigzGiDmP",
+    "type": "SPL"
+  },
+  {
+    "address": "51zudBR4NmATG35goida4dLQH5YPn9k8hVkLcizNpump",
+    "name": "jam cat",
+    "symbol": "jam",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYAH1wBwBXeJnKRkmxzAuWM5Lws8gZJgmR2q3EsDncn9e",
+    "type": "SPL"
+  },
+  {
+    "address": "5PsnNwPmMtsGZgG6ZqMoDJJi28BR5xpAotXHHiQhpump",
+    "name": "Cupsey",
+    "symbol": "Cupsey",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmctCyqr1uaT9cAPG8yG3V6JkCKaGwbFxbSt4robZyyYtZ",
+    "type": "SPL"
+  },
+  {
+    "address": "F1uB7phqFVuyzsFoXWkcwNoCY3KJGFNsFLyeSoQYpump",
+    "name": "K-9 Killed in Shootout",
+    "symbol": "TITAN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQEvWmR1rKBuNphV2DCMD9u3XXgjv3TRPoLMJuBhF5siQ",
+    "type": "SPL"
+  },
+  {
+    "address": "JB2wezZLdzWfnaCfHxLg193RS3Rh51ThiXxEDWQDpump",
+    "name": "LABUBU",
+    "symbol": "LABUBU",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeYP3cZdnLK81J3sR4EjBp1V8LUe28vSRGLJC3ebRHHaw",
+    "type": "SPL"
+  },
+  {
+    "address": "66gsTs88mXJ5L4AtJnWqFW6H2L5YQDRy4W41y6zbpump",
+    "name": "YouSim AI",
+    "symbol": "YOUSIM",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNYB9znirZ3WyitN7YSRh2EHfvevBwGcekRNPLZyKoWiq",
+    "type": "SPL"
+  },
+  {
+    "address": "5h5YCbybHMpVj378FrxrypY9eXKoy92Vpw9xyru1pump",
+    "name": "BOSSU",
+    "symbol": "BOSSU",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfUCmMtCnzW9rer9EqvActbk8CvSwPQLEeJALUPTrnSZU",
+    "type": "SPL"
+  },
+  {
+    "address": "3RfQPYVJgJbwyB3BzqqypCEWWryxjTfFDAcXQsckpump",
+    "name": "Solaris AI",
+    "symbol": "SOLARIS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUt3aN9P8WCfsEzhioR18rCCbzW8cxMtZYZHdozXxWacy",
+    "type": "SPL"
+  },
+  {
+    "address": "D8kgv5BRyfxUgTJGhkPJcw1Neo1eaneENC5XxC99pump",
+    "name": "RIZZLER",
+    "symbol": "RZLR",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmTn7pyg4SxSfdSjjZ8KKqy35iPZT7ZnWj3wist6SHirDV",
+    "type": "SPL"
+  },
+  {
+    "address": "BeV4PdcZsNX2WgKgwFTTEgLEnAkbD9CGgxdcVzPHpump",
+    "name": "Game is game",
+    "symbol": "GAME",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcwvRBrHrGT659gURFQPJZbh1rA7usWRhLrvtrk78sw7S",
+    "type": "SPL"
+  },
+  {
+    "address": "C4jMVM797K2FqzbwxJn4TdPyuVhso7kCUu7UXRfjpump",
+    "name": "waa",
+    "symbol": "waa",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSCnaWv9mC5FKPLajwVFPnPFwxxnZncWCidmJtmCGuP6H",
+    "type": "SPL"
+  },
+  {
+    "address": "GiSC3EA7C2kZwESb53cJybcmeRRExM4gqzV5UTz9pump",
+    "name": "Bitcoin Wizard Mascot",
+    "symbol": "BTCWIZ",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVC6So6pzX3o1N5KxeQ2DaHngb5j5utGHkG1XeiSYXu7N",
+    "type": "SPL"
+  },
+  {
+    "address": "6GVeCdCNVKpvypkig3m7FRbykSENZdd1cEBm1rqDpump",
+    "name": "Awwtistic",
+    "symbol": "Aww",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUozQbdDTCc64KSubUf7T2FSKFVw3UppNDb78bfJ4nK3N",
+    "type": "SPL"
+  },
+  {
+    "address": "92kxUXDsBQLy5ptGxtmH9CDYd5E6ZQynzf2eFPiUpump",
+    "name": "blob",
+    "symbol": "blob",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcgZnx2mzt8kiBYpZYZq7gPgT1XyXeu6W4HiAtfzkWeh9",
+    "type": "SPL"
+  },
+  {
+    "address": "7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump",
+    "name": "Crime onchain",
+    "symbol": "CRIME",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmX8AXXubhrwFbTJR9E2DqQxzK4ZZV7J72sFfqnf62CcFS",
+    "type": "SPL"
+  },
+  {
+    "address": "8MgghUHzWyCXSQb4ReqrYQZ9rL8cQNaZ84GsqWhTB4Uu",
+    "name": "UNFK",
+    "symbol": "$UNFK",
+    "decimals": 1,
+    "logoURI": "https://arweave.net/6kk7x67a1LpUgUpmfo1lA1Ig7rVze-I_HRgj8ci-Wi8",
+    "type": "SPL"
+  },
+  {
+    "address": "8TzfHZa6ZnvvGsQfnFC5wGrCiqbN9nD2KMjyabfrpump",
+    "name": "stoicism",
+    "symbol": "stoic",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmUyVYk1rSsyiTK5Up2srhA6T6Vv8Wt4TqpGusrXbyZRWX",
+    "type": "SPL"
+  },
+  {
+    "address": "JBSVUpKgYNHt4GLtNebQxTJmZgftTMWENQrziHtGpump",
+    "name": "Swarm",
+    "symbol": "Swarm",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdzdR5uTGxTN3v2syZbyoDpoLvNXN1F5uiUkjgvgooXEu",
+    "type": "SPL"
+  },
+  {
+    "address": "Gx2yQqgguqpKwGCrrgx4dr8toTYevczEtGd6B1pKpump",
+    "name": "BOOP",
+    "symbol": "BOOP",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVBvVMUzxHJCikjhkU68azovyRuXkf3JAy3nNosA86EAs",
+    "type": "SPL"
+  },
+  {
+    "address": "4kHu4VktgzpZW9i8LEsHZrNLJcTV98nGhyZE5JSEpump",
+    "name": "Pigeon Tech",
+    "symbol": "GOVAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNyA92NMt1JNnt2sREBbA6ef9SjR95dZWuuZJEXKtpP7m",
+    "type": "SPL"
+  },
+  {
+    "address": "3kM6vNo8WeCd7DY3EZBjPuFQ9h8gi3Bm5T8rFPQq1WBt",
+    "name": "SnakeOfSolana",
+    "symbol": "HISS",
+    "decimals": 1,
+    "logoURI": "https://bafkreifokag63hizvgeeiijesc25bwqnjyrk65cfhlknerukmai2tqvjem.ipfs.nftstorage.link",
+    "type": "SPL"
+  },
+  {
+    "address": "HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD",
+    "name": "Trust Wallet (Portal)",
+    "symbol": "TWT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TWT.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "DSXWF79VQ3RzFBB67WeNfCzfzAQq5X6m97zi85bq1TRx",
+    "name": "Catalina Whale Mixer Floor Index",
+    "symbol": "WHALES",
+    "decimals": 2,
+    "logoURI": "https://bafkreicadecx3rbffm6tqtgtc67bi6r2xiibtmawcejje7pfu7id2zxwwy.ipfs.dweb.link/",
+    "type": "SPL"
+  },
+  {
+    "address": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
+    "name": "Eversol staked SOL",
+    "symbol": "eSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/everstake/solana-program-library/master/stake-pool/static-content/images/esol_token.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "9GnU66c8qtMmj8rZ481N8Ums1Zmqdv5HgtQJyRVXt8MS",
+    "name": "Gay Coin",
+    "symbol": "GAY",
+    "decimals": 9,
+    "logoURI": "https://bafkreiawnonresayudw43hu67b37ga3dlfkbgq2oicfhc3vtmbnwzukdcu.ipfs.nftstorage.link",
+    "type": "SPL"
+  },
+  {
+    "address": "4bLyzrVvz43NrDBu5J142wpbXNFaBfDQknRRqNoPpump",
+    "name": "take a chance",
+    "symbol": "chance",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmQKrTWAetPJiacdng7sF5H8D9TFPH3zyPyxyQzzth5XtT",
+    "type": "SPL"
+  },
+  {
+    "address": "BVoFXcjNSQ8fHGNc2aeS52rLXwag52PHK2aQJsrkpump",
+    "name": "Cybernetic Culture Research Unit",
+    "symbol": "CCRU",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmW4mZ1ptJgUnfBeZnNpCK1Y87rrrE9ETqZg2GxB27MdYT",
+    "type": "SPL"
+  },
+  {
+    "address": "EhvMNj3jkMhHG8kdnv6EutZn2Fugu4M8casfivy4FfQo",
+    "name": "Not Bean",
+    "symbol": "NOT",
+    "decimals": 9,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/rgXroe4yO2Tt6Paq",
+    "type": "SPL"
+  },
+  {
+    "address": "FqGxVMsvqxchQWRD5CyQpPK1aW13Db8EvC7PvxwVpk3w",
+    "name": "LoveAI",
+    "symbol": "LOVE",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/Vt7JRwIgMrpIygSWcq-ykNYPoCLFVFuXZa7Coi44h-s/love.png",
+    "type": "SPL"
+  },
+  {
+    "address": "rad8NdseJYbjJUFLsv5SuBU9g29N3m4SyYndSbwoKH3",
+    "name": "radSOL",
+    "symbol": "RAD",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/uMrkyZbMNlUsqUdLf7ovBX7WTqX9uSXdHgtBKfV6638",
+    "type": "SPL"
+  },
+  {
+    "address": "yontaGPyo7eLjKfAhW4eXU3L1adKbthqRHx9MsJCzvg",
+    "name": "Yonta Labs Staked SOL",
+    "symbol": "yontaSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sovereign-sol/sources/refs/heads/main/YontaSOLogo.png",
+    "type": "SPL"
+  },
+  {
+    "address": "pSoLt7vmFJWnEyYxUACPRwJh4X2cfrMgYc2iZiJTwii",
+    "name": "puffSOL",
+    "symbol": "puffSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/LtuuQt4BTyNtK1YwekKzi-4wYrrnzZ5exfK4yq0gV5s",
+    "type": "SPL"
   }
 ]

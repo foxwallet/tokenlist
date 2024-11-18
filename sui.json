@@ -722,7 +722,8 @@
     "symbol": "PIGU",
     "decimals": 5,
     "logoURI": "https://idcawqx5x4ziq6wq7xck7wlleckqbzv5jbhqpgbbeynww2kd4pda.arweave.net/QMQLQv2_Moh60P3Er9lrIJUA5r1ITweYISYba2lD48Y",
-    "type": "SUICoin"
+    "type": "SUICoin",
+    "priceSource": "coingecko"
   },
   {
     "address": "0xb779486cfd6c19e9218cc7dc17c453014d2d9ba12d2ee4dbb0ec4e1e02ae1cca::spt::SPT",
