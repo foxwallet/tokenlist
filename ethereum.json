@@ -8276,5 +8276,14 @@
     "symbol": "scrvUSD",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x0655977feb2f289a4ab78af67bab0d17aab84367.png"
+  },
+  {
+    "address": "0xEe2B9b7e168b5b2D40c507b891c7CfB13A6AaF2b",
+    "name": "Zygo The Frog",
+    "symbol": "ZYGO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZYGO.webp",
+    "priceSource": "cmc:zygo-the-frog",
+    "tag": "recommend"
   }
 ]
