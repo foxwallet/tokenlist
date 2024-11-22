@@ -8293,5 +8293,13 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWELL.webp",
     "priceSource": "cmc:swell-network"
+  },
+  {
+    "address": "0x358d94b5b2F147D741088803d932Acb566acB7B6",
+    "name": "rSWELL",
+    "symbol": "rSWELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rSWELL.webp",
+    "priceSource": "cmc:swell-network"
   }
 ]
