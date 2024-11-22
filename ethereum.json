@@ -8285,5 +8285,13 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZYGO.webp",
     "priceSource": "cmc:zygo-the-frog",
     "tag": "recommend"
+  },
+  {
+    "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+    "name": "Swell Governance Token",
+    "symbol": "SWELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWELL.webp",
+    "priceSource": "cmc:swell-network"
   }
 ]
