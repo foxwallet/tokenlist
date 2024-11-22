@@ -8300,6 +8300,6 @@
     "symbol": "rSWELL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rSWELL.webp",
-    "priceSource": "1inch"
+    "priceSource": "cmc:swell-network"
   }
 ]
