@@ -916,5 +916,37 @@
     "decimals": 6,
     "logoURI": "https://gateway.irys.xyz/FRs7eLL3B5eABDW3hG5xwtaATaU4x8fEZm9V5z8GdFYr",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xb5b603827d1bfb2859200fd332d5e139ccac2598f0625de153a87cf78954e0c4::wewe::WEWE",
+    "name": "WEWE",
+    "symbol": "WEWE",
+    "decimals": 9,
+    "logoURI": "https://file-walletapp.waveonsui.com/logos/wewe.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe90c71d308d8e6fed933d20f8b94d811e1dac649dac7815762520e90f84392f7::oceans::OCEANS",
+    "name": "OceansGallerie",
+    "symbol": "OCEANS",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/8a67JLSE8m56kK8bMFFt9HUhpSa1XeGFzSxqdrRcKtjB",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI",
+    "name": "MEMEFI",
+    "symbol": "MEMEFI",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/AymYAvpqK3rnQE9AqtXwzHzPMQeiqdmm9yamxryDsZCT",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xf82dc05634970553615eef6112a1ac4fb7bf10272bf6cbe0f80ef44a6c489385::typus::TYPUS",
+    "name": "Typus",
+    "symbol": "TYPUS",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/CQCvjKXMzASaCMXWx1SyUMa6syFJqtwAaAsAhbzsHGXi",
+    "type": "SUICoin"
   }
 ]

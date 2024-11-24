@@ -1279,10 +1279,11 @@
   },
   {
     "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
-    "name": "Swipe",
+    "name": "Deprecated Swipe Token",
     "symbol": "SXP",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png",
+    "priceSource": "1inch"
   },
   {
     "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
@@ -3423,5 +3424,47 @@
     "symbol": "yBBN2",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ybbn2.svg"
+  },
+  {
+    "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+    "name": "Fetch",
+    "symbol": "FET",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x031b41e504677879370e9DBcF937283A8691Fa7f/logo.png"
+  },
+  {
+    "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+    "name": "CLV",
+    "symbol": "CLV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x09E889BB4D5b474f561db0491C38702F367A4e4d/logo.png"
+  },
+  {
+    "address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
+    "name": "Dogelon Mars",
+    "symbol": "ELON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ELON.webp"
+  },
+  {
+    "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AXL.webp"
+  },
+  {
+    "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUSHI.webp"
+  },
+  {
+    "address": "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
+    "name": "SOL Wormhole ",
+    "symbol": "SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SOL.webp"
   }
 ]

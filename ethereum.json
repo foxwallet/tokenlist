@@ -1047,10 +1047,11 @@
   },
   {
     "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
-    "name": "Swipe",
+    "name": "Deprecated Swipe Token",
     "symbol": "SXP",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png"
+    "logoURI": "https://tokens-data.1inch.io/images/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9.png",
+    "priceSource": "1inch"
   },
   {
     "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
@@ -8301,5 +8302,83 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/rSWELL.webp",
     "priceSource": "cmc:swell-network"
+  },
+  {
+    "address": "0x1121acc14c63f3c872bfca497d10926a6098aac5",
+    "name": "Department Of Government Efficiency",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x1121acc14c63f3c872bfca497d10926a6098aac5.png",
+    "priceSource": "cms:department-of-government-efficiency-token"
+  },
+  {
+    "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Bonk.webp"
+  },
+  {
+    "address": "0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad",
+    "name": "MOO DENG",
+    "symbol": "MOODENG",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad.webp"
+  },
+  {
+    "address": "0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790",
+    "name": "PeiPei",
+    "symbol": "PEIPEI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790.png"
+  },
+  {
+    "address": "0x52a8845df664d76c69d2eea607cd793565af42b8",
+    "name": "ApeX Protocol",
+    "symbol": "APEX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APEX.webp"
+  },
+  {
+    "address": "0x58d97b57bb95320f9a05dc918aef65434969c2b2",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x58d97b57bb95320f9a05dc918aef65434969c2b2.png"
+  },
+  {
+    "address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x594daad7d77592a2b97b725a7ad59d7e188b5bfa.png"
+  },
+  {
+    "address": "0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70",
+    "name": "Jesus Coin",
+    "symbol": "JESUS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70.png"
+  },
+  {
+    "address": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+    "name": "Aethir Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b.webp"
+  },
+  {
+    "address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPX.webp"
+  },
+  {
+    "address": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
+    "name": "Syrup Token",
+    "symbol": "SYRUP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SYRUP.webp"
   }
 ]

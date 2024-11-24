@@ -727,5 +727,19 @@
     "symbol": "AAVE",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0xba5ddd1f9d7f570dc94a51479a000e3bce967196.webp"
+  },
+  {
+    "address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+    "name": "Aethir Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xc87b37a581ec3257b734886d9d3a581f5a9d056c.webp"
+  },
+  {
+    "name": "Coinbase Wrapped BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbBTC.webp"
   }
 ]

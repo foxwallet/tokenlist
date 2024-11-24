@@ -14720,5 +14720,477 @@
     "decimals": 9,
     "logoURI": "https://arweave.net/LtuuQt4BTyNtK1YwekKzi-4wYrrnzZ5exfK4yq0gV5s",
     "type": "SPL"
+  },
+  {
+    "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "name": "USDS",
+    "symbol": "USDS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+    "type": "SPL"
+  },
+  {
+    "address": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+    "name": "Just a chill guy",
+    "symbol": "CHILLGUY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmaFy59TMnLb4jGgL6LpquyXSxTRXKR4mEfSobUSsPoR46",
+    "type": "SPL"
+  },
+  {
+    "address": "wUtwjNmjCP9TTTtoc5Xn5h5sZ2cYJm5w2w44b79yr2o",
+    "name": "ai16zeliza",
+    "symbol": "eliza",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmc2pDAETLKBPKY6jLXXR8PPMekmTX6VnPUEAXuihQpBGE",
+    "type": "SPL"
+  },
+  {
+    "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+    "name": "test griffain.com",
+    "symbol": "GRIFFAIN",
+    "decimals": 6,
+    "logoURI": "https://griffain.com/logo.png",
+    "type": "SPL"
+  },
+  {
+    "address": "Hz4CJCpZky4YD75Zs2R2nBjP5wY6tYbraaT2hVZCpump",
+    "name": "BAKKT",
+    "symbol": "BAKKT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTmf8fdHDtxE9MRNxFCKpQXemyStAQJ9twtMZrfDfWMjk",
+    "type": "SPL"
+  },
+  {
+    "address": "DDij7Dp8updt3XSCzeHCaAoDoFTSE5Y27i2EQ9qjMQtr",
+    "name": "Truth Terminal's Crush",
+    "symbol": "RURI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXH8g82kQGR4wLSAdzzXPYuoJ7YBcfuTCNxnAhbFbusuL",
+    "type": "SPL"
+  },
+  {
+    "address": "AVyjco9j8vv7ZPkhCpEoPJ3bLEuw7G1wrrNt8DrApump",
+    "name": "FlowerAI",
+    "symbol": "Flower",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXBz7u22ErAg9uWki2XK4gaHEc3Uri5V57VKVz6DM6ciQ",
+    "type": "SPL"
+  },
+  {
+    "address": "bozdUuCb2kdipxES9PzsYHmDVrf7FBTSW3p1CFBpump",
+    "name": "Aurora",
+    "symbol": "Aurora",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUhSrBULAtvNjmFzZuwf135yWZCDeEEJkz1CfWKPrF8um",
+    "type": "SPL"
+  },
+  {
+    "address": "5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM",
+    "name": "Eliza",
+    "symbol": "ELIZA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXRKBceEnjWV1EvDRNLAzMTBCvfzmFajopWevczU7bYY1",
+    "type": "SPL"
+  },
+  {
+    "address": "CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump",
+    "name": "WE LOVE ASS",
+    "symbol": "ASS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYqF2cRhTKKUbWjBTuNsXSSNPbzFWtwd9p4ua1xFD2sHv",
+    "type": "SPL"
+  },
+  {
+    "address": "8tSeXYSXzFvaDX1nbWrEFFaFuPHuWqpzksKYxQPvpump",
+    "name": "Vibe Cat",
+    "symbol": "VIBE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbejUh9jPBiHKx9ErfuodxNfxmdg5sCejPnGoJGWJBWyu",
+    "type": "SPL"
+  },
+  {
+    "address": "3joMReCCSESngJEpFLoKR2dNcChjSRCDtybQet5uSpse",
+    "name": "Simon's Cat",
+    "symbol": "CAT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUDeNDuacgt5SK4fVAqG72NbkBr8BULk7BZjfnKpDdyFF",
+    "type": "SPL"
+  },
+  {
+    "address": "AXTCLqqupJN3YWikgDtAZxRKWizsbePDyV9XtkDtpump",
+    "name": "New Baby Elephant Houston Zoo",
+    "symbol": "KIRBY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYiYY8h5A69TMkhgLBC1jhjGHWUawaZkEjh4CSunrZJkx",
+    "type": "SPL"
+  },
+  {
+    "address": "7JofsgKgD3MerQDa7hEe4dfkY3c3nMnsThZzUuYyTFpE",
+    "name": "Cheshire Grin",
+    "symbol": "GRIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH",
+    "type": "SPL"
+  },
+  {
+    "address": "BfdVHnbt9LSNAFCZU9kvTjbrH3jX78sv2siLKGQ7pump",
+    "name": "koto",
+    "symbol": "koto",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVFYvY59LwwS7EAmrZ2eARrkJ5tQsX9zfUbm7zbXaQyzK",
+    "type": "SPL"
+  },
+  {
+    "address": "CWFa2nxUMf5d1WwKtG9FS9kjUKGwKXWSjH8hFdWspump",
+    "name": "Protoken",
+    "symbol": "PRO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeFsV4Yiod2gDDwKwxijn4rV25ViQo8hNCdiU9CwbVanK",
+    "type": "SPL"
+  },
+  {
+    "address": "HB8KrN7Bb3iLWUPsozp67kS4gxtbA4W5QJX4wKPvpump",
+    "name": "Antitoken",
+    "symbol": "ANTI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeFsV4Yiod2gDDwKwxijn4rV25ViQo8hNCdiU9CwbVanK",
+    "type": "SPL"
+  },
+  {
+    "address": "9wBNNCXg8pb4SZpTY868CEr74S25Qy1JmGHFwo9F37dC",
+    "name": "Sugar Bush the Squirrel",
+    "symbol": "sugar",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmawWA2BCfcuMBKd9TDj975QcREuNBkkH1bmHqQtquTfLG",
+    "type": "SPL"
+  },
+  {
+    "address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+    "name": "Ava AI",
+    "symbol": "AVA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQdYxGMCLEZqWpgKo8BREBa5YSUbxFu6qaWiVXUW1yUhg",
+    "type": "SPL"
+  },
+  {
+    "address": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+    "name": "Axie Infinity Shard (Portal from Ethereum)",
+    "symbol": "AXSet",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AXSet.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "51tMb3zBKDiQhNwGqpgwbavaGH54mk8fXFzxTc1xnasg",
+    "name": "APEX",
+    "symbol": "APEX",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APEX.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z",
+    "name": "Swole Doge",
+    "symbol": "SWOLE",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWOLE.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "3jzdrXXKxwkBk82u2eCWASZLCKoZs1LQTg87HBEAmBJw",
+    "name": "FLOOF",
+    "symbol": "FLOOF",
+    "decimals": 1,
+    "logoURI": "https://raw.githubusercontent.com/GreenFailure/Floof/main/OkyT9kpz_400x400.png",
+    "type": "SPL"
+  },
+  {
+    "address": "GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN",
+    "name": "SolAPE Token",
+    "symbol": "SOLAPE",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SOLAPE.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "Ue4yjkPjA4QGis37eWbBsnqfzyK83BtY4AioDETp3Ab",
+    "name": "WHEY",
+    "symbol": "WHEY",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/wuhDfQwfT9SRSXMjUiCH_iggOJfTeczW2tE12-coYB8?ext=png",
+    "type": "SPL"
+  },
+  {
+    "address": "CRYPTi2V87Tu6aLc9gSwXM1wSLc6rjZh3TGC4GDRCecq",
+    "name": "Crypt",
+    "symbol": "$CRYPT",
+    "decimals": 9,
+    "logoURI": "https://www.arweave.net/BBe1FpB8HqGI9Y5pbF_PG1NvP8-gF3-pBOkjACwVJY0?ext=png",
+    "type": "SPL"
+  },
+  {
+    "address": "CpFE715P5DnDoJj9FbCRcuyHHeTXNdRnvzNkHvq1o23U",
+    "name": "DARC Token",
+    "symbol": "DARC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/Konstellation/DARC_token/main/256darctoken.png",
+    "type": "SPL"
+  },
+  {
+    "address": "3uNAevHamuZKKQdtdLzmHNvqD8r14tXUUXx5PN48UbYC",
+    "name": "Nasi Lemak",
+    "symbol": "NLTK",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/avaelon/nltk/main/logo.png",
+    "type": "SPL"
+  },
+  {
+    "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
+    "name": "FTT (Wormhole v1)",
+    "symbol": "wFTT_v1",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/wFTT_v1.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo",
+    "name": "Rope Token",
+    "symbol": "ROPE",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo/logo.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "xmassddEu7xD32CRi7Rpc9c1WNSaMhwnjWQg7W1JM9Z",
+    "name": "Christmas Spirit on SOL",
+    "symbol": "XMAS",
+    "decimals": 9,
+    "logoURI": "https://bafybeig2zg6zp5ichuqcosm2ag5dbhlcg6phcdcsavz4y4mkmex443hmmi.ipfs.nftstorage.link",
+    "type": "SPL"
+  },
+  {
+    "address": "3oU51xU5yz7wKLRMMKAqvVVpzfuvXLKUScqyht8q2PKd",
+    "name": "RuneScape Gold",
+    "symbol": "RSGP",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/1DD9ebAPaNad9amklX-8CWxnuPCBmv-Hslwxg8Q_VqE",
+    "type": "SPL"
+  },
+  {
+    "address": "FfhArvgv8WB7eZ6qwENMouJRzcVpQVDoDtTuHrCk4Cxi",
+    "name": "Pepe The Cat",
+    "symbol": "PEPECAT",
+    "decimals": 6,
+    "logoURI": "https://bafybeifbzu5z6iwrhv536rilzubdm4r6nsj5h67iz3sl7zgbowwbnihnmq.ipfs.nftstorage.link",
+    "type": "SPL"
+  },
+  {
+    "address": "DVZrNS9fctrrDmhZUZAu6p63xU6d9cqYxRRhJbtJ4z8G",
+    "name": "Ross Ulbricht",
+    "symbol": "Ross",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmQTCrTL2VdpCjm93Tzjeyam9VoWj4CsqVsCM7eLzJKXEN",
+    "type": "SPL"
+  },
+  {
+    "address": "H7N54K1TjCgRtRLanZaPaDczdKFBTAiA4grvcVuArQzr",
+    "name": "OKANE",
+    "symbol": "OKANE",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/Q_ZEOnWXOn2Wj0_SQC5rPuanDhRyonuUwsQJWpaPYRc",
+    "type": "SPL"
+  },
+  {
+    "address": "7RrLheV7dSecVka3MfjYb4Wa6Z6uegNyzhpFeERsfFZP",
+    "name": "Retardia",
+    "symbol": "Retardia",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYUexzrHKqEN1DgNBxQyUECmJaB9WhVfUYWzE4ht9prge",
+    "type": "SPL"
+  },
+  {
+    "address": "69G8CpUVZAxbPMiEBrfCCCH445NwFxH6PzVL693Xpump",
+    "name": "Xavier: Renegade Angel",
+    "symbol": "xavier",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmebA1sjK6DqbBByZZCKMfNRoLCKMKxSEzFWTTHSCtoMKy",
+    "type": "SPL"
+  },
+  {
+    "address": "4J5HoZWoKcbo2JQxEEVCKRBfUQtEroY1QdRrKtZFpump",
+    "name": "infinite backrooms",
+    "symbol": "IB",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbTZo6YWeXrvaNRYbbzrZKofooSBo5aYTGsjPsJTnHGAa",
+    "type": "SPL"
+  },
+  {
+    "address": "BD3zHHcK6aqz1RVBawMyhp5DfXFaDYaBXzwBH8cEpump",
+    "name": "Cedar the goat",
+    "symbol": "CEDAR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYuJP6sp5XL5UvceBUvmTxnowpPwS6LSVCVCsG9aNTufE",
+    "type": "SPL"
+  },
+  {
+    "address": "5NmDofUfjrAydmLGRyXrbiYRDZ2LhvdEG3jLWHUTpump",
+    "name": "Simon for NYC Dog Mayor",
+    "symbol": "SIMON",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUWhwwehWy6q9ecAv8H1HFbxyYdvga4TnpArgjmY2Bq39",
+    "type": "SPL"
+  },
+  {
+    "address": "7wM4MnbsPsG95A3WhZgbrPWvMtydKmJjqKr2ZVJVpump",
+    "name": "Naval AI",
+    "symbol": "NAVAL",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmf5T7WE6qmdUCWkQMttJF9hDGrsUyfNffin5chnnVfju6",
+    "type": "SPL"
+  },
+  {
+    "address": "6ty746K8QZFpGGrimYHMsAfXQnewszEgPfT39atbpump",
+    "name": "Lingyan",
+    "symbol": "Lingyan",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcFrE4idNWcVNW5gv5gKtsbThUi4sbSjvfk5iWhsrueXr",
+    "type": "SPL"
+  },
+  {
+    "address": "4ZiYgt9nyPXvSfBWADGYHiWnTdnogrFgLTALdFWVpump",
+    "name": "Arie The Sealion",
+    "symbol": "Arie",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNoLvMTXRRyJNsgN1cTiVzMFdjGZUCaiVQTfQhQUKcmsc",
+    "type": "SPL"
+  },
+  {
+    "address": "7ty3ruNJebb8RYmzfpUommJnZnCwaoB8RNfqpjLMpump",
+    "name": "jorkin",
+    "symbol": "jorkin",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWc9UqgET8W1PEGUdVySCarNKtgSkUsnN2xhEfk33QDsa",
+    "type": "SPL"
+  },
+  {
+    "address": "7dxQE4YXrWqtwUVb8W8HjfPT3t4H4dWZfsDWRWKupump",
+    "name": "Bio Acceleration",
+    "symbol": "BIO/ACC",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSn4GHs4o5c7yEk81rUPHa3RgExYaLKMAuZQgXWGawzR7",
+    "type": "SPL"
+  },
+  {
+    "address": "AMgMqadZ7Qpe9PCQwehAG3Xbg5cf8JxCxH7sGCSupump",
+    "name": "MONKEY TAKEN BY POLICE",
+    "symbol": "Jorgie",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWBy2Gnf9dTVFMrCZE1v3JYwQhgvZDBkjSPuXRdzTRZGW",
+    "type": "SPL"
+  },
+  {
+    "address": "GEpyBPM7NfPcwmjmbitVRyr1hPWxegRLL5ac2nbNEVN9",
+    "name": "buni",
+    "symbol": "BUNI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYToJ1f9WfaXyrSQkFekWi55tVvZFCy4t3VJLDzGTQ1es",
+    "type": "SPL"
+  },
+  {
+    "address": "9EwutmiMiLHoH5hj5aCLMDJUdsLZVg926ZmDdr8Ppump",
+    "name": "ChatGPT",
+    "symbol": "CHATTY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmW1YoK6BWVNR7jcEHBpR47hHLiCG55eM3ucWRk5FN7w46",
+    "type": "SPL"
+  },
+  {
+    "address": "74ZnBs4M4q2icYPLKry6RDFhCEKwgYNZAqq5Hxjkpump",
+    "name": "goob",
+    "symbol": "goob",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVZXrKNKJ8xE6QGCaE9wuLuR4jJ6XHLP7QJUrqZJp3CJ9",
+    "type": "SPL"
+  },
+  {
+    "address": "GRUmPYbiTpq9ZPy5LAqBMMze7kErf5dEX2i9qYfwoSmR",
+    "name": "Grumpy Cat",
+    "symbol": "GRUMPY",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmezkzHwWJGTR8hsaFj9rRVfNPUzKCJmWfhhWgP591x2xr",
+    "type": "SPL"
+  },
+  {
+    "address": "DQc6FTgu2HiB1PMUkHj8SATCtxsCeeMz5hiaqwk1pump",
+    "name": "fur-nancial advisor",
+    "symbol": "fur",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVF5Q81eLQ25BBqS6HHfATAKgyxhTqzaFYDDJEHkta2UN",
+    "type": "SPL"
+  },
+  {
+    "address": "AXNgt2tyXdoNR3VaXqtN8E91m9ZwKCJrVHAX6r7Dpump",
+    "name": "Andrew Tate's Dog",
+    "symbol": "G",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWJ6BkRe9aVYd6o8iZYrMBPLv8hYbZRaTkyMzykT9NPE6",
+    "type": "SPL"
+  },
+  {
+    "address": "Dctsus1FAf1GUJ2mM1TeBL7k1Za7Xk9T34T5vRzvpump",
+    "name": "shr00m",
+    "symbol": "shr00m",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXnYYTMV68XMScjve2eUAmMoFF7BFuLN8Z4VhZJkCQpiP",
+    "type": "SPL"
+  },
+  {
+    "address": "2wqkw3idoEYFV8fyM54PvS5BYHieT8rAZqzdHg6aqZby",
+    "name": "pepeAI",
+    "symbol": "PEPEAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmccmbDraeeyaned8HTuSUg1rTUDP55Xkmo8mUoX9pWJgy",
+    "type": "SPL"
+  },
+  {
+    "address": "2Crpmvk14W1tzqLJ4QGc6KSkzHDju93jcqYq6kSs4BGi",
+    "name": "MooCat",
+    "symbol": "MooCat",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmS3MDCezpszMtU9wUGxpjNweNPYzvvgNnpnxTGVBokQ9T",
+    "type": "SPL"
+  },
+  {
+    "address": "F8tDt7QRAYicWQPK5LTh8kZR4zKJPdTiEq5dwCcVpump",
+    "name": "Sensus",
+    "symbol": "SENSUS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYxDsZxBR3A8wMho48LZ4DFxKN9BanSQPoqBxoHBLTFKN",
+    "type": "SPL"
+  },
+  {
+    "address": "CEhFvMotKm3zucKUBEHVvTaxQ4e9QVPaAjSfkzFLpump",
+    "name": "Kappy",
+    "symbol": "Kappy",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcJ9DsKRA4DiUnfAL429WuX9ouA3Jkp8Pb8xv5mh7gG6J",
+    "type": "SPL"
+  },
+  {
+    "address": "CwdjgD54hgTQChspxHhirWLQWqy3EsxtndrcpLBqpump",
+    "name": "GOBI",
+    "symbol": "GOBI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXaFEK67hxmxtoK41jB33q3cPE6VNW7irSvUGZKyeKPiQ",
+    "type": "SPL"
+  },
+  {
+    "address": "AFUqBP1MLx4v1wiE1aUD8dPNG6npEZrAhp3JfXFipump",
+    "name": "WOBBO",
+    "symbol": "WOBBO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdV6c4LjpffUQr1R6i6oV6SoqpdYWWCW8cBqqqauYjtiQ",
+    "type": "SPL"
   }
 ]
