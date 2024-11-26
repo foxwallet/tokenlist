@@ -143,5 +143,15 @@
     "type": "TRC20",
     "tag": "recommend",
     "priceSource": "cmc:tron-bull"
+  },
+  {
+    "address": "TQKQRxEDH2vhtxGB4obGeHwu7AqGDryU3C",
+    "name": "Sugar Boy",
+    "symbol": "SUGAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUGAR.webp",
+    "type": "TRC20",
+    "tag": "recommend",
+    "priceSource": "cmc:sugar-boy"
   }
 ]
