@@ -385,6 +385,21 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WCT.webp",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "cmc:walletconnect-token"
+  },
+  {
+    "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
+    "name": "TLX DAO Token",
+    "symbol": "TLX",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0xd9cc3d70e730503e7f28c1b407389198c4b75fa2.png"
+  },
+  {
+    "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1.png"
   }
 ]

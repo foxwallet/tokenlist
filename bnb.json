@@ -3466,5 +3466,19 @@
     "symbol": "SOL",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SOL.webp"
+  },
+  {
+    "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+    "name": "PolkastarterToken",
+    "symbol": "POLS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa.webp"
+  },
+  {
+    "address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
+    "name": "Thena",
+    "symbol": "THE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/THE.webp"
   }
 ]

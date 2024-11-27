@@ -560,5 +560,12 @@
     "symbol": "Cheems",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cheems.png"
+  },
+  {
+    "address": "0xd4169e045bcf9a86cc00101225d9ed61d2f51af2",
+    "name": "rsETHWrapper",
+    "symbol": "wrsETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/324/0xd4169e045bcf9a86cc00101225d9ed61d2f51af2.png"
   }
 ]

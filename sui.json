@@ -948,5 +948,13 @@
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/CQCvjKXMzASaCMXWx1SyUMa6syFJqtwAaAsAhbzsHGXi",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xf22da9a24ad027cccb5f2d496cbe91de953d363513db08a3a734d361c7c17503::LOFI::LOFI",
+    "name": "LOFI",
+    "symbol": "LOFI",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/GqFLYxhLNuKYbSYCVJrjqnARisqogKhggngtYg9sZ9uw",
+    "type": "SUICoin"
   }
 ]

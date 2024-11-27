@@ -15192,5 +15192,197 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmdV6c4LjpffUQr1R6i6oV6SoqpdYWWCW8cBqqqauYjtiQ",
     "type": "SPL"
+  },
+  {
+    "address": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+    "name": "Stonks",
+    "symbol": "STNK",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STNK.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "6QSVGUEyBZWRshnXKhS96NQ97vGWiTu61SyHLAbYpump",
+    "name": "markkacy",
+    "symbol": "KACY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXVUag77A8zmMLhvQRxdhhfhm7SmmkvLFb3SmvkGSiBZD",
+    "type": "SPL"
+  },
+  {
+    "address": "45A2W6WEkQGkLpawnkkDhgNMKkTs3oYHrabxfUzppump",
+    "name": "Wood Wide Web",
+    "symbol": "WWW",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmasXS5NNYWbAhYyX6fziNY3DxZqYM9uSfAY3q3FTCVGtd",
+    "type": "SPL"
+  },
+  {
+    "address": "GrLvp1v6SGUyDZxUDxy69cTibyTQkNNJ6ukePW4Tpump",
+    "name": "Terry In The Trenches",
+    "symbol": "Terry",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmS6UQwyqPsocstbR896GKVjxyoAkwLR19bPYsrZYmMqfU",
+    "type": "SPL"
+  },
+  {
+    "address": "F5hXpxtsK7UeFC2gsbiTbyhVrUNXN5JG7xkDqpQfpump",
+    "name": "MAXX",
+    "symbol": "MAXX",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmaNbWCRc41weYvzoBCZQbhxNihA2NYnkhGRs1NM2VvgtF",
+    "type": "SPL"
+  },
+  {
+    "address": "EvPUFsBikS1B3GpbmVvUWAc4DXaBXD4zLDER9SVSEF27",
+    "name": "CHAD CAT",
+    "symbol": "CHADCAT",
+    "decimals": 9,
+    "logoURI": "https://www.chadcat.io/image/logo_coin_new.png",
+    "type": "SPL"
+  },
+  {
+    "address": "SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr",
+    "name": "Solrise Finance",
+    "symbol": "SLRS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SLRS.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+    "name": "Lido DAO (Portal)",
+    "symbol": "LDO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LDO.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "AebrVZPfSH7KPAxPwnuqTZB9QNepdktk7HSSY4SNj7BM",
+    "name": "Venture Coin",
+    "symbol": "VC",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/6HvW8RLbLhBbw09QDRpPd6HX-N3Sk9kF2vvdaZGHExU",
+    "type": "SPL"
+  },
+  {
+    "address": "YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz",
+    "name": "Charactbit",
+    "symbol": "CHB",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CHB.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz",
+    "name": "SolYard Finance",
+    "symbol": "YARD",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/YARD.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "CH74tuRLTYcxG7qNJCsV9rghfLXJCQJbsu7i52a8F1Gn",
+    "name": "Soldex",
+    "symbol": "SOLX",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SOLX.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "BiXfcLuwLpyPCKZpjyNxL6ozc6ZXAoHZ52A3fxFpump",
+    "name": "XiaoPang",
+    "symbol": "Xiao",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTSaumaEpaiFphDwScbqgS6TeaCyuZtrTCwUKZeDBdjU3",
+    "type": "SPL"
+  },
+  {
+    "address": "EM5XFHRjzDexTbrw9uEfMGeZRUU7qnngN5rToEb2pump",
+    "name": "sus",
+    "symbol": "sus",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRpyLoLav5icKbj9Y4om7JEXKYEVfCA7T52is2KSCUPFQ",
+    "type": "SPL"
+  },
+  {
+    "address": "72XUGRRzuSoLRch3QPpSPHkuZ8F58rvtCNF4QSosLb4H",
+    "name": "Project Aeon",
+    "symbol": "AEON",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmcjo4ki67bwocQLL4TAfpG687cUfAeD26REQ3SwNR8Bqt",
+    "type": "SPL"
+  },
+  {
+    "address": "8AS9yeGsAwvTs9gCDKMmB2MgX8NiSvv4uppH61yqpump",
+    "name": "$horny",
+    "symbol": "$horny",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXcdcTd2LsrQi4G8gci6sBjkXSWqDotNuy72LQBZpC7T6",
+    "type": "SPL"
+  },
+  {
+    "address": "5qmL9rCSfZ7pBYAsaoeG8SP76ZELeRCK8XtMmYZvpump",
+    "name": "W / I / B W \\ O \\ B",
+    "symbol": "wibwob",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZ993NxabadVUAV1MnARUS84tGt473NVk5J6vP8BYvaZD",
+    "type": "SPL"
+  },
+  {
+    "address": "2HUDMBsnctpkQo2fdf6Z4ECrXhAJbemJ4NJr4X9Spump",
+    "name": "LONG",
+    "symbol": "LONG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfVkzNv8MqvYhgRd1vHPiQGprrQ9k2WATm9C15FGpKdSw",
+    "type": "SPL"
+  },
+  {
+    "address": "EE3p4nX6dXp4xQWkH37qbg1SuWnKf7pujn7HrDH4pump",
+    "name": "Boggle",
+    "symbol": "Boggle",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPan4h5qLRVRdf3esZudWqr89doSEKYgeM1Czzpvxv6Np",
+    "type": "SPL"
+  },
+  {
+    "address": "5SXx7DqZAwnYwRxhBdkcV78RdJrzvCJjRxLmoXdbpump",
+    "name": "Vera AI",
+    "symbol": "VERA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSFS9o8GzgmbmVPrsCujryCkXberrYb7gq9QuiopnZ5qt",
+    "type": "SPL"
+  },
+  {
+    "address": "2XsexjLapEenZobsrqXWZsDga4nNU7XmoW48NgWoGzht",
+    "name": "Tonic",
+    "symbol": "TONIC",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWGg1tpUGn3uX1LYpYRMEVuoMj4RLC63betfkViPfA4oJ",
+    "type": "SPL"
+  },
+  {
+    "address": "FeiEDFwX4p2uLBwGLWv8pfgNz97nPtPX5xM3unrLpump",
+    "name": "wabbit",
+    "symbol": "wabbit",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbqEgzaTvPnGbkdRqPc7YgZay2WBG8ggMuize68a5XXZk",
+    "type": "SPL"
+  },
+  {
+    "address": "8Rqc8foPzUZkxRQGuyCTAZS7QKAwncJVvgKXz1AKpump",
+    "name": "Meng Chong",
+    "symbol": "MENG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmawiBvDW3vcsBRTvhoSSXkYKXHxzjW9q5wjuzvwQEgrFv",
+    "type": "SPL"
+  },
+  {
+    "address": "HaoHBFBjc5UgcFvWDHsGb3n6qtyJkvP27yd4cei5pump",
+    "name": "HAKU",
+    "symbol": "HAKU",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/Do3tBgnJOX8MNhZCEytHghc10mwBxn49r5oD79ajq94",
+    "type": "SPL"
   }
 ]

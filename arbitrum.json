@@ -741,5 +741,19 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbBTC.webp"
+  },
+  {
+    "address": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
+    "name": "Xai",
+    "symbol": "XAI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66.png"
+  },
+  {
+    "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+    "name": "ether.fi governance token",
+    "symbol": "ETHFI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27.png"
   }
 ]

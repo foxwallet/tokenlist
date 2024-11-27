@@ -8380,5 +8380,19 @@
     "symbol": "SYRUP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SYRUP.webp"
+  },
+  {
+    "address": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f.png"
+  },
+  {
+    "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409.png"
   }
 ]
