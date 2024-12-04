@@ -8247,7 +8247,8 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WCT.webp",
-    "tag": "recommend"
+    "tag": "recommend",
+    "priceSource": "cmc:walletconnect-token"
   },
   {
     "address": "0xb612bFC5cE2FB1337Bd29F5Af24ca85DbB181cE2",
@@ -8382,6 +8383,28 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SYRUP.webp"
   },
   {
+    "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "name": "USDX",
+    "symbol": "USDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDX.webp",
+    "priceSource": "cmc:usdx-money"
+  },
+  {
+    "address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
+    "name": "Heroes of Mavia",
+    "symbol": "MAVIA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x24fcfc492c1393274b6bcd568ac9e225bec93584.png"
+  },
+  {
+    "address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
+    "name": "0x0.ai",
+    "symbol": "0x0",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5.png"
+  },
+  {
     "address": "0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f",
     "name": "Lisk",
     "symbol": "LSK",
@@ -8389,10 +8412,59 @@
     "logoURI": "https://tokens-data.1inch.io/images/1/0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f.png"
   },
   {
+    "address": "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44",
+    "name": "Wrapped TAO",
+    "symbol": "WTAO",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44.png"
+  },
+  {
+    "address": "0xae41b275aaaf484b541a5881a2dded9515184cca",
+    "name": "ChainSwap",
+    "symbol": "CSWAP",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xae41b275aaaf484b541a5881a2dded9515184cca.png"
+  },
+  {
+    "address": "0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058",
+    "name": "Shiro Neko",
+    "symbol": "SHIRO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058.png"
+  },
+  {
+    "address": "0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd",
+    "name": "Lift Dollar",
+    "symbol": "USDL",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xbdc7c08592ee4aa51d06c27ee23d5087d65adbcd.png"
+  },
+  {
     "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
     "name": "First Digital USD",
     "symbol": "FDUSD",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409.png"
+  },
+  {
+    "address": "0xf94e7d0710709388bce3161c32b4eea56d3f91cc",
+    "name": "Destra Network",
+    "symbol": "DSync",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xf94e7d0710709388bce3161c32b4eea56d3f91cc.png"
+  },
+  {
+    "address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
+    "name": "Quantoz EURQ",
+    "symbol": "EURQ",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51853/large/EURQ_1000px_Color.png?1732071269"
+  },
+  {
+    "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+    "name": "Quantoz USDQ",
+    "symbol": "USDQ",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
   }
 ]

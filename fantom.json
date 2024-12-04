@@ -634,5 +634,12 @@
     "decimals": 6,
     "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
+    "name": "WigoSwap Token",
+    "symbol": "WIGO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/250/0xe992beab6659bff447893641a378fbbf031c5bd6.png"
   }
 ]

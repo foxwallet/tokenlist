@@ -105,5 +105,12 @@
     "name": "liCORE",
     "symbol": "liCORE",
     "decimals": 6
+  },
+  {
+    "address": "usbc-core1rfxrg75fzuq5hgnnymjgsxj70d9w9cs8xuza7x",
+    "logoURI": "https://brale.xyz/assets/stablecoins/sbc-logo.png",
+    "name": "SBC",
+    "symbol": "SBC",
+    "decimals": 6
   }
 ]
