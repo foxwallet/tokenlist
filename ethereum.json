@@ -8138,10 +8138,11 @@
     "address": "0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
     "name": "NEIRO",
     "symbol": "NEIRO",
-    "display": "NEIROETH",
+    "display": "NEIRO",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIROETH.webp",
-    "priceSource": "neiro-eth"
+    "priceSource": "neiro-eth",
+    "tag": "recommend"
   },
   {
     "address": "0x20157dbabb84e3bbfe68c349d0d44e48ae7b5ad2",
