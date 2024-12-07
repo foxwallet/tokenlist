@@ -761,6 +761,7 @@
     "name": "Lumoz token",
     "symbol": "MOZ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOZ.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOZ.webp",
+    "priceSource": "1inch"
   }
 ]
