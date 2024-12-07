@@ -15768,5 +15768,261 @@
     "decimals": 9,
     "logoURI": "https://arweave.net/rlbozK9IaydrLJ3H5zNBDmgr3yl3CS4P0kPRetidcBo",
     "type": "SPL"
+  },
+  {
+    "address": "M3M3pSFptfpZYnWNUgAbyWzKKgPo5d1eWmX6tbiSF2K",
+    "name": "M3M3",
+    "symbol": "M3M3",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreibfu4mivnd2w7khp35m6g2gpe7lzruiv52v2xs3m3vxh76ildqcye",
+    "type": "SPL"
+  },
+  {
+    "address": "HAWKThXRcNL9ZGZKqgUXLm4W8tnRZ7U6MVdEepSutj34",
+    "name": "Hawk Tuah",
+    "symbol": "HAWK",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/xKOmdMzW3is3mZJL5eWvnNmcvIRke0ilEhHxoI8CvCs",
+    "type": "SPL"
+  },
+  {
+    "address": "2ru87k7yAZnDRsnqVpgJYETFgqVApuBcwB2xDb19pump",
+    "name": "BIAO",
+    "symbol": "BIAO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmT5p12s821591NjE88Vg2eaMR7VsAfnV761377QaDhthq",
+    "type": "SPL"
+  },
+  {
+    "address": "8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8",
+    "name": "Tetsuo Coin",
+    "symbol": "TETSUO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVLxzvFArbYSqUCvWBG6ur3yxmWzVxzu3k9NP6WFFNr56",
+    "type": "SPL"
+  },
+  {
+    "address": "AkukwSXUTkDSeh2c1ypyvN4unzyr4xb2T4SmKkix6bT8",
+    "name": "Straight Tuah Prison",
+    "symbol": "TUAH",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmb6n1ETZLkNw46b5fHf2MP6nbe7ftnVFzPbXaTmqKiej9",
+    "type": "SPL"
+  },
+  {
+    "address": "AcJTj14wb9VjVtVrR7E7eoxeK4HayqZ9bPdNvkiEpump",
+    "name": "Meow Meow Meow Meow",
+    "symbol": "MEOW",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXcEJecdoXAgKxDz66awyLkENnEoSxeA6tv2zjVURVmzQ",
+    "type": "SPL"
+  },
+  {
+    "address": "GGUxJxZqUDfNbnzQqdCnrEzUX7LuCA9usdAkkSfApump",
+    "name": "SOLDIER",
+    "symbol": "SOLDIER",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmP8c68FRt41koHxoYsG25ypXjbvSL49MspmgszYCraH2o",
+    "type": "SPL"
+  },
+  {
+    "address": "FfDWunnbnG9yudfU1AN2KtCRTkPKW83wmgE9D4yrpump",
+    "name": "Saika Kawakita",
+    "symbol": "SAIKA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmS3AvD2gEWM7Y5qmbCjQiM5JTBu6xDoazdE3enFYxGajV",
+    "type": "SPL"
+  },
+  {
+    "address": "H2vBcEDpJa6yZkCwRYFCwZgof72ZoW7hiedpMGfJpump",
+    "name": "Saga Dao",
+    "symbol": "Saga Dao",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdcwHjGkW59Ue4RKZEpWPAG8xtWMJE8eKEQi2MRnPnfaF",
+    "type": "SPL"
+  },
+  {
+    "address": "4vKEwZ2ZHmHFuQEE69emXV2Zq1EKeJYVCESsMqydpump",
+    "name": "Bloomsperg Terminal",
+    "symbol": "SPERG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVFoGiAXcv7AKhVnMUvbRXhD4awxQ3hV9jnTBP9s3J3gy",
+    "type": "SPL"
+  },
+  {
+    "address": "KnrmAHo1wW2fGqVXcSZSpo6kmiKam5vNbDByrURpump",
+    "name": "Convo.wtf",
+    "symbol": "convo",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTR1o3SaNe45NM3TTdVvhipi8PY2VVQD9ggVP51Vev2pu",
+    "type": "SPL"
+  },
+  {
+    "address": "3uPg7L1n575iWD6kKGGGg7etcGurS9UsR1tcs7b3pump",
+    "name": "JONESY",
+    "symbol": "JONESY",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmPRbsu5a5wzd3KkkV9HaRLuzeqewbizDyzVPFEQdUpFWJ",
+    "type": "SPL"
+  },
+  {
+    "address": "H1vAwYTZkL2Bq8tpS5DhC4pPJjhMLviH2ScGjuePpump",
+    "name": "AVA Chiang Mai Night Safari",
+    "symbol": "AVA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZMjq7wUaJQfVoCRyUxgP8zWqh3kB6FgyFc1mY9Mr3h2m",
+    "type": "SPL"
+  },
+  {
+    "address": "CxN2KctowQ216p9wWRgiQeMe9ExRSrL7UeR2UYRzpump",
+    "name": "ongo ai agent",
+    "symbol": "ongo",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWj8Mq8x8hU38jLiKgDj9KBFaHWQY5N3wrLEw8iYWZTor",
+    "type": "SPL"
+  },
+  {
+    "address": "BUZFom1YPnAZVYSccbpddBmFYmHcS4Xtc3JQG5cFpump",
+    "name": "I like my sootcase",
+    "symbol": "SOOTCASE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcWNFKdFoUufcoPfhhEVjmT6fCaSkNFVEYKwuyQsmcLv6",
+    "type": "SPL"
+  },
+  {
+    "address": "6W8FHYE6jnw1dktabRRiZpQRQFPSFhTeLczdvBNPzVeo",
+    "name": "Goku super saiyan",
+    "symbol": "Goku",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZn79Wzz5seKzLV14xEUkGPea5SdNapCxRHPRmV3BGCvN",
+    "type": "SPL"
+  },
+  {
+    "address": "5JRUKJ6bAHdg5odN3q6P2gGZGpor1cHV3mSM7KQpump",
+    "name": "Team Canguro",
+    "symbol": "Canguro",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQPq27NunhadWTAfCmHyX4LHGEwEa75VBLL37UxB5gQrg",
+    "type": "SPL"
+  },
+  {
+    "address": "CyRbC97yrkUB31sv9PLw5Hw8276zXH4sRoTE1KcDpump",
+    "name": "Looby by Stephen Bliss",
+    "symbol": "LOOBY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmU8SAW8qAg1oqUjc71vpTop5suKMsAQ9F1qX5dJoiTPHD",
+    "type": "SPL"
+  },
+  {
+    "address": "B1KrhWbacPi3tpjWqnsbjKQJEkp3RvWppGxNzUYBpump",
+    "name": "Cheese",
+    "symbol": "CHEESE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUs2o7SndJCRQfn4AHtVwaCUZ5wKg6Ty5pgmRx6fJbeC8",
+    "type": "SPL"
+  },
+  {
+    "address": "TruStjKLzgPDqmWWkrdvgNJnsmScz1FpFzsDKWSpfh5",
+    "name": "TRUST",
+    "symbol": "TRUST",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/GCPMPvF8XhbrnrJ0xnV2j9FpjGiGnWsccMBqmSv5heg",
+    "type": "SPL"
+  },
+  {
+    "address": "5odbSFH3kKHFNcy6Kai7ykm7Da9B55Kk9wgy4Fh8GSfh",
+    "name": "PYRATE",
+    "symbol": "PYRATE",
+    "decimals": 9,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/LqRHpuymKBiAbb69",
+    "type": "SPL"
+  },
+  {
+    "address": "9b8jL2wcVjBFpieC5TUR76BDJ6sW8Eghd3fyq5VJmzir",
+    "name": "Clap Cat",
+    "symbol": "CLAP",
+    "decimals": 6,
+    "logoURI": "https://i.imgur.com/wwZzz3o.png",
+    "type": "SPL"
+  },
+  {
+    "address": "8g32ps7JWAL7EDkmBhW49dkUCHRq1Des1Hg8sPSb3ou3",
+    "name": "Pnut's Sister",
+    "symbol": "chloe",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmXwhG9MJH8QGmFZNUaH1mMAZ53kjf3M33dzA8SbtArQ8J/image.png",
+    "type": "SPL"
+  },
+  {
+    "address": "J252vEBJq8iABpPqAz9M7AYn6y6F3FoEssjXwF81pump",
+    "name": "litecoin mascot",
+    "symbol": "chikun",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWCmC55pbxpCWvKJGLhxDi6SBrUUTiFnJjyY6YxMcoQ5L",
+    "type": "SPL"
+  },
+  {
+    "address": "9H6t1ao2XP2ZeNKRo2gQ3ckrxcUTXgjDmSY1ZB6fpump",
+    "name": "BWED",
+    "symbol": "BWED",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZAoy9zbKgt2iwGeh9rUJFVjxknCEf8zPn1jWGRQLoriw",
+    "type": "SPL"
+  },
+  {
+    "address": "A98UDy7z8MfmWnTQt6cKjje7UfqV3pTLf4yEbuwL2HrH",
+    "name": "Modul",
+    "symbol": "MODUL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/parametrise/ParametriseLogo/main/Modul_Logomark_White_Pinky_Background.png",
+    "type": "SPL"
+  },
+  {
+    "address": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
+    "name": "Dexlab",
+    "symbol": "DXL",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/dexlab-project/assets/master/dexlab/dexlab_symbol_logo.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
+    "name": "SushiToken (Portal)",
+    "symbol": "SUSHI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUSHI.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "BQXDYWZdtXqeLXFWYeRhLrGh8gcTmDQZQc92ENMaXSry",
+    "name": "Doge Capital",
+    "symbol": "DCAP",
+    "decimals": 2,
+    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/5e07dff05059715ef2478b80cfee0c99/41bbd847",
+    "type": "SPL"
+  },
+  {
+    "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+    "name": "Magic Eden",
+    "symbol": "ME",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/hhifTzaEDnPKnYNi4aAhkZTUkNLoK6d3nMiQPAjByn4",
+    "type": "SPL"
+  },
+  {
+    "address": "CoRQpMjhBx6AsrzKJJZyzJoH52GoEKShM3CVumyzpump",
+    "name": "wifmas",
+    "symbol": "wifmas",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmW11WbFZSp9aXF5zjViyoPhNvaYeBVwE7S3ukiApXq9jN",
+    "type": "SPL"
+  },
+  {
+    "address": "AGRidUXLeDij9CJprkZx7WBXtTQC67jtfiwz293mVrJ",
+    "name": "AgriDex Token",
+    "symbol": "AGRI",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/6wVeAl6Jt1G7fAc4nPrhFaq25qJJ8nGeyeft0JY0nJI",
+    "type": "SPL"
   }
 ]

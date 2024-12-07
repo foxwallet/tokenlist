@@ -755,5 +755,12 @@
     "symbol": "ETHFI",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27.png"
+  },
+  {
+    "address": "0xE16e2548A576ad448FB014bBE85284D7f3542dF5",
+    "name": "Lumoz token",
+    "symbol": "MOZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOZ.webp"
   }
 ]
