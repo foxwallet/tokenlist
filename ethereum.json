@@ -8473,6 +8473,7 @@
     "name": "Movement",
     "symbol": "MOVE",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOVE.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOVE.webp",
+    "priceSource": "cmc:movement"
   }
 ]
