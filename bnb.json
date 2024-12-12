@@ -3480,5 +3480,14 @@
     "symbol": "THE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/THE.webp"
+  },
+  {
+    "address": "0xE2B1dc2D4A3b4E59FDF0c47B71A7A86391a8B35a",
+    "name": "RWA Inc",
+    "symbol": "RWA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RWA.webp",
+    "priceSource": "cmc:rwa-inc",
+    "tag": "recommend"
   }
 ]
