@@ -956,5 +956,37 @@
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/GqFLYxhLNuKYbSYCVJrjqnARisqogKhggngtYg9sZ9uw",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
+    "name": "Sonic Snipe Bot",
+    "symbol": "Sonic",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/E82DQkogizAv1CYi8nbgWydVx49DHy42qSRzksMx4iwx",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xaf3aae4940a248739ce4964857381fc3f3149a6d05375bfbb2118592907e3bbb::dam::DAM",
+    "name": "suibeaver",
+    "symbol": "DAM",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/8yU5QsDMFoLAoXFfSDrE5m3ZMMAzCzewtwfAy6qHvpju",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb07296d4085e349a50e90bdca::blue::BLUE",
+    "name": "Bluefin",
+    "symbol": "BLUE",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/CppTxB1NXfoDaJL4cjB6RyzFFwzySRF8zD8t2pBaMy8s",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+    "name": "SEND",
+    "symbol": "SEND",
+    "decimals": 6,
+    "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/SEND.svg",
+    "type": "SUICoin"
   }
 ]

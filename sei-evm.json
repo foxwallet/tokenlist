@@ -376,5 +376,19 @@
     "symbol": "ROCK",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ROCK.webp"
+  },
+  {
+    "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+    "name": "Synnax Stablecoin",
+    "symbol": "syUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/syUSD.webp"
+  },
+  {
+    "address": "0x9D9b12c69555669966D36596C56061B6Cc0A937D",
+    "name": "xSEIYAN",
+    "symbol": "xSEIYAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/xSEIYAN.webp"
   }
 ]
