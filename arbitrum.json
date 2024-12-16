@@ -763,5 +763,13 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOZ.webp",
     "priceSource": "1inch"
+  },
+  {
+    "address": "0x62A5F756ED0Bd5e2556DEda17f0a22c4B78D0e44",
+    "name": "esMOZ",
+    "symbol": "esMOZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/esMOZ.webp",
+    "priceSource": "1inch"
   }
 ]
