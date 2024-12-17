@@ -8482,5 +8482,14 @@
     "symbol": "sUSDS",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xa3931d71877c0e7a3148cb7eb4463524fec27fbd_0x41b89e059e6a3da68362f8aa1771a70aee38010859039d7a8427a0a7316faaa8.svg"
+  },
+  {
+    "address": "0xb146823Fb8EA064d14bA1a52e3E55CdE09AFfF2D",
+    "name": "ChartAI",
+    "symbol": "EYE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EYE.webp",
+    "tag": "recommend",
+    "priceSource": "1inch"
   }
 ]
