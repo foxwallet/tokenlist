@@ -16472,5 +16472,15 @@
     "decimals": 9,
     "logoURI": "https://arweave.net/mwRfH9Oc_LtJfgRVil49jbnzmWlJ9PTYEjO36pHMh3o",
     "type": "SPL"
+  },
+  {
+    "address": "7Rtegu95FZZ2KX3zA37LU1ypicxu6pBysNEagFwhpump",
+    "name": "Plankton in Pain",
+    "symbol": "AAAHHM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AAAHHM.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:plankton-in-pain"
   }
 ]
