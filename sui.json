@@ -954,8 +954,10 @@
     "name": "LOFI",
     "symbol": "LOFI",
     "decimals": 9,
-    "logoURI": "https://gateway.irys.xyz/GqFLYxhLNuKYbSYCVJrjqnARisqogKhggngtYg9sZ9uw",
-    "type": "SUICoin"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LOFI.webp",
+    "type": "SUICoin",
+    "tag": "recommend",
+    "priceSource": "cmc:lofitheyeti"
   },
   {
     "address": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
