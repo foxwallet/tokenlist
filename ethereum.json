@@ -8491,5 +8491,14 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EYE.webp",
     "tag": "recommend",
     "priceSource": "1inch"
+  },
+  {
+    "address": "0xa059b81568FeE88791de88232e838465826cf419",
+    "name": "Three Protocol Token",
+    "symbol": "THREE",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1831248046887182336/zLbLW3vx_400x400.jpg",
+    "tag": "recommend",
+    "priceSource": "cmc:three-protocol-token"
   }
 ]
