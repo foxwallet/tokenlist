@@ -4,7 +4,7 @@
     "name": "Wrapped Berachain Token",
     "symbol": "WBERA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WBERA.webp",
     "tag": "recommend"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Bera Governance Token",
     "symbol": "BGT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BGT.webp",
     "tag": "recommend"
   },
   {
@@ -27,7 +27,7 @@
     "name": "Honey",
     "symbol": "HONEY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HONEY.webp",
     "tag": "recommend"
   },
   {
@@ -35,7 +35,7 @@
     "name": "WBTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WBTC.webp",
     "tag": "recommend"
   },
   {
@@ -43,7 +43,7 @@
     "name": "WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WETH.webp",
     "tag": "recommend"
   },
   {
@@ -51,13 +51,13 @@
     "name": "Honey Variable Debt Token",
     "symbol": "vdHONEY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/vdHONEY.webp"
   },
   {
     "address": "0xB74285805B9eb4Dad384431C51F64C71fB786523",
     "name": "Honey aToken",
     "symbol": "aHONEY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aHONEY.webp"
   }
 ]

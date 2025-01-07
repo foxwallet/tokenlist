@@ -3367,7 +3367,7 @@
     "name": "BitTorrent",
     "symbol": "BTT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BTT.webp"
   },
   {
     "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
@@ -3430,14 +3430,14 @@
     "name": "Fetch",
     "symbol": "FET",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x031b41e504677879370e9DBcF937283A8691Fa7f/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FET.webp"
   },
   {
     "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
     "name": "CLV",
     "symbol": "CLV",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x09E889BB4D5b474f561db0491C38702F367A4e4d/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CLV.webp"
   },
   {
     "address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",

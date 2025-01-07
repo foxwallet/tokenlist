@@ -22,5 +22,19 @@
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/koala.png",
     "tag": "recommend"
+  },
+  {
+    "address": "0xe34c91815d7fc18A9e2148bcD4241d0a5848b693",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png"
+  },
+  {
+    "address": "0x803DcE4D3f4Ae2e17AF6C51343040dEe320C149D",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WBTC.png"
   }
 ]

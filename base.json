@@ -309,14 +309,14 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SNX.webp"
   },
   {
     "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
     "name": "tBTC",
     "symbol": "tBTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/tBTC.webp"
   },
   {
     "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6",
@@ -337,7 +337,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BAL.webp"
   },
   {
     "address": "0x489fe42c267fe0366b16b0c39e7aeef977e841ef",
@@ -358,7 +358,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CRV.webp"
   },
   {
     "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
@@ -473,5 +473,19 @@
     "symbol": "sUSDS",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0x982f2df63fe38ab8d55f4b1464e8cfdc8ea5dec8_0xc96b3b4c269e226d404e04a3538ab98af6a88a4db8ca856eb650e765973db6e7.svg"
+  },
+  {
+    "address": "0x0db510e79909666d6dec7f5e49370838c16d950f",
+    "name": "Super Anon",
+    "symbol": "ANON",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x0db510e79909666d6dec7f5e49370838c16d950f_0x0c5ec520b5768dbcbf8cfeab98499b8b2acd9f4226e8367ba3dd2a740c51cd4b.png"
+  },
+  {
+    "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
   }
 ]

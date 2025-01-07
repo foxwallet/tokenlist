@@ -1,7 +1,7 @@
 [
   {
     "address": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/sara.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SARA.webp",
     "name": "SARA",
     "symbol": "SARA",
     "decimals": 6
@@ -16,77 +16,77 @@
   },
   {
     "address": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/osmosis/images/osmo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OSMO.webp",
     "name": "OSMO",
     "symbol": "OSMO",
     "decimals": 6
   },
   {
     "address": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/gravitybridge/images/grav.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GRAV.webp",
     "name": "GRAV",
     "symbol": "GRAV",
     "decimals": 6
   },
   {
     "address": "ibc/AB305490F17ECCAE3F2B0398A572E0EFB3AF394B90C3A1663DA28C1F0869F624",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kujira/images/kuji.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KUJI.webp",
     "name": "KUJI",
     "symbol": "KUJI",
     "decimals": 6
   },
   {
     "address": "ibc/6D42727C323C8AF2821966C83E0708F0C17FB0B0DE38BA5E4D23F2EE7C0E9DDC",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/bandchain/images/band.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BAND.webp",
     "name": "BAND",
     "symbol": "BAND",
     "decimals": 6
   },
   {
     "address": "ibc/078EAF11288A47609FD894070CA8A1BFCEBD9E08745EA7030F95D7ADEE2E22CA",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/evmos/images/evmos.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EVMOS.webp",
     "name": "EVMOS",
     "symbol": "EVMOS",
     "decimals": 18
   },
   {
     "address": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/axelar/images/axelar.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AXL.webp",
     "name": "AXL",
     "symbol": "AXL",
     "decimals": 6
   },
   {
     "address": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/sei/images/sei.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SEI.webp",
     "name": "SEI",
     "symbol": "SEI",
     "decimals": 6
   },
   {
     "address": "ibc/12B178A885FC6891E0E09E1FB013973C5632B7093CE52D8F33B32E76E3BB6EA1",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/kava/images/kava.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KAVA.webp",
     "name": "KAVA",
     "symbol": "KAVA",
     "decimals": 6
   },
   {
     "address": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDt.webp",
     "name": "USDt",
     "symbol": "USDt",
     "decimals": 6
   },
   {
     "address": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/cosmoshub/images/atom.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ATOM.webp",
     "name": "ATOM",
     "symbol": "ATOM",
     "decimals": 6
   },
   {
     "address": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/dydx/images/dydx.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DYDX.webp",
     "name": "DYDX",
     "symbol": "DYDX",
     "decimals": 18,
@@ -94,14 +94,14 @@
   },
   {
     "address": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/xrp/images/xrp.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/XRP.webp",
     "name": "XRP",
     "symbol": "XRP",
     "decimals": 6
   },
   {
     "address": "ulicore-core13gza3msdh8hegqxhgezll9quucsr63s0gp43k274xwt66k4e8pmq5zpnm9",
-    "logoURI": "https://raw.githubusercontent.com/CoreumFoundation/token-registry/master/files/pulsara/images/liCORE.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/liCORE.webp",
     "name": "liCORE",
     "symbol": "liCORE",
     "decimals": 6
@@ -111,6 +111,13 @@
     "logoURI": "https://brale.xyz/assets/stablecoins/sbc-logo.png",
     "name": "SBC",
     "symbol": "SBC",
+    "decimals": 6
+  },
+  {
+    "address": "uccd-core1hnwd78wappjmgygyzr9mwspm7uzytrkcp9pfvv",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CCD.webp",
+    "name": "CCD",
+    "symbol": "CCD",
     "decimals": 6
   }
 ]

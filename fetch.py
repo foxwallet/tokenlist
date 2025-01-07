@@ -391,6 +391,27 @@ def jupiter():
         result[unique_id].append(token)
     update_tokens(result)
     
+def pontem():
+    print("start pontem")
+    unique_id = "aptos"
+    result = {
+       unique_id : []
+    }
+    url = "https://raw.githubusercontent.com/pontem-network/coins-registry/refs/heads/main/src/coins.json"
+    data = requests.get(url, proxies=proxies, timeout=5).json()
+    for item in data:
+        if item["chainId"] != 1:
+            continue
+        token = {
+            "address": item["type"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": int(item["decimals"]),
+            "logoURI": item["logo_url"],
+            "type": "AptosCoin",
+        }
+        result[unique_id].append(token)
+    update_tokens(result)
 
 
 if __name__ == "__main__":
@@ -405,3 +426,4 @@ if __name__ == "__main__":
     dragonswap()
     sui_cetus()
     jupiter()
+    pontem()

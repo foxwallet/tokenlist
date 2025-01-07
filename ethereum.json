@@ -6901,7 +6901,7 @@
     "name": "Big Time",
     "symbol": "BIGTIME",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/bigtime.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BIGTIME.webp",
     "tag": "recommend"
   },
   {
@@ -6909,21 +6909,21 @@
     "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
     "symbol": "OXT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OXT.webp"
   },
   {
     "name": "Reputation Augur v1",
     "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
     "symbol": "REP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1985365e9f78359a9B6AD760e32412f4a445E862/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REP.webp"
   },
   {
     "name": "Loom Network",
     "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
     "symbol": "LOOM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LOOM.webp"
   },
   {
     "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
@@ -7070,7 +7070,7 @@
     "name": "Stox",
     "symbol": "STX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Stox.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STX.webp",
     "tag": "default",
     "priceSource": "static:0"
   },
@@ -7317,7 +7317,7 @@
     "name": "Celo native asset (Wormhole)",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/whCELO.webp"
   },
   {
     "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
@@ -8131,7 +8131,7 @@
     "name": "Neiro",
     "symbol": "Neiro",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIRO.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Neiro.webp",
     "priceSource": "cmc:first-neiro-on-ethereum"
   },
   {
@@ -8140,7 +8140,7 @@
     "symbol": "NEIRO",
     "display": "NEIRO",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIROETH.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEIRO.webp",
     "priceSource": "neiro-eth",
     "tag": "recommend"
   },
@@ -8500,5 +8500,19 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/THREE.webp",
     "tag": "recommend",
     "priceSource": "cmc:three-protocol-token"
+  },
+  {
+    "address": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x44ff8620b8ca30902395a7bd3f2407e1a091bf73_0x35c7ed4e15ebfac50408669eb3f90a4c06ae82137fc53cbb2a4402948a819732.png"
+  },
+  {
+    "address": "0xf944e35f95e819e752f3ccb5faf40957d311e8c5",
+    "name": "Moca",
+    "symbol": "MOCA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xf944e35f95e819e752f3ccb5faf40957d311e8c5_0xbf867d51636d25b1cbfaf360c55a6b1aed75326cc1870779e3810698f954e25e.png"
   }
 ]

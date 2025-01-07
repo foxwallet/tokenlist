@@ -4,14 +4,14 @@
     "name": "Axelar Wrapped DAI",
     "symbol": "axlDAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/axlDAI.webp"
   },
   {
     "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/axlUSDC.webp",
     "tag": "recommend",
     "priceSource": "static:1"
   },
@@ -20,14 +20,14 @@
     "name": "Staking FIL",
     "symbol": "stFIL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x3C3501E6c353DbaEDDFA90376975Ce7aCe4Ac7a8.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stFIL.webp"
   },
   {
     "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
     "name": "Celer Wrapped USDT",
     "symbol": "ceUSDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ceUSDT.webp",
     "tag": "recommend",
     "priceSource": "static:1"
   },
@@ -36,7 +36,7 @@
     "name": "Wrapped Filecoin",
     "symbol": "WFIL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WFIL.webp",
     "tag": "recommend",
     "priceSource": "cmc:filecoin"
   },
@@ -45,7 +45,7 @@
     "name": "Wrapped liquid staked Filecoin",
     "symbol": "wstFIL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x6A3F21d2A92a15752912974BbBD5b1469A72B261.jpg"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/wstFIL.webp"
   },
   {
     "address": "0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616",

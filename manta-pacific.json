@@ -57,14 +57,14 @@
     "name": "iZUMi Token",
     "symbol": "iZi",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_izumi.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iZi.webp"
   },
   {
     "address": "0x078f712f038A95BeEA94F036cADB49188a90604b",
     "name": "iZUMi Bond USD",
     "symbol": "iUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_izumi_bond_usd.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/iUSD.webp"
   },
   {
     "address": "0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a",
@@ -79,7 +79,7 @@
     "name": "Wrapped Mountain Protocol USD",
     "symbol": "wUSDM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_wrapped_mountain_protocol_usd.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/wUSDM.webp"
   },
   {
     "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
@@ -93,7 +93,7 @@
     "name": "Liquid Staking Matic",
     "symbol": "MaticX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_liquid_staking_matic.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MaticX.webp"
   },
   {
     "address": "0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",

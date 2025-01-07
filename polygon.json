@@ -1527,35 +1527,35 @@
     "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZRX.webp"
   },
   {
     "name": "Orchid",
     "address": "0x9880e3dDA13c8e7D4804691A45160102d31F6060",
     "symbol": "OXT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OXT.webp"
   },
   {
     "name": "Maker",
     "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MKR.webp"
   },
   {
     "name": "Reputation Augur v2",
     "address": "0x6563c1244820CfBd6Ca8820FBdf0f2847363F733",
     "symbol": "REPv2",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REPv2.webp"
   },
   {
     "name": "Kyber Network Crystal",
     "address": "0x324b28d6565f784d596422B0F2E5aB6e9CFA1Dc7",
     "symbol": "KNC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KNC.webp"
   },
   {
     "address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
@@ -1569,21 +1569,21 @@
     "address": "0x0Bf519071b02F22C17E7Ed5F4002ee1911f46729",
     "symbol": "NMR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NMR.webp"
   },
   {
     "name": "UMA Voting Token v1",
     "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
     "symbol": "UMA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/UMA.webp"
   },
   {
     "name": "LoopringCoin V2",
     "address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LRC.webp"
   },
   {
     "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
@@ -1597,21 +1597,21 @@
     "address": "0x19782D3Dc4701cEeeDcD90f0993f0A9126ed89d0",
     "symbol": "REN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/REN.webp"
   },
   {
     "name": "Bancor Network Token",
     "address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
     "symbol": "BNT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BNT.webp"
   },
   {
     "name": "Loom Network",
     "address": "0x66EfB7cC647e0efab02eBA4316a2d2941193F6b3",
     "symbol": "LOOM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LOOM.webp"
   },
   {
     "address": "0x66Dc5A08091d1968e08C16aA5b27BAC8398b02Be",
@@ -1625,7 +1625,7 @@
     "address": "0xd72357dAcA2cF11A5F155b9FF7880E595A3F5792",
     "symbol": "STORJ",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STORJ.webp"
   },
   {
     "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
@@ -1639,7 +1639,7 @@
     "address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GNO.webp"
   },
   {
     "address": "0x42f37A1296b2981F7C3cAcEd84c5096b2Eb0C72C",
@@ -1739,14 +1739,14 @@
     "name": "Render Token",
     "symbol": "RNDR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x61299774020dA444Af134c82fa83E3810b309991/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RNDR.webp"
   },
   {
     "address": "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048",
     "name": "Bonk",
     "symbol": "Bonk",
     "decimals": 5,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BONK.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Bonk.webp",
     "priceSource": "cmc:bonk1"
   },
   {

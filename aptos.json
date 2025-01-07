@@ -16,5 +16,1044 @@
     "logoURI": "https://wallet.foxnb.net/tokens/aptos/0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T.webp",
     "tag": "recommend",
     "type": "AptosCoin"
+  },
+  {
+    "address": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
+    "name": "Liquidswap",
+    "symbol": "LSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LSD.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704ec::coin::DooDoo",
+    "name": "DooDoo",
+    "symbol": "doodoo",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/doodoo.svg",
+    "type": "AptosCoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xdf3d5eb83df80dfde8ceb1edaa24d8dbc46da6a89ae134a858338e1b86a29e38::coin::Returd",
+    "name": "RETuRD",
+    "symbol": "RETuRD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RETuRD.webp",
+    "type": "AptosCoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
+    "name": "SHRIMP",
+    "symbol": "SHRIMP",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SHRIMP.webp",
+    "type": "AptosCoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "name": "USD Coin(LayerZero)",
+    "symbol": "USDC",
+    "display": "lzUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin",
+    "name": "USD Coin(Celer)",
+    "symbol": "USDC",
+    "display": "ceUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+    "name": "Tether USD (LayerZero)",
+    "symbol": "USDT",
+    "display": "lzUSDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+    "name": "Tether USD(Wormhole)",
+    "symbol": "USDT",
+    "display": "whUSDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin",
+    "name": "Tether USD(Celer)",
+    "symbol": "USDT",
+    "display": "ceUSDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::DaiCoin",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/dai.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
+    "name": "Bitcoin(Wormhole)",
+    "symbol": "BTC",
+    "display": "whBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/btc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WbtcCoin",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/wbtc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH",
+    "name": "Wrapped Ether(LayerZero)",
+    "symbol": "WETH",
+    "display": "lzWETH",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/weth.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
+    "name": "Wrapped Ether(Wormhole)",
+    "symbol": "WETH",
+    "display": "whWETH",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/weth.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::WethCoin",
+    "name": "Wrapper Ether(Celer)",
+    "symbol": "WETH",
+    "display": "ceWETH",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/weth.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WBTC",
+    "name": "Wrapped BTC (LayerZero)",
+    "symbol": "WBTC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/wbtc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BusdCoin",
+    "name": "Binance USD(Celer)",
+    "symbol": "BUSD",
+    "display": "ceBUSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/busd.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::BnbCoin",
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/bnb.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/sol.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL",
+    "name": "Thala Token",
+    "symbol": "THL",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/thl.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::AptSwap::AptSwapGovernance",
+    "name": "AptSwap Governance Token",
+    "symbol": "AptSwap",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/aptswap.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos",
+    "name": "Ditto Staked Aptos",
+    "symbol": "stAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/stapt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin",
+    "name": "BlueMove",
+    "symbol": "MOVE",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/move.svg",
+    "type": "AptosCoin",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x881ac202b1f1e6ad4efcff7a1d0579411533f2502417a19211cfc49751ddb5f4::coin::MOJO",
+    "name": "Mojito",
+    "symbol": "MOJO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mojo.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x7c2aaaaf3f019bbf7f02beed21fc4ec352cc38272f93cb11e61ec7c89bfe5f4b::xbtc::XBTC",
+    "name": "XBTC",
+    "symbol": "XBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/xbtc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken",
+    "name": "Aptos Launch Token",
+    "symbol": "ALT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/alt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
+    "name": "Abel Coin",
+    "symbol": "ABEL",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/abel.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
+    "name": "Amnis Aptos Coin",
+    "symbol": "amAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/amapt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
+    "name": "Staked Aptos Coin",
+    "symbol": "stAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stAPT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
+    "name": "Aptoge",
+    "symbol": "APTOGE",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/aptoge.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
+    "name": "Aptos Shiba",
+    "symbol": "APTSHIBA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/aptshiba.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
+    "name": "PancakeSwap Token",
+    "symbol": "CAKE",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/cake.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA",
+    "name": "Argo USD",
+    "symbol": "USDA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usda.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin",
+    "name": "Tortuga Staked APT",
+    "symbol": "tAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/tapt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDD",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdd.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
+    "name": "Doglaika Coin",
+    "symbol": "DLC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/dlc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xd6d6372c8bde72a7ab825c00b9edd35e643fb94a61c55d9d94a9db3010098548::USDC::Coin",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS",
+    "name": "Propbase",
+    "symbol": "PROPS",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PROPS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x665d06fcd9c94430099f82973f2a5e5f13142e42fa172e72ce14f51a64bd8ad9::coin_mbx::MBX",
+    "name": "MBX",
+    "symbol": "MBX",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mbx.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::fa_to_coin_wrapper::WrappedUSDT",
+    "name": "Aries Wrapped Tether USD",
+    "symbol": "USDt",
+    "display": "aWUSDt",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt-fa.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin",
+    "name": "Meeiro",
+    "symbol": "MEE",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mee.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x52ab49a4039c3d2b0aa6e0a00aaed75dcff72a3120ba3610f62d1d0b6032345a::war_coin::WarCoin",
+    "name": "War Coin",
+    "symbol": "WAR",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/war.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01::mod_coin::MOD",
+    "name": "Move Dollar",
+    "symbol": "MOD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mod.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xcc78307c77f1c2c0fdfee17269bfca7876a0b35438c3442417480c0d5c370fbc::AptopadCoin::APD",
+    "name": "Aptopad Coin",
+    "symbol": "APD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APD.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x14b0ef0ec69f346bea3dfa0c5a8c3942fb05c08760059948f9f24c02cd0d4fd8::mover_token::Mover",
+    "name": "Mover",
+    "symbol": "MOVER",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mover.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb::coin::T",
+    "name": "wTBT Pool",
+    "symbol": "wTBT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/wtbt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin",
+    "name": "Ditto Discount Token",
+    "symbol": "DTO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/dto.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::ThalaAPT",
+    "name": "Thala APT",
+    "symbol": "thAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/thapt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT",
+    "name": "Staked Thala APT",
+    "symbol": "sthAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/sthapt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x25a64579760a4c64be0d692327786a6375ec80740152851490cfd0b53604cf95::coin::ETERN",
+    "name": "Eternal Token",
+    "symbol": "ETERN",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/etern.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x777821c78442e17d82c3d7a371f42de7189e4248e529fe6eee6bca40ddbb::apcoin::ApCoin",
+    "name": "APass Coin",
+    "symbol": "APC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/apc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef::EONcoin::EONCoin",
+    "name": "EON",
+    "symbol": "EON",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/eon.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
+    "name": "The People",
+    "symbol": "People",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/people.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI",
+    "name": "AnimeSwap Coin",
+    "symbol": "ANI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ANI.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10::spring_coin::Spring_Coin",
+    "name": "SPRING",
+    "symbol": "SPRING",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPRING.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
+    "name": "Gari",
+    "symbol": "GARI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/gari.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8b2df69c9766e18486c37e3cfc53c6ce6e9aa58bbc606a8a0a219f24cf9eafc1::sui_launch_token::SuiLaunchToken",
+    "name": "Sui Launch Token",
+    "symbol": "SLT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/AptosLaunch/aptos-coin-list/main/icons/SUILAUNCHLOGO.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400::proton_a5d::PROTON_E54",
+    "name": "AlpacaINU Coin",
+    "symbol": "ALI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ali.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c::coin::T",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/dai.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xccc9620d38c4f3991fa68a03ad98ef3735f18d04717cb75d7a1300dd8a7eed75::coin::T",
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/busd.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/bnb.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xacd014e8bdf395fa8497b6d585b164547a9d45269377bdf67c96c541b7fec9ed::coin::T",
+    "name": "Tether USD",
+    "symbol": "USDTbs",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc91d826e29a3183eb3b6f6aa3a722089fdffb8e9642b94c5fcd4c48d035c0080::coin::T",
+    "name": "USD Coin (Solana)",
+    "symbol": "USDCso",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc7160b1c2415d19a88add188ec726e62aab0045f0aed798106a2ef2994a9101e::coin::T",
+    "name": "USD Coin (Polygon)",
+    "symbol": "USDCpo",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x79a6ed7a0607fdad2d18d67d1a0e552d4b09ebce5951f1e5c851732c02437595::coin::T",
+    "name": "USD Coin (BSC)",
+    "symbol": "USDCbs",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x39d84c2af3b0c9895b45d4da098049e382c451ba63bec0ce0396ff7af4bb5dff::coin::T",
+    "name": "USD Coin (Avalanche)",
+    "symbol": "USDCav",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WAVAX.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T",
+    "name": "SWEAT",
+    "symbol": "SWEAT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWEAT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T",
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/near.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x1f9dca8eb42832b9ea07a804d745ef08833051e0c75c45b82665ef6f6e7fac32::coin::T",
+    "name": "Nexum Coin",
+    "symbol": "NEXM",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEXM.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x2305dd96edd8debb5a2049be54379c74e61b37ceb54a49bd7dee4726d2a6b689::coin::T",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUSHI.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xac0c3c35d50f6ef00e3b4db6998732fe9ed6331384925fe8ec95fcd7745a9112::coin::T",
+    "name": "Celo(Wormhole)",
+    "symbol": "CELO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/whCELO.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x419d16ebaeda8dc374b1178a61d24fb699799d55a3f475f427998769c537b51b::coin::T",
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FTT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xcefd39b563951a9ec2670aa57086f9adb3493671368ea60ff99e0bc98f697bb5::coin::T",
+    "name": "Chain",
+    "symbol": "XCN",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/XCN.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x1::aptos_coin::AptosCoin>",
+    "name": "Aries Aptos Coin LP Token",
+    "symbol": "ar-APT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ar-apt.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T>",
+    "name": "Aries Solana (Wormhole) LP Token",
+    "symbol": "ar-SOL",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ar-sol.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC>",
+    "name": "Aries USDC (Layerzero) LP Token",
+    "symbol": "ar-zUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ar-usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::reserve::LP<0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T>",
+    "name": "Aries USDC (Wormhole) LP Token",
+    "symbol": "ar-USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/ar-usdc.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002",
+    "name": "Gui Inu",
+    "symbol": "GUI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GUI.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x1fc2f33ab6b624e3e632ba861b755fd8e61d2c2e6cf8292e415880b4c198224d::apt20::APTS",
+    "name": "APTS",
+    "symbol": "APTS",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APTS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7::UPTOS::UPTOS",
+    "name": "UPTOS",
+    "symbol": "UPTOS",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/uptos.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc26a8eda1c3ab69a157815183ddda88c89d6758ee491dd1647a70af2907ce074::coin::Chewy",
+    "name": "Chewy",
+    "symbol": "CHEWY",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CHEWY.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
+    "name": "Woof",
+    "symbol": "Woof",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Woof.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xf891d2e004973430cc2bbbee69f3d0f4adb9c7ae03137b4579f7bb9979283ee6::APTOS_FOMO::APTOS_FOMO",
+    "name": "APTOS FOMO",
+    "symbol": "FOMO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FOMO.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x66302f3c648890f70ca3fafc42c919483945f3ba155101bc2e149e38a8b93afc::toss_coin::TossCoin",
+    "name": "TOSS",
+    "symbol": "TOSS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TOSS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x198e4a77b72cbcac7465e774e99d2ba552053ca57b0759ea3c008433742b4e4f::PEPE::Pepe",
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PEPE.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x4ed27736e724e403f9b4645ffef0ae86fd149503f45b37c428ffabd7e46e5b05::core::RenegadeCoin",
+    "name": "RENA",
+    "symbol": "RENA",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RENA.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
+    "name": "Dumdum",
+    "symbol": "DUMDUM",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DUMDUM.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xcfea864b32833f157f042618bd845145256b1bf4c0da34a7013b76e42daa53cc::usdy::USDY",
+    "name": "Ondo US Dollar Yield",
+    "symbol": "USDY",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDY.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b::coin::Donk",
+    "name": "Donk",
+    "symbol": "Donk",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Donk.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xe1bfc010d2bdd576036f4c1f3ea7d547f19188f5b78075dd961420d843ee914c::brew_coin::BrewCoin",
+    "name": "Brewtos",
+    "symbol": "BREW",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BREW.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x967adbf2e05fe665ab86a3bf2c4acfa39fbf62097963474ef70a0786dae8cfa2::NRUH::NRUH",
+    "name": "nRuH BeRs",
+    "symbol": "NRUH",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NRUH.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x2dcbc03740a6fa2efee926b9df329184cce357d0573bdab09930f4d48e61a4c8::STOS::STOS",
+    "name": "sherritos",
+    "symbol": "STOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STOS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
+    "name": "The Loonies",
+    "symbol": "LOON",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LOON.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890::TOAST::TOAST",
+    "name": "Aptoast",
+    "symbol": "TOAST",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TOAST.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::mkl_token::MKL",
+    "name": "MKL",
+    "symbol": "MKL",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/mkl.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x6f446fe32a361c5512863d5e610f7d7eaa54d5cee1cea6a2712f2e56da693f1c::MODENG::MODENG",
+    "name": "Mo Deng",
+    "symbol": "MODENG",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MODENG.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+    "name": "CASH",
+    "symbol": "CASH",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CASH.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
+    "name": "CAPTOS",
+    "symbol": "CAPTOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAPTOS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
+    "name": "PP Token",
+    "symbol": "PP",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/PP.PNG",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961::POK::POK",
+    "name": "Purrfectly Okay Coin",
+    "symbol": "POK",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/POK.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
+    "name": "Tissue",
+    "symbol": "SNZ",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/SNZ.png",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
+    "name": "$BEARD",
+    "symbol": "BEARD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BEARD.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
+    "name": "ZIPPO THE OG MASCOT",
+    "symbol": "ZIPO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZIPO.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
+    "name": "PUPTOS",
+    "symbol": "PUPTOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PUPTOS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xbafd66d813a51ed6b5d2db99b18b61d2fccbc2e46979690fe84198272c59ca5f::zaptos::Zaptos",
+    "name": "Zaptos",
+    "symbol": "ZAPT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZAPT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f::MEOW::MEOW",
+    "name": "MEOW MONEY",
+    "symbol": "MEOW",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MEOW.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
+    "name": "FAG DOG COIN",
+    "symbol": "FOG",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FOG.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
+    "name": "EDOG",
+    "symbol": "EDOG",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EDOG.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
+    "name": "GHOST",
+    "symbol": "GHO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GHO.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
+    "name": "UPDOG",
+    "symbol": "UPDOG",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/UPDOG.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x744467880fbc1a723d8ba8437cd6de3de942789fe6611fc992de8574596c9b5c::CMT::CMT",
+    "name": "Cryptomolot",
+    "symbol": "CMT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CMT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405::MOTOS::MOTOS",
+    "name": "MOTOS",
+    "symbol": "MOTOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOTOS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x2f277e648b3761b65818d92f0a7c151cb38a1d33b1a8b18d4c5748bbcd9fcca5::Netzy::Netzy",
+    "name": "The Mole Netzy",
+    "symbol": "Netzy",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Netzy.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8::BUBU::BUBU",
+    "name": "LABUBUTOS",
+    "symbol": "BUBU",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BUBU.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
+    "name": "Rice Token",
+    "symbol": "Rice",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Rice.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xbd92f54e3ebf1e80a0efa05f8bbd607fc6dd00ec208c0d743ee6ba3c10f03846::APOP::APOP",
+    "name": "Apeople Coin",
+    "symbol": "APOP",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APOP.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x10a51c8275d90165aec142e326fcd9dc2e8def57d6271a86ef38a0e5a0a8e142::DWIF::DWIF",
+    "name": "DOGWIFHAIR",
+    "symbol": "DWIF",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DWIF.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+    "name": "AptoCat",
+    "symbol": "ACAT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ACAT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc89f2e0a7f61424e0b951936820f0423e3f076948dcdced112b76244ed840a25::burritos_coin::BurritosCoin",
+    "name": "BURRITOS",
+    "symbol": "BURRITOS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BURRITOS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xbafe0208ba2a3ea2c66a6868f9361a13f4014490e9b77fb0364c5cf55340ffbe::AMAGA::AMAGA",
+    "name": "Aptos MAGA",
+    "symbol": "AMAGA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMAGA.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xa331c0ce4c558895772ac3e61c85fa441500e3536ecfbdefbb167698d153d6c3::DMAGA::DMAGA",
+    "name": "DMAGA",
+    "symbol": "DMAGA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DMAGA.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x8512b34017e087c3707748869ddc317d83f3fe70ab3a162abdc055c761ca9906::OBOT::OBOT",
+    "name": "OBOT",
+    "symbol": "OBOT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OBOT.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x96baeee6d7a4a8cd712144d1225cfcb6c26d0c6fefd463bd77a878e4526c7411::hair_coin::HairCoin",
+    "name": "Hair",
+    "symbol": "HAIR",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HAIR.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
+    "name": "FaptOS",
+    "symbol": "FaptOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FaptOS.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
+    "name": "MOO MOO",
+    "symbol": "MOOMOO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MOOMOO.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f1554beb0750d4dae4c64e860da3::wrapped_coins::WrappedAMA",
+    "name": "Amaterasu",
+    "symbol": "AMA",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMA.webp",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0x9d0595765a31f8d56e1d2aafc4d6c76f283c67a074ef8812d8c31bd8252ac2c3::asset::TOMA",
+    "name": "Tomarket",
+    "symbol": "TOMA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TOMA.webp",
+    "type": "AptosCoin"
   }
 ]

@@ -990,5 +990,61 @@
     "decimals": 6,
     "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/SEND.svg",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x4db126eac4fa99207e98db61d968477021fdeae153de3b244bcfbdc468ef0722::wsb::WSB",
+    "name": "xWSB on SUI",
+    "symbol": "WSB",
+    "decimals": 6,
+    "logoURI": "https://api.movepump.com/uploads/asui_4106b1fb1d.jpg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xea65bb5a79ff34ca83e2995f9ff6edd0887b08da9b45bf2e31f930d3efb82866::s::S",
+    "name": "Agent S",
+    "symbol": "S",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/B1xigsnVycuq7LkED5LybeZ6HhLyU14ZMDffDL4q577D",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
+    "name": "AlphaFi Staked SUI",
+    "symbol": "stSUI",
+    "decimals": 9,
+    "logoURI": "https://images.alphafi.xyz/stSUI.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x4cf08813756dfa7519cb480a1a1a3472b5b4ec067592a8bee0f826808d218158::tardi::TARDI",
+    "name": "Tardi",
+    "symbol": "TARDI",
+    "decimals": 9,
+    "logoURI": "https://bafybeieycjagqv7xtenzxss5xkcxgeru7wql6izhzokr4ay4xdbrul4ef4.ipfs.w3s.link",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xeec46a9527885ade0b62b984315f2f45d4cd40d9a8c19a553e553e722ab33239::bulla::BULLA",
+    "name": "BULLA",
+    "symbol": "BULLA",
+    "decimals": 8,
+    "logoURI": "https://i.imgur.com/YPFKKZw.jpeg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI",
+    "name": "SuiAI",
+    "symbol": "SUAI",
+    "decimals": 6,
+    "logoURI": "https://api.suiai.fun/uploads/suai_logo.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
+    "name": "Tether by Sui Bridge",
+    "symbol": "suiUSDT",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/H6RiSi7PDvKaKCzgsLybW1Pdaq4pvakBHnTvghWD5Kad",
+    "type": "SUICoin"
   }
 ]
