@@ -7315,7 +7315,7 @@
   {
     "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
     "name": "Celo native asset (Wormhole)",
-    "symbol": "CELO",
+    "symbol": "whCELO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/whCELO.webp"
   },

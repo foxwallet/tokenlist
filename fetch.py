@@ -391,26 +391,42 @@ def jupiter():
         result[unique_id].append(token)
     update_tokens(result)
     
-def pontem():
-    print("start pontem")
+def panro():
+    print("start panro")
     unique_id = "aptos"
     result = {
        unique_id : []
     }
-    url = "https://raw.githubusercontent.com/pontem-network/coins-registry/refs/heads/main/src/coins.json"
+    url = "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/refs/heads/main/token-list.json"
     data = requests.get(url, proxies=proxies, timeout=5).json()
     for item in data:
         if item["chainId"] != 1:
             continue
-        token = {
-            "address": item["type"],
-            "name": item["name"],
-            "symbol": item["symbol"],
-            "decimals": int(item["decimals"]),
-            "logoURI": item["logo_url"],
-            "type": "AptosCoin",
-        }
-        result[unique_id].append(token)
+        tags = item.get("panoraTags", [])
+        if "Verified" not in tags:
+            continue
+        v1Addr = item.get("tokenAddress", "")
+        if v1Addr and len(v1Addr) > 10:
+            token = {
+                "address": v1Addr,
+                "name": item["name"],
+                "symbol": item["symbol"],
+                "decimals": int(item["decimals"]),
+                "logoURI": item["logoUrl"],
+                "type": "AptosCoin",
+            }
+            result[unique_id].append(token)
+        v2Addr = item.get("faAddress", "")
+        if v2Addr and len(v2Addr) > 10:
+            token = {
+                "address": v2Addr,
+                "name": item["name"],
+                "symbol": item["symbol"],
+                "decimals": int(item["decimals"]),
+                "logoURI": item["logoUrl"],
+                "type": "AptosFA",
+            }
+            result[unique_id].append(token)
     update_tokens(result)
 
 
@@ -426,4 +442,4 @@ if __name__ == "__main__":
     dragonswap()
     sui_cetus()
     jupiter()
-    pontem()
+    panro()
