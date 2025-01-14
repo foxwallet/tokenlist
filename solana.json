@@ -22074,5 +22074,13 @@
     "decimals": 9,
     "logoURI": "https://storage.googleapis.com/bubblemaps-metadata/bmt/logo.png",
     "type": "SPL"
+  },
+  {
+    "address": "HcQbgvMTCNDgMDY6GAFzP1WwCNZeMoEwZfUuHepzC9L5",
+    "name": "MomoAI",
+    "symbol": "MTOS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MTOS.webp",
+    "type": "SPL"
   }
 ]
