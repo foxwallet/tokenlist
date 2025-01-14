@@ -22081,6 +22081,7 @@
     "symbol": "MTOS",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MTOS.webp",
-    "type": "SPL"
+    "type": "SPL",
+    "priceSource": "coingecko"
   }
 ]
