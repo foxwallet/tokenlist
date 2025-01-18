@@ -22083,5 +22083,14 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MTOS.webp",
     "type": "SPL",
     "priceSource": "coingecko"
+  },
+  {
+    "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRUMP.webp",
+    "type": "SPL",
+    "priceSource": "cmc:official-trump"
   }
 ]
