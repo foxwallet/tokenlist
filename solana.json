@@ -3026,14 +3026,6 @@
     "type": "SPL"
   },
   {
-    "address": "4h8LjZWUfUQVgbEZ29UzTuGXNW6rwrJis78ZU66ekkPV",
-    "name": "Donald Trump",
-    "symbol": "TRUMP",
-    "decimals": 9,
-    "logoURI": "https://gateway.irys.xyz/m1Wv-DIbDkWP3i_ktcv0qdcGE8ulODPzxjZkvvt2oUY",
-    "type": "SPL"
-  },
-  {
     "address": "AbrMJWfDVRZ2EWCQ1xSCpoVeVgZNpq1U2AoYG98oRXfn",
     "name": "Cheese",
     "symbol": "Cheese",
@@ -4105,14 +4097,6 @@
     "symbol": "ball",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmaGn9sThY9caWdLG5sayKLhscpCoGXCRW4S2JL3V3d3cD",
-    "type": "SPL"
-  },
-  {
-    "address": "AwRErBEFGTnohzfLeRSBH9HddQEy2oeRxnWLrbvFFh95",
-    "name": "TRUMP",
-    "symbol": "TRUMP",
-    "decimals": 6,
-    "logoURI": "https://bafkreihppwmhl36ppve4xugihubmi73lalbmm752o6f5g4zkvojajl6nyi.ipfs.nftstorage.link",
     "type": "SPL"
   },
   {
@@ -10020,7 +10004,7 @@
   {
     "address": "BqhNdGtS1Nqtzi2MvZ7G8NN1vRuHZ12UpHGJKe71e1JT",
     "name": "MoonTrump",
-    "symbol": "TRUMP",
+    "symbol": "MoonTrump",
     "decimals": 9,
     "logoURI": "https://ipfs.io/ipfs/QmQJHwCLBsP43j2Q3237zPYsJMpNtZgfbde11Y7EUbWC3R",
     "type": "SPL"
@@ -22091,6 +22075,7 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRUMP.webp",
     "type": "SPL",
-    "priceSource": "cmc:official-trump"
+    "priceSource": "cmc:official-trump",
+    "tag": "recommend"
   }
 ]
