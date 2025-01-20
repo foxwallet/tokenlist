@@ -4,7 +4,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.e.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp",
     "display": "USDC.e"
   },
   {
@@ -330,7 +330,7 @@
     "name": "Tether USD",
     "symbol": "USDT.e",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.e.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
   },
   {

@@ -8273,14 +8273,6 @@
     "type": "SPL"
   },
   {
-    "address": "zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn",
-    "name": "SOLPAY",
-    "symbol": "SOLPAY",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/nguilbaud/token-list/main/assets/mainnet/zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn/logo.png",
-    "type": "SPL"
-  },
-  {
     "address": "7usVzynPTUJ9czdS96ezm9C6Z3hCsjb7j6TMKipURyyQ",
     "name": "Leia",
     "symbol": "LEIA",
@@ -18677,14 +18669,6 @@
     "type": "SPL"
   },
   {
-    "address": "Gm6szibJfB1ZzUxNYf85nXwFchugqTqNyE5fDwWfBc7K",
-    "name": "ILoveU Token",
-    "symbol": "ILU",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/rjdrar/crypto/main/symbol-1.png",
-    "type": "SPL"
-  },
-  {
     "address": "6wktcKujaFRKV9Sz455nHUNz34dEWht1gqKzR5KQ9Ljb",
     "name": "Soosh",
     "symbol": "SOOSH",
@@ -18810,14 +18794,6 @@
     "symbol": "TOOL",
     "decimals": 0,
     "logoURI": "https://storage.googleapis.com/nft-assets/items/TOOL.png",
-    "type": "SPL"
-  },
-  {
-    "address": "42Y3CgJQLnHjdScYMu8VS4TbeZMUNVdBMKYbf7hz7aum",
-    "name": "Gamify Club",
-    "symbol": "GMFC",
-    "decimals": 6,
-    "logoURI": "https://pbs.twimg.com/profile_images/1444964749897175046/wdz26CzM_400x400.jpg",
     "type": "SPL"
   },
   {
@@ -19058,14 +19034,6 @@
     "symbol": "JUNGLE",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JUNGLE.webp",
-    "type": "SPL"
-  },
-  {
-    "address": "8HfNu2EfwFQz2srSNDvPsjaWV3G65ZWP3pDC67mcNv6J",
-    "name": "Neural Octopus",
-    "symbol": "NOCT",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/Neural-Octopus-Token/noct-metadata/main/logo.png",
     "type": "SPL"
   },
   {
@@ -19973,14 +19941,6 @@
     "type": "SPL"
   },
   {
-    "address": "95KN8q3qubEVjPf9trgyur2nHx8T5RCmztRbLuQ5E5i",
-    "name": "Solminter",
-    "symbol": "SMRT",
-    "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/95KN8q3qubEVjPf9trgyur2nHx8T5RCmztRbLuQ5E5i/logo.png",
-    "type": "SPL"
-  },
-  {
     "address": "25Vu6457o2gdZRGVVt5K8NbAvaP3esYaQNHbNDitVtw1",
     "name": "Xverse Token",
     "symbol": "XVC",
@@ -20202,14 +20162,6 @@
     "symbol": "MARROW",
     "decimals": 2,
     "logoURI": "https://www.arweave.net/Tdruk9JWtgrZptCsNFuWzH1898SYMPA0z-qpiEFCmuI?ext=png",
-    "type": "SPL"
-  },
-  {
-    "address": "9bQsNPppyuTaAcf92mWjQBuRLjSDpbTDdAC7pRQNviQ9",
-    "name": "Lightning Speed Interaction",
-    "symbol": "LSI",
-    "decimals": 9,
-    "logoURI": "https://pbs.twimg.com/profile_images/1554860226112798722/jNsKHWRs_400x400.jpg",
     "type": "SPL"
   },
   {
@@ -21509,14 +21461,6 @@
     "type": "SPL"
   },
   {
-    "address": "6fr6Dwy77PvYaMc6AFYkoM3YYcAd69hmnRPVxdCebSxn",
-    "name": "Immortals",
-    "symbol": "IMRTL",
-    "decimals": 2,
-    "logoURI": "https://pbs.twimg.com/profile_images/1602577769359151111/bW5dZD_h_400x400.jpg",
-    "type": "SPL"
-  },
-  {
     "address": "qBo8aDLgHaic3byqjdRWLWiNhVWaxMYXUtDKFdirZVz",
     "name": "Nomads",
     "symbol": "NOMADS",
@@ -21597,14 +21541,6 @@
     "type": "SPL"
   },
   {
-    "address": "9hZeipk5s7VM8tvscgcLvFF7ZmoVcYkBgeScLEKQeoGa",
-    "name": "Cloud Maxis",
-    "symbol": "CMAXIS",
-    "decimals": 2,
-    "logoURI": "https://pbs.twimg.com/profile_images/1582836984837328896/m3G4_tST_400x400.jpg",
-    "type": "SPL"
-  },
-  {
     "address": "9RnzSma59bUb1cqNzPuhgXKootMSEJLcXbxNfndDhezv",
     "name": "Clay",
     "symbol": "PUDDY",
@@ -21661,14 +21597,6 @@
     "type": "SPL"
   },
   {
-    "address": "nGFA7SfrfTDyn1ZaMdeNBi2tCtUNEyFMh99JQh37CKR",
-    "name": "Crypto Titans",
-    "symbol": "CTSx",
-    "decimals": 2,
-    "logoURI": "https://pbs.twimg.com/profile_images/1500880589087514626/iZVuWUVB_400x400.jpg",
-    "type": "SPL"
-  },
-  {
     "address": "7rXwU5hsy4KBrZXpUQE8bjDD83U4AuhtBtTxQBcsE5Wv",
     "name": "Blood Bats",
     "symbol": "BATSx",
@@ -21714,14 +21642,6 @@
     "symbol": "CHIMPS",
     "decimals": 2,
     "logoURI": "https://pbs.twimg.com/profile_images/1613213689720541188/pwyLrwtb_400x400.jpg",
-    "type": "SPL"
-  },
-  {
-    "address": "5MH7bP4qM7MgFLG1bNPC6LsTtKxqEjxaYG1Pzo7bGgEZ",
-    "name": "Meersos",
-    "symbol": "MEERSOS",
-    "decimals": 2,
-    "logoURI": "https://pbs.twimg.com/profile_images/1644034092843823112/8y3YC9aJ_400x400.jpg",
     "type": "SPL"
   },
   {

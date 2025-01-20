@@ -3,7 +3,7 @@ import json
 from typing import Mapping, List
 import os
 
-CHAIN_ID_MAP = {
+EVM_CHAIN_ID_MAP = {
     "1": "ethereum",
     "10": "optimism",
     "56": "bnb",
@@ -76,7 +76,8 @@ NATIVE_COIN_MAP = {
     "sui": "SUI",
     "bitlayer": "BTC",
     "aptos": "APT",
-    "morph": "ETH"
+    "morph": "ETH",
+    "polkadot": "DOT"
 }
 
 proxies = {
@@ -125,7 +126,7 @@ def one_inch():
     print("start 1inch")
     result = {}
     for chain_id in ["1", "10", "56", "100", "137", "250", "324", "8217", "8453", "42161", "43114"]:
-        chain = CHAIN_ID_MAP.get(chain_id)
+        chain = EVM_CHAIN_ID_MAP.get(chain_id)
         if not chain:
             continue
         print("getting chainId", chain_id)
@@ -209,7 +210,7 @@ def izumi():
         logoURI = item["icon"]
         contracts = item.get("contracts", {})
         for chain_id, v in contracts.items():
-            chain = CHAIN_ID_MAP.get(chain_id, None)
+            chain = EVM_CHAIN_ID_MAP.get(chain_id, None)
             if chain is None:
                 continue
             address = v["address"]
@@ -432,6 +433,26 @@ def panro():
     update_tokens(result)
 
 
+def stellaswap():
+    print("start stellaswap")
+    result = {
+        "polkadot": []
+    }
+    url = "https://raw.githubusercontent.com/stellaswap/assets/refs/heads/main/tokenlist.json"
+    resp = requests.get(url, proxies=proxies)
+    data = resp.json()
+    for item in data.get("tokens", []):
+        token = {
+            "address": item["address"],
+            "name": item["name"],
+            "symbol": item["symbol"],
+            "decimals": item["decimals"],
+            "logoURI": f"https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/{item['address']}/logo.png",
+        }
+        result["polkadot"].append(token)
+    update_tokens(result)    
+
+
 if __name__ == "__main__":
     one_inch()
     uniswap()
@@ -445,3 +466,4 @@ if __name__ == "__main__":
     sui_cetus()
     jupiter()
     panro()
+    stellaswap()

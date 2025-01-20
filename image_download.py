@@ -46,6 +46,8 @@ def download():
                 if not logoURI:
                     print(f"No logoURI of {symbol}")
                     return
+                if "foxwallet/tokenlist" in logoURI:
+                    continue
                 need_replace = False
                 for patten in replace_list:
                     if re.search(patten, logoURI):
