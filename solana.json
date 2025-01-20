@@ -22029,7 +22029,8 @@
     "symbol": "BUZZ",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
-    "type": "SPL"
+    "type": "SPL",
+    "priceSource": "cmc:hive-ai"
   },
   {
     "address": "9sbrLLnk4vxJajnZWXP9h5qk1NDFw7dz2eHjgemcpump",
@@ -22975,6 +22976,8 @@
     "symbol": "MELANIA",
     "decimals": 6,
     "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiduq5c43xdbcbhzx3plcdtz2jwkjpzlm2hwkoxhjgmnmqbl6otyfu",
-    "type": "SPL"
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:melania-meme"
   }
 ]
