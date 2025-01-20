@@ -401,5 +401,19 @@
     "symbol": "WLD",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/10/0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1.png"
+  },
+  {
+    "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
+    "name": "Giveth Token",
+    "symbol": "GIV",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x528cdc92eab044e1e39fe43b9514bfdab4412b98_0x72959d3ba2cb25d021ad7aef7e3f1ca547abda005d2d5e044d455a9e3f00211a.png"
+  },
+  {
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0xbdc540ec9801804b1ff639adc3fcaa8464cc4698fb4a6e4ebbd0c19a6e3d85ee.png"
   }
 ]

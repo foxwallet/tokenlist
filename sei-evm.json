@@ -390,5 +390,12 @@
     "symbol": "xSEIYAN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/xSEIYAN.webp"
+  },
+  {
+    "address": "0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+    "name": "Froggy",
+    "symbol": "Frog",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Frog.webp"
   }
 ]

@@ -8514,5 +8514,33 @@
     "symbol": "MOCA",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xf944e35f95e819e752f3ccb5faf40957d311e8c5_0xbf867d51636d25b1cbfaf360c55a6b1aed75326cc1870779e3810698f954e25e.png"
+  },
+  {
+    "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
+    "name": "USD0 Liquid Bond",
+    "symbol": "USD0++",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0_0x2ad133adf158a931068460691a739b4c793ef1560db6496cc1222091dbb255e3.png"
+  },
+  {
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://assets.smold.app/api/token/1/0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C/logo-128.png"
+  },
+  {
+    "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+    "name": "Usual USD",
+    "symbol": "USD0",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5_0xf5e73a54247dc9aeb70a9faf2f1ec9989c161245c2913132c2c0ad2900d05a13.png"
+  },
+  {
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
   }
 ]

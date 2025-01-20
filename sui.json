@@ -76,7 +76,7 @@
     "name": "Tether (Portal from Eth)",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "type": "SUICoin",
     "tag": "recommend"
   },
@@ -1045,6 +1045,62 @@
     "symbol": "suiUSDT",
     "decimals": 6,
     "logoURI": "https://gateway.irys.xyz/H6RiSi7PDvKaKCzgsLybW1Pdaq4pvakBHnTvghWD5Kad",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x3b68324b392cee9cd28eba82df39860b6b220dc89bdd9b21f675d23d6b7416f1::kdx::KDX",
+    "name": "KDX",
+    "symbol": "KDX",
+    "decimals": 6,
+    "logoURI": "https://i.ibb.co/Wsbch2z/kriya.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd40cec91f6dca0673b25451fb0d654e62ad13bf6546a32a21ef0c59eba42e71c::daos::DAOS",
+    "name": "Daossui Token",
+    "symbol": "DAOS",
+    "decimals": 6,
+    "logoURI": "https://public.daossui.io/dao-sui/assets/daossui-token.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xbc858cb910b9914bee64fff0f9b38855355a040c49155a17b265d9086d256545::but::BUT",
+    "name": "Bucket Token",
+    "symbol": "BUT",
+    "decimals": 9,
+    "logoURI": "https://aqua-natural-grasshopper-705.mypinata.cloud/ipfs/QmUKAX4PME9Wb9VU6CMJPisNysaVKZNKpiB3gtMVVZTfjt",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x41ff228bfd566f0c707173ee6413962a77e3929588d010250e4e76f0d1cc0ad4::ksui::KSUI",
+    "name": "Kriya Staked SUI",
+    "symbol": "kSUI",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/HdCzDMJeQ6zE5LPFrknSXBkZityS1KZX2SzC1isZn6Ey",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x922d15d7f55c13fd790f6e54397470ec592caa2b508df292a2e8553f3d3b274f::msui::MSUI",
+    "name": "Mirai Staked SUI",
+    "symbol": "mSUI",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/3pwmCNEzHcDWVdobJJa2275EVQupXGzffjahSCPiw9G4",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR",
+    "name": "SroomAI DAO",
+    "symbol": "SHR0",
+    "decimals": 9,
+    "logoURI": "https://suidaos.com/logo/shro.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x02358129a7d66f943786a10b518fdc79145f1fc8d23420d9948c4aeea190f603::fud_sui::FUD_SUI",
+    "name": "FUD Staked SUI",
+    "symbol": "fudSUI",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/8qhJwoDEavz5KdkJEK9FaiHp9rYEqbWhF7HrqsJpUG4F",
     "type": "SUICoin"
   }
 ]

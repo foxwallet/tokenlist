@@ -22077,5 +22077,981 @@
     "type": "SPL",
     "priceSource": "cmc:official-trump",
     "tag": "recommend"
+  },
+  {
+    "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 6,
+    "logoURI": "https://cdn.1stdigital.com/icon/fdusd.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump",
+    "name": "Large Language Model",
+    "symbol": "LLM",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQmQUoTpBBcgnA5Bx5KpmgNLqLMuRRzvrUf3h85xUqo7W",
+    "type": "SPL"
+  },
+  {
+    "address": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
+    "name": "Moby AI",
+    "symbol": "MOBY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdyG2c35DTLen5Etr77cmgYQ8qH8yXZSzDQY6koymp8Ux",
+    "type": "SPL"
+  },
+  {
+    "address": "9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump",
+    "name": "Hive AI",
+    "symbol": "BUZZ",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ",
+    "type": "SPL"
+  },
+  {
+    "address": "9sbrLLnk4vxJajnZWXP9h5qk1NDFw7dz2eHjgemcpump",
+    "name": "Beenz",
+    "symbol": "Beenz",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVzFTXUfXgQmnMZngYccgTXju9RyjG3sSVWvPcgkVKrPg",
+    "type": "SPL"
+  },
+  {
+    "address": "9doRRAik5gvhbEwjbZDbZR6GxXSAfdoomyJR57xKpump",
+    "name": "Soul Graph",
+    "symbol": "GRPH",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeP9LiYLXJSmCr1zqcQVuDEK8WSRqFT21g3E23DnAxtyk",
+    "type": "SPL"
+  },
+  {
+    "address": "5QS7RcHfGUa2ZtrovPvEJMB9coqroiT7H48dPSwFpump",
+    "name": "Real AIOS Foundation",
+    "symbol": "AIOS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmX1Ed8oxjL2DxUxAqU3mM7iHa1xGmFwkKCZgWBQZ6LUwr",
+    "type": "SPL"
+  },
+  {
+    "address": "AuLFCTA8V8katsgpkFsezQtkHodJby5M4KB2VryTpump",
+    "name": "BUILD",
+    "symbol": "BUILD",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYkMhtcbW7hvVjKDNnUg56zPrjrrdjNpk47fu6829xArc",
+    "type": "SPL"
+  },
+  {
+    "address": "B8hCuoikV9gLeuwmTyhNdLbPnb5k3P77Q7WTtEM7pump",
+    "name": "Holozone",
+    "symbol": "HOLO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNdoSm354T3GWRiYxkK6NB7uZBvwnaUz24t6vTZELExxB",
+    "type": "SPL"
+  },
+  {
+    "address": "BDW8YHasD3NSDjSHU9Xy6KXtshGayMGQfj5bJpLcpump",
+    "name": "Hiero Terminal",
+    "symbol": "HTERM",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZRJNFcf2g9bTts7roKhntt5U4yogZde3zdLYv7W876ua",
+    "type": "SPL"
+  },
+  {
+    "address": "5XUUN5z1yBPEwoLztu4qMenmFe6GQnZptBFsnFnEpump",
+    "name": "Waveform",
+    "symbol": "WAVE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTwQVB1NZUtBPJ1prQAPrUnirbSrPLTzvrwhEMe2YzHZt",
+    "type": "SPL"
+  },
+  {
+    "address": "HW7D5MyYG4Dz2C98axfjVBeLWpsEnofrqy6ZUwqwpump",
+    "name": "ViralMind",
+    "symbol": "VIRAL",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmauttzoi79REy7w3bb8K6fjoooGvVMGWnF9uZcvu83AX5",
+    "type": "SPL"
+  },
+  {
+    "address": "CnfshwmvDqLrB1jSLF7bLJ3iZF5u354WRFGPBmGz4uyf",
+    "name": "Tema",
+    "symbol": "TEMA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPgzimWXh4xZeTMkLHSJ97kgCtT2NCS9BbGr1dmhSJdi5",
+    "type": "SPL"
+  },
+  {
+    "address": "4FkNq8RcCYg4ZGDWh14scJ7ej3m5vMjYTcWoJVkupump",
+    "name": "Lumo-8B-Instruct",
+    "symbol": "LUMO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQJZLSVVN5QPmD7TxKYUaiaV1vBePLeDRiPfj826brohM",
+    "type": "SPL"
+  },
+  {
+    "address": "MAtesZXcU38mgPuteRFo9ApCauYRRuwn3xf1cs5y7ZX",
+    "name": "MATES",
+    "symbol": "MATES",
+    "decimals": 6,
+    "logoURI": "https://ipfs.satsuma.xyz/ipfs/Qmd6oQqmyDt4tPTfUfZMfEhts99J4rCYxRdYKUqWNMPhyX",
+    "type": "SPL"
+  },
+  {
+    "address": "B5UsiUYcTD3PcQa8r2uXcVgRmDL8jUYuXPiYjrY7pump",
+    "name": "Sola AI",
+    "symbol": "SOLA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfP4YRBNRXLeW77khp7jjr5nkNNo8XrnBebGgjgkiZbS8",
+    "type": "SPL"
+  },
+  {
+    "address": "2NUEQdSpFFGhssmT9LFUn67gAucyajmgscT7zsizpump",
+    "name": "Shift AI",
+    "symbol": "Shift",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSsZZqxmS4g67ucPkgVy5oub3Vh62gcFrAsGh1dY6rtPz",
+    "type": "SPL"
+  },
+  {
+    "address": "Goatm5cqggssKRUwbMnPhHXKtN5SDGEP57qjwTSHD1Xf",
+    "name": "GoatIndex.ai",
+    "symbol": "AIAI",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeiagir22wfm56euadf2tdz4dyn6kkhla6h3qdgwcowfr3lo46kpkr4",
+    "type": "SPL"
+  },
+  {
+    "address": "FFgfStKwuF3DSxEeogA69FNkPrkb7XDA5Tw29TBEpump",
+    "name": "gAInzy",
+    "symbol": "GNZ",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZKj6pxDpY4AN547mCE7ssQaZfkz1mJEy6ubP6XAqQ7M8",
+    "type": "SPL"
+  },
+  {
+    "address": "Fxm6tJ2khHbLVcSgnYUqg9FiBduVRLEvdQR67dvQ3eGp",
+    "name": "Naitzsche",
+    "symbol": "NAI",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/mpbwNqWiQsUhzIBCU9uvjetv-8XAI7ZaOrJvfGBq3FQ",
+    "type": "SPL"
+  },
+  {
+    "address": "CHVggq5Bu2UKLB1MQtLciDV3UKv5hwLkJwA14egApump",
+    "name": "momo",
+    "symbol": "momo",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbjyZ4TvzLh6ty4nPp65kBXg75ctE6TG7hxtuXQARjFhP",
+    "type": "SPL"
+  },
+  {
+    "address": "2wUGjvMqXusgfzYP3Vj149bSM9MwTPLS4maxkdGfpump",
+    "name": "SOLENG",
+    "symbol": "SOLENG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYw2euFkx4EcRwLxQHbiMit6u527aqpKZWJH5NbXiepSW",
+    "type": "SPL"
+  },
+  {
+    "address": "5UmDWgyLV1JBg8Jr8NwyezXdQkiU3vHGJu2efm7Cpump",
+    "name": "Larp Detective Agency",
+    "symbol": "AGENCY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPaR1LxEYvPLYGyec2pKo6K84QMH1CEYicBwLYfCt67Gg",
+    "type": "SPL"
+  },
+  {
+    "address": "7rJp1KhptfCXd6K46bQzaGRYYUboyPE1u6fzEYBKffZB",
+    "name": "arXiv",
+    "symbol": "arXiv",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfCDc7vKy6K5LoE6rASQigKNiYMW4C8MoPSft2etLvEs2",
+    "type": "SPL"
+  },
+  {
+    "address": "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE",
+    "name": "Nodecoin",
+    "symbol": "NC",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/3fUHo_BbHmQnBYM1BNAj8pECYuAYYNYfVXdZ88yLSfc",
+    "type": "SPL"
+  },
+  {
+    "address": "sonickAJFiVLcYXx25X9vpF293udaWqDMUCiGtk7dg2",
+    "name": "Sonic",
+    "symbol": "sonicSOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sonicSOL.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "FMhxJLNmbw6UVKN3ANDKhFdgdEgqJiUEDnBgtDW4pump",
+    "name": "Basement's Cat",
+    "symbol": "JASPER",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPxMszPMtdpP1yCWVQUyp4yij2MmuHVgH3jcbaiG1WE4G",
+    "type": "SPL"
+  },
+  {
+    "address": "CZBYBV2e1x1ZuZ2qkwU5mPNVLFKfVvjSssSNHzSepump",
+    "name": "good game",
+    "symbol": "gg",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmU3s4wmTQ81h6EYb4PZerrGYy6iRJpabGwzU1gJyqoohS",
+    "type": "SPL"
+  },
+  {
+    "address": "FwzpNxnabjZvc8QCnV6qPEBKxqLxSyjobc5Etdgxpump",
+    "name": "ALRIS AGENT",
+    "symbol": "ALR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmS96xLmpuM1Wq1SWpLhVTfYsor7pRgUUtANWND6ye2Ros",
+    "type": "SPL"
+  },
+  {
+    "address": "DqrcZRHM9JuCUhnLyaWF7rLLjxE5h3MbiG7iferUpump",
+    "name": "Crypto Agent Trading",
+    "symbol": "CATG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQYCpwKrXq2kRFjkMefyZq39JouTu4Fp5HT8G6SJNHNyQ",
+    "type": "SPL"
+  },
+  {
+    "address": "4h8LjZWUfUQVgbEZ29UzTuGXNW6rwrJis78ZU66ekkPV",
+    "name": "Donald Trump",
+    "symbol": "TRUMP",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/m1Wv-DIbDkWP3i_ktcv0qdcGE8ulODPzxjZkvvt2oUY",
+    "type": "SPL"
+  },
+  {
+    "address": "yLUD35WTiPLEY6DUqEj5W2JVXF2DfKB5arPkKJXpump",
+    "name": "AgentiPy",
+    "symbol": "APY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbFik3oCbTJ2L4Ggqqsg9W9C2KWJW7srysZ2824a6L1Vz",
+    "type": "SPL"
+  },
+  {
+    "address": "61yG5LCoeoqzBdopXPy6BsVPTGdRXht95L68hj5ipump",
+    "name": "Sandy Codex",
+    "symbol": "SANDY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQHchEfF5D17F24krTPdTkRgGUeW7bvjssmBqU7PqoDRU",
+    "type": "SPL"
+  },
+  {
+    "address": "36RdKLxTawWTw1M5KJJpHc77ShLrcFjQyfBby4nopump",
+    "name": "TopDawg.fun",
+    "symbol": "TopD",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSxPfNkLhW3r6EkZJ3EJTpQdZMbwyRcjUJ21Tz2ybuxdM",
+    "type": "SPL"
+  },
+  {
+    "address": "79HZeHkX9A5WfBg72ankd1ppTXGepoSGpmkxW63wsrHY",
+    "name": "Universal Operating System",
+    "symbol": "UOS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmbjgcm8uuwUAPjwbLMGbY8gNv97Z62WAs5HtEKuRDXomM",
+    "type": "SPL"
+  },
+  {
+    "address": "FR382Gv7RxrEb2q1MZkP9athyJC9rUBt8M2jKfyKpump",
+    "name": "Jarvis AI",
+    "symbol": "Jarvis",
+    "decimals": 6,
+    "logoURI": "https://fatalityhq.mypinata.cloud/ipfs/bafkreibhgoqpuk3seip37hp4nf4nexnig7l5f5ugzgnfddl426huibuovy",
+    "type": "SPL"
+  },
+  {
+    "address": "9iQFnxrDDMFrhLx2pYJCDeqN3wFuaBimQkUnZQHNpump",
+    "name": "HYPE3.cool",
+    "symbol": "COOL",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYMRPSBFSXFvsUbZFALEAFHXDkJCSjzMAqYJTAGBPUUs8",
+    "type": "SPL"
+  },
+  {
+    "address": "J66WwDQPVno1x2WsLvVvtsHatt6ou8eRzCK3ZE74pump",
+    "name": "Sirisys",
+    "symbol": "I.am",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbHNcvmnGsxxZUSg6o1FKfrPqGAu6WkfqGDAbWRmHGgEy",
+    "type": "SPL"
+  },
+  {
+    "address": "84R6wZHapPTGobXfsgmBRpoL7C9dHJj16ahRBjxx2637",
+    "name": "Predo",
+    "symbol": "PREDO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZ6ZCce1Kcx5j1nKBvSCRShHZGzX9snwR4Mt45naHivXU",
+    "type": "SPL"
+  },
+  {
+    "address": "oraiJP7H3LAt57DkFXNLDbLdBFNRRPvS8jg2j5AZkd9",
+    "name": "Degenerator Project",
+    "symbol": "GNRT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNu1YU842i2imMX9bTV5kFK8ndUpUwxHD9ipRRXoBakD6",
+    "type": "SPL"
+  },
+  {
+    "address": "FdzVFSP9KX58GzpJywdqhAmADr3XTEypawHyenShpump",
+    "name": "Being_AI",
+    "symbol": "BEINGAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXHf1MRq1NhsqnVQkmiH3SoTrRDbScA7WZMfLwZyWNFiq",
+    "type": "SPL"
+  },
+  {
+    "address": "2z1p8xCEjRzpBHjXWrx4tJnz7BFL6z7NnvbCxH7bpump",
+    "name": "San Chan",
+    "symbol": "San",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWDv4SzGZ6qJDSEtRFS9wKCcR8eiS27iQ8nFcL5McdpuW",
+    "type": "SPL"
+  },
+  {
+    "address": "3pH7FnM3yR2Jy2c6vyXmsCiNi1rjQ7gerCq2pEUHpump",
+    "name": "Zenith",
+    "symbol": "ZEN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTTrUGCQ1yDhyjLUna8DNMBVaHi6PV4qMrmA4ne2ZxvGy",
+    "type": "SPL"
+  },
+  {
+    "address": "Co6yHBdUcVsrmRq75iKmxAddx9ggg32g3Zd1Vwscpump",
+    "name": "AI Penis",
+    "symbol": "PENAIS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSu2nL2wQnB6QeKFAFtaSvDuPEkrCYjDXhKfjEBQyZz2B",
+    "type": "SPL"
+  },
+  {
+    "address": "7CPBU6CL7GpjzM2DRr7HVoy7TGJxvHkPHWxfvEZypump",
+    "name": "feetcoin",
+    "symbol": "feetcoin",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYzQ8VAkGc9qSYFPJKVqjo2t2CB9fbYCHQa6Gnnda1MdG",
+    "type": "SPL"
+  },
+  {
+    "address": "229vWzBTiUNdraYpVtSH9usTwwVxcyPDbBWf1zEPpump",
+    "name": "Calvin in the Cabal",
+    "symbol": "CALVIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXnqEc9qWQ2yYXbJsXmMnJWDUoZPdXtjcexVcHkzp349s",
+    "type": "SPL"
+  },
+  {
+    "address": "5WGkdemJNEoAVKveDQdzQmDqTyxCraXGw9ACyrwCEUMS",
+    "name": "Obi PNut Kenobi",
+    "symbol": "OPK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVVvxjX9KYeSaZUycyu8y6htrPDGyqC3z6kWtYdeQQ1T2",
+    "type": "SPL"
+  },
+  {
+    "address": "C1YT4fbjCkwqodUVLryYVRs37vmvYnihAJjVDDeupump",
+    "name": "Red Genesis",
+    "symbol": "$R3D",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYjYaCQGdVhfwcQCCFN2Lf59vGVkzCaf9R9xrEF6TdLLz",
+    "type": "SPL"
+  },
+  {
+    "address": "3Bbj7eZTuMd2FrfeZ2degzckxhgB5b63crGoHLtrpump",
+    "name": "Baby Fwog",
+    "symbol": "BABYFWOG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSV9gxMHP1YAvMDS6nXni4tpz8RNMdzcgt6byxcVq5Q4R",
+    "type": "SPL"
+  },
+  {
+    "address": "7yZFFUhq9ac7DY4WobLL539pJEUbMnQ5AGQQuuEMpump",
+    "name": "OBOT",
+    "symbol": "OBOT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeeSqjjrpQ5ht5uc21uG3j3PdVM46CkfTXUCyt23vs462",
+    "type": "SPL"
+  },
+  {
+    "address": "Gb9jGTUrGLvqHacsKDXbxsbEr6pqZb71J661WkBFpump",
+    "name": "JUJU",
+    "symbol": "JUJU",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSN4EDccJDyB29XgqeDBvUZCwGokBr82tBpDRM2JRrou9",
+    "type": "SPL"
+  },
+  {
+    "address": "Gzat1rLZr6H5LacXAohUSM8fc7dbQTHBBJyk8Rcepump",
+    "name": "TEMPTATION",
+    "symbol": "TEMPT",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmaFvwLroGR1UGX5hzS5cEz6qcfGGHDdEwxjJAiLWTfQFK",
+    "type": "SPL"
+  },
+  {
+    "address": "FLqmVrv6cp7icjobpRMQJMEyjF3kF84QmC4HXpySpump",
+    "name": "GME MASCOT",
+    "symbol": "BUCK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXL6KzEQH7uc2AUuyv9VdypPi9X38fb1E8AADLjZvkjAG",
+    "type": "SPL"
+  },
+  {
+    "address": "2Xf4kHq69r4gh763aTGN82XvYzPMhXrRhAEJ29trpump",
+    "name": "New Project Zero",
+    "symbol": "NEWP",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmavJ5vew5ed6gKmuB26giaxH8SmXg4ZQ9mHw4deugjRtP",
+    "type": "SPL"
+  },
+  {
+    "address": "EVgPUtiE6Fg7T6RY16ACmydX7uucpCaqsK3es3u2pump",
+    "name": "Buttholes",
+    "symbol": "bhole",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcbprRcqPjywEDZyKQyMCj5nLkkMdVkCBeVD276D3Gbx6",
+    "type": "SPL"
+  },
+  {
+    "address": "5Kh2xc7X2qfRig2DZyGkuEXw7jeXUXoei7U6GBjfpump",
+    "name": "SeduxAI",
+    "symbol": "SEDUX",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTcJGigDXaq2VrJhC4q6jfFkZ6RVr6oE3y8ykWY6FKrEU",
+    "type": "SPL"
+  },
+  {
+    "address": "Bhu2wBWxfWkRJ6pFn5NodnEvMCqj9DLfCU5qMvt7pump",
+    "name": "chAtoshI",
+    "symbol": "CHATOSHI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRrrrS3QYYvEwZgm6cRcknFnEdAhzFo4Eo6FoVZRWtnqk",
+    "type": "SPL"
+  },
+  {
+    "address": "9xbgwwXdzJYv8sLmVCFsRSNKwzCCNQWiEhWVGNhWCNGE",
+    "name": "Pawel",
+    "symbol": "Pawel",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/2PDQa5S4TNahdGabFRcSijFfTWM6kuzdTnyyDb7C2fVS",
+    "type": "SPL"
+  },
+  {
+    "address": "FPkwvXdbiE1ZWCj7SKj9ixVqgFZKNttzzKNSWVPD6XsK",
+    "name": "MuskDonald\u2019s",
+    "symbol": "MUDO",
+    "decimals": 6,
+    "logoURI": "https://i.imgur.com/wAv1L26.jpeg",
+    "type": "SPL"
+  },
+  {
+    "address": "Ai4CL1SAxVRigxQFwBH8S2JkuL7EqrdiGwTC7JpCpump",
+    "name": "All Will Retire",
+    "symbol": "AWR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNu5nAXtwPY81vSjM16ZE3U81KHtV8U9u58i45y1C2Fo9",
+    "type": "SPL"
+  },
+  {
+    "address": "HyVDEc81P8DGfNfZbBZwyntJPvjrSi7JEK1vgqbJmUq9",
+    "name": "TruthFi",
+    "symbol": "TruthFI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQkjAdB9sh6m6T3k9RCBzLaBAzmbyYYxLkEyzaTB1BuCE",
+    "type": "SPL"
+  },
+  {
+    "address": "GULwrVbDds3syijiedNieummMCDnFezYx8Cx6U82pump",
+    "name": "Altoid",
+    "symbol": "Altoid",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQnsA6Hg2snsVutmWq6zFFBVieYFyPxPPJnZxacaaoSaq",
+    "type": "SPL"
+  },
+  {
+    "address": "4BsE91MrbhEeJmWJ3ddX58hN4iAk8gXmvZv5JYUapump",
+    "name": "PLANT",
+    "symbol": "PLANT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeMtnxkfYPbfuB8SdNdMdBKztj9KWcW8VXGBr8azBtSba",
+    "type": "SPL"
+  },
+  {
+    "address": "GnMkhejvQmjMfAwnrYfu1LN3AfheiSo6pD2WaBeRL648",
+    "name": "RIGHT ?",
+    "symbol": "RIGHT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmV3YoDYKmgRfo7w3kJBgoo4T1onX7hQQ6QMUTLqFtmYEB",
+    "type": "SPL"
+  },
+  {
+    "address": "AwRErBEFGTnohzfLeRSBH9HddQEy2oeRxnWLrbvFFh95",
+    "name": "TRUMP",
+    "symbol": "TRUMP",
+    "decimals": 6,
+    "logoURI": "https://bafkreihppwmhl36ppve4xugihubmi73lalbmm752o6f5g4zkvojajl6nyi.ipfs.nftstorage.link",
+    "type": "SPL"
+  },
+  {
+    "address": "CmpuL8k9KY3NrpfDRoJrVmuwd1zRMFRUxX55avyGpump",
+    "name": "Jarvis",
+    "symbol": "Jarvis",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmR1L5roDBjSCr1i979aJNckiW7SqumqXaujhXy6TCkWDE",
+    "type": "SPL"
+  },
+  {
+    "address": "9vtNLbN2qxPbrx666rP34s9PBGtyLrsupMGdVyqG7FzH",
+    "name": "ai GCR",
+    "symbol": "AIGCR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNoEufMazZKPWKE4fgadDcUWrt5SVx4pRzwvNsHmSaGxP",
+    "type": "SPL"
+  },
+  {
+    "address": "DdEWen5QEDFZmBJLscgwY81mbZLNZ642zMuR5YLVv8vH",
+    "name": "BROT",
+    "symbol": "BROT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmaW8XtFn9zGLQiojE9dk11XE7Y7a4DLjuzDEN9qrvjPYE",
+    "type": "SPL"
+  },
+  {
+    "address": "ALri8Q48iGEfVz1a61fgyrGguR7UKgXNWmEi4NnGtkeg",
+    "name": "Starship SpaceX Coin",
+    "symbol": "STARSHIP",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmWHVkJCU5Ttd8rLdDNk4TzVmKNeM8cBDJTz1uiziin4k1",
+    "type": "SPL"
+  },
+  {
+    "address": "D4G7rpcQBF5oVQwBzoDwHPiweJ5RYvuEVGdxqmPApump",
+    "name": "AI Trader Agent",
+    "symbol": "AIT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZC1vvBUayRkqWWjXBZ3Pg6cSDETgAnDrAPB4Yyb3Bz27",
+    "type": "SPL"
+  },
+  {
+    "address": "EdevXsYfsBhQY3BSs1RD6R6izKjHBhj7EBN7446apump",
+    "name": "Just a FOMO Guy AI",
+    "symbol": "FOMO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmX2BppLbiC4zQ4c8Adeq8NtyfQ6GK7jtZb3Dtemz4Bvxo",
+    "type": "SPL"
+  },
+  {
+    "address": "5FrD5jS1gHqNeNGCB9JEcDGAiwsinpfq1gcN4Mkupump",
+    "name": "NEURO",
+    "symbol": "NEURO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWijTSAepRKJy7w5AJrKZhzBiZyESdwCn1d5yfJzvpLEm",
+    "type": "SPL"
+  },
+  {
+    "address": "3VN23efZivjL1UF8B1y4X4NmfbVe8yKhooKUAwgFpump",
+    "name": "DIGGER AI",
+    "symbol": "DIGGAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSHXD9HkCzKCUVEmrzCa7tUC7RnM6rK41V41aXwn9eR8p",
+    "type": "SPL"
+  },
+  {
+    "address": "2uic5Siiu6kwPoHZDHnhvH1MySx1vmLkVmzUTkc3pump",
+    "name": "S\u014dz\u014dAI",
+    "symbol": "SOAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZxw3FqBZz6U8bTLULCpeXekoAMYjxbase5frv9KfAavZ",
+    "type": "SPL"
+  },
+  {
+    "address": "5a6LTLwdMJBY2JDLjw8B1w4JwFRdZszGF9W56ZzrriS1",
+    "name": "Vodra",
+    "symbol": "VDR",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/oLx6REJKINpc5iDx1kKFbfeFUuul_S0Vaztb9VmpvIY",
+    "type": "SPL"
+  },
+  {
+    "address": "3irCtLebkhSV35QxPGpYcmH694QrBTaTzshJAFC6pump",
+    "name": "Don Trumpet",
+    "symbol": "Trumpet",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXigVqtG2n91MG5NQTDtibboWnutEbMT8NtEPZMNARvBp",
+    "type": "SPL"
+  },
+  {
+    "address": "7K9YEepYXwSmiVreL7s1mqoxeLGFQ5z4v2Vimxx4pump",
+    "name": "PARDON SNOWDEN",
+    "symbol": "SNOWDEN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYprKXgWcRdtZESS5rCDM8ArHnpCM7izWs4zuhcjJDGRS",
+    "type": "SPL"
+  },
+  {
+    "address": "Ci6Y1UX8bY4jxn6YiogJmdCxFEu2jmZhCcG65PStpump",
+    "name": "raticoin",
+    "symbol": "$RATi",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbWL757BP9eqt8PEBprxxYf1VtNVvkRskXKqtKLNrS5o8",
+    "type": "SPL"
+  },
+  {
+    "address": "88dnPHaZDxwCm9xiDgB15uPwGdgE2y7ALcqsgRTopump",
+    "name": "Nexus Erebus",
+    "symbol": "NXR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSNX8AaoJJvR215q1WiWVtbtc6Xoag7X6NM7DsxYVHMCC",
+    "type": "SPL"
+  },
+  {
+    "address": "5tFRno9GXBP5gt2Kjx2MeEaFL8zGBMw4cujTLGerpump",
+    "name": "Solana Agent",
+    "symbol": "AGENT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qme86ApYuJGvfCHPWNKvHD6Nr5jC7FSFaE3H2RMjqPGX2p",
+    "type": "SPL"
+  },
+  {
+    "address": "5e41GfrQwTP74LgGt6WP9kw6xa1jQhAERCjnFKf74y52",
+    "name": "Blockbuster Video",
+    "symbol": "VHS",
+    "decimals": 9,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/H2PyzV5OkSgN95Pq",
+    "type": "SPL"
+  },
+  {
+    "address": "9kEcnFj9vwShFtjyLNULGFugBS9KrYAazMAcx3GWpump",
+    "name": "lenda on chain",
+    "symbol": "lenda",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSpCmGQn5DsA4eRMygcNkpfUibyinuipR3wz7d6nzScbg",
+    "type": "SPL"
+  },
+  {
+    "address": "AT8PKdYWrz4D9BvNLvYer6rRgyH4TPqyvdHYQt2ppump",
+    "name": "VanityGPT",
+    "symbol": "VGPT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYsCEYQLmAPxWxWVXajxTzEDN5AqtsmroAtPXgbvgJYPA",
+    "type": "SPL"
+  },
+  {
+    "address": "5fkfXP8VgiLw7QcFSKPxwFMqH9WuNsA5ExJWHXgVC5hT",
+    "name": "cookerxbt",
+    "symbol": "CXBT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVcxt4DVSNemVzSX8Vz8HXJKSQuXd6RhALXKBeGZRFvEz",
+    "type": "SPL"
+  },
+  {
+    "address": "GJVNVCfovYFWVQC62J2stXyCrawR5fAsC5HVpmZiaMkY",
+    "name": "jofrey epston",
+    "symbol": "EPSTON",
+    "decimals": 9,
+    "logoURI": "https://bafkreigugk42xc2licjev6txlmr7wbrx6qj7umokjfem5j3ssztwozpsyy.ipfs.nftstorage.link",
+    "type": "SPL"
+  },
+  {
+    "address": "7w9gX1WBAYs6KnTd5oZdNNDS887YcBo4yScj66dUpump",
+    "name": "Metformin",
+    "symbol": "Met",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQqZ6284dGRLBHQfGZPGtQo7Xk4yPm4D6o2uqmNAL8NxP",
+    "type": "SPL"
+  },
+  {
+    "address": "GhBPHgnNF99EThYxt4bxUfPX1hCPyAS72RCBgLjLpump",
+    "name": "Aria",
+    "symbol": "ARIA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRqJBjZMh78N7LG5TSoA1KW4cfgQRHVGFNz6yf47ijDBc",
+    "type": "SPL"
+  },
+  {
+    "address": "5puhwnyz2Tv8jSmmBD5DSqCwFVXwwPGZacymM7DQpump",
+    "name": "8008",
+    "symbol": "8008",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdXXXHb9h8XcG1obpG2nHSiFBkANFFMoe2JhXBpbsZhg4",
+    "type": "SPL"
+  },
+  {
+    "address": "GwDvwZAxybggKWAi4hFDrvfw9hxPfKRhvztjc7TCpump",
+    "name": "Diogenes",
+    "symbol": "Diogenes",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTZeiCMTo8R5G6cDs9FWNpgYzAEGG7eWc8FtS4fLyZ9Vy",
+    "type": "SPL"
+  },
+  {
+    "address": "CzgC7JBieC4F2L7oZGYhRENby6LP9xVrLrGKxR3npump",
+    "name": "W",
+    "symbol": "dub",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNuXp3cX79LKR9X8f9svBaEbqdDsR8ieZ7mJe1gxVLf6N",
+    "type": "SPL"
+  },
+  {
+    "address": "7wdxpzhn8Bz21nTb9b7qM7HzmU6LEoV1QeFKqWeKpump",
+    "name": "GIGAICHAD",
+    "symbol": "GIGAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQf79tZgZKL2HUr5C4FcSaA8EjJ7zX32oYusCRSvmSoSv",
+    "type": "SPL"
+  },
+  {
+    "address": "XLqNprqfebg1Qkn9ttjHv7rM9g5JkvZoyvo5Lx9pump",
+    "name": "SOLITO",
+    "symbol": "SOLITO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPeiAGcs7NzVVZoUHpSjUPYckFJnsaUGRANpQ3Uap5TiL",
+    "type": "SPL"
+  },
+  {
+    "address": "H3c9RZhvCzxQSmLULh4RsJC8GuK9rVNV2bcoLhMQmoon",
+    "name": "Solaria Utopia",
+    "symbol": "SOLARIA",
+    "decimals": 9,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/NFzveH0UxcvKPGf3",
+    "type": "SPL"
+  },
+  {
+    "address": "C4j7kPx9PqDnfvxe2uycJQRTAeyGwmU4DyGf21Xgpump",
+    "name": "Market Dominance",
+    "symbol": "MD",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQ8aYZLfgCTPj9anJCAEnXx5XSKuzNK9YEVeKWpnHcdY7",
+    "type": "SPL"
+  },
+  {
+    "address": "23VdJFdmz8dwFxZfQ24k13jVoQEw9RSKYU2sdgocpump",
+    "name": "da Vinci AI",
+    "symbol": "DAVINCI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTda82KF2HRFwXoq9mwcGha4eS5ncz47rdEZ2MG5Rb8cz",
+    "type": "SPL"
+  },
+  {
+    "address": "5Yoc8Wzh5y9nA414VY9qJ1D3GF4qJ3SdhNxZuwn8pump",
+    "name": "Lotion Coin",
+    "symbol": "LOTION",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTfjWTnEki8d1FdZiy8tx4QytXpB7ny1b42cwbgHmzj2X",
+    "type": "SPL"
+  },
+  {
+    "address": "5o9knHKZtdtmsovyDQymEYFZ8CfgL6wV6hgt2zrhpump",
+    "name": "Xiaohongshu Cat Paofu \u738b\u6ce1\u8299",
+    "symbol": "PAOFU",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRMXtYjy8AaQKBWpni3k1iMg7jnLQSNL2yYQCmkBZMiQ7",
+    "type": "SPL"
+  },
+  {
+    "address": "9kG8CWxdNeZzg8PLHTaFYmH6ihD1JMegRE1y6G8Dpump",
+    "name": "Goatse Singularity",
+    "symbol": "Goatse",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcRUadjH3chrEYxRAXPjT39rNZ4PW5dMKtY2muCCzAe6d",
+    "type": "SPL"
+  },
+  {
+    "address": "FGsoADPks5qAKbSniCH5CMmvk6o3tD6LHjwDSKiqpump",
+    "name": "Fat Tits Index",
+    "symbol": "FTX6900",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVsJ1q7YUAHJZVtntZTbNGJGaRgY1hgPGQ78hanageFg5",
+    "type": "SPL"
+  },
+  {
+    "address": "9BEgRvPFbG32g9yq5i2NYy51jBW8pkpmjc1HuDbpump",
+    "name": "LOCUS",
+    "symbol": "LOCUS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcQHmfCJR5pM11dJSXH4WNqL757tXgbqKy8WE4ZmEyZV1",
+    "type": "SPL"
+  },
+  {
+    "address": "BfZm2yBtQFYnV7fLFboEJZbVDGcp29n685qVmgf5pump",
+    "name": "THE MEME GAME",
+    "symbol": "MEMEGAME",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWe4JVmKqVT9niw5TzkcXEG1cF12k2LMthVh2Y1FpYZos",
+    "type": "SPL"
+  },
+  {
+    "address": "EFFECT1A1R3Dz8Hg4q5SXKjkiPc6KDRUWQ7Czjvy4H7E",
+    "name": "Effect AI",
+    "symbol": "EFFECT",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/HFC0qRAU3IjEKfQ5xBG8ryIgt-zhp9FzbP9F7EEEqIg",
+    "type": "SPL"
+  },
+  {
+    "address": "2Hpd5tfRdF71sERDoSKtjGGti9nPiCNEBi7Q2f1ypump",
+    "name": "the life of cat",
+    "symbol": "cat",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSARqJgKKjm6bqRJNvEcHaKJWZeuJUaC969dzgnpPy4yj",
+    "type": "SPL"
+  },
+  {
+    "address": "74Rq6Bmckiq8qvARhdqxPfQtkQsxsqVKCbDQL5PKpump",
+    "name": "Ugly Dog",
+    "symbol": "$UGLYDOG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYpM1JbkJUkwHhg3QbtnbGbkwdBjH88rJM6SVzkZrRhmK",
+    "type": "SPL"
+  },
+  {
+    "address": "LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR",
+    "name": "Epicentral Labs",
+    "symbol": "LABS",
+    "decimals": 9,
+    "logoURI": "https://ipfs.moralis.io:2053/ipfs/QmZjnWSe1c3JBcy6Nku1nNDdJiHt7XHMRnroYKjSssUWLt/Epicentral-Labs-Logo.png",
+    "type": "SPL"
+  },
+  {
+    "address": "B3acSbP8gdqCfhiveW6HZJVNmNZfo5yDBg8RnDVzpump",
+    "name": "qt",
+    "symbol": "qt",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfGTrcLSCAdEZgT9mymU8MJbXicVz8jnQ7PN5UHx6PdGu",
+    "type": "SPL"
+  },
+  {
+    "address": "GRCbqUpu1YEMbfzyVo6xma6TqZtXAr9TNSMukZzkpSdc",
+    "name": "PocketPay",
+    "symbol": "PAY",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmfLcUBK3YrXHQcYg3mJoFa7F917ELYn84HzJhQusCqRRF",
+    "type": "SPL"
+  },
+  {
+    "address": "Ac61nmCxyvqTLzFcPXJQjLsJYFXYRVKkyxWN4kiqcDmF",
+    "name": "Sami",
+    "symbol": "SAMI1",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbhfxQsiVu5R84TaJE7Vk7NxsCMAqee9biyafyispVJvp",
+    "type": "SPL"
+  },
+  {
+    "address": "MEMEo67vpBz4nUC28uwVWfWvctcVcD1PCgjtrzAXh4f",
+    "name": "Meme Economy Simulation",
+    "symbol": "MES",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcUrNDdrYB4sC4RzNwVinRhCgHKa262hnPYqjy7buj4Yb",
+    "type": "SPL"
+  },
+  {
+    "address": "9YHZjCb14bB9XWZz6FZPTf5nek7kLeoGHmNNrgcxpump",
+    "name": "Pengycoin",
+    "symbol": "PENGY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRWQxAaNoGEr9RuJ3DjK1exNjt7qVauZ6dzYumr6SXKdp",
+    "type": "SPL"
+  },
+  {
+    "address": "2aw9XoRp8x5xgVeEC1vb1QaqZNKbcBDfTD8NMppKpump",
+    "name": "Pierre Poilievre",
+    "symbol": "PIER",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmRrCttjYFhXo6gX9SMhVYD8DSXcSgkCRJ13zr6NBPpYWB",
+    "type": "SPL"
+  },
+  {
+    "address": "7EMgWe3yFU19KmMahvk9wieGSozGrTRdiecw3E9bpump",
+    "name": "$51 and a dream",
+    "symbol": "51D",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRUogM7aVpy4Ywg7t4zmm6WosfKSgo7T2yzvLRFtYELNL",
+    "type": "SPL"
+  },
+  {
+    "address": "EwgH5C1Qxoiv9utR4hiQy26Bs7UPyajcJgWBbPyrpump",
+    "name": "ElizaBAO",
+    "symbol": "BAO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTXt6tAtJJ7hqVYakoiBtJtjxTZvCL58nvU53uqnrDaJV",
+    "type": "SPL"
+  },
+  {
+    "address": "2xBoJ3dvWZ2eyJeaxR2psqnHe3GftxUFiHkwzxPVpump",
+    "name": "shitoshi fartamoto",
+    "symbol": "shitoshi",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmT7e6A2XbUTdnK3Z5k4ooAaQPvCVLyTVeVaKrcEkEERST",
+    "type": "SPL"
+  },
+  {
+    "address": "GaHu73uhhWrcGLF3CWUi26ZBzv5mZAy8PLrvzoM5XMZh",
+    "name": "MINE",
+    "symbol": "MINE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmYiDDWjtnxpwugrquArjjAAH2Qf2Xh21D7fzyxYhShoKg",
+    "type": "SPL"
+  },
+  {
+    "address": "4ZrxMzvqQ8f37ViijJTYp3FZqFTkG47rZhETx2dPpump",
+    "name": "Winnie the Poodle",
+    "symbol": "WINNIE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmaBbsCoq1cpc5T2FTGedmgbdyf1aR4PTcPn3gWMFCH2AX",
+    "type": "SPL"
+  },
+  {
+    "address": "LUX8NDStbKJhzMuH7abY4va81YaubLw3Vto5rmb66Lw",
+    "name": "luxSOL",
+    "symbol": "luxSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/HWohT5kcg28hBLUnmUnkLaNcykyvWAH_boQKxd1L1-Q",
+    "type": "SPL"
+  },
+  {
+    "address": "BorGY4ub2Fz4RLboGxnuxWdZts7EKhUTB624AFmfCgX",
+    "name": "Borgy",
+    "symbol": "BORGY",
+    "decimals": 5,
+    "logoURI": "https://bafybeidakxizcbtirp3evkpuadcapojwag6ymggm5y5bfc7p7dceg5gpeu.ipfs.dweb.link/",
+    "type": "SPL"
+  },
+  {
+    "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AUSD.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "VoRLDaAR21dSQF6ofGEHYmHQAdPnJrTLNsQQdm7UHfB",
+    "name": "vorldSOL",
+    "symbol": "vorldSOL",
+    "decimals": 9,
+    "logoURI": "https://amethyst-efficient-dingo-122.mypinata.cloud/ipfs/bafybeiboaqe24sonmqzwpurmk7dchd465lfbrpxvpejyvu5wfs7jr7zbpa",
+    "type": "SPL"
+  },
+  {
+    "address": "vybe5DgwzGdvJMi4oH7TiQpubJd4QSDuGmbvWfACeb8",
+    "name": "Vybe Staked SOL",
+    "symbol": "vybeSOL",
+    "decimals": 9,
+    "logoURI": "https://static.vybenetwork.com/VybeSOL.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "name": "Melania Meme",
+    "symbol": "MELANIA",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiduq5c43xdbcbhzx3plcdtz2jwkjpzlm2hwkoxhjgmnmqbl6otyfu",
+    "type": "SPL"
   }
 ]

@@ -3489,5 +3489,26 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RWA.webp",
     "priceSource": "cmc:rwa-inc",
     "tag": "recommend"
+  },
+  {
+    "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+    "name": "LayerZero Bridge agEUR",
+    "symbol": "LZ-agEUR",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x1a7e4e63778b4f12a199c062f3efdd288afcbce8_0xe5e7632fb5a6a0e89a5a9fb75cc58370c6fc229178a90d62435b110d5515d235.png"
+  },
+  {
+    "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0",
+    "name": "Vana",
+    "symbol": "VANA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0_0x99041782668ee9e54d4fdc7e474c2ccc7c999a9f5d008cf69d10c3d575111501.png"
+  },
+  {
+    "address": "0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52",
+    "name": "SOLV",
+    "symbol": "SOLV",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/solv.png"
   }
 ]

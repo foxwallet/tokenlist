@@ -771,5 +771,19 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/esMOZ.webp",
     "priceSource": "1inch"
+  },
+  {
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0x08fd2b601af615d0277c97dde87e790c988e73c8f08a6c5a2a2026804a3f5265.png"
+  },
+  {
+    "address": "0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
   }
 ]

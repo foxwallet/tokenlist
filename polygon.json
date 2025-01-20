@@ -1755,5 +1755,26 @@
     "symbol": "POL",
     "decimals": 18,
     "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png"
+  },
+  {
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0x6a263021b60f6592b27dad2da965cd367557e91c10e98a147af67c540d7ab7bf.png"
+  },
+  {
+    "address": "0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01",
+    "name": "Longinus",
+    "symbol": "LGNS",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01_0x3dea5d172f1b0b9d91dbe8958e3a0d38b6f4585dc2357a961aa74f2a07801581.png"
+  },
+  {
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "Vanar Chain",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
   }
 ]

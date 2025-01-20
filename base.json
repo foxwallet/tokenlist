@@ -487,5 +487,54 @@
     "symbol": "SPX",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
+  },
+  {
+    "address": "0x12418783e860997eb99e8acf682df952f721cf62",
+    "name": "dlcBTC",
+    "symbol": "DLCBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x12418783e860997eb99e8acf682df952f721cf62_0xc9a6012457660b0d32b65293bf7464b7e07a9ad5062255be510441807922e8d6.png"
+  },
+  {
+    "address": "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+    "name": "aixbt by Virtuals",
+    "symbol": "AIXBT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825_0xef7a2f00773e2a96a830faaf5788c6b8444537e25361b9cec6dfcd0495781f00.png"
+  },
+  {
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "name": "Mountain Protocol USD",
+    "symbol": "USDM",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0x96ef577dd881e40a704b3023193b6ffe74904e360a887c8daae828ac5e86db00.png"
+  },
+  {
+    "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+    "name": "Gravity",
+    "symbol": "G",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x9c7beba8f6ef6643abd725e45a4e8387ef260649_0x990512b9ea318de5e81ad1ccdb7fab6843e13963aad5e53304292f21fd7d140b.png"
+  },
+  {
+    "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842_0xd18e9e5389702605395fffb94abd4f826aea2adbdc440bd890b21ef529e73df0.png"
+  },
+  {
+    "address": "0xc3de830ea07524a0761646a6a4e4be0e114a3c83",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xc3de830ea07524a0761646a6a4e4be0e114a3c83_0x35e495b3fdd8ca6b2250efb5826bed8c9a9c0a4cb8c614277e2c8f421488631b.webp"
+  },
+  {
+    "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
   }
 ]
