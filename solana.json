@@ -2005,6 +2005,7 @@
     "address": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1",
     "name": "MAGA (Wormhole)",
     "symbol": "TRUMP",
+    "display": "whTRUMP",
     "decimals": 8,
     "logoURI": "https://magamemecoin.com/wp-content/uploads/cropped-MAGA-Memecoin-Favicon.png",
     "type": "SPL"
@@ -22322,6 +22323,7 @@
     "address": "4h8LjZWUfUQVgbEZ29UzTuGXNW6rwrJis78ZU66ekkPV",
     "name": "Donald Trump",
     "symbol": "TRUMP",
+    "display": "Donald TRUM",
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/m1Wv-DIbDkWP3i_ktcv0qdcGE8ulODPzxjZkvvt2oUY",
     "type": "SPL"
@@ -22594,6 +22596,7 @@
     "address": "AwRErBEFGTnohzfLeRSBH9HddQEy2oeRxnWLrbvFFh95",
     "name": "TRUMP",
     "symbol": "TRUMP",
+    "display": "TRUMPSOL",
     "decimals": 6,
     "logoURI": "https://bafkreihppwmhl36ppve4xugihubmi73lalbmm752o6f5g4zkvojajl6nyi.ipfs.nftstorage.link",
     "type": "SPL"

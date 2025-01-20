@@ -380,6 +380,8 @@ def jupiter():
     url = "https://tokens.jup.ag/tokens?tags=verified"
     data = requests.get(url, proxies=proxies, timeout=5).json()
     for item in data:
+        if not item["extensions"]:
+            continue
         token = {
             "address": item["address"],
             "name": item["name"],
