@@ -6030,14 +6030,6 @@
     "type": "SPL"
   },
   {
-    "address": "8c71AvjQeKKeWRe8jtTGG1bJ2WiYXQdbjqFbUfhHgSVk",
-    "name": "GARY",
-    "symbol": "$GARY",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/gary-giraffe.jpg",
-    "type": "SPL"
-  },
-  {
     "address": "GyuP7chtXSRB6erApifBxFvuTtz94x3zQo3JdWofBTgy",
     "name": "D2",
     "symbol": "D2X",
@@ -20657,7 +20649,7 @@
     "name": "UKIYO",
     "symbol": "UKIYO",
     "decimals": 2,
-    "logoURI": "https://pbs.twimg.com/profile_images/1544356839701241857/-tuFVvmk_400x400.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/UKIYO.webp",
     "type": "SPL"
   },
   {
@@ -22979,5 +22971,134 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:melania-meme"
+  },
+  {
+    "address": "8vBMibwpn8wpfYKbQ9xqzodymg3LjmYec2tSNGRy23K8",
+    "name": "Hyperfy",
+    "symbol": "HYPER",
+    "decimals": 6,
+    "logoURI": "https://hyperfy.xyz/static/hyperfy-metadata-image.png",
+    "type": "SPL"
+  },
+  {
+    "address": "CWX6t6pGJ1zsnuywnyd2ZMZJ7inB2sWuPdsteoT6pump",
+    "name": "Elon Trump Fart",
+    "symbol": "ETF500",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTLUGQ8qksk67Hn56sSzkfzHBPX7NMyZjr9CoiPk2FqG2",
+    "type": "SPL"
+  },
+  {
+    "address": "6dk9H7RD5m8JtRuUErNztwhBbr5ynzWvzPTusLpxpump",
+    "name": "Magaverse",
+    "symbol": "MVRS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPvzPy2cT78cCrK5QEaW1NM1ZhfuGrwneT8Bt2HvpQBrZ",
+    "type": "SPL"
+  },
+  {
+    "address": "GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump",
+    "name": "Z\u0336A\u0334I\u0334L\u0336G\u0336O\u0338",
+    "symbol": "ZAILGO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUy7NYaDKpU2x7orQhSRJuGfYd354K2HkqU2D2yofkD5Q",
+    "type": "SPL"
+  },
+  {
+    "address": "DuidnHq4WKSeJx3m4QKf7xSfXXa7H9ocT39hFjMSpump",
+    "name": "SYLVI AGENT",
+    "symbol": "SylviAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmbrb8eqznCTT1mpBFUKCdpB6mkqMym1yHAAymJDA525He",
+    "type": "SPL"
+  },
+  {
+    "address": "DhteZLhKP6xPNcHVtdYvcE5FFcPN5smU7pxJw14Cpump",
+    "name": "Sheerluck AI",
+    "symbol": "SHEERLUCK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmahoDmuvVwa4jFPrkoFA3Vv2jY2osu5sQswMmAaByEKzR",
+    "type": "SPL"
+  },
+  {
+    "address": "bioJ9JTqW62MLz7UKHU69gtKhPpGi1BQhccj2kmSvUJ",
+    "name": "BIO",
+    "symbol": "BIO",
+    "decimals": 9,
+    "logoURI": "https://crimson-fantastic-mouse-567.mypinata.cloud/ipfs/bafkreih3c2fcuob3h3vvv6s7sdvgglqgyc6tqu6tphaceciuonz2h4cagi",
+    "type": "SPL"
+  },
+  {
+    "address": "7RDvypx3p9EWq4nZZKux1ZQAc7DUWXpHTVKxCCnupump",
+    "name": "Knot Diffie\u2013Hellman",
+    "symbol": "KNOT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRRLbBBNoxbYX6A3nfAJTQjcxNo4RrVApLhKuZUUkpUTz",
+    "type": "SPL"
+  },
+  {
+    "address": "Db7ZUaWTThwZy7bVhjn5Dda8D3fbbAhihcxPV4m9pump",
+    "name": "Xenopus laevis",
+    "symbol": "XENO",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/Q_7h9IhpwBRpRTMi2ZgXM9R9ErmNXHrXUW-YVfSu0tY",
+    "type": "SPL"
+  },
+  {
+    "address": "7uJrMsDN2Wxdc3VAq1iK9N5AHaTA7wUpbm1wqRonpump",
+    "name": "Beth",
+    "symbol": "BETH",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZkwTBQAepoN75idgKugKfE8XwqBj4FB92XqrX8fZTTVU",
+    "type": "SPL"
+  },
+  {
+    "address": "5EdKas4QsHaa71QS1X98wiCTgJCCVMjw5GhY5QMKpump",
+    "name": "Snake wif Hat",
+    "symbol": "SSSSS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZKSbmbRMR1d7kBAYnHS3pbdvBC3MTwnCdsXYpV6Lo8t8",
+    "type": "SPL"
+  },
+  {
+    "address": "AATECgWF4KjALbpgUXjabqFKHmdtjWdfdFNzCH3ipump",
+    "name": "In The MEME-Time",
+    "symbol": "ITMT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVbR5aj73ngJkJovkKmaQgnP6Uc7CYSXGCYA6je6GA2Y8",
+    "type": "SPL"
+  },
+  {
+    "address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+    "name": "Zebec Network",
+    "symbol": "ZBCN",
+    "decimals": 6,
+    "logoURI": "https://blznujiyxatc2qyysynmwqqqoreckcg2aolugfgoflsqqaiztuiq.arweave.net/CvLaJRi4Ji1DGJYay0IQdEglCNoDl0MUzirlCAEZnRE",
+    "type": "SPL"
+  },
+  {
+    "address": "7UN8WkBumTUCofVPXCPjNWQ6msQhzrg9tFQRP48Nmw5V",
+    "name": "SolXenCat",
+    "symbol": "xencat",
+    "decimals": 6,
+    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmckMgqr2P8BtzbjxrNB3yFz4BZ9CGq2HgJnSz46Y23Tr7",
+    "type": "SPL"
+  },
+  {
+    "address": "8c71AvjQeKKeWRe8jtTGG1bJ2WiYXQdbjqFbUfhHgSVk",
+    "name": "GARY",
+    "symbol": "GARY",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GARY.webp",
+    "type": "SPL",
+    "priceSource": "cmc:gary"
+  },
+  {
+    "address": "zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn",
+    "name": "SOLPAY",
+    "symbol": "SOLPAY",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/nguilbaud/token-list/main/assets/mainnet/zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn/logo.png",
+    "type": "SPL"
   }
 ]

@@ -22,12 +22,10 @@ def download():
         r"^https://minerva\.digital",
         r"^https://basescan\.org",
         r"^https://img\.cryptorank.io",
-        r"^https://img\.cryptorank.io",
         r"^https://raw\.githubusercontent\.com/",
         r"^https://static\.oklink\.com",
         r"^https://swap\.zchains\.com",
         r"^https://static\.tronscan\.org",
-        r"^https://raw\.githubusercontent\.com/dragonswap-app",
         r"^https://archive\.cetus\.zone",
         r"^https://assets\.playdarktimes\.com",
         r"^https://.*?\.arweave\.net",
@@ -45,7 +43,7 @@ def download():
                 logoURI: str = token["logoURI"]
                 if not logoURI:
                     print(f"No logoURI of {symbol}")
-                    return
+                    continue
                 if "foxwallet/tokenlist" in logoURI:
                     continue
                 need_replace = False

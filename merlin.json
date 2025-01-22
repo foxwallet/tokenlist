@@ -155,7 +155,7 @@
     "name": "Merlin's Seal USDC",
     "symbol": "M-USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/M-USDC.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp",
     "tag": "recommend"
   },
   {
@@ -163,7 +163,7 @@
     "name": "Merlin's Seal USDT",
     "symbol": "M-USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/M-USDT.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
     "tag": "recommend"
   },
   {

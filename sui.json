@@ -1102,5 +1102,13 @@
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/8qhJwoDEavz5KdkJEK9FaiHp9rYEqbWhF7HrqsJpUG4F",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP",
+    "name": "Chirp Token",
+    "symbol": "CHIRP",
+    "decimals": 10,
+    "logoURI": "https://download.chirpwireless.io/images/CHIRP_White_OBG.svg",
+    "type": "SUICoin"
   }
 ]

@@ -7069,8 +7069,9 @@
     "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
     "name": "Stox",
     "symbol": "STX",
+    "display": "STOX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STX.webp",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/STOX.webp",
     "tag": "default",
     "priceSource": "static:0"
   },

@@ -465,14 +465,6 @@
     "type": "AptosCoin"
   },
   {
-    "address": "0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10::spring_coin::Spring_Coin",
-    "name": "SPRING",
-    "symbol": "SPRING",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPRING.webp",
-    "type": "AptosCoin"
-  },
-  {
     "address": "0x4def3d3dee27308886f0a3611dd161ce34f977a9a5de4e80b237225923492a2a::coin::T",
     "name": "Gari",
     "symbol": "GARI",
@@ -561,35 +553,11 @@
     "type": "AptosCoin"
   },
   {
-    "address": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T",
-    "name": "Wrapped AVAX",
-    "symbol": "WAVAX",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WAVAX.webp",
-    "type": "AptosCoin"
-  },
-  {
-    "address": "0x9aa4c03344444b53f4d9b1bca229ed2ac47504e3ea6cd0683ebdc0c5ecefd693::coin::T",
-    "name": "SWEAT",
-    "symbol": "SWEAT",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWEAT.webp",
-    "type": "AptosCoin"
-  },
-  {
     "address": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T",
     "name": "NEAR",
     "symbol": "NEAR",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/near.svg",
-    "type": "AptosCoin"
-  },
-  {
-    "address": "0x1f9dca8eb42832b9ea07a804d745ef08833051e0c75c45b82665ef6f6e7fac32::coin::T",
-    "name": "Nexum Coin",
-    "symbol": "NEXM",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEXM.webp",
     "type": "AptosCoin"
   },
   {
@@ -606,14 +574,6 @@
     "symbol": "whCELO",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/whCELO.webp",
-    "type": "AptosCoin"
-  },
-  {
-    "address": "0x419d16ebaeda8dc374b1178a61d24fb699799d55a3f475f427998769c537b51b::coin::T",
-    "name": "FTX Token",
-    "symbol": "FTT",
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FTT.webp",
     "type": "AptosCoin"
   },
   {

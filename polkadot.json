@@ -319,7 +319,7 @@
     "name": "Liquid Staked DOT",
     "symbol": "stDOT",
     "decimals": 10,
-    "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xfa36fe1da08c89ec72ea1f0143a35bfd5daea108/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/stDOT.webp"
   },
   {
     "address": "0x191cf2602Ca2e534c5Ccae7BCBF4C46a704bb949",
@@ -382,7 +382,7 @@
     "name": "Inactive, no longer supported",
     "symbol": "RMRK",
     "decimals": 10,
-    "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xecf2adaff1de8a512f6e8bfe67a2c836edb25da3/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RMRK.webp"
   },
   {
     "address": "0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF",
