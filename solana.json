@@ -23100,5 +23100,21 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/nguilbaud/token-list/main/assets/mainnet/zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn/logo.png",
     "type": "SPL"
+  },
+  {
+    "address": "82pk5JqzPZGZMCvw8RLqxXP5u76b5hJDooL1nbrnpump",
+    "name": "Ballsack",
+    "symbol": "Ballsack",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Ballsack.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "J8njvmBmUYS4RfdQdoszQj3QcbaobbBwjD37Zr36pump",
+    "name": "Truth Terminal Final Coin",
+    "symbol": "HolyShit",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HolyShit.webp",
+    "type": "SPL"
   }
 ]
