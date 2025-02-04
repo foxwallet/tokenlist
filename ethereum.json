@@ -8543,5 +8543,19 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+    "address": "0x4dc26fc5854e7648a064a4abd590bbe71724c277",
+    "name": "Animecoin",
+    "symbol": "ANIME",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4dc26fc5854e7648a064a4abd590bbe71724c277_0x9431a40cd434bd70f72697139285d32bb4e9c15b486fb1c4d203386166add6be.webp"
+  },
+  {
+    "address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+    "name": "USUAL",
+    "symbol": "USUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
   }
 ]

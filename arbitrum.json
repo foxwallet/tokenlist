@@ -785,5 +785,12 @@
     "symbol": "RSR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+  },
+  {
+    "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
+    "name": "Animecoin",
+    "symbol": "ANIME",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x37a645648df29205c6261289983fb04ecd70b4b3_0x93fe1ce4d7d74895613cea4d5e6b54d2d38703230f5f3d783a205d4632a46168.webp"
   }
 ]

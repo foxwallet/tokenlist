@@ -1110,5 +1110,29 @@
     "decimals": 10,
     "logoURI": "https://download.chirpwireless.io/images/CHIRP_White_OBG.svg",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
+    "name": "Wrapped Bitcoin",
+    "symbol": "wBTC",
+    "decimals": 8,
+    "logoURI": "https://bridge-assets.sui.io/suiWBTC.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9666fe5e62b988bf7f0bd8722::musd::MUSD",
+    "name": "mUSD",
+    "symbol": "mUSD",
+    "decimals": 9,
+    "logoURI": "https://mstable.io/coins/musd.svg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
+    "name": "Turbos",
+    "symbol": "TURBOS",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/4ov3eH2cE4B4DzTsSLmAQNnnmo8zc5MRSFR6wcN4XyLU",
+    "type": "SUICoin"
   }
 ]

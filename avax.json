@@ -828,5 +828,12 @@
     "symbol": "USDM",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/43114/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0x9531b351cb30b65204ccda45bf5556c04405c7b1c441398f8ed9eaa625d0660d.png"
+  },
+  {
+    "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+    "name": "yellow ket",
+    "symbol": "KET",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0xffff003a6bad9b743d658048742935fffe2b6ed7_0x7ea100596d830488817dd177710b0116638a79333aa302f6f8ae56185922b51d.png"
   }
 ]

@@ -397,5 +397,12 @@
     "symbol": "Frog",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Frog.webp"
+  },
+  {
+    "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+    "name": "Official Trump",
+    "symbol": "TRUMP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRUMP.webp"
   }
 ]

@@ -536,5 +536,49 @@
     "symbol": "RSR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+  },
+  {
+    "address": "0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6",
+    "name": "Akuma Inu",
+    "symbol": "AKUMA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6_0xa50cfcbf848f91920a17f201cd4f2c8045e5062628f4fc44e181c64d80effe3a.png"
+  },
+  {
+    "address": "0x4837b18a6d7af6159c8665505b90a2ed393255e0",
+    "name": "Lympid Token",
+    "symbol": "LYP",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x4837b18a6d7af6159c8665505b90a2ed393255e0_0x91d74662787fd724229d585221f4cd5b4c6bc434d68f14a558406e7c53f0548f.png"
+  },
+  {
+    "address": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b",
+    "name": "CreatorBid",
+    "symbol": "BID",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xa1832f7f4e534ae557f9b5ab76de54b1873e498b_0xe3f6c96d3a54834041f00332c3442b08d590ee3f69f57dd48142b027351d18b2.jpg"
+  },
+  {
+    "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf_0x8e98bab31ff6236a11085c788028c481cca033e7b3d1a1c24391ef156e2847a8.png"
+  },
+  {
+    "address": "0xcb327b99ff831bf8223cced12b1338ff3aa322ff",
+    "name": "Based ETH",
+    "symbol": "bsdETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xcb327b99ff831bf8223cced12b1338ff3aa322ff_0xe94aa5be491f5432fa5b09f3fe2a498d8eb8b9ea0319014edbce7ca0aa8bfdbb.png"
+  },
+  {
+    "address": "0x917F39Bb33B2483Dd19546b1E8D2f09ce481ee44",
+    "name": "PKT",
+    "symbol": "PKT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PKT.webp",
+    "tag": "recommend",
+    "priceSource": "cmc:pkt"
   }
 ]
