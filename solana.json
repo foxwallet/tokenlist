@@ -23476,5 +23476,109 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmThCg2JHYJUW9PT9muqCp8drb4u9bEF8ZyCxzR3K5rTSm",
     "type": "SPL"
+  },
+  {
+    "address": "B7xavrAozTa1msQxu8YAcvPftf76x1fJYyLrYdTnbrah",
+    "name": "DOGEN",
+    "symbol": "DOGEN",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DOGEN.webp",
+    "priceSource": "cmc:dogen"
+  },
+  {
+    "address": "H4phNbsqjV5rqk8u6FUACTLB6rNZRTAPGnBb8KXJpump",
+    "name": "Solana Social Explorer",
+    "symbol": "SSE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmT4fG3jhXv3dcvEVdkvAqi8RjXEmEcLS48PsUA5zSb1RY",
+    "type": "SPL"
+  },
+  {
+    "address": "2sCUCJdVkmyXp4dT8sFaA9LKgSMK4yDPi9zLHiwXpump",
+    "name": "Alpha",
+    "symbol": "ALPHA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUA8wqKPyk8ghdHYbxHgMGQ414H7DPDTSuUCKKLQccB5N",
+    "type": "SPL"
+  },
+  {
+    "address": "Cn5Ne1vmR9ctMGY9z5NC71A3NYFvopjXNyxYtfVYpump",
+    "name": "listen-rs",
+    "symbol": "listen",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQB8PKqR8jfJUux8nwsreoQjW9Ja5S8xyGtcPR5P4tuf4",
+    "type": "SPL"
+  },
+  {
+    "address": "9RjwNo6hBPkxayWHCqQD1VjaH8igSizEseNZNbddpump",
+    "name": "StupidCoin",
+    "symbol": "Stupid",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmQnRqSSD9E3Ripqoy3b3BNfxomfSbXjBKwDihVhsDWmk5",
+    "type": "SPL"
+  },
+  {
+    "address": "HEHT1eKNsTnuMAQaSM4ac8r3ynckmquxA3hUun5Npump",
+    "name": "Flow Agent",
+    "symbol": "FLOW",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXJEsAisQBAB8Kjb99LeBqxgzncqaQ7pH2MGFxdiAX37a",
+    "type": "SPL"
+  },
+  {
+    "address": "5mfWKJrjVtpZo8EvwbytFWH5X6T8YecxrrYCgskjpump",
+    "name": "Make Europe Great Again",
+    "symbol": "MEGA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPPKnhQv4vbUNJWA1JsGsNN9Nqmd5eZrrfPWxVVfKYsq4",
+    "type": "SPL"
+  },
+  {
+    "address": "Gh8yeA9vH5Fun7J6esFH3mV65cQTBpxk9Z5XpzU7pump",
+    "name": "Rhun Capital",
+    "symbol": "RHUN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmP647zX5uiUu7JdC5SqzeEfNyH6okmrRA6y7euT2ue4Xn",
+    "type": "SPL"
+  },
+  {
+    "address": "2otVNpcHXn9MKeDk3Zby5uanF3s7tki4toaJ3PZcXaUd",
+    "name": "OSOL",
+    "symbol": "OSOL",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQ9wHkApZ8r2FKXAYA6CCCeuYFrsVyHZkfHjKaFSsmv1F",
+    "type": "SPL"
+  },
+  {
+    "address": "3vgopg7xm3EWkXfxmWPUpcf7g939hecfqg18sLuXDzVt",
+    "name": "Harold",
+    "symbol": "HAROLD",
+    "decimals": 5,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmckbMgM3EAGxSKHnpFbUAc4cgfrnGwXic1ixWWxCR9abD",
+    "type": "SPL"
+  },
+  {
+    "address": "jUpa2aDCzvdR9EF4fqDXmuyMUkonPTohphABLmRkRFj",
+    "name": "RIFT AI",
+    "symbol": "RIFT",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/Dr21m1SfmAWwq4UEmp6VvfmJtmis4MH48xbfZBDsnGMs",
+    "type": "SPL"
+  },
+  {
+    "address": "3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreifbjxsikdmuhk5qi6krg3sqk2fcqvqlcffrc44kg7ecfkmwhz6s5i",
+    "type": "SPL"
+  },
+  {
+    "address": "FMQjDvT1GztVxdvYgMBEde4L54fftFGx9m5GmbqeJGM5",
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PORTAL.webp",
+    "type": "SPL"
   }
 ]

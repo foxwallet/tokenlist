@@ -1367,5 +1367,21 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/USDC.svg",
     "type": "AptosFA"
+  },
+  {
+    "address": "0xf37a8864fe737eb8ec2c2931047047cbaed1beed3fb0e5b7c5526dafd3b9c2e9",
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDe.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69",
+    "name": "Staked USDe",
+    "symbol": "sUSDe",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sUSDe.webp",
+    "type": "AptosFA"
   }
 ]

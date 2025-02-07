@@ -8557,5 +8557,47 @@
     "symbol": "USUAL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
+  },
+  {
+    "address": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1",
+    "name": "Plume",
+    "symbol": "P",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4c1746a800d224393fe2470c70a35717ed4ea5f1_0xab4441a1c6d307cb598b5f763f962f8e2429c4fe7571fb0b7ae7842443178850.png"
+  },
+  {
+    "address": "0x50753CfAf86c094925Bf976f218D043f8791e408",
+    "name": "StablR Euro",
+    "symbol": "EURR",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53720/large/stablreuro-logo.png?1737125898"
+  },
+  {
+    "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+    "name": "StablR USD",
+    "symbol": "USDR",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629"
+  },
+  {
+    "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "HarryPotterObamaSonic10Inu",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+    "name": "BIO",
+    "symbol": "BIO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002"
+  },
+  {
+    "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLUX.webp"
   }
 ]

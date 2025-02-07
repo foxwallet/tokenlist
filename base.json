@@ -580,5 +580,12 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PKT.webp",
     "tag": "recommend",
     "priceSource": "cmc:pkt"
+  },
+  {
+    "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "HarryPotterObamaSonic10Inu",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
   }
 ]
