@@ -1,0 +1,35 @@
+[
+  {
+    "address": "0x3938A812c54304fEffD266C7E2E70B48F9475aD6",
+    "name": "Bridged USDC (Stargate)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.png",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xA849026cDA282eeeBC3C39Afcbe87a69424F16B4",
+    "name": "Bridged stgUSDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x17F085f1437C54498f0085102AB33e7217C067C8",
+    "name": "Plume",
+    "symbol": "PLUME",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1854933222569975808/no3lt9ZL_400x400.jpg",
+    "tag": "recommend",
+    "priceSource": "cmc:plume"
+  },
+  {
+    "address": "0xdddD73F5Df1F0DC31373357beAC77545dC5A6f3F",
+    "name": "Plume USD",
+    "symbol": "pUSD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  }
+]

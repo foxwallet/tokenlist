@@ -30,6 +30,7 @@ EVM_CHAIN_ID_MAP = {
     "59144": "linea",
     "80085": "bera-artio",
     "81457": "blast",
+    "98865": "plume",
     "168168": "zchains",
     "167000": "taiko",
     "200901": "bitlayer",
@@ -77,7 +78,8 @@ NATIVE_COIN_MAP = {
     "bitlayer": "BTC",
     "aptos": "APT",
     "morph": "ETH",
-    "polkadot": "DOT"
+    "polkadot": "DOT",
+    "plume": "ETH",
 }
 
 proxies = {
