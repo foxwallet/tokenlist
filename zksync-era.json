@@ -574,5 +574,12 @@
     "symbol": "M-BTC",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg"
+  },
+  {
+    "address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wsteth.png"
   }
 ]

@@ -21529,7 +21529,7 @@
     "name": "NFT Hook",
     "symbol": "NFTHOOK",
     "decimals": 2,
-    "logoURI": "https://pbs.twimg.com/profile_images/1561438309540405249/OdY77_BR_400x400.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NFTHOOK.webp",
     "type": "SPL"
   },
   {
@@ -23579,6 +23579,54 @@
     "symbol": "PORTAL",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PORTAL.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "AxriehR6Xw3adzHopnvMn7GcpRFcD41ddpiTWMg6pump",
+    "name": "Stool Prisondente",
+    "symbol": "jailstool",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmeLJyTUjKbU6E47DqZGaPHdktRQi8HyJynmcSyghUbLjw",
+    "type": "SPL"
+  },
+  {
+    "address": "7oBYdEhV4GkXC19ZfgAvXpJWp2Rn9pm1Bx2cVNxFpump",
+    "name": "Central African Republic Meme",
+    "symbol": "CAR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbwDLvzQA1DB9ZY7vfRSCogwdvAj3zCDuB9XN5pcmuawz",
+    "type": "SPL"
+  },
+  {
+    "address": "FasH397CeZLNYWkd3wWK9vrmjd1z93n3b59DssRXpump",
+    "name": "The Next Bitcoin",
+    "symbol": "BUTTCOIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVfhGnJmuUoJ8wdnEfRP1RaCg8GQ9WJgotiXVj5ARNGFd",
+    "type": "SPL"
+  },
+  {
+    "address": "DNMTk67urDBxEEVRx9HjVzCVu8en4Kgg5HfZy3E6pump",
+    "name": "ASYM",
+    "symbol": "ASYM",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmapgJfWEbu8fMeEYysCzoCFyoSu96EG7azbjAawmAVSeW",
+    "type": "SPL"
+  },
+  {
+    "address": "jE7q5qieKaUXmyhuWTXmGVtpeBoKtgbMbtks7LKogme",
+    "name": "OG.meme",
+    "symbol": "OGME",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeihagmdmehevhrmlkn3hccj4wbtyz632h2npubp3cjjpim3nvkqata",
+    "type": "SPL"
+  },
+  {
+    "address": "FmkD8vrRaxAeXfmG6WtpUjcd3kXYcWLcNWpmjsE7pump",
+    "name": "SOLY AI",
+    "symbol": "SOLY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfM1cu8VS3LJwrqLmhw3oRcEdzqeZvc5VbAJWGMfwg788",
     "type": "SPL"
   }
 ]
