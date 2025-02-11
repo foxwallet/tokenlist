@@ -80,6 +80,7 @@ NATIVE_COIN_MAP = {
     "morph": "ETH",
     "polkadot": "DOT",
     "plume": "ETH",
+    "ironfish": "IRON",
 }
 
 proxies = {
@@ -454,6 +455,24 @@ def stellaswap():
         result["polkadot"].append(token)
     update_tokens(result)    
 
+def ironfish():
+    print("start ironfish")
+    result = {
+        "ironfish": []
+    }
+    url = "https://raw.githubusercontent.com/iron-fish/verified-assets/refs/heads/main/mainnet.json"
+    resp = requests.get(url, proxies=proxies)
+    data = resp.json()
+    for item in data.get("assets", []):
+        token = {
+            "address": item["identifier"],
+            "name": item["symbol"],
+            "symbol": item["symbol"],
+            "decimals": item["decimals"],
+            "logoURI": item["logoURI"],
+        }
+        result["ironfish"].append(token)
+    update_tokens(result)    
 
 if __name__ == "__main__":
     one_inch()
@@ -469,3 +488,4 @@ if __name__ == "__main__":
     jupiter()
     panro()
     stellaswap()
+    ironfish()

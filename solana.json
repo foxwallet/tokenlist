@@ -23628,5 +23628,21 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmfM1cu8VS3LJwrqLmhw3oRcEdzqeZvc5VbAJWGMfwg788",
     "type": "SPL"
+  },
+  {
+    "address": "6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump",
+    "name": "STONKS",
+    "symbol": "STONKS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSHW37vAK1F4Y6uUD76ZFzerih8DcV7KNMT2tQh5SP8fP",
+    "type": "SPL"
+  },
+  {
+    "address": "3rQK45d1ojXR7vtvCmeNjKKVycnVWqaVcP3zk1G39RJR",
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/w-zub0CPDRRYV13JhRuN65EGetXNvBJEyLxgLL9TtSg",
+    "type": "SPL"
   }
 ]

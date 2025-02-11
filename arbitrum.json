@@ -792,5 +792,12 @@
     "symbol": "ANIME",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0x37a645648df29205c6261289983fb04ecd70b4b3_0x93fe1ce4d7d74895613cea4d5e6b54d2d38703230f5f3d783a205d4632a46168.webp"
+  },
+  {
+    "address": "0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83",
+    "name": "GammaSwap",
+    "symbol": "GS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83_0x467fbc1124296422d161414fcc3c554f6138122c5338ceb1f9b3890539883791.png"
   }
 ]

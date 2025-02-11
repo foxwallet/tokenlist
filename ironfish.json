@@ -1,0 +1,26 @@
+[
+  {
+    "address": "2cabe0bddf475a478f4b3903f8fc2d2c70b52526f991bacea8267793da63f44b",
+    "name": "TINI",
+    "symbol": "TINI",
+    "decimals": 8,
+    "logoURI": "https://chainport-public-files-prod.s3.amazonaws.com/61bb7212-13ab-4a9a-a7c2-16a9583d2342.svg",
+    "tag": "recommend"
+  },
+  {
+    "address": "5d43c6f2bbd70ae658661ab58f138b4d54276dd9102966b486bcc0d6e3ab89a3",
+    "name": "TINE",
+    "symbol": "TINE",
+    "decimals": 8,
+    "logoURI": "https://chainport-public-files-prod.s3.amazonaws.com/61bb7212-13ab-4a9a-a7c2-16a9583d2342.svg",
+    "tag": "recommend"
+  },
+  {
+    "address": "8e36e31d677a47cbd883843a345654c814b1e9ec1e0125bac9031f052ced9174",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp",
+    "tag": "recommend"
+  }
+]
