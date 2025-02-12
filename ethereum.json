@@ -8599,5 +8599,19 @@
     "symbol": "FLUX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLUX.webp"
+  },
+  {
+    "address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
+    "name": "Chintai",
+    "symbol": "CHEX",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x9ce84f6a69986a83d92c324df10bc8e64771030f_0xbd08be7984bbf6984a230d3bf7ef41f87cadbf86cb46b064531f1e4acb5d3f4e.png"
+  },
+  {
+    "address": "0xe72b141df173b999ae7c1adcbf60cc9833ce56a8",
+    "name": "ETHPlus",
+    "symbol": "ETH+",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xe72b141df173b999ae7c1adcbf60cc9833ce56a8_0x927324c8d85875fd011c9c8ef9e9efbca7cd5b24dab6cf40d74e1507d79c302b.png"
   }
 ]

@@ -415,5 +415,12 @@
     "symbol": "USDM",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/10/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0xbdc540ec9801804b1ff639adc3fcaa8464cc4698fb4a6e4ebbd0c19a6e3d85ee.png"
+  },
+  {
+    "address": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SYN.webp"
   }
 ]

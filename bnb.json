@@ -3517,5 +3517,12 @@
     "symbol": "BID",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0xa1832f7f4e534ae557f9b5ab76de54b1873e498b_0x0be61fdeb45bee97924d8e1d3266c486cd380c682ef4c9918a3036718af84697.jpg"
+  },
+  {
+    "address": "0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413",
+    "name": "Cheems",
+    "symbol": "Cheems",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413_0xeb0403ded5989e43a4c3537b5244b259de9c5536e83a8170a48b4a28e9665b86.png"
   }
 ]

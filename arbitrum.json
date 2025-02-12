@@ -799,5 +799,12 @@
     "symbol": "GS",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83_0x467fbc1124296422d161414fcc3c554f6138122c5338ceb1f9b3890539883791.png"
+  },
+  {
+    "address": "0x65c101e95d7dd475c7966330fa1a803205ff92ab",
+    "name": "Hall of Legends",
+    "symbol": "HOL",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x65c101e95d7dd475c7966330fa1a803205ff92ab_0xf7f115eab85151b2ff1c9b7e39b608c79a77e5c122bd171fdd9aca3777f164cd.png"
   }
 ]

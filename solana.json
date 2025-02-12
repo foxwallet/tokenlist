@@ -23644,5 +23644,39 @@
     "decimals": 9,
     "logoURI": "https://arweave.net/w-zub0CPDRRYV13JhRuN65EGetXNvBJEyLxgLL9TtSg",
     "type": "SPL"
+  },
+  {
+    "address": "FThrNpdic79XRV6i9aCWQ2UTp7oRQuCXAgUWtZR2cs42",
+    "name": "Kekius Maximus",
+    "symbol": "KM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KM.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:kekius-maximus-army"
+  },
+  {
+    "address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+    "name": "Solayer",
+    "symbol": "LAYER",
+    "decimals": 9,
+    "logoURI": "https://metadata.solayer.org/layer/image.png",
+    "type": "SPL"
+  },
+  {
+    "address": "Zc4uJVrHC2APe9qKwBD11Gg4BbvQr3naM8f7Wiopump",
+    "name": "smol pepe",
+    "symbol": "pep",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZ71y8zE9Nf6SmAPexZpHhpKi7RcUGDLiBMEAhPynfBtg",
+    "type": "SPL"
+  },
+  {
+    "address": "zi87E9xtFPRQ2o9qqerFxUDQLZgEkHrhpHDxxZhYi9a",
+    "name": "Supa Pump",
+    "symbol": "SUPA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNPRMYyiF14Pon122fe4tF3U6RPfm49y4foVuisbcRCQg",
+    "type": "SPL"
   }
 ]
