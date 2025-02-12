@@ -23678,5 +23678,15 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmNPRMYyiF14Pon122fe4tF3U6RPfm49y4foVuisbcRCQg",
     "type": "SPL"
+  },
+  {
+    "address": "BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb",
+    "name": "BOTIFY",
+    "symbol": "BOTIFY",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BOTIFY.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:botify"
   }
 ]
