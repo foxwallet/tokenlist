@@ -8613,5 +8613,12 @@
     "symbol": "ETH+",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xe72b141df173b999ae7c1adcbf60cc9833ce56a8_0x927324c8d85875fd011c9c8ef9e9efbca7cd5b24dab6cf40d74e1507d79c302b.png"
+  },
+  {
+    "address": "0xE7C6BF469e97eEB0bFB74C8dbFF5BD47D4C1C98a",
+    "name": "HashKey Platform Token",
+    "symbol": "HSK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HSK.webp"
   }
 ]
