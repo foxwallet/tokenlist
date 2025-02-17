@@ -23688,5 +23688,21 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:botify"
+  },
+  {
+    "address": "AshG5mHt4y4etsjhKFb2wA2rq1XZxKks1EPzcuXwpump",
+    "name": "Fullsend Community Coin",
+    "symbol": "Fullsend",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdkmjpCkSVwwhWgGTR9EPdYV24gDBdH7rJ7SxSb48PsKp",
+    "type": "SPL"
+  },
+  {
+    "address": "DgkKrQ1ErdRNjT2yTcAdEBa92JjFx75yxi4owArQarc",
+    "name": "AskJimmy",
+    "symbol": "AskJ",
+    "decimals": 9,
+    "logoURI": "https://afraid-teal-alpaca.myfilebase.com/ipfs/QmQdToCBbSGCyV2xCZsE7gvbkN6xgbgfZacxLBHsku5o2r",
+    "type": "SPL"
   }
 ]

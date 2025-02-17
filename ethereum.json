@@ -8620,5 +8620,19 @@
     "symbol": "HSK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HSK.webp"
+  },
+  {
+    "address": "0x15700b564ca08d9439c58ca5053166e8317aa138",
+    "name": "Elixir deUSD",
+    "symbol": "deUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x15700b564ca08d9439c58ca5053166e8317aa138_0x3ae917762449fde74b474fcd127a068c1d8d3df60cfe65018bff7e7ecdd1487f.png"
+  },
+  {
+    "address": "0x8236a87084f8b84306f72007f36f2618a5634494",
+    "name": "Lombard Staked Bitcoin",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x8236a87084f8b84306f72007f36f2618a5634494_0x389e3dc0fbe0883482dc2769faee3e0800fae910a1eb25fadfc9d596cf5936a8.png"
   }
 ]

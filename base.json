@@ -587,5 +587,12 @@
     "symbol": "HarryPotterObamaSonic10Inu",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "address": "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
+    "name": "B3",
+    "symbol": "B3",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3_0x2be95d7afee4f81f5c62e8528e52032e6a0b580647ed3ae0dd78c36da89da11a.png"
   }
 ]

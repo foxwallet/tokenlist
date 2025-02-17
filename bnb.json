@@ -3524,5 +3524,12 @@
     "symbol": "Cheems",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413_0xeb0403ded5989e43a4c3537b5244b259de9c5536e83a8170a48b4a28e9665b86.png"
+  },
+  {
+    "address": "0x6d5ad1592ed9d6d1df9b93c793ab759573ed6714",
+    "name": "CZ'S DOG",
+    "symbol": "Broccoli",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x6d5ad1592ed9d6d1df9b93c793ab759573ed6714_0xc0b32982a866e1906772f4afb9ea66d77e67158d92f0b582d56d8f9ab495070e.jpg"
   }
 ]

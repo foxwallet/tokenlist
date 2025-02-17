@@ -30,6 +30,7 @@ EVM_CHAIN_ID_MAP = {
     "59144": "linea",
     "80085": "bera-artio",
     "81457": "blast",
+    "96370": "lumoz",
     "98865": "plume",
     "168168": "zchains",
     "167000": "taiko",
@@ -81,6 +82,7 @@ NATIVE_COIN_MAP = {
     "polkadot": "DOT",
     "plume": "ETH",
     "ironfish": "IRON",
+    "lumoz": "MOZ",
 }
 
 proxies = {
