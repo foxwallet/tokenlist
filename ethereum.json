@@ -8634,5 +8634,19 @@
     "symbol": "LBTC",
     "decimals": 8,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x8236a87084f8b84306f72007f36f2618a5634494_0x389e3dc0fbe0883482dc2769faee3e0800fae910a1eb25fadfc9d596cf5936a8.png"
+  },
+  {
+    "address": "0x8390a1da07e376ef7add4be859ba74fb83aa02d5",
+    "name": "Grok",
+    "symbol": "GROK",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x8390a1da07e376ef7add4be859ba74fb83aa02d5_0xcfa01a89e615f6dd45b0061d17e089f9dab48cfddae5de35cdac0801d1d8ad9a.png"
+  },
+  {
+    "address": "0x97ad75064b20fb2b2447fed4fa953bf7f007a706",
+    "name": "Berachain STONE",
+    "symbol": "beraSTONE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x97ad75064b20fb2b2447fed4fa953bf7f007a706_0x61f65f9a3e112b82114d85832d556f9bb6d4914a8a5d6eed891359c384bbab22.png"
   }
 ]

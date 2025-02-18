@@ -28,6 +28,7 @@ EVM_CHAIN_ID_MAP = {
     "42766": "zkfair",
     "48900": "zircuit",
     "59144": "linea",
+    "72888": "caga",
     "80085": "bera-artio",
     "81457": "blast",
     "96370": "lumoz",
@@ -83,6 +84,7 @@ NATIVE_COIN_MAP = {
     "plume": "ETH",
     "ironfish": "IRON",
     "lumoz": "MOZ",
+    "cage": "CAGA",
 }
 
 proxies = {

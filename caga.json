@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x2af3a822e24aeefcd00b1952a48bad73d17e52ab",
+    "name": "Wrapped CAGA",
+    "symbol": "WCAGA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CAGA.webp",
+    "tag": "recommend",
+    "priceSource": "cmc:crypto-asset-governance-alliance"
+  },
+  {
+    "address": "0xf13bebbce89772fe96d3464035c1a9eecd22e1d5",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDT.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0x61b45e0b3406b345d4742c5c50472a288a0c07f1",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://wallet.foxnb.net/tokens/cryptologos/USDC.webp",
+    "tag": "recommend"
+  }
+]
