@@ -3531,5 +3531,13 @@
     "symbol": "Broccoli",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0x6d5ad1592ed9d6d1df9b93c793ab759573ed6714_0xc0b32982a866e1906772f4afb9ea66d77e67158d92f0b582d56d8f9ab495070e.jpg"
+  },
+  {
+    "address": "0xa58950f05fea2277d2608748412bf9f802ea4901",
+    "name": "Wall Street Games (old)",
+    "symbol": "WSG",
+    "decimals": 18,
+    "logoURI": "https://wallet.foxnb.net/tokens/bsc/0xA58950F05FeA2277d2608748412bf9F802eA4901/logo.png",
+    "priceSource": "cmc:wall-street-games"
   }
 ]

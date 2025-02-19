@@ -806,5 +806,13 @@
     "symbol": "HOL",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0x65c101e95d7dd475c7966330fa1a803205ff92ab_0xf7f115eab85151b2ff1c9b7e39b608c79a77e5c122bd171fdd9aca3777f164cd.png"
+  },
+  {
+    "address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
+    "name": "Wall Street Games ",
+    "symbol": "WSG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WSG.webp",
+    "priceSource": "cmc:wall-street-games-new"
   }
 ]
