@@ -78,7 +78,8 @@
     "name": "Cheems",
     "symbol": "Cheems",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cheems.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cheems.png",
+    "priceSource": "static:0"
   },
   {
     "address": "0x496d88D1EFc3E145b7c12d53B78Ce5E7eda7a42c",
@@ -559,7 +560,8 @@
     "name": "Cheems (new)",
     "symbol": "Cheems",
     "decimals": 18,
-    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cheems.png"
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/cheems.png",
+    "priceSource": "static:0"
   },
   {
     "address": "0xd4169e045bcf9a86cc00101225d9ed61d2f51af2",
