@@ -422,5 +422,19 @@
     "symbol": "SYN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SYN.webp"
+  },
+  {
+    "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+    "name": "Nekocoin",
+    "symbol": "(=\u2180\u03c9\u2180=)",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x139052115f8b1773cf7dcba6a553f922a2e54f69_0x285e2e6f7e8eb4801b53a241ffbe1c96734200d6570e61b18dba40aa5f99c193.png"
+  },
+  {
+    "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
+    "name": "Protocol Token",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404_0x5154b5636e1dbbb50f5768f71224f5699245b118b06de2de06c0b6da9f5ef874.png"
   }
 ]

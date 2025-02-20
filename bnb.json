@@ -3539,5 +3539,12 @@
     "decimals": 18,
     "logoURI": "https://wallet.foxnb.net/tokens/bsc/0xA58950F05FeA2277d2608748412bf9F802eA4901/logo.png",
     "priceSource": "cmc:wall-street-games"
+  },
+  {
+    "address": "0xa18bbdcd86e4178d10ecd9316667cfe4c4aa8717",
+    "name": "BNBXBT",
+    "symbol": "BNBXBT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xa18bbdcd86e4178d10ecd9316667cfe4c4aa8717_0xa9706d3003f779481acd50519d8461043fbefd82d4762361fd8ce832eb1d7c05.png"
   }
 ]

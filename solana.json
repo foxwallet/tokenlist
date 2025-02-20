@@ -23704,5 +23704,13 @@
     "decimals": 9,
     "logoURI": "https://afraid-teal-alpaca.myfilebase.com/ipfs/QmQdToCBbSGCyV2xCZsE7gvbkN6xgbgfZacxLBHsku5o2r",
     "type": "SPL"
+  },
+  {
+    "address": "C1nzFL2DD3Wqc3dzRbsrpb6tiZ6dbYsXubjVtzyHvirt",
+    "name": "TracyAI",
+    "symbol": "TRACY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWdaFQyuggxCSr2PPjCyFaRSvgVB8NkJYb6XQ7bBjhwBB",
+    "type": "SPL"
   }
 ]
