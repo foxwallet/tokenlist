@@ -622,5 +622,12 @@
     "symbol": "uSUI",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0xb0505e5a99abd03d94a1169e638b78edfed26ea4_0x928d9fba59538322ad3956ad636c4140246cf46d3cbdf24c9cf950b15392ceec.png"
+  },
+  {
+    "address": "0x98d0baa52b2d063e780de12f615f963fe8537553",
+    "name": "KAITO",
+    "symbol": "KAITO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x98d0baa52b2d063e780de12f615f963fe8537553_0x729c4d524abe6b9305ef4c213ee26be3d829f4423d56cf236bc7f9bd0ce75e08.webp"
   }
 ]

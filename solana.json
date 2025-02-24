@@ -3474,7 +3474,8 @@
     "symbol": "OMNI",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OMNI.webp",
-    "type": "SPL"
+    "type": "SPL",
+    "priceSource": "cmc:omnicat"
   },
   {
     "address": "4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu",
@@ -23711,6 +23712,30 @@
     "symbol": "TRACY",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmWdaFQyuggxCSr2PPjCyFaRSvgVB8NkJYb6XQ7bBjhwBB",
+    "type": "SPL"
+  },
+  {
+    "address": "1Qf8gESP4i6CFNWerUSDdLKJ9U1LpqTYvjJ2MM4pain",
+    "name": "PAIN",
+    "symbol": "PAIN",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/i2vyrA50OCT5LtfZqZSctKNaFztsEJ6djFDmW4Vp3vU",
+    "type": "SPL"
+  },
+  {
+    "address": "4ELGifwr2jHtEaFZUXXvQLAYiE6W5bvpWYZbJTRSpump",
+    "name": "Taitiko",
+    "symbol": "TTG",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qma8AtkuWQb8HNur8XsiumcmHzmAfmr1aYCZkEsZhjXZHM",
+    "type": "SPL"
+  },
+  {
+    "address": "CA2NxcCqzbsXfaX8ytYvr71bG3oTK4NNYmGAcCaWpvpq",
+    "name": "Spectrum",
+    "symbol": "SPCTRM",
+    "decimals": 8,
+    "logoURI": "https://gateway.irys.xyz/VguNqHry5JMZuRMxDc7K0XXow8gaM8KXHSZziiSyh9A",
     "type": "SPL"
   }
 ]
