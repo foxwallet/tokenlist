@@ -23737,5 +23737,15 @@
     "decimals": 8,
     "logoURI": "https://gateway.irys.xyz/VguNqHry5JMZuRMxDc7K0XXow8gaM8KXHSZziiSyh9A",
     "type": "SPL"
+  },
+  {
+    "address": "2Wu1g2ft7qZHfTpfzP3wLdfPeV1is4EwQ3CXBfRYAciD",
+    "name": "GOHOME",
+    "symbol": "GOHOME",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GOHOME.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:gohome"
   }
 ]

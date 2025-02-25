@@ -8662,5 +8662,12 @@
     "symbol": "PUNDIX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PUNDIX.webp"
+  },
+  {
+    "address": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "name": "Frax Finance - Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x5e8422345238f34275888049021821e8e08caa1f_0xd6ba9e6ee181a984384ad3339d6049aa627ca097320916bf5692307db1e32955.png"
   }
 ]
