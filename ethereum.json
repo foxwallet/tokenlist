@@ -8669,5 +8669,12 @@
     "symbol": "FRXETH",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x5e8422345238f34275888049021821e8e08caa1f_0xd6ba9e6ee181a984384ad3339d6049aa627ca097320916bf5692307db1e32955.png"
+  },
+  {
+    "address": "0xf983da3ca66964C02628189Ea8Ca99fa9E24f66c",
+    "name": "Wrapped Analog One Token",
+    "symbol": "WANLOG",
+    "decimals": 12,
+    "logoURI": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_anlog.webp?i=kds"
   }
 ]

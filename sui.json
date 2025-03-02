@@ -1134,5 +1134,29 @@
     "decimals": 9,
     "logoURI": "https://gateway.irys.xyz/4ov3eH2cE4B4DzTsSLmAQNnnmo8zc5MRSFR6wcN4XyLU",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x790f258062909e3a0ffc78b3c53ac2f62d7084c3bab95644bdeb05add7250001::super_sui::SUPER_SUI",
+    "name": "superSUI",
+    "symbol": "superSUI",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/TAKkVW5fTxDGTTgM22eFNEQX2V6JbLuN2ckBtFybrix",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+    "name": "Lombard Staked BTC",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "https://www.lombard.finance/lbtc/LBTC.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xccd628c2334c5ed33e6c47d6c21bb664f8b6307b2ac32c2462a61f69a31ebcee::meth::METH",
+    "name": "mETH",
+    "symbol": "mETH",
+    "decimals": 8,
+    "logoURI": "https://gateway.irys.xyz/83AAjCZKyL3VKpxDZG71f4qNWuuqg4uHp4BHVLA3G14e",
+    "type": "SUICoin"
   }
 ]

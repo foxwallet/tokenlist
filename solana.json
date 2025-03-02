@@ -23747,5 +23747,21 @@
     "type": "SPL",
     "tag": "recommend",
     "priceSource": "cmc:gohome"
+  },
+  {
+    "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+    "name": "HeyAnon",
+    "symbol": "Anon",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmZDXjdV3fDssQeXVhgUFWi8Uv7FBSCUzZHnfupgTGsi27",
+    "type": "SPL"
+  },
+  {
+    "address": "BjCmA9ZYwJ1BwusMGaSxe4pgaa9gfXTtdyX27NYEpump",
+    "name": "BONECOIN",
+    "symbol": "BONECOIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPBJcgzArwzqDkhGFAXVRAREDxK9ixYYmxyXWfNNo52wL",
+    "type": "SPL"
   }
 ]

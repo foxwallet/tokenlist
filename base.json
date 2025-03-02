@@ -629,5 +629,20 @@
     "symbol": "KAITO",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0x98d0baa52b2d063e780de12f615f963fe8537553_0x729c4d524abe6b9305ef4c213ee26be3d829f4423d56cf236bc7f9bd0ce75e08.webp"
+  },
+  {
+    "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2_0x8a5ac04932b14c381524b5777f2707dd269115abdc2eecd05ab06800d5bbe277.webp",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+    "name": "Odos Token",
+    "symbol": "ODOS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52914/large/odos.jpg?1734678948"
   }
 ]
