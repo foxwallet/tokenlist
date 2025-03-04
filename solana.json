@@ -23099,7 +23099,7 @@
     "name": "SOLPAY",
     "symbol": "SOLPAY",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/nguilbaud/token-list/main/assets/mainnet/zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SOLPAY.webp",
     "type": "SPL"
   },
   {
@@ -23762,6 +23762,14 @@
     "symbol": "BONECOIN",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmPBJcgzArwzqDkhGFAXVRAREDxK9ixYYmxyXWfNNo52wL",
+    "type": "SPL"
+  },
+  {
+    "address": "G5e2XonmccmdKc98g3eNQe5oBYGw9m8xdMUvVtcZpump",
+    "name": "MAIAR",
+    "symbol": "MAIAR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmf7zpzhcuwUaihWJmLK7tj8PsEwkEmx71B7oTKvR1d113",
     "type": "SPL"
   }
 ]

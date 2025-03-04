@@ -805,7 +805,7 @@
     "name": "Tissue",
     "symbol": "SNZ",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/SNZ.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SNZ.webp",
     "type": "AptosCoin"
   },
   {
