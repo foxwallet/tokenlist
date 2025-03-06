@@ -814,5 +814,21 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WSG.webp",
     "priceSource": "cmc:wall-street-games-new"
+  },
+  {
+    "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "name": "USDX",
+    "symbol": "USDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDX.webp",
+    "priceSource": "cmc:usdx-money"
+  },
+  {
+    "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+    "name": "Staked USDX",
+    "symbol": "sUSDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sUSDX.webp",
+    "priceSource": "cmc:susdx"
   }
 ]

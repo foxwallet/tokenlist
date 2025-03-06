@@ -89,5 +89,12 @@
     "symbol": "AVL",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/avl.svg"
+  },
+  {
+    "address": "0xBa4Ab4eEB7a6c9883fc20B8540c466f4c6C62875",
+    "name": "DemSOL Token",
+    "symbol": "DemSOL",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/demsol.png"
   }
 ]

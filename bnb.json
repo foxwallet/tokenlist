@@ -3553,5 +3553,21 @@
     "symbol": "BADAI",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0x36f5675029e129b5fcabb29ec750ed268520acf7_0x36bcd7d5200b98ea785cb8ad02e6f2a14d72adbce6b9da08149800f3a1b118de.png"
+  },
+  {
+    "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "name": "USDX",
+    "symbol": "USDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDX.webp",
+    "priceSource": "cmc:usdx-money"
+  },
+  {
+    "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+    "name": "Staked USDX",
+    "symbol": "sUSDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sUSDX.webp",
+    "priceSource": "cmc:susdx"
   }
 ]
