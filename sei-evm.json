@@ -404,5 +404,12 @@
     "symbol": "TRUMP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRUMP.webp"
+  },
+  {
+    "address": "0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
+    "name": "Staked fastUSD",
+    "symbol": "sfastUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sfastUSD.webp"
   }
 ]

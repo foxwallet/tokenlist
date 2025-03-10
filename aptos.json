@@ -1927,5 +1927,69 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TIN.webp",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x67941a4189ae5f8037d9532526029bf12dec1b1875a8c9b03034686240fdda41",
+    "name": "Raptos",
+    "symbol": "RAPT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RAPT.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x22b8228d8f128e901bf17b6155f2979acebb26d2a621af61244b8494868bfe4d",
+    "name": "Baby Edog",
+    "symbol": "BEDOG",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/BEDOG.svg",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x70740db1fddae309f1a3612091446fc7db1f278a8df30f28c3871a624e14967a",
+    "name": "GHOST",
+    "symbol": "GHO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GHO.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x6ff3ab54e5052a48a9865eb9578ba8eae6640c0f6c263f752cbdee0cc24bd9f3",
+    "name": "FaptOS",
+    "symbol": "FaptOS",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FaptOS.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x08f0221229fce7f51120a02a31bd2a349b349b17d05521f1e2040708a2c054e0",
+    "name": "AptosMAGA",
+    "symbol": "AMAGA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMAGA.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x60325dce3573382050cdb9da7ab509093013c1c240cc61f63af83bc8f0f0ff19",
+    "name": "Cryptomolot",
+    "symbol": "CMT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CMT.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x70307ba0faf047ad0536fcf1e51de51e30fa47a90e2d96e5b4a3ad332021f5bc",
+    "name": "Zapdos",
+    "symbol": "ZAP",
+    "decimals": 1,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZAP.webp",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xf524e4b28337c297b05a80d37e149d8c2b3542dcc6de25a5c3daba7f2ec922c8",
+    "name": "bladeewifhat",
+    "symbol": "BLADEE",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BLADEE.webp",
+    "type": "AptosFA"
   }
 ]

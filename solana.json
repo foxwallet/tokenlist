@@ -23771,5 +23771,37 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/Qmf7zpzhcuwUaihWJmLK7tj8PsEwkEmx71B7oTKvR1d113",
     "type": "SPL"
+  },
+  {
+    "address": "5m9AhhwMnosop8CAWdSJDNfLLkg3EFkX5sJ3zAuMpump",
+    "name": "Official Wild 'N Out",
+    "symbol": "WILDNOUT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcgqLzfxWFMimSibqAThjNzAZaGv6jBDimgGChYqCtvmY",
+    "type": "SPL"
+  },
+  {
+    "address": "dog1viwbb2vWDpER5FrJ4YFG6gq6XuyFohUe9TXN65u",
+    "name": "DOG (Bitcoin)",
+    "symbol": "DOG",
+    "decimals": 5,
+    "logoURI": "https://metadata.runemine.com/doggotothemoon.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "5SRer48NRfmhsut1n4ZwSAVUJAErNjdKcXTMVaxdpump",
+    "name": "gary",
+    "symbol": "GARY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbajCgqZMUhHWdkeuzWLgAU6UYqTNUjrjZPk7a8woRtnz",
+    "type": "SPL"
+  },
+  {
+    "address": "SUhzKcEZdShM9ifMb7kDKwAdjy6R9MogwG4fWiZtime",
+    "name": "mert's minutes",
+    "symbol": "mert",
+    "decimals": 6,
+    "logoURI": "https://d1jed1sess45wk.cloudfront.net/profile-pictures/0xmert_.png",
+    "type": "SPL"
   }
 ]
