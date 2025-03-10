@@ -3569,5 +3569,13 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sUSDX.webp",
     "priceSource": "cmc:susdx"
+  },
+  {
+    "address": "0xE642657E4F43e6DcF0bd73Ef24008394574Dee28",
+    "name": "RECORD",
+    "symbol": "RECORD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RECORD.webp",
+    "priceSource": "cmc:music-protocol"
   }
 ]
