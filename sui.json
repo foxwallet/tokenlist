@@ -1158,5 +1158,13 @@
     "decimals": 8,
     "logoURI": "https://gateway.irys.xyz/83AAjCZKyL3VKpxDZG71f4qNWuuqg4uHp4BHVLA3G14e",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xdfe175720cb087f967694c1ce7e881ed835be73e8821e161c351f4cea24a0f20::satlbtc::SATLBTC",
+    "name": "satLBTC",
+    "symbol": "SATLBTC",
+    "decimals": 8,
+    "logoURI": "https://gateway.irys.xyz/2dCWmrB3yoxH4WPcMs2yTi9s2XogtD4pP9G9VtuCvfgQ",
+    "type": "SUICoin"
   }
 ]

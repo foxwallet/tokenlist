@@ -23803,5 +23803,29 @@
     "decimals": 6,
     "logoURI": "https://d1jed1sess45wk.cloudfront.net/profile-pictures/0xmert_.png",
     "type": "SPL"
+  },
+  {
+    "address": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
+    "name": "PWEASE",
+    "symbol": "pwease",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmboNoCSu87DLgnqqf3LVWCUF2zZtzpSE5LtAa3tx8hUUG",
+    "type": "SPL"
+  },
+  {
+    "address": "6pKHwNCpzgZuC9o5FzvCZkYSUGfQddhUYtMyDbEVpump",
+    "name": "Deer Seized by US Government",
+    "symbol": "Baby",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWFZ95k7L2EAdveFRJ6g4UYyxqX2xG7fTtzvxHNuEWzKD",
+    "type": "SPL"
+  },
+  {
+    "address": "GPrg1CgbBvAJS2SCuf9gF7NmQYsWudfyfWy5SUzypump",
+    "name": "Edwin",
+    "symbol": "EDWIN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdWNeqUR8wYgR1UgSsVHBHwxSFKHk1Aj6PNoeH5zfVcZT",
+    "type": "SPL"
   }
 ]
