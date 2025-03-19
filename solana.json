@@ -23827,5 +23827,29 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmdWNeqUR8wYgR1UgSsVHBHwxSFKHk1Aj6PNoeH5zfVcZT",
     "type": "SPL"
+  },
+  {
+    "address": "WFRGSWjaz8tbAxsJitmbfRuFV2mSNwy7BMWcCwaA28U",
+    "name": "Wrapped Fragmetric Restaked SOL",
+    "symbol": "wfragSOL",
+    "decimals": 9,
+    "logoURI": "https://fragmetric-assets.s3.ap-northeast-2.amazonaws.com/wfragsol.png",
+    "type": "SPL"
+  },
+  {
+    "address": "GPwwihLa1w9Qsz27SmNrj7aLVnE7pr2cAvHe6aVVpump",
+    "name": "Dank Memes",
+    "symbol": "DANK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPVRZX4Mget3EuyrscXapaAZijtznKe7ecE767XGCmWCt",
+    "type": "SPL"
+  },
+  {
+    "address": "3MyaQBG7y3SHLQZa282Jh2xtB2TZKHGzNp1CuZ4Cpump",
+    "name": "QudeAI Framework",
+    "symbol": "Qude",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVVskYLQuvqxdRFa16CA4LD5tUiDdgEaWBH9LknQnW4HF",
+    "type": "SPL"
   }
 ]
