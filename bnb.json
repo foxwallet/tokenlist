@@ -3577,5 +3577,12 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RECORD.webp",
     "priceSource": "cmc:music-protocol"
+  },
+  {
+    "address": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
+    "name": "mubarak",
+    "symbol": "mubarak",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x5c85d6c6825ab4032337f11ee92a72df936b46f6_0xfe35a54e130103d7df4fb6fd5de931c2c6e122027039a100b8491b2eb5a32289.png"
   }
 ]

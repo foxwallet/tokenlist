@@ -844,5 +844,12 @@
     "symbol": "sUSDS",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0xddb46999f8891663a8f2828d25298f70416d7610_0xdaa284411a634bdc7d0862a1528748cc2fab9017b6dad23572dec72ec581fda5.svg"
+  },
+  {
+    "address": "0x77b7787a09818502305C95d68A2571F090abb135",
+    "name": "Derive",
+    "symbol": "DRV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
   }
 ]

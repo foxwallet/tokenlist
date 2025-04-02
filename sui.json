@@ -1166,5 +1166,133 @@
     "decimals": 8,
     "logoURI": "https://gateway.irys.xyz/2dCWmrB3yoxH4WPcMs2yTi9s2XogtD4pP9G9VtuCvfgQ",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xf00eb7ab086967a33c04a853ad960e5c6b0955ef5a47d50b376d83856dc1215e::axol::AXOL",
+    "name": "AXOLcoin",
+    "symbol": "AXOL",
+    "decimals": 9,
+    "logoURI": "https://api.interestlabs.io/files/99e91dc540e4d32971972eed8ecae0958f0cb3e84018dd1b.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x622345b3f80ea5947567760eec7b9639d0582adcfd6ab9fccb85437aeda7c0d0::scallop_wal::SCALLOP_WAL",
+    "name": "sWAL",
+    "symbol": "sWAL",
+    "decimals": 9,
+    "logoURI": "https://demac7qmvo7cyr42swwzpki63in27j35g4b6rropmrwsmiszjbsq.arweave.net/GRgBfgyrvixHmpWtl6ke2huvp303A-jFz2RtJiJZSGU",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xf7fade57462e56e2eff1d7adef32e4fd285b21fd81f983f407bb7110ca766cda::zlp::ZLP",
+    "name": "ZO Perpetuals LP Token",
+    "symbol": "ZLP",
+    "decimals": 6,
+    "logoURI": "https://img.zofinance.io/zlp.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe56d5167f427cbe597da9e8150ef5c337839aaf46891d62468dcf80bdd8e10d1::scallop_fud::SCALLOP_FUD",
+    "name": "sFUD",
+    "symbol": "sFUD",
+    "decimals": 5,
+    "logoURI": "https://enx3zetzw42z2gpckvye66ljal2vfu63rb2qc5arvq7wof3xdbhq.arweave.net/I2-8knm3NZ0Z4lVwT3lpAvVS09uIdQF0Eaw_Zxd3GE8",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd285cbbf54c87fd93cd15227547467bb3e405da8bbf2ab99f83f323f88ac9a65::scallop_usdy::SCALLOP_USDY",
+    "name": "sUSDY",
+    "symbol": "sUSDY",
+    "decimals": 6,
+    "logoURI": "https://v4kpvw5rr2kprz4echmm33xktmu4lu7kh3qncwrw7xvzdipatkya.arweave.net/rxT627GOlPjnhBHYze7qmynF0-o-4NFaNv3rkaHgmrA",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x82616322719cb327186d5b83a6d7783ce5cef4c5dbd4c6d1b5f3d6e5d288e2be::wav::WAV",
+    "name": "WAVE",
+    "symbol": "WAV",
+    "decimals": 9,
+    "logoURI": "https://files.waveonsui.com/logos/wav.png",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
+    "name": "haWAL",
+    "symbol": "haWAL",
+    "decimals": 9,
+    "logoURI": "https://assets.haedal.xyz/logos/hawal.svg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb1b0650a8862e30e3f604fd6c5838bc25464b8d3d827fbd58af7cb9685b832bf::wwal::WWAL",
+    "name": "\u2744\ufe0f WAL",
+    "symbol": "wWAL",
+    "decimals": 9,
+    "logoURI": "https://interestprotocol.infura-ipfs.io/ipfs/QmPLCVWv7citJSc813NbcbZnRSXAEJ4BWVKq4zK8pPVEWq",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x6dd439dee053557b3dd340287a4b81099b3e729cb48fbdae726dd2dff82736c3::slove::SLOVE",
+    "name": "SLOVE",
+    "symbol": "SLOVE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigt2pvpzokflugamigupuwo3xfw3agg3xcfuiduqpv3j6hfooh65a",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x6511052d2f1404934e0d877709949bcda7c1d451d1218a4b2643ca2f3fa93991::scallop_ns::SCALLOP_NS",
+    "name": "sNS",
+    "symbol": "sNS",
+    "decimals": 6,
+    "logoURI": "https://3vhaecwgpni3lhtpvmwylermast5evx5e7x46x3hw534olzdqq7q.arweave.net/3U4CCsZ7UbWeb6sthZIsBKfSVv0n789fZ7d3xy8jhD8",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x6711551c1e7652a270d9fbf0eee25d99594c157cde3cb5fbb49035eb59b1b001::scallop_fdusd::SCALLOP_FDUSD",
+    "name": "sFDUSD",
+    "symbol": "sFDUSD",
+    "decimals": 6,
+    "logoURI": "https://am6vo2vn4mg2lm7vmajonsipgkat56z75mxe55babpztrbssmb4a.arweave.net/Az1Xaq3jDaWz9WAS5skPMoE--z_rLk70IAvzOIZSYHg",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+    "name": "WAL Token",
+    "symbol": "WAL",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/7dgjqChkGXxmhFvqR5AWP4vWUs8hNiJpe9Cw7K4x7GP2",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x08c0fe357d3a138f4552bee393ce3a28a45bebcca43373d6a90bc44ab76f82e2::scallop_sb_wbtc::SCALLOP_SB_WBTC",
+    "name": "sSBWBTC",
+    "symbol": "sSBWBTC",
+    "decimals": 8,
+    "logoURI": "https://ferq2danvxy5xrhvml37sv3nlwaraso6iwfjtdops7rscscy7zba.arweave.net/KSMNDA2t8dvE9WL3-VdtXYEQSd5FipmNz5fjIUhY_kI",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xe72f65446eabfad2103037af2d49d24599106fb44bf4c046c1e7e9acf6844dd0::scallop_blub::SCALLOP_BLUB",
+    "name": "sBLUB",
+    "symbol": "sBLUB",
+    "decimals": 2,
+    "logoURI": "https://gutxmo5scqefen42iu6ysi5unhdsdenwtcqe2z5hxszz3ssdhzsa.arweave.net/NSd2O7IUCFI3mkU9iSO0acchkbaYoE1np7yzncpDPmQ",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xeb7a05a3224837c5e5503575aed0be73c091d1ce5e43aa3c3e716e0ae614608f::scallop_deep::SCALLOP_DEEP",
+    "name": "sDEEP",
+    "symbol": "sDEEP",
+    "decimals": 6,
+    "logoURI": "https://lkjkjfqta7322ikfbcklyovddpnjqrba3hlhhq4u4ilhcfbbjecq.arweave.net/WpKklhMH960hRQiUvDqjG9qYRCDZ1nPDlOIWcRQhSQU",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xb1d7df34829d1513b73ba17cb7ad90c88d1e104bb65ab8f62f13e0cc103783d3::scallop_sb_usdt::SCALLOP_SB_USDT",
+    "name": "sSBUSDT",
+    "symbol": "sSBUSDT",
+    "decimals": 6,
+    "logoURI": "https://zu6izvoktna456r6pbxg3knacc4bysfalutz25xo6zfkx6x3wvda.arweave.net/zTyM1cqbQc76PnhubamgELgcSKBdJ5127vZKq_r7tUY",
+    "type": "SUICoin"
   }
 ]

@@ -8691,5 +8691,19 @@
     "symbol": "RED",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
+  },
+  {
+    "address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
+    "name": "Schuman EUR P",
+    "symbol": "EUROP",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52132/large/europ-symbol-rgb.jpg?1732634862"
+  },
+  {
+    "address": "0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
+    "name": "Derive",
+    "symbol": "DRV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
   }
 ]

@@ -23851,5 +23851,69 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmVVskYLQuvqxdRFa16CA4LD5tUiDdgEaWBH9LknQnW4HF",
     "type": "SPL"
+  },
+  {
+    "address": "4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
+    "name": "Ghiblification",
+    "symbol": "Ghibli",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmT7pkJ1aTLRqWEVY8jY33k2YxacHYeiMb76iUGf6F6PuX",
+    "type": "SPL"
+  },
+  {
+    "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6,
+    "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/GDN-USDG-Token-512x512.png",
+    "type": "SPL"
+  },
+  {
+    "address": "zBTCug3er3tLyffELcvDNrKkCymbPWysGcWihESYfLg",
+    "name": "zBTC",
+    "symbol": "zBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/zBTC.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "34HDZNbUkTyTrgYKy2ox43yp2f8PJ5hoM7xsrfNApump",
+    "name": "Morning Routine",
+    "symbol": "Routine",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXNeBCbDwcsUAnwKL5btoyGXj5ydMrBuqcvA2rAWpzDLu",
+    "type": "SPL"
+  },
+  {
+    "address": "SPQkEcsdALLLn4MqCb3XH64hYTmdD4fZZk9CF5LiQV8",
+    "name": "SPICE",
+    "symbol": "SPICE",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/GFSOZIZeH7hrj5QXbwtq80C4R0_cDD_olfcgopFpo_Q",
+    "type": "SPL"
+  },
+  {
+    "address": "AvoecWraqX969kfXUF5XCCDz59sjRjiDa1KUDyj225t8",
+    "name": "Mintify",
+    "symbol": "MINT",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/U62-ES63pPC_cu1iXHiaX0w2fPns3iEOuOLskWXTxpU",
+    "type": "SPL"
+  },
+  {
+    "address": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+    "name": "Hyperpigmentation",
+    "symbol": "HYPER",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSwMStYi1iTqUkvtb8zs2rnDMZW9ZP3aQ91AAPaBZBwJr",
+    "type": "SPL"
+  },
+  {
+    "address": "EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q",
+    "name": "bozo",
+    "symbol": "",
+    "decimals": 9,
+    "logoURI": "https://nftstorage.link/ipfs/bafkreiamobqahwlwio5syavvfkknvfecgt7osbsh2s4xizihgpsajethyy",
+    "type": "SPL"
   }
 ]

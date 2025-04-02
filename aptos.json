@@ -1999,5 +1999,21 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMI.webp",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455",
+    "name": "TEVI Coin",
+    "symbol": "TEVI",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/TEVI.svg",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xc9a5d270bb8bb47e7bb34377ceb529db2878e4a7b521b5b8a984b35f8feaa8e2",
+    "name": "Rewardy",
+    "symbol": "RWD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RWD.webp",
+    "type": "AptosFA"
   }
 ]
