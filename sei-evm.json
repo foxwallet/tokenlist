@@ -418,5 +418,12 @@
     "symbol": "FISHW",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FISHW.webp"
+  },
+  {
+    "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+    "name": "USD\u20ae0",
+    "symbol": "USD\u20ae0",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x9151434b16b9763660705744891fA906F660EcC5/logo.png"
   }
 ]

@@ -88,8 +88,8 @@ NATIVE_COIN_MAP = {
 }
 
 proxies = {
-    "http": "http://127.0.0.1:7890",
-    "https": "http://127.0.0.1:7890"
+    "http": "http://127.0.0.1:7897",
+    "https": "http://127.0.0.1:7897"
 }
 
 skip_addrs = set()

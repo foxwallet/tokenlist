@@ -23915,5 +23915,53 @@
     "decimals": 9,
     "logoURI": "https://nftstorage.link/ipfs/bafkreiamobqahwlwio5syavvfkknvfecgt7osbsh2s4xizihgpsajethyy",
     "type": "SPL"
+  },
+  {
+    "address": "C3DwDjT17gDvvCYC2nsdGHxDHVmQRdhKfpAdqQ29pump",
+    "name": "Retard Finder Coin",
+    "symbol": "RFC",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmbi9jsNn718gvh85C2vuj4CSsu5JmuYq1W7B1vk2ys88W",
+    "type": "SPL"
+  },
+  {
+    "address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+    "name": "titcoin",
+    "symbol": "titcoin",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdnAHMWTbxfRkwdf1QweP8rJL1SCe2XbjFTFzCCjw5oAD",
+    "type": "SPL"
+  },
+  {
+    "address": "DitHyRMQiSDhn5cnKMJV2CDDt6sVct96YrECiM49pump",
+    "name": "Housecoin",
+    "symbol": "House",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmaGqTXDBUBLMU9xGpT4xzYArJmqFFTo3LAU6wZLepWcWe",
+    "type": "SPL"
+  },
+  {
+    "address": "znv3FZt2HFAvzYf5LxzVyryh3mBXWuTRRng25gEZAjh",
+    "name": "Infinite Money Glitch",
+    "symbol": "IMG",
+    "decimals": 6,
+    "logoURI": "https://i.degencdn.com/ipfs/bafkreicqucnhm3saac3uyzniegpnqlf2ioxufyanlmcwfbxfqfmq3jqgxm",
+    "type": "SPL"
+  },
+  {
+    "address": "DUhWgHD3KgHHmsYdQdJHDv359bySNzigYcqJ45Gcpump",
+    "name": "StaringAtYou",
+    "symbol": "Grrr",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbKNmwKppWDfjvNmJJWePD4sn1DG4pu9VoCJ1oauRpkMK",
+    "type": "SPL"
+  },
+  {
+    "address": "BPSoLzmLQn47EP5aa7jmFngRL8KC3TWAeAwXwZD8ip3P",
+    "name": "Backpack Staked SOL",
+    "symbol": "bpSOL",
+    "decimals": 9,
+    "logoURI": "https://bpsol.s3.us-west-1.amazonaws.com/bpSOL.png",
+    "type": "SPL"
   }
 ]
