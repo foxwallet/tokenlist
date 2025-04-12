@@ -196,8 +196,7 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FALX.webp",
     "type": "SPL",
-    "tag": "recommend",
-    "priceSource": "cmc:falxdex-io"
+    "tag": "default"
   },
   {
     "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
