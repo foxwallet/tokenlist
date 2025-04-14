@@ -486,7 +486,7 @@
     "name": "SPX6900",
     "symbol": "SPX",
     "decimals": 8,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPX.webp"
   },
   {
     "address": "0x12418783e860997eb99e8acf682df952f721cf62",
@@ -535,7 +535,7 @@
     "name": "Reserve Rights",
     "symbol": "RSR",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RSR.webp"
   },
   {
     "address": "0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6",
@@ -586,7 +586,7 @@
     "name": "HarryPotterObamaSonic10Inu",
     "symbol": "HarryPotterObamaSonic10Inu",
     "decimals": 8,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HarryPotterObamaSonic10Inu.webp"
   },
   {
     "address": "0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3",
@@ -643,27 +643,48 @@
     "name": "Odos Token",
     "symbol": "ODOS",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/52914/large/odos.jpg?1734678948"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ODOS.webp"
   },
   {
     "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
     "name": "Cookie",
     "symbol": "COOKIE",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png?1733194528"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/COOKIE.webp"
   },
   {
     "address": "0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
     "name": "FAI",
     "symbol": "FAI",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/52315/large/FAI.png?1733076295"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FAI.webp"
   },
   {
     "address": "0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
     "name": "Derive",
     "symbol": "DRV",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DRV.webp"
+  },
+  {
+    "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+    "name": "Definitive",
+    "symbol": "EDGE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EDGE.webp"
+  },
+  {
+    "address": "0x9a26F5433671751C3276a065f57e5a02D2817973",
+    "name": "Keyboard Cat",
+    "symbol": "KEYCAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KEYCAT.webp"
+  },
+  {
+    "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+    "name": "doginme",
+    "symbol": "doginme",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/doginme.webp"
   }
 ]

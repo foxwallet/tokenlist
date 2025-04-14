@@ -1775,7 +1775,7 @@
     "name": "Vanar Chain",
     "symbol": "VANRY",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/VANRY.webp"
   },
   {
     "address": "0x4837b18a6d7af6159c8665505b90a2ed393255e0",

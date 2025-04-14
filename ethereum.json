@@ -8460,14 +8460,14 @@
     "name": "Quantoz EURQ",
     "symbol": "EURQ",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/51853/large/EURQ_1000px_Color.png?1732071269"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURQ.webp"
   },
   {
     "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
     "name": "Quantoz USDQ",
     "symbol": "USDQ",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDQ.webp"
   },
   {
     "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
@@ -8542,7 +8542,7 @@
     "name": "VANRY",
     "symbol": "VANRY",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/VANRY.webp"
   },
   {
     "address": "0x4dc26fc5854e7648a064a4abd590bbe71724c277",
@@ -8556,7 +8556,7 @@
     "name": "USUAL",
     "symbol": "USUAL",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USUAL.webp"
   },
   {
     "address": "0x4c1746a800d224393fe2470c70a35717ed4ea5f1",
@@ -8570,28 +8570,28 @@
     "name": "StablR Euro",
     "symbol": "EURR",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/53720/large/stablreuro-logo.png?1737125898"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURR.webp"
   },
   {
     "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
     "name": "StablR USD",
     "symbol": "USDR",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDR.webp"
   },
   {
     "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
     "name": "HarryPotterObamaSonic10Inu",
     "symbol": "HarryPotterObamaSonic10Inu",
     "decimals": 8,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HarryPotterObamaSonic10Inu.webp"
   },
   {
     "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
     "name": "BIO",
     "symbol": "BIO",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BIO.webp"
   },
   {
     "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
@@ -8690,20 +8690,41 @@
     "name": "Redstone",
     "symbol": "RED",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RED.webp"
   },
   {
     "address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
     "name": "Schuman EUR P",
     "symbol": "EUROP",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/52132/large/europ-symbol-rgb.jpg?1732634862"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EUROP.webp"
   },
   {
     "address": "0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
     "name": "Derive",
     "symbol": "DRV",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DRV.webp"
+  },
+  {
+    "address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+    "name": "RLUSD",
+    "symbol": "RLUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RLUSD.webp"
+  },
+  {
+    "address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
+    "name": "Term Finance",
+    "symbol": "TERM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TERM.webp"
+  },
+  {
+    "address": "0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6",
+    "name": "Corn",
+    "symbol": "CORN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CORN.webp"
   }
 ]

@@ -784,7 +784,7 @@
     "name": "Reserve Rights",
     "symbol": "RSR",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RSR.webp"
   },
   {
     "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
@@ -850,6 +850,13 @@
     "name": "Derive",
     "symbol": "DRV",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DRV.webp"
+  },
+  {
+    "address": "0x010700AB046Dd8e92b0e3587842080Df36364ed3",
+    "name": "Kinto",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/K.webp"
   }
 ]

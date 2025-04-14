@@ -1780,7 +1780,7 @@
     "name": "HONEY",
     "symbol": "HONEY",
     "decimals": 9,
-    "logoURI": "https://hivemapper-marketing-public.s3.us-west-2.amazonaws.com/Hivemapper_HONEY_token.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HONEY.webp",
     "type": "SPL"
   },
   {
@@ -6619,7 +6619,7 @@
     "name": "Moon Roll Coin",
     "symbol": "MRC",
     "decimals": 9,
-    "logoURI": "https://moonroll-bucket.s3.amazonaws.com/token-image/Frame.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MRC.webp",
     "type": "SPL"
   },
   {
@@ -7003,7 +7003,7 @@
     "name": "Hasuki",
     "symbol": "HASUKI",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/hasuki_pfp_1664008129191.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HASUKI.webp",
     "type": "SPL"
   },
   {
@@ -7491,7 +7491,7 @@
     "name": "Mad Lads",
     "symbol": "MADx",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/mad_lads_pfp_1681951896287.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MADx.webp",
     "type": "SPL"
   },
   {
@@ -8325,7 +8325,7 @@
     "name": "Cogent SOL",
     "symbol": "cgntSOL",
     "decimals": 9,
-    "logoURI": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cgntSOL.webp",
     "type": "SPL"
   },
   {
@@ -12735,7 +12735,7 @@
     "name": "Gorples Coin",
     "symbol": "GORPLE",
     "decimals": 6,
-    "logoURI": "https://entangle-public.s3.amazonaws.com/Round+Avatar.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GORPLE.webp",
     "type": "SPL"
   },
   {
@@ -18521,7 +18521,7 @@
     "name": "Burrito Boyz",
     "symbol": "BURR",
     "decimals": 2,
-    "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/burrito_boyz_pfp_1653394754301.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BURR.webp",
     "type": "SPL"
   },
   {
@@ -19385,7 +19385,7 @@
     "name": "Coinfra Samurai",
     "symbol": "COINFRA",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/coinfra_samurai_pfp_1662121480181.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/COINFRA.webp",
     "type": "SPL"
   },
   {
@@ -20441,7 +20441,7 @@
     "name": "Cets on Creck Floor Index",
     "symbol": "CETS",
     "decimals": 2,
-    "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/cats_on_crack_pfp_1644850873089.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CETS.webp",
     "type": "SPL"
   },
   {
@@ -20529,7 +20529,7 @@
     "name": "Degen Fat Cats",
     "symbol": "FATCATS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/degenfatcats_pfp_1657860808010.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FATCATS.webp",
     "type": "SPL"
   },
   {
@@ -20553,7 +20553,7 @@
     "name": "Froots",
     "symbol": "FROOTS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/frootsnft_pfp_1657757320025.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FROOTS.webp",
     "type": "SPL"
   },
   {
@@ -20561,7 +20561,7 @@
     "name": "Astrals",
     "symbol": "ASTRALS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/astrals_pfp_1650330464227.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ASTRALS.webp",
     "type": "SPL"
   },
   {
@@ -20593,7 +20593,7 @@
     "name": "da bois",
     "symbol": "BOIS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/lebois_pfp_1653219382299.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BOIS.webp",
     "type": "SPL"
   },
   {
@@ -20625,7 +20625,7 @@
     "name": "Alder Mages",
     "symbol": "MAGES",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/aldermages_pfp_1654539613984.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAGES.webp",
     "type": "SPL"
   },
   {
@@ -20673,7 +20673,7 @@
     "name": "Solswipe",
     "symbol": "SWIPE",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/solswipe_pfp_1660584726131.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWIPE.webp",
     "type": "SPL"
   },
   {
@@ -20697,7 +20697,7 @@
     "name": "Sentries",
     "symbol": "SENTRY",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/sentries_pfp_1660877491500.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SENTRY.webp",
     "type": "SPL"
   },
   {
@@ -20705,7 +20705,7 @@
     "name": "Shremps",
     "symbol": "SHREMPS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/shremp_pfp_1661624912458.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SHREMPS.webp",
     "type": "SPL"
   },
   {
@@ -20745,7 +20745,7 @@
     "name": "Flamboyant Panthers",
     "symbol": "FLAMBO",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/flambopanthers_pfp_1662224842008.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLAMBO.webp",
     "type": "SPL"
   },
   {
@@ -20769,7 +20769,7 @@
     "name": "SoDead",
     "symbol": "SODEAD",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/sodead_pfp_1661196273906.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SODEAD.webp",
     "type": "SPL"
   },
   {
@@ -20969,7 +20969,7 @@
     "name": "Odes",
     "symbol": "ODES",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/odes_pfp_1664218158492.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ODES.webp",
     "type": "SPL"
   },
   {
@@ -20985,7 +20985,7 @@
     "name": "Fatal Foxes",
     "symbol": "FFOX",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/fatalfoxesnft_pfp_1664369799249.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FFOX.webp",
     "type": "SPL"
   },
   {
@@ -20993,7 +20993,7 @@
     "name": "De Goddesses ",
     "symbol": "DGODESS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/degoddess_pfp_1664574730178.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DGODESS.webp",
     "type": "SPL"
   },
   {
@@ -21041,7 +21041,7 @@
     "name": "sharx by Sharky.fi",
     "symbol": "SHARX",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/sharx_pfp_1664561059322.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SHARX.webp",
     "type": "SPL"
   },
   {
@@ -21185,7 +21185,7 @@
     "name": "Flaskies",
     "symbol": "FLASKIES",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/flaskiesnft_pfp_1665071853960.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLASKIES.webp",
     "type": "SPL"
   },
   {
@@ -21193,7 +21193,7 @@
     "name": "Patches",
     "symbol": "PATCHES",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/patches_pfp_1663333026331.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PATCHES.webp",
     "type": "SPL"
   },
   {
@@ -21257,7 +21257,7 @@
     "name": "Vula Society",
     "symbol": "VULA",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/vulasociety_pfp_1664310044055.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/VULA.webp",
     "type": "SPL"
   },
   {
@@ -21329,7 +21329,7 @@
     "name": "Quack Ducks",
     "symbol": "QCKDUCKS",
     "decimals": 2,
-    "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/quackducks_pfp_1664802744281.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/QCKDUCKS.webp",
     "type": "SPL"
   },
   {
@@ -21345,7 +21345,7 @@
     "name": "Rentii Rebels",
     "symbol": "RENTII",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/rentii_pfp_1666385625084.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RENTII.webp",
     "type": "SPL"
   },
   {
@@ -21449,7 +21449,7 @@
     "name": "Degen Geeks",
     "symbol": "DGEEKS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/degengeeks_pfp_1664295755393.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DGEEKS.webp",
     "type": "SPL"
   },
   {
@@ -21465,7 +21465,7 @@
     "name": "Wise Whales",
     "symbol": "WWHALES",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/wise_whales_pfp_1672177486455.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WWHALES.webp",
     "type": "SPL"
   },
   {
@@ -21489,7 +21489,7 @@
     "name": "Just Worms",
     "symbol": "JWORMS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/justw0rms_pfp_1671072503419.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JWORMS.webp",
     "type": "SPL"
   },
   {
@@ -21505,7 +21505,7 @@
     "name": "Zankoku Arcanistz",
     "symbol": "ZLABZ",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/zlabz_pfp_1653182608945.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZLABZ.webp",
     "type": "SPL"
   },
   {
@@ -21585,7 +21585,7 @@
     "name": "Early Birds",
     "symbol": "EBIRDS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/earlybirds_pfp_1659703999588.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EBIRDS.webp",
     "type": "SPL"
   },
   {
@@ -21625,7 +21625,7 @@
     "name": "Helios Rising: Fuel",
     "symbol": "FUEL",
     "decimals": 2,
-    "logoURI": "https://elixir-site.s3.amazonaws.com/fuel_sol.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FUEL.webp",
     "type": "SPL"
   },
   {
@@ -21641,7 +21641,7 @@
     "name": "Runes",
     "symbol": "Runes",
     "decimals": 2,
-    "logoURI": "https://elixir-site.s3.amazonaws.com/rune2.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Runes.webp",
     "type": "SPL"
   },
   {
@@ -23250,7 +23250,7 @@
     "name": "FartStrategy",
     "symbol": "FSTR",
     "decimals": 9,
-    "logoURI": "https://elasticbeanstalk-us-west-1-767828742319.s3.us-west-1.amazonaws.com/webclip.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FSTR.webp",
     "type": "SPL"
   },
   {
@@ -23832,7 +23832,7 @@
     "name": "Wrapped Fragmetric Restaked SOL",
     "symbol": "wfragSOL",
     "decimals": 9,
-    "logoURI": "https://fragmetric-assets.s3.ap-northeast-2.amazonaws.com/wfragsol.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/wfragSOL.webp",
     "type": "SPL"
   },
   {
@@ -23960,7 +23960,7 @@
     "name": "Backpack Staked SOL",
     "symbol": "bpSOL",
     "decimals": 9,
-    "logoURI": "https://bpsol.s3.us-west-1.amazonaws.com/bpSOL.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/bpSOL.webp",
     "type": "SPL"
   }
 ]

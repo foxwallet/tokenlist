@@ -730,7 +730,7 @@
     "name": "SPT",
     "symbol": "SPT",
     "decimals": 9,
-    "logoURI": "https://seapad.s3.ap-southeast-1.amazonaws.com/uploads/PROD/public/media/images/logo_1685439392353.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPT.webp",
     "type": "SUICoin"
   },
   {

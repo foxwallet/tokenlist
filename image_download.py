@@ -8,8 +8,8 @@ from PIL import Image
 
 
 proxies = {
-    "http": "http://127.0.0.1:7890",
-    "https": "http://127.0.0.1:7890"
+    "http": "http://127.0.0.1:7897",
+    "https": "http://127.0.0.1:7897"
 }
 
 
@@ -29,6 +29,9 @@ def download():
         r"^https://archive\.cetus\.zone",
         r"^https://assets\.playdarktimes\.com",
         r"^https://.*?\.arweave\.net",
+        r"^https://.*?\.amazonaws\.com",
+        r"^https://coin-images\.coingecko\.com",
+        r"^https://image-cdn\.solana\.fm",
     ]
 
     for f in os.listdir("."):
