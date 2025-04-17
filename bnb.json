@@ -697,8 +697,7 @@
     "name": "PNL",
     "symbol": "TruePNL",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/0xb346c52874c7023df183068c39478c3b7b2515bc.png",
-    "priceSource": "cmc:truepnl"
+    "logoURI": "https://tokens-data.1inch.io/images/0xb346c52874c7023df183068c39478c3b7b2515bc.png"
   },
   {
     "address": "0xa83bfcf9e252adf1f39937984a4e113eda6e445b",
