@@ -1783,5 +1783,12 @@
     "symbol": "LYP",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/137/0x4837b18a6d7af6159c8665505b90a2ed393255e0_0x7cef0bff6efa25727e8bca6eee17af223d30d0723836610ae11ad22078e95760.png"
+  },
+  {
+    "address": "0x3ce1327867077b551ae9a6987bf10c9fd08edce1",
+    "name": " SwissCheese",
+    "symbol": "SWCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWCH.webp"
   }
 ]

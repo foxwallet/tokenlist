@@ -8726,5 +8726,54 @@
     "symbol": "CORN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CORN.webp"
+  },
+  {
+    "address": "0x28d38df637db75533bd3f71426f3410a82041544",
+    "name": "Prompt",
+    "symbol": "PROMPT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x28d38df637db75533bd3f71426f3410a82041544_0x224002a6643c8a554f770e67050a441480d9ae477196f308fb96b620abb5abcf.webp"
+  },
+  {
+    "address": "0x57ab1e0003f623289cd798b1824be09a793e4bec",
+    "name": "Resupply USD",
+    "symbol": "reUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x57ab1e0003f623289cd798b1824be09a793e4bec_0x71330197b33ff67c20156671deebda6c558c48471da1a4671785a3cb288a8a86.webp"
+  },
+  {
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "name": "Resolv USD",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110_0x0b0f58560b285ce2adc9d67b1a41d8ee0b28ba3e227eeece6c0342fd805b72f0.webp"
+  },
+  {
+    "address": "0x7c1156e515aa1a2e851674120074968c905aaf37",
+    "name": "Level USD",
+    "symbol": "lvlUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x7c1156e515aa1a2e851674120074968c905aaf37_0xec1060da9df83a247278fe1fd9a2593eac4372cfaf315ade6cda818be6f64650.webp"
+  },
+  {
+    "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
+    "name": "Compounding Open Dollar",
+    "symbol": "cUSDO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0_0xa152d3062be80e18af072ee43333dd34cbff70108c7981e8a15d30995e3eea2c.webp"
+  },
+  {
+    "address": "0xbdf43ecadc5cef51b7d1772f722e40596bc1788b",
+    "name": "SEI",
+    "symbol": "SEI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xbdf43ecadc5cef51b7d1772f722e40596bc1788b_0x1baea1a95b5bf49c1491d57313300be7f1fc549d707a92b0160ad7da947c8e75.webp"
+  },
+  {
+    "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "name": "WalletConnect",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xef4461891dfb3ac8572ccf7c794664a8dd927945_0x271ca4e9e825d503332e5a1bce9b8f844f01ba8345f61806d8a230e7ff4443af.webp"
   }
 ]

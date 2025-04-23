@@ -20777,7 +20777,7 @@
     "name": "Secret Skellies Society",
     "symbol": "SKELLIES",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/secret_skellies_society_pfp_1663862048919.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SKELLIES.webp",
     "type": "SPL"
   },
   {
@@ -23961,6 +23961,62 @@
     "symbol": "bpSOL",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/bpSOL.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump",
+    "name": "Dark Eclipse",
+    "symbol": "DARK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVhcHM7DU62qZpAYfN8NKz8GaNBXzcGahhWBbn4nWGbtm",
+    "type": "SPL"
+  },
+  {
+    "address": "HHoXk7WursT9DLBBhHzBWBbuQkfvvoNyHKpJi61mpump",
+    "name": "Tensorium",
+    "symbol": "TNSR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSVFfiPUxoUnDZd2BeS6zC1pAjbvVeSMGXjpMjkb2F3wF",
+    "type": "SPL"
+  },
+  {
+    "address": "m1nd2qK91tpBrmX7yREJBc6D2fJ15kfiU9cdvxsSN6x",
+    "name": "Mindscraft",
+    "symbol": "MINDS",
+    "decimals": 6,
+    "logoURI": "https://by7vrwujvj7afswb33tasymaq7vsy2qgg5fwidnkxalupvg2y6iq.arweave.net/Dj9Y2omqfgLKwd7mCWGAh-ssagY3S2QNqrgXR9Tax5E",
+    "type": "SPL"
+  },
+  {
+    "address": "HUPfpnsaJtJGpJxAPNX1vXah7BgYiQYt1c2JMgMumvPs",
+    "name": "Maxi PayFi Strategy Token",
+    "symbol": "mPST",
+    "decimals": 6,
+    "logoURI": "https://meta.huma.finance/mpst.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "FAFxVxnkzZHMCodkWyoccgUNgVScqMw2mhhQBYDFjFAF",
+    "name": "Flash.Trade",
+    "symbol": "FAF",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/oPoOEBJYSoxNqlFXkyOwSbx7E689BmfKetjvzTUy0pU",
+    "type": "SPL"
+  },
+  {
+    "address": "4rwPNRSFgcS7EGphFdX7VwXuhjZGxph7gYyb7Zp2pump",
+    "name": "AuraFarming",
+    "symbol": "AuraFarm",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmS56HB8yRf839Y4dqdgomtk88papNtMGrfWuim2DrVTq3",
+    "type": "SPL"
+  },
+  {
+    "address": "5HV956n7UQT1XdJzv43fHPocest5YAmi9ipsuiJx7zt7",
+    "name": "Memecoin",
+    "symbol": "memecoin",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmW8GrpW8RQbVSP44iZ6ZjBq9xkZyuST7rFxYWR3GN7Khi",
     "type": "SPL"
   }
 ]

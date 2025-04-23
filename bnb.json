@@ -3583,5 +3583,12 @@
     "symbol": "mubarak",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0x5c85d6c6825ab4032337f11ee92a72df936b46f6_0xfe35a54e130103d7df4fb6fd5de931c2c6e122027039a100b8491b2eb5a32289.png"
+  },
+  {
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d_0xd5e50b10c1e9ef346e05cd4bec45c32aa8779cba0a0d5638ab3ae8c2d6a87cdc.jpg"
   }
 ]

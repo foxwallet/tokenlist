@@ -686,5 +686,12 @@
     "symbol": "doginme",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/doginme.webp"
+  },
+  {
+    "address": "0x30c7235866872213f68cb1f08c37cb9eccb93452",
+    "name": "Prompt",
+    "symbol": "PROMPT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x30c7235866872213f68cb1f08c37cb9eccb93452_0xb935949c5c1dc0591510ffd6c294b15b306c3c2815170c6c8ec08938c6885116.webp"
   }
 ]

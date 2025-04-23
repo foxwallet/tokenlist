@@ -1294,5 +1294,13 @@
     "decimals": 6,
     "logoURI": "https://zu6izvoktna456r6pbxg3knacc4bysfalutz25xo6zfkx6x3wvda.arweave.net/zTyM1cqbQc76PnhubamgELgcSKBdJ5127vZKq_r7tUY",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xc5b61b1e1f7f88511c9c0c6f475f823c66cc4e2d39a49beb6777059710be8404::toilet::TOILET",
+    "name": "Toilet Dust",
+    "symbol": "Toilet",
+    "decimals": 6,
+    "logoURI": "https://api.movepump.com/uploads/IMG_4034_ef8df5844a.jpeg",
+    "type": "SUICoin"
   }
 ]
