@@ -8775,5 +8775,12 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xef4461891dfb3ac8572ccf7c794664a8dd927945_0x271ca4e9e825d503332e5a1bce9b8f844f01ba8345f61806d8a230e7ff4443af.webp"
+  },
+  {
+    "address": "0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
+    "name": "KernelDAO",
+    "symbol": "KERNEL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KERNEL.webp"
   }
 ]

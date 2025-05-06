@@ -20825,7 +20825,7 @@
     "name": "Bet3",
     "symbol": "BET3",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/bet3_pfp_1662994493142.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BET3.webp",
     "type": "SPL"
   },
   {
@@ -24017,6 +24017,126 @@
     "symbol": "memecoin",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmW8GrpW8RQbVSP44iZ6ZjBq9xkZyuST7rFxYWR3GN7Khi",
+    "type": "SPL"
+  },
+  {
+    "address": "38PgzpJYu2HkiYvV8qePFakB8tuobPdGm2FFEn7Dpump",
+    "name": "New XAI gork",
+    "symbol": "gork",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXkHvTBRFMyY5ozYHXcF7JHqqLBTorca3dXAdF3ooD5e3",
+    "type": "SPL"
+  },
+  {
+    "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+    "name": "TROLL",
+    "symbol": "TROLL",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWV8QgmH1gSw41yapzsFwkC8yPbzoSreAcJbzqfvo2sVq",
+    "type": "SPL"
+  },
+  {
+    "address": "JmMRbLcKgNCu17yHZDAn4strE5NjmWJ4pCeJ7s7boop",
+    "name": "Boopa",
+    "symbol": "Boopa",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Boopa.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+    "name": "NotInEmploymentEducationTraining",
+    "symbol": "neet",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXVKWN3i56vyh4Xot9sTb3XsCu92ihypcArFJLujuwzoS",
+    "type": "SPL"
+  },
+  {
+    "address": "8ncucXv6U6epZKHPbgaEBcEK399TpHGKCquSt4RnmX4f",
+    "name": "trencher",
+    "symbol": "TRENCHER",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmdBP8iv4jVkTDk1JgomNMNJefAAFzDvpqTnk7AWN8ah1Y",
+    "type": "SPL"
+  },
+  {
+    "address": "8oosbx7jJrZxm5m4ThKhBpvwwG4QpoAe6i4GiG19pump",
+    "name": "Wizard Gang",
+    "symbol": "Wizard",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPDkpeSfqc8UcsqgqsMKimB8qw7uDqExAm9CMS7MjKpQ9",
+    "type": "SPL"
+  },
+  {
+    "address": "C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
+    "name": "Nobody Sausage",
+    "symbol": "NOBODY",
+    "decimals": 9,
+    "logoURI": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/122470db-2978-4620-8242-549349e82100/public",
+    "type": "SPL"
+  },
+  {
+    "address": "A8bcY1eSenMiMy75vgSnp6ShMfWHRHjeM6JxfM1CNDL",
+    "name": "Candle TV",
+    "symbol": "CANDLE",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/9eSdKkiLvEvsJGgrRmYqw7SCLcvxjVpc75LHSxK1YAxy",
+    "type": "SPL"
+  },
+  {
+    "address": "JCeoBX79HfatfaY6xvuNyCHf86hwgkCCWDpEycVHtime",
+    "name": "toly's minutes",
+    "symbol": "toly",
+    "decimals": 6,
+    "logoURI": "https://d1jed1sess45wk.cloudfront.net/profile-pictures/aeyakovenko.png",
+    "type": "SPL"
+  },
+  {
+    "address": "CRAMvzDsSpXYsFpcoDr6vFLJMBeftez1E7277xwPpump",
+    "name": "PEPECAT",
+    "symbol": "PEPECAT",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/7jQGuq2qUI27A4Ba5DaDDx0MCjIHL8SZI2dsGK0a_ss",
+    "type": "SPL"
+  },
+  {
+    "address": "CDCSoLckzozyktpAp9FWT3w92KFJVEUxAU7cNu2Jn3aX",
+    "name": "Crypto.com Staked SOL",
+    "symbol": "CDCSOL",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/12xEvVVvGFM5n5U6ILXdShlLtUJOT1gUQTlSy8sGybg",
+    "type": "SPL"
+  },
+  {
+    "address": "2GmUPhpe93kcTJZrC7NJ2keeDZRT5dBveUgegb13pump",
+    "name": "TruthChain",
+    "symbol": "truth",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmcv2qUqsDuE2tb7EexZ4DsM5dv4P4rydVWdBEDTp9HCQv",
+    "type": "SPL"
+  },
+  {
+    "address": "HdkPQfhUhtew1wPH5hp33q9AJcC2XmAqWJNRLj5fpump",
+    "name": "FiFi",
+    "symbol": "FiFi",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXiy9tR69K2Qgy7eTi3gh9QtYBA9pLiXz44FP1RDGC4dv",
+    "type": "SPL"
+  },
+  {
+    "address": "j1MueUJvnJwRCKzgEQdJjSibhV5oy1uoLZDNsZ3time",
+    "name": "raj's minutes",
+    "symbol": "raj",
+    "decimals": 6,
+    "logoURI": "https://d1jed1sess45wk.cloudfront.net/profile-pictures/rajgokal.png",
+    "type": "SPL"
+  },
+  {
+    "address": "Ex5DaKYMCN6QWFA4n67TmMwsH8MJV68RX6YXTmVM532C",
+    "name": "USDv",
+    "symbol": "USDv",
+    "decimals": 9,
+    "logoURI": "https://solomonlabs.org/assets/usdv.png",
     "type": "SPL"
   }
 ]

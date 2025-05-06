@@ -693,5 +693,33 @@
     "symbol": "PROMPT",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0x30c7235866872213f68cb1f08c37cb9eccb93452_0xb935949c5c1dc0591510ffd6c294b15b306c3c2815170c6c8ec08938c6885116.webp"
+  },
+  {
+    "address": "0x043eb4b75d0805c43d7c834902e335621983cf03",
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x043eb4b75d0805c43d7c834902e335621983cf03_0xf2430b01e64faaae06186727d9b4ef27992f2b02190c0d8ca78b2326d77dbd65.webp"
+  },
+  {
+    "address": "0x1111111111166b7fe7bd91427724b487980afc69",
+    "name": "Zora",
+    "symbol": "ZORA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x1111111111166b7fe7bd91427724b487980afc69_0xd3f122dec1ad9d4fdb70460c0f5f08f160e4e60aeee5bd4054c80785ae97457c.png"
+  },
+  {
+    "address": "0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870",
+    "name": "VaderAI by Virtuals",
+    "symbol": "VADER",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x731814e491571a2e9ee3c5b1f7f3b962ee8f4870_0x153784c5203d3a3954ef66c85aa3038515f46c0ddf131d0691709e127a445572.png"
+  },
+  {
+    "address": "0xab964f7b7b6391bd6c4e8512ef00d01f255d9c0d",
+    "name": "Prefrontal Cortex Convo Agent by Virtuals",
+    "symbol": "CONVO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xab964f7b7b6391bd6c4e8512ef00d01f255d9c0d_0x638870430a84ced5176828cad37b0058fc8fb9d52e7c8a601fd74619bee2030d.webp"
   }
 ]

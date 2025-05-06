@@ -1302,5 +1302,21 @@
     "decimals": 6,
     "logoURI": "https://api.movepump.com/uploads/IMG_4034_ef8df5844a.jpeg",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x035d31053da220c12e196b053fe1cd20ee635001d8c81dce7a3f14e9c583713c::ballsy::BALLSY",
+    "name": "Ballsy on Sui",
+    "symbol": "BALLSY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiakwc5qdp2kognvxfqhtdw5aalsswau2635bx65e7ns6i3xnp3qam",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+    "name": "Haedal",
+    "symbol": "HAEDAL",
+    "decimals": 9,
+    "logoURI": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI",
+    "type": "SUICoin"
   }
 ]
