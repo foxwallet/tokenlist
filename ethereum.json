@@ -8782,5 +8782,12 @@
     "symbol": "KERNEL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KERNEL.webp"
+  },
+  {
+    "address": "0xE6Bfd33F52d82Ccb5b37E16D3dD81f9FFDAbB195",
+    "name": "Space and Time",
+    "symbol": "SXT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SXT.webp"
   }
 ]

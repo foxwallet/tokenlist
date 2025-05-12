@@ -1318,5 +1318,15 @@
     "decimals": 9,
     "logoURI": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI",
     "type": "SUICoin"
+  },
+  {
+    "address": "0x8a51036977a1149620419c492a5af8c276fdb23cf3007882909a3e0d43593654::squirtle::SQUIRTLE",
+    "name": "SQUIRTLE",
+    "symbol": "SQUIRT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SQUIRT.webp",
+    "type": "SUICoin",
+    "tag": "recommend",
+    "priceSource": "cmc:squirtle"
   }
 ]

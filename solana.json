@@ -24138,5 +24138,53 @@
     "decimals": 9,
     "logoURI": "https://solomonlabs.org/assets/usdv.png",
     "type": "SPL"
+  },
+  {
+    "address": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
+    "name": "Doodles",
+    "symbol": "DOOD",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/OqHnpGf36DiprL5YIC4xJHG8zRsWFV2FsZcNTfVgAPg",
+    "type": "SPL"
+  },
+  {
+    "address": "9j6twpYWrV1ueJok76D9YK8wJTVoG9Zy8spC7wnTpump",
+    "name": "urmom",
+    "symbol": "urmom",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmRW6Lq3NUngs3xN5MMHrSZa59fvqMCYgqcMk9cnPcPZ87",
+    "type": "SPL"
+  },
+  {
+    "address": "9Wkcek2EZFmJf5L2XmC5rfnNVBrdndbMe6yW8fbfbonk",
+    "name": "Chachamaru",
+    "symbol": "CHACHA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeid7foodhdl34ifexfiruyvfodwcveuq4hqy356h6qp7wjv45uj3ci",
+    "type": "SPL"
+  },
+  {
+    "address": "G1jydhghPMLBXRFPR3wyJ9HbpKPR3Rv7M8Yakfo5pump",
+    "name": "stickman",
+    "symbol": "stickman",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNX8AkN1GZYgikqa9yqCwaTJ37nUBYJGhkzwra7fUL8Co",
+    "type": "SPL"
+  },
+  {
+    "address": "6bdTRHhdZenJQYLTxaYc8kH74GBNP9DoGhPnCjfypump",
+    "name": "fog",
+    "symbol": "fog",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXidbXWxeQhQzKaveJUQyzn4RHMNYHzUbLaSHH8PnUPpJ",
+    "type": "SPL"
+  },
+  {
+    "address": "2o86pbkvCVru88TLtsBthcHHn4aR2yEUapPKbYtmpump",
+    "name": "Crackcoon",
+    "symbol": "Chewy",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZCCVwmnXpfLFkPjwKYZqNeebY2PenSzyAfTCxzESJe4A",
+    "type": "SPL"
   }
 ]

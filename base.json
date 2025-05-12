@@ -721,5 +721,19 @@
     "symbol": "CONVO",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0xab964f7b7b6391bd6c4e8512ef00d01f255d9c0d_0x638870430a84ced5176828cad37b0058fc8fb9d52e7c8a601fd74619bee2030d.webp"
+  },
+  {
+    "address": "0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0",
+    "name": "Leverage ETH",
+    "symbol": "LevETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x091a5a1e3aa8b96ab0fb0bc217f5e60ec4c611a0_0x9241c1c302a287545f18c5ea6bb2cc0e1aab8f2aa6d14ed294ff865439e92972.webp"
+  },
+  {
+    "address": "0xd3b0b58ec9516e4b875a075328e2cb059d4d54db",
+    "name": "ArchAI",
+    "symbol": "archai",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xd3b0b58ec9516e4b875a075328e2cb059d4d54db_0xe1c520dd9249539b8edb651d649ab4eae8bf192e04ecebc913a6360592b818e4.webp"
   }
 ]
