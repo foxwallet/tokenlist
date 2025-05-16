@@ -21649,7 +21649,7 @@
     "name": "KRUGs",
     "symbol": "KRUG",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/krug_pfp_1679408420983.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KRUG.webp",
     "type": "SPL"
   },
   {
@@ -24185,6 +24185,54 @@
     "symbol": "Chewy",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmZCCVwmnXpfLFkPjwKYZqNeebY2PenSzyAfTCxzESJe4A",
+    "type": "SPL"
+  },
+  {
+    "address": "ENfpbQUM5xAnNP8ecyEQGFJ6KwbuPjMwv7ZjR29cDuAb",
+    "name": "gooncoin",
+    "symbol": "GOONC",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiebjj52eznuxsmc6djnxz3n6dbuhyt44xv42xqlk3kbaoudog64ji",
+    "type": "SPL"
+  },
+  {
+    "address": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+    "name": "USELESS COIN",
+    "symbol": "USELESS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreihsdoqkmpr5ryebaduoutyhj3nxco6wdp4s4743l2qrae4sz4hqrm",
+    "type": "SPL"
+  },
+  {
+    "address": "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C",
+    "name": "Dupe",
+    "symbol": "DUPE",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiaobt2ookhhoslvvard6oyjc6fw4askhg232yh22aqcgdddhrbcdy",
+    "type": "SPL"
+  },
+  {
+    "address": "5evN2exivZXJfLaA1KhHfiJKWfwH8znqyH36w1SFz89Y",
+    "name": "Project MIRAI",
+    "symbol": "MIRAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmNyi9rvSW5ei3aG9hdpd83qqRfM6VziuQwBjU1BgLm1mX",
+    "type": "SPL"
+  },
+  {
+    "address": "9qriMjPPAJTMCtfQnz7Mo9BsV2jAWTr2ff7yc3JWpump",
+    "name": "9qri",
+    "symbol": "9qri",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmd9Spsk46Gp6NHHJGbbisuqBvo9JqbwM5Mcv74bLeJ6Vt",
+    "type": "SPL"
+  },
+  {
+    "address": "5H4voZhzySsVvwVYDAKku8MZGuYBC7cXaBKDPW4YHWW1",
+    "name": "VNX British Pound",
+    "symbol": "VGBP",
+    "decimals": 9,
+    "logoURI": "https://1563441411-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsAJThQfNCJePE5h9iplX%2Fuploads%2FzcRLWNBhVrECG2n7G88o%2FVGBP%20256x256.png?alt=media&token=0796140c-9cf9-40b7-b687-cb71eb061a29",
     "type": "SPL"
   }
 ]
