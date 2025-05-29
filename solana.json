@@ -14695,8 +14695,10 @@
     "name": "USDS",
     "symbol": "USDS",
     "decimals": 6,
-    "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
-    "type": "SPL"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDS.webp",
+    "type": "SPL",
+    "tag": "recommend",
+    "priceSource": "cmc:usds"
   },
   {
     "address": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",

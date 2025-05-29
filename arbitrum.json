@@ -836,7 +836,9 @@
     "name": "USDS Stablecoin",
     "symbol": "USDS",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x6491c05a82219b8d1479057361ff1654749b876b_0xbe225ac54d8c7d5447f1ce9e74c846bec57f8f8b2c66ec2d2d09086dc40b4a3c.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDS.webp",
+    "tag": "recommend",
+    "priceSource": "cmc:usds"
   },
   {
     "address": "0xddb46999f8891663a8f2828d25298f70416d7610",
