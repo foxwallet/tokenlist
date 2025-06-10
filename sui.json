@@ -1328,5 +1328,29 @@
     "type": "SUICoin",
     "tag": "recommend",
     "priceSource": "cmc:squirtle"
+  },
+  {
+    "address": "0x0ef38abcdaaafedd1e2d88929068a3f65b59bf7ee07d7e8f573c71df02d27522::attn::ATTN",
+    "name": "Attention",
+    "symbol": "ATTN",
+    "decimals": 6,
+    "logoURI": "https://gateway.irys.xyz/2op73Ywsk3tKfq52Wjcs3BK13bRyYSCApPvKfbFQm7t9",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x20b290ffc8c689918bad44c749ae8ffd0a08cfd771cc54b6e01bae53e26bc353::SUIMON::SUIMON",
+    "name": "SUIMON",
+    "symbol": "SUIMON",
+    "decimals": 9,
+    "logoURI": "https://blue-historic-hookworm-762.mypinata.cloud/ipfs/bafybeigtu2nl3mx6hlsa766hoaofgmo2zwbwjuua2kcfjdajzfmlewkgfy",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0x876a4b7bce8aeaef60464c11f4026903e9afacab79b9b142686158aa86560b50::xbtc::XBTC",
+    "name": "OKX Wrapped BTC",
+    "symbol": "xBTC",
+    "decimals": 8,
+    "logoURI": "https://static.coinall.ltd/cdn/oksupport/common/20250512-095503.72e1f41d9b9a06.png",
+    "type": "SUICoin"
   }
 ]

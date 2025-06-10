@@ -2039,5 +2039,29 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/stkAPT.png",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387",
+    "name": "OKX Wrapped BTC",
+    "symbol": "xBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/xBTC.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x378d5ba871c3d1bdf477a617f997f23d9e0702de97a02f42925b44fa3abc9866",
+    "name": "MESO",
+    "symbol": "MESO",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/MESO.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xdd84125d1ebac8f1ecb2819801417fc392325e672be111ec03830c34d6ff82dd",
+    "name": "mirage dollar",
+    "symbol": "mUSD",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/mUSD.svg",
+    "type": "AptosFA"
   }
 ]

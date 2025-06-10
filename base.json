@@ -737,5 +737,26 @@
     "symbol": "archai",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/8453/0xd3b0b58ec9516e4b875a075328e2cb059d4d54db_0xe1c520dd9249539b8edb651d649ab4eae8bf192e04ecebc913a6360592b818e4.webp"
+  },
+  {
+    "address": "0x091a5abe6616e26268e5eecff256c2212fce2707",
+    "name": "Bond ETH",
+    "symbol": "BondETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x091a5abe6616e26268e5eecff256c2212fce2707_0x07b38c8e6ce4b64ef73b3c4766de90f39a3d09cbbac7165fdccd7954a5baf792.webp"
+  },
+  {
+    "address": "0xcbD06E5A2B0C65597161de254AA074E489dEb510",
+    "name": "Coinbase Wrapped DOGE",
+    "symbol": "CBDOGE",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CBDOGE.webp"
+  },
+  {
+    "address": "0xcb585250f852C6c6bf90434AB21A00f02833a4af",
+    "name": "Coinbase Wrapped XRP",
+    "symbol": "cbXRP",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbXRP.webp"
   }
 ]

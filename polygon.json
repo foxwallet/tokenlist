@@ -1790,5 +1790,19 @@
     "symbol": "SWCH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SWCH.webp"
+  },
+  {
+    "address": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+    "name": "THAT",
+    "symbol": "THAT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xd2e57e7019a8faea8b3e4a3738ee5b269975008a_0x26867d24fce1ba16ae76d218da655921aae5f3b4c2c7f87caaa61b3b46052b1b.png"
+  },
+  {
+    "address": "0xeb971fd26783f32694dbb392dd7289de23109148",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xeb971fd26783f32694dbb392dd7289de23109148_0x346eef923bfc642178528f0698ff16e0507b3e8a6c214c21c93af803bac657c4.webp"
   }
 ]

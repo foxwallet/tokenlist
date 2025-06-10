@@ -8791,5 +8791,103 @@
     "symbol": "SXT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SXT.webp"
+  },
+  {
+    "address": "0x0bfc9d54fc184518a81162f8fb99c2eaca081202",
+    "name": "Wrapped Aave Ethereum WETH",
+    "symbol": "waEthWETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x0bfc9d54fc184518a81162f8fb99c2eaca081202_0x7cef5c512223dfffb03c62221b0b7e57642b509ea9c81d1a89e24031e5170006.webp"
+  },
+  {
+    "address": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x0f81001ef0a83ecce5ccebf63eb302c70a39a654_0xd70c8b928a4d8345b7f437d8e142d34a10f02372e8752f619686d51860b94464.webp"
+  },
+  {
+    "address": "0x3f67093dffd4f0af4f2918703c92b60acb7ad78b",
+    "name": "21.co Wrapped Bitcoin",
+    "symbol": "21BTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/21BTC.webp"
+  },
+  {
+    "address": "0x5caf5a86f39073637ac7c8a7b5290871de80cb9b",
+    "name": "Wrapped Aave Ethereum DAI",
+    "symbol": "waEthDAI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x5caf5a86f39073637ac7c8a7b5290871de80cb9b_0xdd4d45d7fed65026b5c68142e7ae07d5dabca37c73a2d376b95756e288b87f7a.webp"
+  },
+  {
+    "address": "0x5f9d59db355b4a60501544637b00e94082ca575b",
+    "name": "Wrapped Aave Ethereum USDe",
+    "symbol": "waEthUSDe",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x5f9d59db355b4a60501544637b00e94082ca575b_0xb84f1ba5052ec803603d3b7e7120c2ac84cf3d96557c46e29959ffef8d645441.webp"
+  },
+  {
+    "address": "0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0_0x7cbdd84b95c51489ceb36bc8a9b6c067be6157c025be2a5a231b2e8b4378ea52.webp"
+  },
+  {
+    "address": "0x7bc3485026ac48b6cf9baf0a377477fff5703af8",
+    "name": "Wrapped Aave Ethereum USDT",
+    "symbol": "waEthUSDT",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x7bc3485026ac48b6cf9baf0a377477fff5703af8_0xb912dbe41ce692c1489a65c38cb074ec1f1bb9e78104315966c274ab23f61e9d.webp"
+  },
+  {
+    "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d_0x738d32eb22398f1a82bd0a000b7cea6a0907c31fbefdeeb3b053c033ab1eb235.webp"
+  },
+  {
+    "address": "0x91ad1f5443cf356010d2171d6d26b11c309c4b16",
+    "name": "Wrapped Aave Ethereum RPL",
+    "symbol": "waEthRPL",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x91ad1f5443cf356010d2171d6d26b11c309c4b16_0x5a0d92a818f21c41337cd3f03ed8f028a518bcc04fe04c19453f2ebab1ce4180.webp"
+  },
+  {
+    "address": "0x99999999999999cc837c997b882957dafdcb1af9",
+    "name": "Wrapped Ultimate Synthetic Delta Neutral",
+    "symbol": "WUSDN",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x99999999999999cc837c997b882957dafdcb1af9_0x97afefa52ef5f381c142b3e7ce43e43a141005f9b2b3ef1a613ce54ef0fb098b.webp"
+  },
+  {
+    "address": "0xb80b3215ea8183a064073f9892eb64236160a4df",
+    "name": "Wrapped Aave Ethereum USDS",
+    "symbol": "waEthUSDS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xb80b3215ea8183a064073f9892eb64236160a4df_0x0c2ac3ac2ec613a3f6334e7d4a2c2674c1deb483ddb411fec38d81c0908b3a6c.webp"
+  },
+  {
+    "address": "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e",
+    "name": "Wrapped Aave Ethereum USDC",
+    "symbol": "waEthUSDC",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e_0x6630e2dd6f2ea919a1a7484826062dae4d30dc4277237b37c3e6e668fe6dcba2.webp"
+  },
+  {
+    "address": "0xde17a000ba631c5d7c2bd9fb692efea52d90dee2",
+    "name": "Ultimate Synthetic Delta Neutral",
+    "symbol": "USDN",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xde17a000ba631c5d7c2bd9fb692efea52d90dee2_0xef96e95f7c348af2115c91b657afb8dbfb8d9fb887847c4fdd072679377fcf8b.webp"
+  },
+  {
+    "name": "Lagrange",
+    "address": "0x0fc2a55d5BD13033f1ee0cdd11f60F7eFe66f467",
+    "symbol": "LA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LA.webp"
   }
 ]

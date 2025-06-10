@@ -3590,5 +3590,54 @@
     "symbol": "USD1",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d_0xd5e50b10c1e9ef346e05cd4bec45c32aa8779cba0a0d5638ab3ae8c2d6a87cdc.jpg"
+  },
+  {
+    "address": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742_0x95d9c5a6edd8d299e48f3b65b6280a962fc9ad71a3be43d643b91e67c96830be.webp"
+  },
+  {
+    "address": "0xc1353d3ee02fdbd4f65f92eee543cfd709049cb1",
+    "name": "CUDIS",
+    "symbol": "CUDIS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xc1353d3ee02fdbd4f65f92eee543cfd709049cb1_0xa74e0ee171ca3d53b2ced27803f6348e32534f968b75e3c1a5ecea0a0b87e893.jpg"
+  },
+  {
+    "address": "0xc71b5f631354be6853efe9c3ab6b9590f8302e81",
+    "name": "Polyhedra Network",
+    "symbol": "ZK",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xc71b5f631354be6853efe9c3ab6b9590f8302e81_0xb958c30547df3fc2b203ba05817ebede22f502502ebed5e475be1302e39b10fe.webp"
+  },
+  {
+    "address": "0xcf640fdf9b3d9e45cbd69fda91d7e22579c14444",
+    "name": "gorilla",
+    "symbol": "gorilla",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xcf640fdf9b3d9e45cbd69fda91d7e22579c14444_0x0559511460df1d254f855b85759f83dcaf0a788eb5bf936a4ec02f6aedf873cf.webp"
+  },
+  {
+    "address": "0xd86e6ef14b96d942ef0abf0720c549197ea8c528",
+    "name": "RDO Token",
+    "symbol": "RDO",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xd86e6ef14b96d942ef0abf0720c549197ea8c528_0x14902956c8293b75882491bf2962e61badae41f754e65836e480e24720af9456.webp"
+  },
+  {
+    "address": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+    "name": "BNB48 Club Token",
+    "symbol": "KOGE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KOGE.webp"
+  },
+  {
+    "address": "0xf2c88757f8d03634671208935974b60a2a28bdb3",
+    "name": "MyShell Token",
+    "symbol": "SHELL",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xf2c88757f8d03634671208935974b60a2a28bdb3_0xa9c72a375a8695a45a3f08113953c2f65051962ef1e3c57777b4eac7776699cd.png"
   }
 ]
