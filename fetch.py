@@ -15,6 +15,7 @@ EVM_CHAIN_ID_MAP = {
     "314": "filecoin-evm",
     "324": "zksync-era",
     "463": "areon",
+    "698": "matchain",
     "1100": "dym",
     "1329": "sei-evm",
     "2818": "morph",
@@ -85,6 +86,7 @@ NATIVE_COIN_MAP = {
     "ironfish": "IRON",
     "lumoz": "MOZ",
     "cage": "CAGA",
+    "matchain": "BNB",
 }
 
 proxies = {

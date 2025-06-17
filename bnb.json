@@ -3639,5 +3639,12 @@
     "symbol": "SHELL",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0xf2c88757f8d03634671208935974b60a2a28bdb3_0xa9c72a375a8695a45a3f08113953c2f65051962ef1e3c57777b4eac7776699cd.png"
+  },
+  {
+    "address": "0x44a83a012B926853DFc1BBE2ec5BEf37126067e8",
+    "name": "Matchain",
+    "symbol": "MAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAT.webp"
   }
 ]

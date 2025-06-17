@@ -21107,7 +21107,7 @@
     "name": "The Kings",
     "symbol": "KINGS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/theking_pfp_1663489846200.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KINGS.webp",
     "type": "SPL"
   },
   {
