@@ -3646,5 +3646,26 @@
     "symbol": "MAT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAT.webp"
+  },
+  {
+    "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "name": "Skate",
+    "symbol": "SKATE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x61dbbbb552dc893ab3aad09f289f811e67cef285_0xec66c1d6caec1a6930974aba7cfd79caddd96cd1758c05e874d15fa9a7c01b24.jpg"
+  },
+  {
+    "address": "0x7e975d85714b11d862c7cffee3c88d565a139eb7",
+    "name": "Bombie",
+    "symbol": "BOMB",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x7e975d85714b11d862c7cffee3c88d565a139eb7_0x2e0be23bbd6124f0772e4c51fb638e568582d350a8de1c5b87943177bc321b34.png"
+  },
+  {
+    "address": "0xaff2e841851700d1fc101995ee6b81ae21bb87d7",
+    "name": "Spark",
+    "symbol": "SPK",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xaff2e841851700d1fc101995ee6b81ae21bb87d7_0xe533177a30973f7ce78a1d85abfda1f7f5add2786dab15244cd036992173cbba.png"
   }
 ]

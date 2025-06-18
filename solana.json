@@ -24548,5 +24548,117 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmVdqpfYxenhLyva6SnM62nk1dThmkvuMjgzEWoZPkvsz7",
     "type": "SPL"
+  },
+  {
+    "address": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj",
+    "name": "Syrup USDC",
+    "symbol": "syrupUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/maple-labs/maple-metadata/refs/heads/main/assets/syrupUSDC.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "DFVeSFxNohR5CVuReaXSz6rGuJ62LsKhxFpWsDbbjups",
+    "name": "VIBE CAT",
+    "symbol": "VIBE",
+    "decimals": 6,
+    "logoURI": "https://pub-cbb33da4f32f410580fc64b0a16759fc.r2.dev/images/DFVeSFxNohR5CVuReaXSz6rGuJ62LsKhxFpWsDbbjups",
+    "type": "SPL"
+  },
+  {
+    "address": "3dk9CNre8tmv6bbNXd5F6dgkNnEzsyQ7sPhVT8kKpump",
+    "name": "FartCat",
+    "symbol": "Fartcat",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWDZ9fyPTmRThJKdc7Yf6Za4D6FbYopPjkvq3DwRPa42K",
+    "type": "SPL"
+  },
+  {
+    "address": "AtortPA9SVbkKmdzu5zg4jxgkR4howvPshorA9jYbonk",
+    "name": "IKUN",
+    "symbol": "IKUN",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreieg3xfobdjms5kx2idbcxxia2w5jspjb3msgoa3b6ml7ehhqmap7q",
+    "type": "SPL"
+  },
+  {
+    "address": "93s39pnRwp5NUxvJ3A5zDWoXxKxqW4RCVzMuNsKZbonk",
+    "name": "the face of sarcasm",
+    "symbol": "KAPPA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeigtp3izuvteua2bjjmot73nl4fqgcalquosnl7obo5wxdf4wd2ese",
+    "type": "SPL"
+  },
+  {
+    "address": "YUYAiJo8KVbnc6Fb6h3MnH2VGND4uGWDH4iLnw7DLEu",
+    "name": "Yala stablecoin",
+    "symbol": "YU",
+    "decimals": 6,
+    "logoURI": "https://arweave.net/fy1UKY3u-u21ceXyR5NWbcx_jepJy3ci_Ue3hGO7urg",
+    "type": "SPL"
+  },
+  {
+    "address": "3E8muKzsn84HUUmDWdjjd6geRjv5XUpMjdpbrqi3pump",
+    "name": "Mixie",
+    "symbol": "Mixie",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmbarFXGdfif6Vd22qauPKDAj7Zt7Qu41M8Qs5ohEgQh8Q",
+    "type": "SPL"
+  },
+  {
+    "address": "GQe8DCQTBkuX5E2sjvwuKDZsjGYhU8k3DN5dkSbQLfqJ",
+    "name": "Burncoin",
+    "symbol": "BURN",
+    "decimals": 9,
+    "logoURI": "https://i.degencdn.com/ipfs/bafybeid6u7pjktwpm6jrzn5qaz3aycz6weexldq25hwam6gm663muh5jpa",
+    "type": "SPL"
+  },
+  {
+    "address": "DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM",
+    "name": "DUSD",
+    "symbol": "DUSD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DUSD.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "2KK4YMi24Tqo6tDn8mzYWkNdGjG3ufdXBjmLv7Fapump",
+    "name": "the void",
+    "symbol": "void",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeigfpxnbdhvz64nvdcvnv4g2hbuuicuwulwivyde4a5rzheajfmzma",
+    "type": "SPL"
+  },
+  {
+    "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+    "name": "Verse World",
+    "symbol": "Verse",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVDRQKxtuLH5TEogrbQ9R1CL2VvmXohbkdcX4kaGVqPmt",
+    "type": "SPL"
+  },
+  {
+    "address": "RoamA1USA8xjvpTJZ6RvvxyDRzNh6GCA1zVGKSiMVkn",
+    "name": "Roam Token",
+    "symbol": "ROAM",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiechz2it363d4xsalz3u6heyxe6hlx7u53j7skc4xcw2t5qg7emiy",
+    "type": "SPL"
+  },
+  {
+    "address": "BQDMYwgnWr9UBcUCvLX67yXriTVe1bkPEiTQ1TzKpump",
+    "name": "Breadheads",
+    "symbol": "$Crumbs",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qme58RhfksrihsZ8XfaizNMhukV1vcLsvXdy1Vv1TKLNTg",
+    "type": "SPL"
+  },
+  {
+    "address": "pZHpptKLqcx2ykZu4pbNx4kQHafD3hv7EB3K2wgpump",
+    "name": "ROBOT",
+    "symbol": "ROBOT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qme3GyPjTPPdHErVHVVb8C9gduQyyB3unHBMwuK5LCSxTo",
+    "type": "SPL"
   }
 ]

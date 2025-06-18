@@ -860,5 +860,19 @@
     "symbol": "K",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/K.webp"
+  },
+  {
+    "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "name": "Skate",
+    "symbol": "SKATE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x61dbbbb552dc893ab3aad09f289f811e67cef285_0x82b7c952084c07cb8f5d50ed6c58cf7138ea2cb890a584901ebaacf543b5bd7b.jpg"
+  },
+  {
+    "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+    "name": "SQD",
+    "symbol": "SQD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SQD.webp"
   }
 ]

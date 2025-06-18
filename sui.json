@@ -1352,5 +1352,21 @@
     "decimals": 8,
     "logoURI": "https://static.coinall.ltd/cdn/oksupport/common/20250512-095503.72e1f41d9b9a06.png",
     "type": "SUICoin"
+  },
+  {
+    "address": "0xa7b184cdd17cc2753b9aa2d3c1a4fcb1ae7e2fd8670ee42180369343bdac9c08::sizu::SIZU",
+    "name": "Sizu",
+    "symbol": "SIZU",
+    "decimals": 9,
+    "logoURI": "https://gateway.irys.xyz/FBT57zPsGjm6AnZJP68riNo9EL4Puf2Gj5jCQDcwvh1k",
+    "type": "SUICoin"
+  },
+  {
+    "address": "0xd550289ab12caaad74cd2213f242adf5507afe0fa876578c0dca753bf5409bac::squirt::SQUIRT",
+    "name": "SQUIRTLE",
+    "symbol": "SQUIRT",
+    "decimals": 9,
+    "logoURI": "https://ipfs.filebase.io/ipfs/QmanjUwujyjMFhinXp7MxADrTTu9JnN965QpYefp6YzzvC",
+    "type": "SUICoin"
   }
 ]

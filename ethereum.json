@@ -8889,5 +8889,12 @@
     "symbol": "LA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LA.webp"
+  },
+  {
+    "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+    "name": "Skate",
+    "symbol": "SKATE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x61dbbbb552dc893ab3aad09f289f811e67cef285_0x59c7d702907aba1891531b6d02f12ee4886e16e2f7952a3228eac9b9550023b1.jpg"
   }
 ]

@@ -758,5 +758,12 @@
     "symbol": "cbXRP",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbXRP.webp"
+  },
+  {
+    "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+    "name": "HOME",
+    "symbol": "HOME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HOME.webp"
   }
 ]
