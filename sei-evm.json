@@ -425,5 +425,12 @@
     "symbol": "USD\u20ae0",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USD\u20ae0.webp"
+  },
+  {
+    "address": "0x0F206878eEE8d8Ec6788BaCE3E1f183b42dF75B9",
+    "name": "Grand Gangsta City",
+    "symbol": "GGC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GGC.webp"
   }
 ]

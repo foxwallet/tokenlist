@@ -3667,5 +3667,12 @@
     "symbol": "SPK",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0xaff2e841851700d1fc101995ee6b81ae21bb87d7_0xe533177a30973f7ce78a1d85abfda1f7f5add2786dab15244cd036992173cbba.png"
+  },
+  {
+    "address": "0xc9ccbd76c2353e593cc975f13295e8289d04d3bb",
+    "name": "SynFutures",
+    "symbol": "F",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xc9ccbd76c2353e593cc975f13295e8289d04d3bb_0x2dc0c2a3ad03e88c248e517a390c0bc198d1fed12cf71342220ff50a6239a73d.png"
   }
 ]

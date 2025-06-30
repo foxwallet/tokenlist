@@ -8462,14 +8462,16 @@
     "name": "Quantoz EURQ",
     "symbol": "EURQ",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURQ.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURQ.webp",
+    "priceSource": "cmc:quantoz-eurq"
   },
   {
     "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
     "name": "Quantoz USDQ",
     "symbol": "USDQ",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDQ.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDQ.webp",
+    "priceSource": "cmc:quantoz-usdq"
   },
   {
     "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
@@ -8572,14 +8574,16 @@
     "name": "StablR Euro",
     "symbol": "EURR",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURR.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/EURR.webp",
+    "priceSource": "cmc:stablr-euro"
   },
   {
     "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
     "name": "StablR USD",
     "symbol": "USDR",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDR.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDR.webp",
+    "priceSource": "cmc:stablr-usd"
   },
   {
     "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",

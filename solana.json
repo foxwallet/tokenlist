@@ -21051,7 +21051,7 @@
     "name": "The Atrivians",
     "symbol": "ATRIVIANS",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/atrivians_pfp_1663012736300.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ATRIVIANS.webp",
     "type": "SPL"
   },
   {
@@ -21211,7 +21211,7 @@
     "name": "Jishin Degens",
     "symbol": "JISHIN",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/jishindegens_pfp_1660747722273.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JISHIN.webp",
     "type": "SPL"
   },
   {
@@ -24659,6 +24659,142 @@
     "symbol": "ROBOT",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/Qme3GyPjTPPdHErVHVVb8C9gduQyyB3unHBMwuK5LCSxTo",
+    "type": "SPL"
+  },
+  {
+    "address": "8ZHE4ow1a2jjxuoMfyExuNamQNALv5ekZhsBn5nMDf5e",
+    "name": "MORI COIN",
+    "symbol": "MORI",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmZQm2EV6bhd8ekP999pqdYDtzqc7CGSPizu7G8gzTMSLM",
+    "type": "SPL"
+  },
+  {
+    "address": "CtzPWv73Sn1dMGVU3ZtLv9yWSyUAanBni19YWDaznnkn",
+    "name": "OKX Wrapped BTC",
+    "symbol": "xBTC",
+    "decimals": 8,
+    "logoURI": "https://static.coinall.ltd/cdn/oksupport/common/20250512-095503.72e1f41d9b9a06.png",
+    "type": "SPL"
+  },
+  {
+    "address": "71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg",
+    "name": "Gorbagana",
+    "symbol": "GOR",
+    "decimals": 6,
+    "logoURI": "https://upward-sport-headed.quicknode-ipfs.com/ipfs/QmQAtMVZPjsfaTJM9QErBdVqHi1bD9FCBZDr5uzGV96zhU",
+    "type": "SPL"
+  },
+  {
+    "address": "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL",
+    "name": "Phantom Staked SOL",
+    "symbol": "PSOL",
+    "decimals": 9,
+    "logoURI": "https://assets.phantom.app/assets/metadata/PSOL-512.png",
+    "type": "SPL"
+  },
+  {
+    "address": "5c74v6Px9RKwdGWCfqLGfEk7UZfE3Y4qJbuYrLbVG63V",
+    "name": "solami",
+    "symbol": "solami",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmc4ieJEoSvAMbdN1nCFvxDqoMyXNgaJocYCYQnavztHLc",
+    "type": "SPL"
+  },
+  {
+    "address": "D7Z2fUrxECBh91chmnou8u7E9Yaq7inzzcjg9G1Apump",
+    "name": "This will make ur monthly salary",
+    "symbol": "Salary",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmcKR9yUxahMDgpQ7gwRqbcnEqEp7EYb2mADzaou4Vu2e2",
+    "type": "SPL"
+  },
+  {
+    "address": "HtrmuNs4nESVg5i8gHyufDpGN5HHKqPmFfbQV9yupump",
+    "name": "Worlds First Memecoin",
+    "symbol": "lolcoin",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigtc4udeaqkihp2eu3n6yocnwkxzpsk67ibnb7mjyyxfmhjzuhqc4",
+    "type": "SPL"
+  },
+  {
+    "address": "J3umBWqhSjd13sag1E1aUojViWvPYA5dFNyqpKuX3WXj",
+    "name": "Home",
+    "symbol": "HOME",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HOME.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "A8YHuvQBMAxXoZAZE72FyC8B7jKHo8RJyByXRRffpump",
+    "name": "XBT",
+    "symbol": "XBT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWMAAktNzBLGkmuH64TnKZ72eu2EmxiRXE85v2xisyzdH",
+    "type": "SPL"
+  },
+  {
+    "address": "2RA1v8NdkEQcF5N5zHUqLuAHxjnDMQFjwEE8fwKNpump",
+    "name": "farthouse",
+    "symbol": "farthouse",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreifrjbzj52q6f6wy7tj6rxisam5t3jeibbapfpd526bevdqpgnb4zm",
+    "type": "SPL"
+  },
+  {
+    "address": "spinezMPKxkBpf4Q9xET2587fehM3LuKe4xoAoXtSjR",
+    "name": "SpineDAO Token",
+    "symbol": "SPINE",
+    "decimals": 9,
+    "logoURI": "https://crimson-fantastic-mouse-567.mypinata.cloud/ipfs/bafkreie76olsrr2wj3kicvd3qd2u6x34a5vtunaeujmw6l4g26l4kgskqm",
+    "type": "SPL"
+  },
+  {
+    "address": "GvRf47WPg9uaYcyXEs5UxHL2D39P7yTByBDrQcyMk5wg",
+    "name": "Zeuz",
+    "symbol": "ZEUZ",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreidwavjs5wqtb6ywflpkajjphui6phobsbwsyv2ezwk3kogzk4ee2a",
+    "type": "SPL"
+  },
+  {
+    "address": "Chsqyzk3S4uaFdajsQNMp2FnJ4rQMzTd3ykvwyycbonk",
+    "name": "SIMPLE COIN",
+    "symbol": "SIMPLE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiekm3tcdnrtevrarpj4bfk5rkhjdlmzb3uf6ovlipi7zr23l7jaka",
+    "type": "SPL"
+  },
+  {
+    "address": "8Y5MwnUM19uqhnsrFnKijrmn33CmHBTUoedXtTGDpump",
+    "name": "BASEDD House",
+    "symbol": "BASEDD",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiai55kltq5jbnnc3zt3yrenwwp4jiqucgm3kzf7m3c66vp4xrouwa",
+    "type": "SPL"
+  },
+  {
+    "address": "J3rYdme789g1zAysfbH9oP4zjagvfVM2PX7KJgFDpump",
+    "name": "BlackCoin",
+    "symbol": "BlackCoin",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeihc3o4j7f4naedxhtpr52a5pgubsczosgjzgl2kld4p4x2iti2zf4",
+    "type": "SPL"
+  },
+  {
+    "address": "85vdovHhkXnDi98EYMQmD2vXS82jRP1VDDXfkJ38pump",
+    "name": "Just a peace guy",
+    "symbol": "PEACEGUY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeiercgyo6vbpyyftaova6nofigcja6hd2u4zyrjf6tzqgyagzghtmm",
+    "type": "SPL"
+  },
+  {
+    "address": "CAW777xcHVTQZ4CRwVQGB8CV1BVKPm5bNVxFJHWFKiH8",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 2,
+    "logoURI": "https://ipfs.io/ipfs/Qmdugkz15wCpSSABcCgS7Cd7r8SR3wHutWrcQRDHC3sv7p",
     "type": "SPL"
   }
 ]

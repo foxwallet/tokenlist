@@ -2063,5 +2063,29 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/mUSD.svg",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/WBTC.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xbcff91abababee684b194219ff2113c26e63d57c8872e6fdaf25a41a45fb7197",
+    "name": "AURO Finance",
+    "symbol": "AURO",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/AURO.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x534e4c3dc0f038dab1a8259e89301c4da58779a5d482fb354a41c08147e6b9ec",
+    "name": "AURO USDA",
+    "symbol": "USDA",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/AURO_USDA.png",
+    "type": "AptosFA"
   }
 ]
