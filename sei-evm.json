@@ -438,13 +438,13 @@
     "name": "Dragonswap Token",
     "symbol": "DRG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x0a526e425809aEA71eb279d24ae22Dee6C92A4Fe/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DRG.webp"
   },
   {
     "address": "0x5b8203e65aA5Be3F1CF53FD7fa21b91BA4038ECC",
     "name": "APO",
     "symbol": "APO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x5b8203e65aA5Be3F1CF53FD7fa21b91BA4038ECC/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APO.webp"
   }
 ]

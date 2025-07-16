@@ -778,13 +778,13 @@
     "name": "Coinbase Wrapped LTC",
     "symbol": "cbLTC",
     "decimals": 8,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/66646/large/Coinbase_Wrapped_Litecoin_%28cbLTC%29.png?1750129508"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbLTC.webp"
   },
   {
     "address": "0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c",
     "name": "Coinbase Wrapped ADA",
     "symbol": "cbADA",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbADA.webp"
   }
 ]

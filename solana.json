@@ -18291,7 +18291,7 @@
     "name": "Guild Saga Gems",
     "symbol": "$GGEM",
     "decimals": 9,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://gs-token.s3.us-west-2.amazonaws.com/guild-saga-gems-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/$GGEM.webp",
     "type": "SPL"
   },
   {
@@ -20939,7 +20939,7 @@
     "name": "Oak Paradise",
     "symbol": "OAKYP",
     "decimals": 2,
-    "logoURI": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/oak_paradise_pfp_1661193184623.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OAKYP.webp",
     "type": "SPL"
   },
   {
@@ -24874,7 +24874,7 @@
     "name": "Fragmetric",
     "symbol": "FRAG",
     "decimals": 9,
-    "logoURI": "https://fragmetric-assets.s3.ap-northeast-2.amazonaws.com/frag.png",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FRAG.webp",
     "type": "SPL"
   },
   {
@@ -25042,7 +25042,7 @@
     "name": "DeFi Development Corp Staked SOL",
     "symbol": "dfdvSOL",
     "decimals": 9,
-    "logoURI": "https://pbs.twimg.com/profile_images/1897064824317861888/I02i5oX3_400x400.jpg",
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/dfdvSOL.webp",
     "type": "SPL"
   },
   {

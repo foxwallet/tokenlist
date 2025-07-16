@@ -8906,7 +8906,7 @@
     "name": "KiboShib",
     "symbol": "KIBSHI",
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23802.png"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KIBSHI.webp"
   },
   {
     "address": "0x10ac93971cdb1f5c778144084242374473c350da",
@@ -9067,13 +9067,13 @@
     "name": "Spark",
     "symbol": "SPK",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPK.webp"
   },
   {
     "address": "0xD0eC028a3D21533Fdd200838F39c85B03679285D",
     "name": "Newton",
     "symbol": "NEWT",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/66819/large/newton.jpg?1750642513"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEWT.webp"
   }
 ]
