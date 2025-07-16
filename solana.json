@@ -24803,7 +24803,9 @@
     "symbol": "PUMP",
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/bafkreibyb3hcn7gglvdqpmklfev3fut3eqv3kje54l3to3xzxxbgpt5wjm",
-    "type": "SPL"
+    "type": "SPL",
+    "priceSource": "cmc:pump-fun",
+    "tag": "recommend"
   },
   {
     "address": "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1",
