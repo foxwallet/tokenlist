@@ -3674,5 +3674,19 @@
     "symbol": "F",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0xc9ccbd76c2353e593cc975f13295e8289d04d3bb_0x2dc0c2a3ad03e88c248e517a390c0bc198d1fed12cf71342220ff50a6239a73d.png"
+  },
+  {
+    "address": "0x06238c1b8e618abedf17669228dc95fb2d2e210b",
+    "name": "Echo",
+    "symbol": "ECHO",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x06238c1b8e618abedf17669228dc95fb2d2e210b_0x71e683769d702eb98421e3bbcf8bb37f247cd2098cd16c9752490e0d32958258.png"
+  },
+  {
+    "address": "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa",
+    "name": "MemeCore",
+    "symbol": "M",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa_0xf58734125f68746884cea07601cc84764f6b7d9cbd44c32544991a9b8bb3526c.png"
   }
 ]

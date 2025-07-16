@@ -2087,5 +2087,21 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/AURO_USDA.png",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d",
+    "name": "Hyperion",
+    "symbol": "RION",
+    "decimals": 6,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/RION.svg",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7",
+    "name": "Echo",
+    "symbol": "ECHO",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/ECHO.svg",
+    "type": "AptosFA"
   }
 ]

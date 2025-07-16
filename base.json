@@ -765,5 +765,26 @@
     "symbol": "HOME",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HOME.webp"
+  },
+  {
+    "address": "0xaaa843fb2916c0b57454270418e121c626402aaa",
+    "name": "Arcadia",
+    "symbol": "AAA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xaaa843fb2916c0b57454270418e121c626402aaa_0xeb74eca90f826184f2be8dad68be709a8f0e8e99f7939f2c8b16414cc0f60962.jpg"
+  },
+  {
+    "address": "0xcb17C9Db87B595717C857a08468793f5bAb6445F",
+    "name": "Coinbase Wrapped LTC",
+    "symbol": "cbLTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66646/large/Coinbase_Wrapped_Litecoin_%28cbLTC%29.png?1750129508"
+  },
+  {
+    "address": "0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c",
+    "name": "Coinbase Wrapped ADA",
+    "symbol": "cbADA",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
   }
 ]

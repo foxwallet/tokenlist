@@ -8900,5 +8900,180 @@
     "symbol": "SKATE",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x61dbbbb552dc893ab3aad09f289f811e67cef285_0x59c7d702907aba1891531b6d02f12ee4886e16e2f7952a3228eac9b9550023b1.jpg"
+  },
+  {
+    "address": "0x02e7f808990638e9e67e1f00313037ede2362361",
+    "name": "KiboShib",
+    "symbol": "KIBSHI",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23802.png"
+  },
+  {
+    "address": "0x10ac93971cdb1f5c778144084242374473c350da",
+    "name": "Aave Ethereum tBTC",
+    "symbol": "aEthtBTC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x10ac93971cdb1f5c778144084242374473c350da_0x346d32f6b4a074d26eacd79d4ccd377301575392d2f73c63547052fc01048faa.png"
+  },
+  {
+    "address": "0x1c0e06a0b1a4c160c17545ff2a951bfca57c0002",
+    "name": "Aave Ethereum ETHx",
+    "symbol": "aEthETHx",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x1c0e06a0b1a4c160c17545ff2a951bfca57c0002_0xde05bc6d1608d26c3495f9c0d566478ee51c70425a22478bc5a1aaf94428de79.png"
+  },
+  {
+    "address": "0x289ff00235d2b98b0145ff5d4435d3e92f9540a6",
+    "name": "Book of Ethereum",
+    "symbol": "BOOE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x289ff00235d2b98b0145ff5d4435d3e92f9540a6_0x7943aac02304d97d2bfdc09f697843263bb49752cd3c02ba2fd10334f49db84e.jpg"
+  },
+  {
+    "address": "0x2d62109243b87c4ba3ee7ba1d91b0dd0a074d7b1",
+    "name": "Aave Ethereum rsETH",
+    "symbol": "aEthrsETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x2d62109243b87c4ba3ee7ba1d91b0dd0a074d7b1_0x160a3c63747be8b957dc5d6ab1dcfc3d3631796b5e69d3ef0037d4b95b07c877.png"
+  },
+  {
+    "address": "0x32a6268f9ba3642dda7892add74f1d34469a4259",
+    "name": "Aave Ethereum USDS",
+    "symbol": "aEthUSDS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x32a6268f9ba3642dda7892add74f1d34469a4259_0x0101175a78e35ac8b9591e76627ae23201ea4cd05c52d5b0ed79ea8ce2c07f06.png"
+  },
+  {
+    "address": "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610",
+    "name": "Zeus",
+    "symbol": "ZEUS",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4d4574f50dd8b9dbe623cf329dcc78d76935e610_0xc7a1c6a31f2e56f454c269a3855b37330293366bc23e37dee6cba80b835326d9.webp"
+  },
+  {
+    "address": "0x4f1aac70b303818ddd0823570af3bb46681d9bd8",
+    "name": "SharpLink Gaming",
+    "symbol": "SBET",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4f1aac70b303818ddd0823570af3bb46681d9bd8_0x12340fd052cd70f9c3de41def3032fcd552b897bf8bca916541a314c1cdee1c0.jpg"
+  },
+  {
+    "address": "0x4f5923fc5fd4a93352581b38b7cd26943012decf",
+    "name": "Aave Ethereum USDe",
+    "symbol": "aEthUSDe",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4f5923fc5fd4a93352581b38b7cd26943012decf_0xed15eab9ba12eab541467b5f2b129c8e642388c2e1cfb4216debfcd24dd684c4.png"
+  },
+  {
+    "address": "0x5c647ce0ae10658ec44fa4e11a51c96e94efd1dd",
+    "name": "Aave Ethereum cbBTC",
+    "symbol": "aEthcbBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x5c647ce0ae10658ec44fa4e11a51c96e94efd1dd_0x8deb32c0ea86e6f4439fee963b35180a64d2e9093a5ba4b9d85672651612deaa.png"
+  },
+  {
+    "address": "0x5fefd7069a7d91d01f269dade14526ccf3487810",
+    "name": "Aave Ethereum eBTC",
+    "symbol": "aEtheBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x5fefd7069a7d91d01f269dade14526ccf3487810_0x256e996b7b98ce20bcc66ef573631858dd9df0b75d4a40613a3bea085a6fde0a.webp"
+  },
+  {
+    "address": "0x65906988adee75306021c417a1a3458040239602",
+    "name": "Aave Ethereum LBTC",
+    "symbol": "aEthLBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x65906988adee75306021c417a1a3458040239602_0xd97cf3878beedc2653e2f7656da3eb4f526d80acd8a826e8d7f1c5c972fdc507.png"
+  },
+  {
+    "address": "0x926759a8eaecfadb5d8bdc7a9c7b193c5085f507",
+    "name": "Nura Labs",
+    "symbol": "NURA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x926759a8eaecfadb5d8bdc7a9c7b193c5085f507_0x5cba4a8cc529091e0d6900fddbe904ba253c1f97f5777952e81b794bb7e8409a.webp"
+  },
+  {
+    "address": "0x927709711794f3de5ddbf1d176bee2d55ba13c21",
+    "name": "Aave Ethereum osETH",
+    "symbol": "aEthosETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x927709711794f3de5ddbf1d176bee2d55ba13c21_0xc75b1f1368ea886cb42164a6a4ea0f4ffe9b65a604b7f7f184872e672c5db1d9.png"
+  },
+  {
+    "address": "0x95af4af910c28e8ece4512bfe46f1f33687424ce",
+    "name": "Manyu",
+    "symbol": "MANYU",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x95af4af910c28e8ece4512bfe46f1f33687424ce_0x9bff6be7f40de935d6d334bfa695cbeed884155e6e83df38f4606ccedeca8a99.jpg"
+  },
+  {
+    "address": "0x9f277edfc463ebaa3d2a6274b01177697e910391",
+    "name": "Miniature Woolly Mammoth",
+    "symbol": "WOOLLY",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x9f277edfc463ebaa3d2a6274b01177697e910391_0x8203b86d9872bb55a0802f74794a3c6caaf7e29d8201b0fab8f4cb0f15f56daa.webp"
+  },
+  {
+    "address": "0xb17be9a85d1e04d1aa6ea4b83c0bb6a2030c261f",
+    "name": "Qubit",
+    "symbol": "QBIT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xb17be9a85d1e04d1aa6ea4b83c0bb6a2030c261f_0x00fa8aebb37089106182fc41bc17f3ad4ccc828476473699a56a05ab6890c04e.webp"
+  },
+  {
+    "address": "0xbdfa7b7893081b35fb54027489e2bc7a38275129",
+    "name": "Aave Ethereum weETH",
+    "symbol": "aEthweETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xbdfa7b7893081b35fb54027489e2bc7a38275129_0x31670393de5caffb378286a37fb133afe37f1264831d6089e325b952b4342e93.png"
+  },
+  {
+    "address": "0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10",
+    "name": "Wall Street Pepe",
+    "symbol": "WEPE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10_0x29b152019460acc7fc6f26b8bf1a155d0e64a65bef3233ec322a07a629653eb8.webp"
+  },
+  {
+    "address": "0xe0b7ad7f8f26e2b00c8b47b5df370f15f90fcf48",
+    "name": "Solaxy",
+    "symbol": "SOLX",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xe0b7ad7f8f26e2b00c8b47b5df370f15f90fcf48_0xd6a73e43523acaf64715d8c68a90437ed78dca7081a0923dc6549fa9e0f49fe5.webp"
+  },
+  {
+    "address": "0xe6f98920852a360497dbcc8ec895f1bb1f7c8df4",
+    "name": "OpenVision",
+    "symbol": "VISION",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xe6f98920852a360497dbcc8ec895f1bb1f7c8df4_0xdd35b2a6fda346c98327c0fc44410d13982ee74379d6090c51ac6d64c8ba8bc5.jpg"
+  },
+  {
+    "address": "0xf5f52266a57e6d7312da39bd7ab9527b9e975c40",
+    "name": "Agents Virtual Machine",
+    "symbol": "AVM",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xf5f52266a57e6d7312da39bd7ab9527b9e975c40_0x8b6e839e22237474741f74602008c0e86a69d097434b1b2833c7c362c28a9a8d.webp"
+  },
+  {
+    "address": "0xfa82580c16a31d0c1bc632a36f82e83efef3eec0",
+    "name": "Aave Ethereum RLUSD",
+    "symbol": "aEthRLUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xfa82580c16a31d0c1bc632a36f82e83efef3eec0_0xa1cdb7574b3548a5f7c9304241ec7228015e7b46fa2bbdf1e08a79e7014cf666.webp"
+  },
+  {
+    "address": "0xc20059e0317DE91738d13af027DfC4a50781b066",
+    "name": "Spark",
+    "symbol": "SPK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896"
+  },
+  {
+    "address": "0xD0eC028a3D21533Fdd200838F39c85B03679285D",
+    "name": "Newton",
+    "symbol": "NEWT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66819/large/newton.jpg?1750642513"
   }
 ]

@@ -24796,5 +24796,317 @@
     "decimals": 2,
     "logoURI": "https://ipfs.io/ipfs/Qmdugkz15wCpSSABcCgS7Cd7r8SR3wHutWrcQRDHC3sv7p",
     "type": "SPL"
+  },
+  {
+    "address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "name": "Pump",
+    "symbol": "PUMP",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreibyb3hcn7gglvdqpmklfev3fut3eqv3kje54l3to3xzxxbgpt5wjm",
+    "type": "SPL"
+  },
+  {
+    "address": "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1",
+    "name": "CRCLx xStock",
+    "symbol": "CRCLx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/CRCLx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "DHJVYXsikcimtcVo49FAZqYd1XPYPaXezYhbKArJbonk",
+    "name": "Blue Chip",
+    "symbol": "BlueChip",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeida2bu7mag7yl4zsco34l4x3m6qoaqtju6tmxywaiqvqwueurt74i",
+    "type": "SPL"
+  },
+  {
+    "address": "97PVGU2DzFqsAWaYU17ZBqGvQFmkqtdMywYBNPAfy8vy",
+    "name": "Startup",
+    "symbol": "STARTUP",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreicrey4phrwiwi7cqmefex7lmsufpx56iw3pya4bwvh5wumabcz4vu",
+    "type": "SPL"
+  },
+  {
+    "address": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+    "name": "NVIDIA xStock",
+    "symbol": "NVDAx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/NVDAx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "Cdq1WR1d4i2hMrqKUWgZeUbRpkhamGHSvm1f6ATpuray",
+    "name": "Altcoin",
+    "symbol": "ALT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeif3watbe4rehvjfnpivhdwhai6tzhb5srsbjowdxyws62tyqhd7ca",
+    "type": "SPL"
+  },
+  {
+    "address": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+    "name": "Tesla xStock",
+    "symbol": "TSLAx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/TSLAx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+    "name": "SP500 xStock",
+    "symbol": "SPYx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/SPYx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "4bXCaDUciWA5Qj1zmcZ9ryJsoqv4rahKD4r8zYYsbonk",
+    "name": "BaoBao",
+    "symbol": "BaoBao",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeifvebrsrum2n4gkl3n6fqbqg2lg26uwjnkid7ui3rpyj6wi34vggu",
+    "type": "SPL"
+  },
+  {
+    "address": "FRAGMEWj2z65qM62zqKhNtwNFskdfKs4ekDUDX3b4VD5",
+    "name": "Fragmetric",
+    "symbol": "FRAG",
+    "decimals": 9,
+    "logoURI": "https://fragmetric-assets.s3.ap-northeast-2.amazonaws.com/frag.png",
+    "type": "SPL"
+  },
+  {
+    "address": "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ",
+    "name": "MicroStrategy xStock",
+    "symbol": "MSTRx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/MSTRx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "HyU6PuA4oDPxnEpP7E3MGc4u6MQ4m31LZihTF7RPbonk",
+    "name": "Just a Circle",
+    "symbol": "CRCL",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigv24tsppnjd66wvvw2dnog7737belptmuyjjugqhea6ivrc4aqzm",
+    "type": "SPL"
+  },
+  {
+    "address": "FJjKH9Xp2SvNDNUSN7X9T4uMNafFEYzbZpnwEZXKpump",
+    "name": "Pacu Jalur",
+    "symbol": "BoatKid",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiab2prdcpif2mouzxqed7eelhxqxj4qrnz5ejfk4ovktcfvaelisy",
+    "type": "SPL"
+  },
+  {
+    "address": "8f1zccZPpbjz17Ay9wZKT5Mx2oPtUyxAVz5p5yzEbonk",
+    "name": "Bestcoin",
+    "symbol": "BEST",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeichg6sz5gskzvn2tlpyonwtc66uu4lyrj76lfdumhh3fqnavv3hzi",
+    "type": "SPL"
+  },
+  {
+    "address": "AFk1RUr18RCFjhKHQN7ufxPBiQYWjXifAw4y4n44jups",
+    "name": "priceless",
+    "symbol": "priceless",
+    "decimals": 6,
+    "logoURI": "https://static-create.jup.ag/images/AFk1RUr18RCFjhKHQN7ufxPBiQYWjXifAw4y4n44jups",
+    "type": "SPL"
+  },
+  {
+    "address": "Fh4GcNpEhZJvDDdXhUCe7jxzhqQKZk2NGgDY9zjBbonk",
+    "name": "maow",
+    "symbol": "maow",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeiase2rocg3okeakfvi7c6wak3ptekai73y7rksl7t27l4jcqgsxey",
+    "type": "SPL"
+  },
+  {
+    "address": "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ",
+    "name": "Nasdaq xStock",
+    "symbol": "QQQx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/QQQx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "FNP2Dw2GU5wPBZgVCcerbEemV9dVfvQrThEor1jmoon",
+    "name": "Mooncat",
+    "symbol": "MOONCAT",
+    "decimals": 6,
+    "logoURI": "https://cdn.moonshot.com/0mnPST3vwzEfM2ZdjsBrurn7.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "X69GKB2fLN8tSUxNTMneGAQw79qDw9KcPQp3RoAk9cf",
+    "name": "Gremly",
+    "symbol": "$GREMLY",
+    "decimals": 4,
+    "logoURI": "https://file.dexlab.space/file/3a8735d7f7dc4f0fa6cb2fa61415f1ec",
+    "type": "SPL"
+  },
+  {
+    "address": "ACyP5VHmSYhixsHwFXh8BTqypPGBTjHGcJZjYdBvPKaE",
+    "name": "401K",
+    "symbol": "401K",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmRBexBxxxLRZpnU1iK2i3kYyyVHSXKjyc4D9MYauNnN77",
+    "type": "SPL"
+  },
+  {
+    "address": "8gHPxqgHj6JQ2sQtMSghQYVN5qRP8wm5T6HNejuwpump",
+    "name": "RefundYourSOL",
+    "symbol": "RYS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiacevdu7jdbn5d5a2du52x6bnkfw6anuh672727wuy63k77bcghhi",
+    "type": "SPL"
+  },
+  {
+    "address": "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
+    "name": "Alphabet xStock",
+    "symbol": "GOOGLx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/GOOGLx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "9EQSeWY7pDB7MYoSFr8QJ19onGS1ehDmLbSGT2b3pump",
+    "name": "monke",
+    "symbol": "monke",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeicpr2ipm2it2uqr6w47brelo5mpl4b6jaqerniy56yc457b6xmuiq",
+    "type": "SPL"
+  },
+  {
+    "address": "Xs2yquAgsHByNzx68WJC55WHjHBvG9JsMB7CWjTLyPy",
+    "name": "DFDV xStock",
+    "symbol": "DFDVx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/DFDVx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+    "name": "Apple xStock",
+    "symbol": "AAPLx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/AAPLx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "86N5k7YfzPvdgRZ1ASE3fhKniAwc6GwaZwXes7ssmoon",
+    "name": "MOONDOGE",
+    "symbol": "MOONDOGE",
+    "decimals": 6,
+    "logoURI": "https://cdn.moonshot.com/ckfgEo88zMi7K4QNbjvFZYm3.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "4ikwYoNvoGEwtMbziUyYBTz1zRM6nmxspsfw9G7Bpump",
+    "name": "Cryptocurrency Coin",
+    "symbol": "crypto",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/Qmckw1if7ERBztvjsXo9xg1JfxpRpjE9DgWHjKYjL7TCt4",
+    "type": "SPL"
+  },
+  {
+    "address": "7Tx8qTXSakpfaSFjdztPGQ9n2uyT1eUkYz7gYxxopump",
+    "name": "ASSDAQ",
+    "symbol": "ASSDAQ",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZF4bmtnneNmCnszBEUcUzfYZJ3br9efMiMvXu8wueBtx",
+    "type": "SPL"
+  },
+  {
+    "address": "9HBLhDZc2hyuDL7avTo14FEVcjs4fQ6yA5JuYL9cbonk",
+    "name": "Real Asian Hours",
+    "symbol": "CHINAWINS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeiarof6sisscce2anqccr4ncgnrxob2b23yoeoeuee4lo7iyp2y74e",
+    "type": "SPL"
+  },
+  {
+    "address": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+    "name": "Amazon xStock",
+    "symbol": "AMZNx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/AMZNx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "sctmB7GPi5L2Q5G9tUSzXvhZ4YiDMEGcRov9KfArQpx",
+    "name": "DeFi Development Corp Staked SOL",
+    "symbol": "dfdvSOL",
+    "decimals": 9,
+    "logoURI": "https://pbs.twimg.com/profile_images/1897064824317861888/I02i5oX3_400x400.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "69LjZUUzxj3Cb3Fxeo1X4QpYEQTboApkhXTysPpbpump",
+    "name": "Codec Flow",
+    "symbol": "CODEC",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmXibCaGQdyqPrec5TUhv47awcY7pk5v5bBqe4Ez7QNeES",
+    "type": "SPL"
+  },
+  {
+    "address": "Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re",
+    "name": "Gold xStock",
+    "symbol": "GLDx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/GLDx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg",
+    "name": "Robinhood xStock",
+    "symbol": "HOODx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/HOODx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
+    "name": "Meta xStock",
+    "symbol": "METAx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/METAx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu",
+    "name": "Coinbase xStock",
+    "symbol": "COINx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/COINx.png",
+    "type": "SPL"
+  },
+  {
+    "address": "D2QvT2fgdvaLxDLiTFjHeRqeZFXU8UqFdJr7xcgHmoon",
+    "name": "Mooncoin",
+    "symbol": "MOONCOIN",
+    "decimals": 6,
+    "logoURI": "https://cdn.moonshot.com/qUqLSuXmeSZrhLyh58Y1b4TC.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "5oUzkFsCFMJJ23Z6Ghev5m7FjE6TtrqZJXUS7V5Smoon",
+    "name": "GET RICH QUICK",
+    "symbol": "RICH",
+    "decimals": 6,
+    "logoURI": "https://cdn.moonshot.com/S7syC64Lg2F2SajMxFqykNpO.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "XsaQTCgebC2KPbf27KUhdv5JFvHhQ4GDAPURwrEhAzb",
+    "name": "AMBRx xStock",
+    "symbol": "AMBRx",
+    "decimals": 8,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/AMBRx.png",
+    "type": "SPL"
   }
 ]
