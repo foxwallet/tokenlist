@@ -25110,5 +25110,45 @@
     "decimals": 8,
     "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/AMBRx.png",
     "type": "SPL"
+  },
+  {
+    "address": "9tqjeRS1swj36Ee5C1iGiwAxjQJNGAVCzaTLwFY8bonk",
+    "name": "Ani Grok Companion",
+    "symbol": "Ani",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreib5kogx5jxnw6zzyyxxv66pokswuj32z2y34ut53druz2qwzdvs7u",
+    "type": "SPL"
+  },
+  {
+    "address": "BFgdzMkTPdKKJeTipv2njtDEwhKxkgFueJQfJGt1jups",
+    "name": "Uranus",
+    "symbol": "URANUS",
+    "decimals": 6,
+    "logoURI": "https://static-create.jup.ag/images/BFgdzMkTPdKKJeTipv2njtDEwhKxkgFueJQfJGt1jups",
+    "type": "SPL"
+  },
+  {
+    "address": "6nz8p3Mzw4q4rhHZFbaLAqGv48Ab2PRPSYW1o8YHbonk",
+    "name": "looks good",
+    "symbol": "sendit",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeiaft3yqulgasggrik6556npn2nlgqo7krqwxustqkshd3e7v3g3ze",
+    "type": "SPL"
+  },
+  {
+    "address": "FH6jc68WzeAUXKp6uDg9QPciTeU75o32xFDzKLzmbonk",
+    "name": "KAKA",
+    "symbol": "KAKA",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreib34ykv6vlpddcq54oca3ljb2tbogumhqf5ktvpqyndtzctuqjpsm",
+    "type": "SPL"
+  },
+  {
+    "address": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+    "name": "The Spirit of Gambling",
+    "symbol": "Tokabu",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreicrdi3icewusvj5ff53uwnlzng53dmkk3llrmdbn35eb2ozamnhpq",
+    "type": "SPL"
   }
 ]

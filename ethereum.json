@@ -9075,5 +9075,26 @@
     "symbol": "NEWT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NEWT.webp"
+  },
+  {
+    "address": "0x0b2fa18342d38909e3e44d7103cf3f37b0a0403a",
+    "name": "Tanuki",
+    "symbol": "TANUKI",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x0b2fa18342d38909e3e44d7103cf3f37b0a0403a_0x39048daf910128c613e22077cf8764d8d43a14b49c8997333a54091200ea9eff.png"
+  },
+  {
+    "address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
+    "name": "SafePal",
+    "symbol": "SFP",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x12e2b8033420270db2f3b328e32370cb5b2ca134_0xd7230f2c2f51927fdf4685fbea4df995d77a0702f2fab839e5b5870802c7134a.svg"
+  },
+  {
+    "address": "0x1eb02047a8a1686a9e80f355d37d72fbc446685f",
+    "name": "Ordium AI",
+    "symbol": "ORAI",
+    "decimals": 9,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x1eb02047a8a1686a9e80f355d37d72fbc446685f_0x30e63e53edb87c6328a7e244bf04c6b6b94398271583d8536e3bbfa5e3000026.webp"
   }
 ]
