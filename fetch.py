@@ -490,7 +490,6 @@ if __name__ == "__main__":
     silkswap()
     ton_diamonds()
     dragonswap()
-    sui_cetus()
     jupiter()
     panro()
     stellaswap()

@@ -460,5 +460,33 @@
     "symbol": "MAD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAD.webp"
+  },
+  {
+    "address": "0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.webp"
+  },
+  {
+    "address": "0x049EAa1B2C9934aaAcC12a141484eEfd62867653",
+    "name": "aUSD",
+    "symbol": "aUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aUSD.webp"
+  },
+  {
+    "address": "0x7D330358F0bE21fEeb751d0622ffeE04E25d7Dfa",
+    "name": "aMSTR",
+    "symbol": "aMSTR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aMSTR.webp"
+  },
+  {
+    "address": "0x481FE356DF88169f5F38203Dd7f3C67B7559FDa5",
+    "name": "Raiin",
+    "symbol": "RAIIN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RAIIN.webp"
   }
 ]

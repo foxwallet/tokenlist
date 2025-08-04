@@ -786,5 +786,19 @@
     "symbol": "cbADA",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/cbADA.webp"
+  },
+  {
+    "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+    "name": "BankrCoin",
+    "symbol": "BNKR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BNKR.webp"
+  },
+  {
+    "address": "0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1",
+    "name": "ResearchCoin",
+    "symbol": "RSC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RSC.webp"
   }
 ]

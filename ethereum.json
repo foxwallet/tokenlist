@@ -9096,5 +9096,54 @@
     "symbol": "ORAI",
     "decimals": 9,
     "logoURI": "https://tokens-data.1inch.io/images/1/0x1eb02047a8a1686a9e80f355d37d72fbc446685f_0x30e63e53edb87c6328a7e244bf04c6b6b94398271583d8536e3bbfa5e3000026.webp"
+  },
+  {
+    "address": "0x14fee680690900ba0cccfc76ad70fd1b95d10e16",
+    "name": "PAAL AI",
+    "symbol": "PAAL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PAAL.webp"
+  },
+  {
+    "address": "0x292fcdd1b104de5a00250febba9bc6a5092a0076",
+    "name": "HashAI",
+    "symbol": "HashAI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x292fcdd1b104de5a00250febba9bc6a5092a0076_0x90d81b4a8800cee5b0aaac6a538bf3f3bad86f222efcbe4f3416859dec8d7118.png"
+  },
+  {
+    "address": "0x8ed97a637a790be1feff5e888d43629dc05408f6",
+    "name": "Non-Playable Coin",
+    "symbol": "NPC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NPC.webp"
+  },
+  {
+    "address": "0xb90b2a35c65dbc466b04240097ca756ad2005295",
+    "name": "BOBO",
+    "symbol": "BOBO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BOBO.webp"
+  },
+  {
+    "address": "0xdd3b11ef34cd511a2da159034a05fcb94d806686",
+    "name": "Rekt",
+    "symbol": "REKT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xdd3b11ef34cd511a2da159034a05fcb94d806686_0x41ee76060fba0da5f0224ffa6847490cc72ad3366489d0e0c88137ecb14008f0.png"
+  },
+  {
+    "address": "0xE2AD0BF751834f2fbdC62A41014f84d67cA1de2A",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ERA.webp"
+  },
+  {
+    "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse Token",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TREE.webp"
   }
 ]
