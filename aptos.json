@@ -2127,5 +2127,13 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/CATTOS.png",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x75de592a7e62e6224d13763c392190fda8635ebb79c798a5e9dd0840102f3f93",
+    "name": "Fiamma BTC",
+    "symbol": "FIABTC",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/FIABTC.png",
+    "type": "AptosFA"
   }
 ]

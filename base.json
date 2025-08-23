@@ -800,5 +800,26 @@
     "symbol": "RSC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RSC.webp"
+  },
+  {
+    "address": "0x00000000A22C618fd6b4D7E9A335C4B96B189a38",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TOWNS.webp"
+  },
+  {
+    "address": "0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZEN.webp"
+  },
+  {
+    "address": "0x7300B37DfdfAb110d83290A29DfB31B1740219fE",
+    "name": "Mamo",
+    "symbol": "MAMO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAMO.webp"
   }
 ]

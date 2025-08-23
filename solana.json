@@ -25366,5 +25366,397 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/V2EX.webp",
     "type": "SPL"
+  },
+  {
+    "address": "LiGHtkg3uTa9836RaNkKLLriqTNRcMdRAhqjGWNv777",
+    "name": "Light",
+    "symbol": "LIGHT",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiaupojw5korcvnen7tuiniuk4n4tsaykx6qncceikzsuwq3c4kz6e",
+    "type": "SPL"
+  },
+  {
+    "address": "FyrBf5xKg5EwKZ9pHvSpJeLLuCWBicTpm3VvZcsibonk",
+    "name": "FARTLESS COIN",
+    "symbol": "FARTLESS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreicn4jnd6cezbiwv3fc2xeih3qussyjgadbmacm6gavrk2u7mksq6i",
+    "type": "SPL"
+  },
+  {
+    "address": "5Y8NV33Vv7WbnLfq3zBcKSdYPrk7g2KoiQoe7M2tcxp5",
+    "name": "ONe",
+    "symbol": "ONe",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/oPxfqB8PU2b48pc_emrhzAl5MkfDrmeNxoETRh3mUBw",
+    "type": "SPL"
+  },
+  {
+    "address": "3Cmv9wxP1yNQZErQEFabB3L8uHxz49AtCRMrbKnBSozq",
+    "name": "just a little guy",
+    "symbol": "littleguy",
+    "decimals": 6,
+    "logoURI": "https://upward-sport-headed.quicknode-ipfs.com/ipfs/QmNtLzmfftb61n8uao8oJvxPunks32XqoqwFY4bdKHrfG6",
+    "type": "SPL"
+  },
+  {
+    "address": "CNNQZyEWfz9mDBRCiRNwjaUvMaLnaRWem8HeJYh7bonk",
+    "name": "Monkey The Picasso",
+    "symbol": "Monkey",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigjfarwhik346xrpgk5t7qvegg46j6t7r2isswxblcotjoy3s5l4y",
+    "type": "SPL"
+  },
+  {
+    "address": "FhhXCnCbxBQ4nX4a4PBTuYG3gbETWixoNejQkPKJbonk",
+    "name": "Dogstock",
+    "symbol": "DSTOCK",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiasjbkaiwgwtdnzi7qdo5xuzf4yhctpvq76yssbjaekfgr2arae7e",
+    "type": "SPL"
+  },
+  {
+    "address": "9X45NjtGbGo9zdCFmMyqZyNzC6Wa67KFbfvGc8nubonk",
+    "name": "Just can't prove it",
+    "symbol": "DETECTIVE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeihn6v5ecaank5vgkasuz4sfdd5zvcexu35uuvy4qsqh6me6vejf4e",
+    "type": "SPL"
+  },
+  {
+    "address": "2EyNf2PCNT7eQ9ag1RDXw3qn3Cy22WdTA9T6HKDebonk",
+    "name": "Solana Stock Index",
+    "symbol": "SSX",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigiiodror2rvgtdavqtodfxdi4xwzyh3oflqdiokhzyuhxou66hze",
+    "type": "SPL"
+  },
+  {
+    "address": "oha3mwwm2tqWRouJ2KGUiz4Vz9FCRcPm1fApm87bonk",
+    "name": "Bonkyo",
+    "symbol": "Bonkyo",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreidposninrfcjbifgqolprj5su4n5hwavgi24iuhpnvucoj3clrjsq",
+    "type": "SPL"
+  },
+  {
+    "address": "vLieQF5eDqUuuk8RzRaqgAHkXr7bSEBZaWk9Zfibonk",
+    "name": "DebtCoin",
+    "symbol": "DEBT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreihcmho3e7yxzehcfa4onpjccnrny3tneujkehelihgzghxnbobnr4",
+    "type": "SPL"
+  },
+  {
+    "address": "CMx7yon2cLzHcXqgHsKJhuU3MmME6noWLQk2rAycBAGS",
+    "name": "Nyan Cat",
+    "symbol": "NYAN",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmRWRhZ38co7rcHmbHTe61mj7yhMkmAotsrtZcSEFZLQge",
+    "type": "SPL"
+  },
+  {
+    "address": "AdwCEWQGzt3vuFMEPMf97AJMiq1eYL2sR7gk2x42pump",
+    "name": "LENS",
+    "symbol": "LENS",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPszgoKTxYzwpoods1ccdrhoWJCZaUbPB7dPrn4eYJuuL",
+    "type": "SPL"
+  },
+  {
+    "address": "C19J3fcXX9otmTjPuGNdZMQdfRG6SRhbnJv8EJnRpump",
+    "name": "PhiProtocol.ai",
+    "symbol": "PHI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigvvuca3vg6fl36vxu2cljlgjdtzhtk2zzoo6syyxl357xc7uuyyy",
+    "type": "SPL"
+  },
+  {
+    "address": "5EaYZcaKfTVdpQ2avVtJ7BNWJ1Rnj86F1dWxppawpump",
+    "name": "DOLLO ALL IN",
+    "symbol": "dollo",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeifp3qydz5kwa23akdjcv63edlypcxbkbagso4stz4mcnfcvnjqs2a",
+    "type": "SPL"
+  },
+  {
+    "address": "CoRAitPvr9seu5F9Hk39vbjqA1o1XuoryHjSk1Z1q2mo",
+    "name": "Coral Protocol",
+    "symbol": "CORAL",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTh1dWucHzMKcGQDHpR95pMUXREWpu2KnfiThvKFgbB7R",
+    "type": "SPL"
+  },
+  {
+    "address": "EuU9Vh37eKDdUnZkUfMZLGCcBqwFYpr1E6X3ZwUxhvgm",
+    "name": "IMAGINE",
+    "symbol": "IMAGINE",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmUM9xXWb631jFEU2Bjz2aNT7KAsnsQWChdAvmDyZmZaAu",
+    "type": "SPL"
+  },
+  {
+    "address": "9hdynudAhhWzuNFAnpz7NjvdKMfh9z8mcZKNYHuAUgJQ",
+    "name": "Sheep Wif Hat",
+    "symbol": "SWIF",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmTQ23ECJnXZbMEunGTwMGfEAq9ai7C1ZnALnrxzEuFapf",
+    "type": "SPL"
+  },
+  {
+    "address": "777Z92HqqGEav312yx8CfakajosBRFFUMbemyLaqbonk",
+    "name": "Bad Rudi",
+    "symbol": "BADRUDI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeidahmvlpgseha3hhrqrzfztq2aa3vy6qfn2hd3wcjjl6liwcd4wpa",
+    "type": "SPL"
+  },
+  {
+    "address": "AT13ipG8K4HDyEJm3H1ZVQV2Bw8sihewoLQReSMsYo3o",
+    "name": "AU79",
+    "symbol": "AU79",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmSE92ZJNDG3wPgMPMGLXfJvYrvFreHDEJ3uZyGeLxdxMV",
+    "type": "SPL"
+  },
+  {
+    "address": "9mAnyxAq8JQieHT7Lc47PVQbTK7ZVaaog8LwAbFzBAGS",
+    "name": "TeamWater",
+    "symbol": "WATER",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmT3DhM8vLaMuPQcHza9PDFyF4iwxbctSGpsrcy4ZVR6yA",
+    "type": "SPL"
+  },
+  {
+    "address": "Preb5VKsmKgMGhMKUhDpe7A2AhMDmrZtMMZmvFEhLbU",
+    "name": "SpaceX PreStocks",
+    "symbol": "SPACEX",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/spacex.png",
+    "type": "SPL"
+  },
+  {
+    "address": "CPG7gjcjcdZGHE5EJ6LoAL4xqZtNFeWEXXmtkYjAoVaF",
+    "name": "DegeCoin",
+    "symbol": "Dege",
+    "decimals": 6,
+    "logoURI": "https://file.dexlab.space/file/80a36cd35b0b4ca494ffbff45f14fce8",
+    "type": "SPL"
+  },
+  {
+    "address": "6TUJXvuUrS4rnnm8LmG23AZYsWQavY9SpeAG3Cdjbonk",
+    "name": "joe",
+    "symbol": "joe",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeicfc2uyipl3yvxvrvqelr3xzavnnn5np62kmqtkxk4wnc4rkscuhe",
+    "type": "SPL"
+  },
+  {
+    "address": "4mWTS6KztDEoMu2uqsnbgbeGRh6chjq7Fbpmbr1Ypump",
+    "name": "Topless",
+    "symbol": "Topless",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreiclx4c7dt4g44vrnw7nuxbhqjzaytzhbwyer6ovkpl2sicigxknky",
+    "type": "SPL"
+  },
+  {
+    "address": "PrekBgzytydXoDTrH5NW9ABP68c96twxML8oV1NnV8d",
+    "name": "Discord PreStocks",
+    "symbol": "DISCRD",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/discord.png",
+    "type": "SPL"
+  },
+  {
+    "address": "HoQYRCnUeyZZyFiPtYDw48kHyGwjsaUXJxDVtxcK4yPg",
+    "name": "believe coin",
+    "symbol": "BELIEVE",
+    "decimals": 6,
+    "logoURI": "http://93.205.3.43:4141/static/images/5bqKrOUU.jpg",
+    "type": "SPL"
+  },
+  {
+    "address": "EgHo1Tq81VHKSYSx9KiWEsZvKRb5fZD9M4y5HPyUmoon",
+    "name": "YARA AI",
+    "symbol": "YARA",
+    "decimals": 9,
+    "logoURI": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/001d7f06-0c28-4771-5c30-bdaf13215500/public",
+    "type": "SPL"
+  },
+  {
+    "address": "PreYPq1LdVBhKsYC3nRmZW5Y9yJXwSuDYmUSikFCwGS",
+    "name": "xAI PreStocks",
+    "symbol": "XAI",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/xai.png",
+    "type": "SPL"
+  },
+  {
+    "address": "8243mJtEQZSEYh5DBmvHSwrN8tmcYkAuG67CgoT2pump",
+    "name": "out of body experience",
+    "symbol": "OOBE",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmWAAzFVWKzVdXG8iib3DqEaNqHRmRFejFMHp5KK5QdrBK",
+    "type": "SPL"
+  },
+  {
+    "address": "Pres43hQWdY6HaHWckmgzqyQgVwYCXen3VPrXMoKWeY",
+    "name": "Kraken PreStocks",
+    "symbol": "KRAKEN",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/kraken.png",
+    "type": "SPL"
+  },
+  {
+    "address": "2eTJqpK4QqWofGLSoirWNdC3Goyxp81KC3JDMqcupump",
+    "name": "mindshare",
+    "symbol": "mindshare",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigvkkaqraxbvtopdjodj4v2rpiktn4g4jgbo52bxjascrumq6w3oe",
+    "type": "SPL"
+  },
+  {
+    "address": "7d5uLATMiAoRC1n9yNc7VCrhx44H6bjEzDx7Gxuhpump",
+    "name": "Official Strategic Solana Res",
+    "symbol": "SSR",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmZjwmpGHcfvtwuKfHxr9isqrx7RqivkZJ14J9X6SoK8Eo",
+    "type": "SPL"
+  },
+  {
+    "address": "7a8JSTTMnynE689y1AvxHTywdQVFdpfdE61rPvgzpump",
+    "name": "Eduvantage AI",
+    "symbol": "EAI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmPXgoF1zTkQ9vJTCTPrTUWZ8aZU1BDQbHcQFxj7yzazyg",
+    "type": "SPL"
+  },
+  {
+    "address": "9VxExA1iRPbuLLdSJ2rB3nyBxsyLReT4aqzZBMaBaY1p",
+    "name": "REVSHARE",
+    "symbol": "REVS",
+    "decimals": 9,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmPjbnR9DV5hHKoegGXcQqkKJC7GNuCuSDG8XJy6VRoPkY",
+    "type": "SPL"
+  },
+  {
+    "address": "F1By3oDsf4YY4WTNAMznXwsBgGt7KBQPFfoMA2BEjups",
+    "name": "Block Raccoon S.A",
+    "symbol": "BRS",
+    "decimals": 6,
+    "logoURI": "https://static-create.jup.ag/images/F1By3oDsf4YY4WTNAMznXwsBgGt7KBQPFfoMA2BEjups",
+    "type": "SPL"
+  },
+  {
+    "address": "3SkjMkrpkqngCCMd3sVU2EuKMVRLTfHEykbzTyrVwBLV",
+    "name": "RECC",
+    "symbol": "RECC",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreia3nwfmhfuvoufhylca2lzwuxyz4zkalqosypsazc5zrf5iwuiqvm",
+    "type": "SPL"
+  },
+  {
+    "address": "PreYKD2kJ5xGgoZ644VPfbEN7sW8bWCUREHr5S3ebV9",
+    "name": "OpenAI PreStocks",
+    "symbol": "OPENAI",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/openai.png",
+    "type": "SPL"
+  },
+  {
+    "address": "He8S8wC7KQUH7qGWAaLRNFpjqrVyQBwUud34Eyj82AZo",
+    "name": "MOOMOO THE BULL",
+    "symbol": "MOOMOO",
+    "decimals": 6,
+    "logoURI": "https://ipfs.filebase.io/ipfs/QmRCnTewJuPC7csdxZwpNXrWPeeReFFiHLEmz5nPrWNiXM",
+    "type": "SPL"
+  },
+  {
+    "address": "445ksMigJLms4mw29DQkXs8aWBG4S8Z2kTBCtGhd5nGd",
+    "name": "glympse",
+    "symbol": "GLMPS",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/bafkreidom3a6vzddv2rwvywmzzboorpqryjjv7aoz2kvsshmj3vbomodva",
+    "type": "SPL"
+  },
+  {
+    "address": "5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon",
+    "name": "Tree stuck in cat",
+    "symbol": "TREEINCAT",
+    "decimals": 9,
+    "logoURI": "https://cdn.dexscreener.com/cms/images/Bkwv0_mxn45ZJn_i",
+    "type": "SPL"
+  },
+  {
+    "address": "8stssUiCFbcB2LqCS62EuU2x1K2NWbJJo1YPgskpftWK",
+    "name": "Print Protocol",
+    "symbol": "PRINT",
+    "decimals": 6,
+    "logoURI": "https://i.degencdn.com/ipfs/bafkreiaepyesgvxkwkgy242tig5bdre65f4zcm2ohcqkv5yafcz3o3ijfy",
+    "type": "SPL"
+  },
+  {
+    "address": "7PagSBusvxQ252fuBFnhipMZwd4T4jGikLeuwrDibonk",
+    "name": "motion",
+    "symbol": "motion",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeieovwwhw4r5mecoiyklbt4bsm44ncrljhlva6n25psia4cll3w27u",
+    "type": "SPL"
+  },
+  {
+    "address": "STrikemJEk2tFVYpg7SMo9nGPrnJ56fHnS1K7PV2fPw",
+    "name": "STRIKE",
+    "symbol": "STRIKE",
+    "decimals": 6,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreibrv2qtxa2ldfqcktdizrcufn4jcavd2bf3zrvvo7i6j4csqm3xfi",
+    "type": "SPL"
+  },
+  {
+    "address": "Pre5X98d9ZvgGirEcWqeCVDK6wQ52stKkmU3HsH6bfE",
+    "name": "Neuralink PreStocks",
+    "symbol": "NEURAL",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/neuralink.png",
+    "type": "SPL"
+  },
+  {
+    "address": "6YGmqZ8i3b4TrDDh5mqComviPUKpwGWTyfFNoWfctech",
+    "name": "Launchpad",
+    "symbol": "RugProof",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafkreidx25aj6xsa3ntiifzax4m7xyfkvbkfbmckc65pu6ucghrweqfjpu",
+    "type": "SPL"
+  },
+  {
+    "address": "dWd8vyAH9pQMMG1bkQWiGnyx8LjjuTDHsk8qcsCBAGS",
+    "name": "Sailana Inu",
+    "symbol": "SAILANA",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmV61gKgh4iUoT9UZRZA1f6Jo6NGndskJsVUFm1Cr1neuB",
+    "type": "SPL"
+  },
+  {
+    "address": "sxv1symoD4WXjpeXCs5USFEyt8hBhmCuuptLjA8uRNy",
+    "name": "Generate Endless Money",
+    "symbol": "GEM",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeih3sh37l5eupr2oxpltc5ir2owqn3aphcm2hvqj2ke4bc2fgu7aue",
+    "type": "SPL"
+  },
+  {
+    "address": "CgGWS19zR5xTzgCEcW5Svsuon4hBZwzBwUFimoJStCf2",
+    "name": "Foxsy AI",
+    "symbol": "FOXSY",
+    "decimals": 9,
+    "logoURI": "https://ipfs.io/ipfs/QmSQdtro98JAmTypYC6MXg2tuvjqDd4wKWCDcUuQHrdmCe",
+    "type": "SPL"
+  },
+  {
+    "address": "Prep57BLk9uKWRzKigtQBbrYFxcDXtHuCjxFRM5UXAS",
+    "name": "Anduril PreStocks",
+    "symbol": "ANDURL",
+    "decimals": 9,
+    "logoURI": "https://prestocks.com/logos/anduril.png",
+    "type": "SPL"
   }
 ]

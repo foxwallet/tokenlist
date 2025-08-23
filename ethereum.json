@@ -9145,5 +9145,34 @@
     "symbol": "TREE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TREE.webp"
+  },
+  {
+    "address": "0xa1a52E35BF516Edbd166d9A1b0097cbf11483a5D",
+    "name": "ZKFair token",
+    "symbol": "ZKF",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/zkf.png",
+    "priceSource": "cmc:zkfair"
+  },
+  {
+    "address": "0x25018520138bbab60684ad7983d4432e8b8e926b",
+    "name": "Chipotle (Ondo Tokenized)",
+    "symbol": "CMGon",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x25018520138bbab60684ad7983d4432e8b8e926b_0x5f9a178d6a550f90c93dd921fbddea4d9db3799336f794763a7467b4dff74f22.png"
+  },
+  {
+    "address": "0x45e02bc2875a2914c4f585bbf92a6f28bc07cb70",
+    "name": "$MBG Token",
+    "symbol": "$MBG",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x45e02bc2875a2914c4f585bbf92a6f28bc07cb70_0x7f3d16fc351f8eeff5eee98e17509771f817d07e2a5bacb0a38251ed6f0c736a.webp"
+  },
+  {
+    "address": "0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PROVE.webp"
   }
 ]
