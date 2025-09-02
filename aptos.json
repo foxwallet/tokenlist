@@ -2135,5 +2135,29 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/FIABTC.png",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x8c764993820ea735719f1ff7f1a0f80c022b18e7b5daefa35adf60a3a6556566",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/LINK.svg",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x8e51106b139001f1f25a320066621a2e0d140724ee9be1d49aaf9e76ceb24d75",
+    "name": "Bedrock BTC",
+    "symbol": "brBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/brBTC.svg",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xf764dbfd6999067ac052a8e722ae359bec389bd7dba19ead586801b99b81b075",
+    "name": "Universal BTC",
+    "symbol": "uniBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/uniBTC.svg",
+    "type": "AptosFA"
   }
 ]

@@ -821,5 +821,21 @@
     "symbol": "MAMO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAMO.webp"
+  },
+  {
+    "address": "0xfb42Da273158B0F642F59F2Ba7cc1d5457481677",
+    "name": "Lingo",
+    "symbol": "LINGO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Lingo.webp",
+    "priceSource": "cmc:lingo",
+    "tag": "recommend"
+  },
+  {
+    "address": "0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+    "name": "Sapien",
+    "symbol": "SAPIEN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SAPIEN.webp"
   }
 ]

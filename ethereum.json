@@ -9174,5 +9174,12 @@
     "symbol": "PROVE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PROVE.webp"
+  },
+  {
+    "address": "0x4f827a63755855cdf3e8f3bcd20265c833f15033",
+    "name": "Umbrella Stake Gho Token v1",
+    "symbol": "stkGHO.v1",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x4f827a63755855cdf3e8f3bcd20265c833f15033_0xee0a8a951aa540a7304a89fc19385df7d91aedbe1dfaa7ca47122b7f332168ac.svg"
   }
 ]

@@ -443,5 +443,173 @@
     "symbol": "DRV",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DRV.webp"
+  },
+  {
+    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
+    "name": "Aave Optimism WBTC",
+    "symbol": "aOptWBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aOptWBTC.webp"
+  },
+  {
+    "address": "0x0b590ef479c8e03825ae779839acb4583acc15fd",
+    "name": "Wrapped Aave Optimism USDC",
+    "symbol": "waOptUSDC",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x0b590ef479c8e03825ae779839acb4583acc15fd_0x5c9b5599481f21027eb95b279cbd942126f64b062fe8c88bd43f4c7ed96e0ff6.svg"
+  },
+  {
+    "address": "0x0ec63a55a688e5ba26afe8d9250114505e8b60a0",
+    "name": "Wrapped Aave Optimism SUSD",
+    "symbol": "waOptSUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x0ec63a55a688e5ba26afe8d9250114505e8b60a0_0x3a47fda83721d0393ab1352faa2cfcccc51a60cb78e0afc18b955dd2d9244eb4.svg"
+  },
+  {
+    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "name": "Aave Optimism LINK",
+    "symbol": "aOptLINK",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x191c10aa4af7c30e871e70c95db0e4eb77237530_0xc8700f30129100d0299e3dc9c715e51c89ab07dd00faf8dddfbfc22357a82407.svg"
+  },
+  {
+    "address": "0x38d693ce1df5aadf7bc62595a37d667ad57922e5",
+    "name": "Aave Optimism USDCn",
+    "symbol": "aOptUSDCn",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x38d693ce1df5aadf7bc62595a37d667ad57922e5_0x0a724d49dca04674c08833b7eb37b1f20504ec356d37efe365681f08f0d1700d.svg"
+  },
+  {
+    "address": "0x413093e03d6aee4f2f7e48d4b88881bf4932b249",
+    "name": "Wrapped Aave Optimism LUSD",
+    "symbol": "waOptLUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x413093e03d6aee4f2f7e48d4b88881bf4932b249_0x1ef8a41c8a7442b01306f086672d24e2daad6036d113ff9018234c695520cccc.svg"
+  },
+  {
+    "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
+    "name": "Wrapped Aave Optimism WETH",
+    "symbol": "waOptWETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x464b808c2c7e04b07e860fdf7a91870620246148_0x46bfdadf8ed04fed1c59420babc9fabc2f5d4ee57e445edc16424394d3cde818.svg"
+  },
+  {
+    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+    "name": "Aave Optimism OP",
+    "symbol": "aOptOP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aOptOP.webp"
+  },
+  {
+    "address": "0x527604e4d87a7562ec653dbe2878d0dcab7f1972",
+    "name": "Wrapped Aave Optimism AAVE",
+    "symbol": "waOptAAVE",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x527604e4d87a7562ec653dbe2878d0dcab7f1972_0x916a492e6f77a4702c0d464729f220873868005dcdc04243b43cddca81fb4cac.svg"
+  },
+  {
+    "address": "0x61b620fad391b53a2d0973b10a3ed69558d5c66e",
+    "name": "Wrapped Aave Optimism DAI",
+    "symbol": "waOptDAI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x61b620fad391b53a2d0973b10a3ed69558d5c66e_0x6425eb260ae86ec5aeba2cc13944c46afce69f4b748e3a3506b2b90cd705230a.svg"
+  },
+  {
+    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+    "name": "Aave Optimism USDC",
+    "symbol": "aOptUSDC",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x625e7708f30ca75bfd92586e17077590c60eb4cd_0x6c7498d5cf9079c0d3fd9ea3a0a2117cf8eef8135565bd0a6f403b53fdcd2fe7.svg"
+  },
+  {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave Optimism USDT",
+    "symbol": "aOptUSDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aOptUSDT.webp"
+  },
+  {
+    "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+    "name": "Aave Optimism SUSD",
+    "symbol": "aOptSUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aOptSUSD.webp"
+  },
+  {
+    "address": "0x712ef4d78f43ecafa106ea003704a908c99d7f11",
+    "name": "Wrapped Aave Optimism OP",
+    "symbol": "waOptOP",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x712ef4d78f43ecafa106ea003704a908c99d7f11_0x4e656149c441addf062a62e339c296675584ffd880e3fd2cac855445ee9cf9cc.svg"
+  },
+  {
+    "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+    "name": "Aave Optimism rETH",
+    "symbol": "aOptrETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x724dc807b04555b71ed48a6896b6f41593b8c637_0x59b310b58140d4c02bdf79fa05c9cc82275ebf771b8741da3d517098cf620448.svg"
+  },
+  {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave Optimism DAI",
+    "symbol": "aOptDAI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee_0xa0c9a76dd43fb77577b943c5014ed84de8bc4fc83a5cf6345e178eb16b30ff32.svg"
+  },
+  {
+    "address": "0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7",
+    "name": "Wrapped Aave Optimism rETH",
+    "symbol": "waOptrETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7_0x291410163bf6fbc8614c8af34fab5b5d697974bb8c1f59ad910ed45ce9402100.svg"
+  },
+  {
+    "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+    "name": "Aave Optimism LUSD",
+    "symbol": "aOptLUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x8eb270e296023e9d92081fdf967ddd7878724424_0x7a64ea55a5d8e4db76154a32ccfb4a43cf45f505a69d86abacefd16027af65f3.svg"
+  },
+  {
+    "address": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692",
+    "name": "Aave Optimism MAI",
+    "symbol": "aOptMAI",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x8ffdf2de812095b1d19cb146e4c004587c0a0692_0xe56728f16bb3159217cba4bcf9a4a524b593295a3d697bb57e91d3988c125535.svg"
+  },
+  {
+    "address": "0x927cff131fd5b43fc992d071929b2c095d6e4b70",
+    "name": "Wrapped Aave Optimism USDT",
+    "symbol": "waOptUSDT",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0x927cff131fd5b43fc992d071929b2c095d6e4b70_0x3b1b93a55bb220f461c88a487e86a7fe5588fd223611a704a101da3e653e1369.svg"
+  },
+  {
+    "address": "0xc438643b0eee8a314eec53eb8a1ee6467c88fc24",
+    "name": "Wrapped Aave Optimism LINK",
+    "symbol": "waOptLINK",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0xc438643b0eee8a314eec53eb8a1ee6467c88fc24_0x91fc90ea70f3c7b396e59722c6a1751fd437fd416ed4561abde13b37e33ecd09.svg"
+  },
+  {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave Optimism WETH",
+    "symbol": "aOptWETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aOptWETH.webp"
+  },
+  {
+    "address": "0xea9020a9e04c557478dad749a1aad242b443042c",
+    "name": "Wrapped Aave Optimism WBTC",
+    "symbol": "waOptWBTC",
+    "decimals": 8,
+    "logoURI": "https://tokens-data.1inch.io/images/10/0xea9020a9e04c557478dad749a1aad242b443042c_0x01da6ab27f9c3ddf5a8bd3732e69c105083ab15137ff9b06afa6d2f8cc01fcdd.svg"
+  },
+  {
+    "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "name": "Aave Optimism AAVE",
+    "symbol": "aOptAAVE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/aOptAAVE.webp"
   }
 ]

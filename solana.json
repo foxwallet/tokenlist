@@ -25758,5 +25758,94 @@
     "decimals": 9,
     "logoURI": "https://prestocks.com/logos/anduril.png",
     "type": "SPL"
+  },
+  {
+    "address": "GWZGj6AM4pkWxQW6bifE6JChSRf2hEQFWFkYC4REaL7H",
+    "name": "Lingo",
+    "symbol": "Lingo",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Lingo.webp",
+    "type": "SPL",
+    "priceSource": "cmc:lingo"
+  },
+  {
+    "address": "9hX59xHHnaZXLU6quvm5uGY2iDiT3jczaReHy6A6TYKw",
+    "name": "Zenrock BTC",
+    "symbol": "zenBTC",
+    "decimals": 8,
+    "logoURI": "https://zenrock-public-images.s3.eu-west-1.amazonaws.com/zenBTC-logo.svg",
+    "type": "SPL"
+  },
+  {
+    "address": "9mNjA6BizTwpvd4DS3o7BjwZ6aPM9DC2jLHS7JFGbonk",
+    "name": "Scamcoin",
+    "symbol": "Scam",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/bafybeifz5l32kxzvdcewmcumhhhryjlkwgalomsjkr4gkpo3lgms74bs4y",
+    "type": "SPL"
+  },
+  {
+    "address": "5VsPJ2EG7jjo3k2LPzQVriENKKQkNUTzujEzuaj4Aisf",
+    "name": "Zenrock",
+    "symbol": "ROCK",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ROCK.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "dTzEP9JU2NRDPuWtM32gaVKip2fTHBqjheU1APBpump",
+    "name": "The Bitcoin Mascot",
+    "symbol": "BITTY",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmSwb5WxRYv9N4cWiszj6MoejgJkEnY6m7jWxNP8EX1exN",
+    "type": "SPL"
+  },
+  {
+    "address": "4Uf883orBx89VQZiV4EoRpNqUWYN5ZuEvC4PCpQ9moon",
+    "name": "Ask Splat",
+    "symbol": "SPLAT",
+    "decimals": 9,
+    "logoURI": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/4117f542-ae39-4f1d-306b-a7d8fd7bca00/public",
+    "type": "SPL"
+  },
+  {
+    "address": "5npn63u1pATvRxevzUsDTzJ9yChVxTKXHBC1KXfStoy",
+    "name": "MATCHY",
+    "symbol": "MATCHY",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MATCHY.webp",
+    "type": "SPL"
+  },
+  {
+    "address": "ch7rTovcUK7C1zNFM7F93kXU2CByYUsJT4pwYx7pump",
+    "name": "Official PPshow",
+    "symbol": "PP",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmUTy2cPwyQFfKcVbNZgef78GhadJ5L7MxCcgbdstrKvBu",
+    "type": "SPL"
+  },
+  {
+    "address": "HMaJxXp3Ja81jSwigF6zGaMt79hNZuczrw6i7LjTbonk",
+    "name": "\ud83c\udf92",
+    "symbol": "\ud83c\udf92",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmefHqJk3uEhKMyKE24jdfWZojAG4dr3VR5j9SZZaqVkSd",
+    "type": "SPL"
+  },
+  {
+    "address": "GnM6XZ7DN9KSPW2ZVMNqCggsxjnxHMGb2t4kiWrUpump",
+    "name": "WAGMI",
+    "symbol": "WAGMI",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmfSQiNsqCKpYVxo5HBQ6zxBQE8j6KDrJFtpyH1874DWQK",
+    "type": "SPL"
+  },
+  {
+    "address": "3vJenGaGsuKG5shPhi7rjnuy3MV6xjmBTGjYqYzXpump",
+    "name": "RAT Escape",
+    "symbol": "RAT",
+    "decimals": 6,
+    "logoURI": "https://ipfs.io/ipfs/QmVt9pN41GkzPGhNMx6MGbzvs3ki5niy2P6eWKmhFKKuox",
+    "type": "SPL"
   }
 ]

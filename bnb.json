@@ -3688,5 +3688,33 @@
     "symbol": "M",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/56/0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa_0xf58734125f68746884cea07601cc84764f6b7d9cbd44c32544991a9b8bb3526c.png"
+  },
+  {
+    "address": "0x00901a076785e0906d1028c7d6372d247bec7d61",
+    "name": "Aave BNB Smart Chain USDC",
+    "symbol": "aBnbUSDC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x00901a076785e0906d1028c7d6372d247bec7d61_0x002576599b444c0c0089c685386891f810fca9f29a928ad2ec00dad97696eeee.svg"
+  },
+  {
+    "address": "0x2e94171493fabe316b6205f1585779c887771e2f",
+    "name": "Aave BNB Smart Chain ETH",
+    "symbol": "aBnbETH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x2e94171493fabe316b6205f1585779c887771e2f_0xf3d0d507704643f420245344ed457519d4f55b1ddfa70198d9c04dd5172593c8.svg"
+  },
+  {
+    "address": "0x75bd1a659bdc62e4c313950d44a2416fab43e785",
+    "name": "Aave BNB Smart Chain FDUSD",
+    "symbol": "aBnbFDUSD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x75bd1a659bdc62e4c313950d44a2416fab43e785_0x7debeebd479771c4ff733d2295677ee802831f616df75faa25a6d8d5afd2a096.svg"
+  },
+  {
+    "address": "0xa9251ca9de909cb71783723713b21e4233fbf1b1",
+    "name": "Aave BNB Smart Chain USDT",
+    "symbol": "aBnbUSDT",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xa9251ca9de909cb71783723713b21e4233fbf1b1_0x075c85d6acbcf59583e0c51c55da863c44ea85984390dc22b7409c715ef58bc0.svg"
   }
 ]

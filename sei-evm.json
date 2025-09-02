@@ -488,5 +488,19 @@
     "symbol": "RAIIN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RAIIN.webp"
+  },
+  {
+    "address": "0xA1207b84980A4A56A75b450500875272AD9630a0",
+    "name": "GIGA SONIC",
+    "symbol": "GIGAS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GIGAS.webp"
+  },
+  {
+    "address": "0x4605232eA642a328bdC036F2EbA9B8C4c59B6CF8",
+    "name": "BULLX",
+    "symbol": "BULLX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BULLX.webp"
   }
 ]
