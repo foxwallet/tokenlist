@@ -3615,9 +3615,10 @@
   {
     "address": "0xcf640fdf9b3d9e45cbd69fda91d7e22579c14444",
     "name": "gorilla",
-    "symbol": "gorilla",
+    "symbol": "GORILLA",
     "decimals": 18,
-    "logoURI": "https://tokens-data.1inch.io/images/56/0xcf640fdf9b3d9e45cbd69fda91d7e22579c14444_0x0559511460df1d254f855b85759f83dcaf0a788eb5bf936a4ec02f6aedf873cf.webp"
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GORILLA.webp",
+    "priceSource": "cmc:gorilla"
   },
   {
     "address": "0xd86e6ef14b96d942ef0abf0720c549197ea8c528",
