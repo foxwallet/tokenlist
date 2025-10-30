@@ -140,8 +140,15 @@ def one_inch():
             continue
         print("getting chainId", chain_id)
         data = requests.get(f"https://wallet.foxnb.net/public/wrap_swap/{chain_id}/tokens", proxies=proxies, timeout=25).json()
-        data = data.get("data", {}).get("tokens", {})
-        for address, item in data.items():
+        if not isinstance(data, dict):
+            print("invalid data", data, "for", chain)
+            continue
+        dd = data.get("data", {})
+        if not isinstance(dd, dict):
+            print("invalid data.data", dd, "for", chain)
+            continue
+        tokens = dd.get("tokens", {})
+        for address, item in tokens.items():
             logoURI = item.get("logoURI")
             if not logoURI:
                 continue

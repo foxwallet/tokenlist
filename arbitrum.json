@@ -1084,5 +1084,12 @@
     "symbol": "aArbAAVE",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/42161/0xf329e36c7bf6e5e86ce2150875a84ce77f477375_0x55a60086382e846e361ad0b4835ab4ec189e4a2fc83e0af3086072419a5d8f33.svg"
+  },
+  {
+    "address": "0x16f1967565aad72dd77588a332ce445e7cef752b",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 0,
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x16f1967565aad72dd77588a332ce445e7cef752b_0x839222944ebb1309b36e40d6be959ae29703ae1d22216c286d47d7832d5135f9.webp"
   }
 ]

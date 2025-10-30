@@ -25847,5 +25847,13 @@
     "decimals": 6,
     "logoURI": "https://ipfs.io/ipfs/QmVt9pN41GkzPGhNMx6MGbzvs3ki5niy2P6eWKmhFKKuox",
     "type": "SPL"
+  },
+  {
+    "address": "G5bStqnKXv11fmPvMaagUbZi86BGnpf9zZtyPQtAdaos",
+    "name": "ICM.RUN",
+    "symbol": "ICM",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ICM.webp",
+    "type": "SPL"
   }
 ]

@@ -837,5 +837,68 @@
     "symbol": "SAPIEN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SAPIEN.webp"
+  },
+  {
+    "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "name": "Staked USDe",
+    "symbol": "sUSDe",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sUSDe.webp"
+  },
+  {
+    "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+    "name": "FLock.io",
+    "symbol": "FLOCK",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691_0x9c7a593002ccc3ca8bf0bd84c54ed18d7a4c9ea4cff71bd7e43f24690279d662.png"
+  },
+  {
+    "address": "0x729f75aff28c726e32403e80cef2afb518cfbfa7",
+    "name": "Wrapped Aave Base EURC",
+    "symbol": "waBasEURC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/waBasEURC.webp"
+  },
+  {
+    "address": "0x88b1cd4b430d95b406e382c3cdbae54697a0286e",
+    "name": "Wrapped Aave Base GHO",
+    "symbol": "waBasGHO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/waBasGHO.webp"
+  },
+  {
+    "address": "0xc768c589647798a6ee01a91fde98ef2ed046dbd6",
+    "name": "Wrapped Aave Base USDC",
+    "symbol": "waBasUSDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/waBasUSDC.webp"
+  },
+  {
+    "address": "0xdfbea88c4842d30c26669602888d746d30f9d60d",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xdfbea88c4842d30c26669602888d746d30f9d60d_0x96db11ccd72430e808e7f15985d8204053bdfae44bd7dd0e04c39535f60071d4.webp"
+  },
+  {
+    "address": "0xe298b938631f750dd409fb18227c4a23dcdaab9b",
+    "name": "Wrapped Aave Base WETH",
+    "symbol": "waBasWETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/waBasWETH.webp"
+  },
+  {
+    "address": "0x1B4617734C43F6159F3a70b7E06d883647512778",
+    "name": "AWE Network",
+    "symbol": "AWE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AWE.webp"
+  },
+  {
+    "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WCT.webp"
   }
 ]

@@ -103,5 +103,26 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FB.webp",
     "tag": "recommend"
+  },
+  {
+    "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdt0.png"
+  },
+  {
+    "address": "0xA53d5D9E63a8a9EBae89c5CB69327C0DBB6147d3",
+    "name": "HULU CAT",
+    "symbol": "HULU",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/huhu.png"
+  },
+  {
+    "address": "0xc2282627AE1463dD6EeAdB81951a7B7761C67b1a",
+    "name": "QUACK DUCK Token",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/quackk.png"
   }
 ]

@@ -162,5 +162,12 @@
     "symbol": "LINE",
     "decimals": 18,
     "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/line.png"
+  },
+  {
+    "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "name": "Linea Token",
+    "symbol": "LINEA",
+    "decimals": 18,
+    "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/linea.png"
   }
 ]

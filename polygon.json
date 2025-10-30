@@ -1804,5 +1804,19 @@
     "symbol": "SOPH",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/137/0xeb971fd26783f32694dbb392dd7289de23109148_0x346eef923bfc642178528f0698ff16e0507b3e8a6c214c21c93af803bac657c4.webp"
+  },
+  {
+    "address": "0xbbbbbbbbb7949dcc7d1539c91b81a5bf09e37bdb",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xbbbbbbbbb7949dcc7d1539c91b81a5bf09e37bdb_0xfcf43c2f90ee02530e0439f2a138dcb9ecabf6ab6b00eb2d281e6b8a6bba6051.webp"
+  },
+  {
+    "address": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xe7c3d8c9a439fede00d2600032d5db0be71c3c29_0x20018751ef48dc44094f61fa5012cf22a51459e313070606e822a88a1cc8a040.jpg"
   }
 ]

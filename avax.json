@@ -835,5 +835,19 @@
     "symbol": "KET",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/43114/0xffff003a6bad9b743d658048742935fffe2b6ed7_0x7ea100596d830488817dd177710b0116638a79333aa302f6f8ae56185922b51d.png"
+  },
+  {
+    "address": "0xcd94a87696fac69edae3a70fe5725307ae1c43f6",
+    "name": "BLACKHOLE",
+    "symbol": "BLACK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BLACK.webp"
+  },
+  {
+    "address": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0xe7c3d8c9a439fede00d2600032d5db0be71c3c29_0x9a06e466249e63eec5be75a898574c4a603a1dcdb805d8ead582ebc4d89fead5.jpg"
   }
 ]

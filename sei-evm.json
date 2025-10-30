@@ -502,5 +502,12 @@
     "symbol": "BULLX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BULLX.webp"
+  },
+  {
+    "address": "0xb71886c52D754CF2B1D3d866c7Cfe9eeC01418a7",
+    "name": "Staked DragonSwap Token",
+    "symbol": "sDRG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sDRG.webp"
   }
 ]

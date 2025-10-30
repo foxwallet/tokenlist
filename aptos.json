@@ -2159,5 +2159,37 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/uniBTC.svg",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2",
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 6,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/USD1.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x2a8227993a4e38537a57caefe5e7e9a51327bf6cd732c1f56648f26f68304ebc",
+    "name": "KGEN",
+    "symbol": "KGEN",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/KGEN.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x187428b1a8b1c823e5ad1bf07121cbe8712f2efc95c3117d1212ab8b33bae51c::reserve_coin::RESERVE",
+    "name": "Reserve Token",
+    "symbol": "RESERVE",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/RESERVE.png",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xe87ffe47d2e77253865f964c9478b333bedd1c54aa3e090ac8fc84db51aeff8b",
+    "name": "Reserve Token",
+    "symbol": "RESERVE",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/RESERVE.png",
+    "type": "AptosFA"
   }
 ]

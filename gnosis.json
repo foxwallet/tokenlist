@@ -287,5 +287,19 @@
     "symbol": "USDM",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/100/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0x872a73a1cc49f0882a3a25674ae49f8cd963821ff12ed543ce8e9e15df0243d0.png"
+  },
+  {
+    "address": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+    "name": "Bridged USDC (Gnosis)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDC.e.webp"
+  },
+  {
+    "address": "0xedbc7449a9b594ca4e053d9737ec5dc4cbccbfb2",
+    "name": "Aave Gnosis EURe",
+    "symbol": "aGnoEURe",
+    "decimals": 18,
+    "logoURI": "https://asset-images.messari.io/images/d289c1b2-d802-4b2b-ac16-955d2b1324d7/128.png"
   }
 ]
