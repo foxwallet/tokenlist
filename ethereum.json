@@ -10000,5 +10000,26 @@
     "symbol": "AGGon",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/1/0xff7cf16aa2ffc463b996db2f7b7cf0130336899d_0x2fbe3fdd4c99bbb7c4600ad2820a9bbc48d8669419896079959329cd3bfe4263.png"
+  },
+  {
+    "address": "0x1db1591540d7a6062be0837ca3c808add28844f6",
+    "name": "Origami hOHM",
+    "symbol": "hOHM",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x1db1591540d7a6062be0837ca3c808add28844f6_0xff4483e15a2c35308e5f1811644f3affbc0e661306b64ba3be9aa3504b2617c0.png"
+  },
+  {
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "name": "Folks Finance",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b_0x215a3989cba741a117931d2e61ede5a22638f66fd8ed576fc0264f483e9cc262.webp"
+  },
+  {
+    "address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+    "name": "AUDD",
+    "symbol": "AUDD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AUDD.webp"
   }
 ]

@@ -2191,5 +2191,13 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/RESERVE.png",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x4497d70897762eb540280f1d90a17661f30239ffb1bfc8a0bd4db7d44dfab77a",
+    "name": "GMEOW",
+    "symbol": "GMEOW",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/GMEOW.png",
+    "type": "AptosFA"
   }
 ]

@@ -1818,5 +1818,12 @@
     "symbol": "JPYC",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/137/0xe7c3d8c9a439fede00d2600032d5db0be71c3c29_0x20018751ef48dc44094f61fa5012cf22a51459e313070606e822a88a1cc8a040.jpg"
+  },
+  {
+    "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+    "name": "Folks Finance",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b_0xc6a128b3e6f23a04bb5514038a71c045f0c18299555d50fc012fdce9f79ceb89.webp"
   }
 ]
