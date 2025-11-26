@@ -509,5 +509,19 @@
     "symbol": "sDRG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/sDRG.webp"
+  },
+  {
+    "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",
+    "name": "Splashing SEI",
+    "symbol": "spSEI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/spSEI.webp"
+  },
+  {
+    "address": "0x30a419440D557bD8B28cF7a0cf26A2bF94B97308",
+    "name": "BOREDTOPIA",
+    "symbol": "BCT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BCT.webp"
   }
 ]

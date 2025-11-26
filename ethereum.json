@@ -10021,5 +10021,12 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AUDD.webp"
+  },
+  {
+    "address": "0x99cd4ec3f88a45940936f469e4bb72a2a701eeb9",
+    "name": "Staked USDS",
+    "symbol": "stUSDS",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x99cd4ec3f88a45940936f469e4bb72a2a701eeb9_0xa40bdd8394483e6a0763c787c45c1915038ebca1f8937d4d6993f82441322b32.png"
   }
 ]

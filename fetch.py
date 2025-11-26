@@ -9,6 +9,7 @@ EVM_CHAIN_ID_MAP = {
     "56": "bnb",
     "100": "gnosis",
     "137": "polygon",
+    "143": "monad",
     "169": "manta-pacific",
     "196": "xlayer",
     "250": "fantom",
@@ -87,6 +88,7 @@ NATIVE_COIN_MAP = {
     "lumoz": "MOZ",
     "cage": "CAGA",
     "matchain": "BNB",
+    "monad": "MON"
 }
 
 proxies = {
@@ -497,7 +499,7 @@ if __name__ == "__main__":
     silkswap()
     ton_diamonds()
     dragonswap()
-    jupiter()
+    # jupiter()
     panro()
     stellaswap()
     ironfish()
