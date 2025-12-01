@@ -523,5 +523,12 @@
     "symbol": "BCT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BCT.webp"
+  },
+  {
+    "address": "0xedf7732991B3De8F46fb97dcD4c5CdB28E6aD859",
+    "name": "Tea-REX",
+    "symbol": "TReX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TReX.webp"
   }
 ]
