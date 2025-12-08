@@ -4529,5 +4529,12 @@
     "symbol": "FOLKS",
     "decimals": 6,
     "logoURI": "https://tokens-data.1inch.io/images/56/0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b_0x8de6a981db93d06c53ab8c19779eae139e62f1f4cfbd23401b383f498cc41fc3.webp"
+  },
+  {
+    "address": "0xea17df5cf6d172224892b5477a16acb111182478",
+    "name": "elizaOS",
+    "symbol": "elizaOS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/elizaOS.webp"
   }
 ]

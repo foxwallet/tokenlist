@@ -1825,5 +1825,12 @@
     "symbol": "FOLKS",
     "decimals": 6,
     "logoURI": "https://tokens-data.1inch.io/images/137/0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b_0xc6a128b3e6f23a04bb5514038a71c045f0c18299555d50fc012fdce9f79ceb89.webp"
+  },
+  {
+    "address": "0xe0aea583266584dafbb3f9c3211d5588c73fea8d",
+    "name": "Monerium EURe",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/137/0xe0aea583266584dafbb3f9c3211d5588c73fea8d_0xe1aab54eb9074974cb46928d9316aed23121693e3999fa44e33665fe962719a0.webp"
   }
 ]

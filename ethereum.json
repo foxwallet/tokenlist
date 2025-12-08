@@ -10037,5 +10037,26 @@
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LVVA.png",
     "tag": "recommend",
     "priceSource": "cmc:levva-protocol"
+  },
+  {
+    "address": "0x39b8b6385416f4ca36a20319f70d28621895279d",
+    "name": "Monerium EURe",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/1/0x39b8b6385416f4ca36a20319f70d28621895279d_0x67ec612023f6c85767855723206706fa0e7ca417c0d70459fc8790bbc3afe82a.webp"
+  },
+  {
+    "address": "0xa95c5ebb86e0de73b4fb8c47a45b792cfea28c23",
+    "name": "stake.link",
+    "symbol": "SDL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SDL.webp"
+  },
+  {
+    "address": "0xea17df5cf6d172224892b5477a16acb111182478",
+    "name": "elizaOS",
+    "symbol": "elizaOS",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/elizaOS.webp"
   }
 ]

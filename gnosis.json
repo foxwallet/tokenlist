@@ -301,5 +301,12 @@
     "symbol": "aGnoEURe",
     "decimals": 18,
     "logoURI": "https://asset-images.messari.io/images/d289c1b2-d802-4b2b-ac16-955d2b1324d7/128.png"
+  },
+  {
+    "address": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+    "name": "Monerium EURe",
+    "symbol": "EURe",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/100/0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430_0x62e8c131677b281405e17a83745b435d368339d3d6dc7424095bd396502cdc2a.webp"
   }
 ]
