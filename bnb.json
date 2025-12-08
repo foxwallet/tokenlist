@@ -4536,5 +4536,21 @@
     "symbol": "elizaOS",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/elizaOS.webp"
+  },
+  {
+    "address": "0xFE8bF5B8F5e4eb5f9BC2be16303f7dAB8CF56aA8",
+    "name": "BIBI",
+    "symbol": "BIBI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BIBI.webp",
+    "priceSource": "cmc:bibi"
+  },
+  {
+    "address": "0x9212cF1f9f4A9c69Bb010146Ba5b0725169D4444",
+    "name": "Binance BIBI",
+    "symbol": "BIBI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/binance-bibi.png",
+    "priceSource": "cmc:binance-bibi"
   }
 ]
