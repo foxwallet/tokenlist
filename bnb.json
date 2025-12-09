@@ -4552,5 +4552,13 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/binance-bibi.png",
     "priceSource": "cmc:binance-bibi"
+  },
+  {
+    "address": "0xd3c9609B6CBC6eF02390F33C230590c38F9E5f9D",
+    "name": "Protein",
+    "symbol": "PROT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PROT.webp",
+    "priceSource": "cmc:armzlegends"
   }
 ]
