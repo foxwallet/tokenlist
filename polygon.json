@@ -1832,5 +1832,13 @@
     "symbol": "EURe",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/137/0xe0aea583266584dafbb3f9c3211d5588c73fea8d_0xe1aab54eb9074974cb46928d9316aed23121693e3999fa44e33665fe962719a0.webp"
+  },
+  {
+    "address": "0xa27837ebcd56dbf72b5c4aaaeca3eea12000495d",
+    "name": "FAKE USDC",
+    "symbol": "FAKE USDC",
+    "decimals": 18,
+    "security": "BLACKLIST",
+    "priceSource": "static:0"
   }
 ]
