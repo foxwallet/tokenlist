@@ -530,5 +530,19 @@
     "symbol": "TReX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TReX.webp"
+  },
+  {
+    "address": "0x76D469a747327EE2de4FbdF50d59DdD1145683e6",
+    "name": "Infinity Games",
+    "symbol": "INFY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/INFY.webp"
+  },
+  {
+    "address": "0x54cD901491AeF397084453F4372B93c33260e2A6",
+    "name": "Ondo U.S. Dollar Yield",
+    "symbol": "USDY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/USDY.webp"
   }
 ]

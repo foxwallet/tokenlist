@@ -43,7 +43,7 @@ def download():
             for index, token in enumerate(tokens):
                 symbol: str = token.get("display", token["symbol"])
                 symbol = symbol.replace(" ", "_")
-                logoURI: str = token["logoURI"]
+                logoURI: str = token.get("logoURI")
                 if not logoURI:
                     print(f"No logoURI of {symbol}")
                     continue
@@ -105,7 +105,9 @@ def check_dead_link():
         with open(f, "r") as reader:
             tokens = json.load(reader)
             for token in tokens:
-                logoURI: str = token["logoURI"]
+                logoURI: str = token.get("logoURI")
+                if not logoURI:
+                    continue
                 if logoURI.startswith("https://tokens-data.1inch.io"):
                     continue
                 if not is_image_url_valid(logoURI):

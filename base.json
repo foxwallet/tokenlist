@@ -928,5 +928,124 @@
     "symbol": "elizaOS",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/elizaOS.webp"
+  },
+  {
+    "address": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+    "name": "Base God",
+    "symbol": "TYBG",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x0d97f261b1e88845184f678e2d1e7a98d9fd38de_0x45a31a7074e13f72ae628892cb29f4d8a0c740483465e5e53e05372bcbae6021.webp"
+  },
+  {
+    "address": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7",
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0x7002458b1df59eccb57387bc79ffc7c29e22e6f7_0x926705cdd091ac55a039f64c9a89353adf24cddaaa2f458f51c750681dd863a2.webp"
+  },
+  {
+    "address": "0xa1f72459dfa10bad200ac160ecd78c6b77a747be",
+    "name": "CLAWNCH",
+    "symbol": "CLAWNCH",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xa1f72459dfa10bad200ac160ecd78c6b77a747be_0x100ceadb1a54a7e36b335bc21a5ffb9c24a7de81e931f4ec5114ebd6e86b35e8.webp"
+  },
+  {
+    "address": "0xe62bfbe57763ec24c0f130426f34dbce11fc5b06",
+    "name": "Titan",
+    "symbol": "TITN",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/8453/0xe62bfbe57763ec24c0f130426f34dbce11fc5b06_0xc0144b876ba8830ed9896311db28f2d78696152b9a63a2fc786d18dd17531cf7.webp"
+  },
+  {
+    "address": "0x696F9436B67233384889472Cd7cD58A6fB5DF4f1",
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AVNT.webp"
+  },
+  {
+    "address": "0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd",
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FLUID.webp"
+  },
+  {
+    "address": "0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+    "name": "World Mobile Token",
+    "symbol": "WMTX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WMTX.webp"
+  },
+  {
+    "address": "0x6cd905dF2Ed214b22e0d48FF17CD4200C1C6d8A3",
+    "name": "Intuition",
+    "symbol": "TRUST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TRUST.webp"
+  },
+  {
+    "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+    "name": "Keeta",
+    "symbol": "KTA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KTA.webp"
+  },
+  {
+    "address": "0x1f16e03C1a5908818F47f6EE7bB16690b40D0671",
+    "name": "Recall Network",
+    "symbol": "RECALL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RECALL.webp"
+  },
+  {
+    "address": "0x9Cb41FD9dC6891BAe8187029461bfAADF6CC0C69",
+    "name": "Noice",
+    "symbol": "NOICE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NOICE.webp"
+  },
+  {
+    "address": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SYND.webp"
+  },
+  {
+    "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HYPER.webp"
+  },
+  {
+    "address": "0xa69f80524381275A7fFdb3AE01c54150644c8792",
+    "name": "Superfluid Token",
+    "symbol": "SUP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SUP.webp"
+  },
+  {
+    "address": "0x29cC30f9D113B356Ce408667aa6433589CeCBDcA",
+    "name": "Elsa",
+    "symbol": "ELSA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ELSA.webp"
+  },
+  {
+    "address": "0x16EE7ecAc70d1028E7712751E2Ee6BA808a7dd92",
+    "name": "Sport.fun",
+    "symbol": "FUN1",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/FUN1.webp"
+  },
+  {
+    "address": "0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0",
+    "name": "Rainbow",
+    "symbol": "RNBW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/RNBW.webp"
   }
 ]

@@ -4568,5 +4568,1237 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ZSWAP.webp",
     "priceSource": "cmc:zygoswap"
+  },
+  {
+    "address": "0x01486675da0764ee780ea7cb65c33062e9b2d28c",
+    "name": "Moderna (Ondo Tokenized)",
+    "symbol": "MRNAon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/mrnaon_160x160.png"
+  },
+  {
+    "address": "0x01b5a4ac600be98448dbefbb78bcdf38262552cc",
+    "name": "Occidental Petroleum (Ondo Tokenized)",
+    "symbol": "OXYon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/oxyon_160x160.png"
+  },
+  {
+    "address": "0x02a6c1789c3b4fdb1a7a3dfa39f90e5d3c94f4f9",
+    "name": "Philip Morris xStock",
+    "symbol": "PMx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PMx.webp"
+  },
+  {
+    "address": "0x02d608506ca0048d0d991a11f1e7fb8cad1e44f8",
+    "name": "American Airlines Group (Ondo Tokenized)",
+    "symbol": "AALon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/aalon_160x160.png"
+  },
+  {
+    "address": "0x03183ce31b1656b72a55fa6056e287f50c35bbeb",
+    "name": "Accenture xStock",
+    "symbol": "ACNx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ACNx.webp"
+  },
+  {
+    "address": "0x053c784cd87b74f42e0c089f98643e79c1a3ff16",
+    "name": "Cisco xStock",
+    "symbol": "CSCOx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CSCOx.webp"
+  },
+  {
+    "address": "0x0588e851ec0418d660bee81230d6c678daf21d46",
+    "name": "Medtronic xStock",
+    "symbol": "MDTx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MDTx.webp"
+  },
+  {
+    "address": "0x0d586b51a90dc999f9bb6a0506da7f034a1d3a2e",
+    "name": "ConocoPhillips (Ondo Tokenized)",
+    "symbol": "COPon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/copon_160x160.png"
+  },
+  {
+    "address": "0x0e246e05212dbbd78a354c072a92b4e5723b2fa0",
+    "name": "Analog Devices (Ondo Tokenized)",
+    "symbol": "ADIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/adion_160x160.png"
+  },
+  {
+    "address": "0x12992613fdd35abe95dec5a4964331b1ee23b50d",
+    "name": "Berkshire Hathaway xStock",
+    "symbol": "BRK.Bx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BRK.Bx.webp"
+  },
+  {
+    "address": "0x15059c599c16fd8f70b633ade165502d6402cd49",
+    "name": "Linde xStock",
+    "symbol": "LINx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LINx.webp"
+  },
+  {
+    "address": "0x158734153f354cb326ee690c3d55f810dcb0fc90",
+    "name": "Vanguard Total Stock Market ETF (Ondo Tokenized)",
+    "symbol": "VTIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/vtion_160x160.png"
+  },
+  {
+    "address": "0x167a6375da1efc4a5be0f470e73ecefd66245048",
+    "name": "UnitedHealth xStock",
+    "symbol": "UNHx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/UNHx.webp"
+  },
+  {
+    "address": "0x17515b68378d86c38f394c666e79907da05dcba9",
+    "name": "ProShares UltraPro Short QQQ (Ondo Tokenized)",
+    "symbol": "SQQQon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/sqqqon_160x160.png"
+  },
+  {
+    "address": "0x17d8186ed8f68059124190d147174d0f6697dc40",
+    "name": "Merck xStock",
+    "symbol": "MRKx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MRKx.webp"
+  },
+  {
+    "address": "0x19904bc04c09e5d29ed216ddd105bdf103a0ba2d",
+    "name": "Coupang (Ondo Tokenized)",
+    "symbol": "CPNGon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cpngon_160x160.png"
+  },
+  {
+    "address": "0x19c41ea77b34bbdee61c3a87a75d1abda2ed0be4",
+    "name": "Eli Lilly xStock",
+    "symbol": "LLYx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/LLYx.webp"
+  },
+  {
+    "address": "0x1aad217b8f78dba5e6693460e8470f8b1a3977f3",
+    "name": "Strategy PP Variable xStock",
+    "symbol": "STRCx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/STRCx.png"
+  },
+  {
+    "address": "0x1ac765b5bea23184802c7d2d497f7c33f1444a9e",
+    "name": "Pfizer xStock",
+    "symbol": "PFEx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PFEx.webp"
+  },
+  {
+    "address": "0x1cd89241b26fcdc421fd02907d6504c8abbfe1bc",
+    "name": "WisdomTree US Quality Dividend Growth Fund (Ondo Tokenized)",
+    "symbol": "DGRWon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/dgrwon_160x160.png"
+  },
+  {
+    "address": "0x1d7b5e06fdbe4fd33f5c64c081e32b5d539751d0",
+    "name": "AMC Entertainment (Ondo Tokenized)",
+    "symbol": "AMCon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/amcon_160x160.png"
+  },
+  {
+    "address": "0x20cce48d767ed68cbba7727c4c504efe5bcb626c",
+    "name": "Grindr (Ondo Tokenized)",
+    "symbol": "GRNDon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/grndon_160x160.png"
+  },
+  {
+    "address": "0x214151022c2a5e380ab80cdac31f23ae554a7345",
+    "name": "CrowdStrike xStock",
+    "symbol": "CRWDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CRWDx.webp"
+  },
+  {
+    "address": "0x22e1991e5f82736a2a990322a46aac0e95826c5b",
+    "name": "Bit Digital xStock",
+    "symbol": "BTBTx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/BTBTx.png"
+  },
+  {
+    "address": "0x2363fd1235c1b6d3a5088ddf8df3a0b3a30c5293",
+    "name": "Visa xStock",
+    "symbol": "Vx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/Vx.webp"
+  },
+  {
+    "address": "0x2380f2673c640fb67e2d6b55b44c62f0e0e69da9",
+    "name": "Gold xStock",
+    "symbol": "GLDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GLDx.webp"
+  },
+  {
+    "address": "0x2588f20bad92da8dcce7fac8311b5f8ab4690e43",
+    "name": "T-Mobile US (Ondo Tokenized)",
+    "symbol": "TMUSon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/tmuson_160x160.png"
+  },
+  {
+    "address": "0x274b0cb6db9473245a31cdea9b789786f4108e4b",
+    "name": "Caterpillar (Ondo Tokenized)",
+    "symbol": "CATon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/caton_160x160.png"
+  },
+  {
+    "address": "0x277e1fa8704c5511fed7e30bc691f922aa30101b",
+    "name": "Rivian Automotive (Ondo Tokenized)",
+    "symbol": "RIVNon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/rivnon_160x160.png"
+  },
+  {
+    "address": "0x282973969118f9fe39bf2ff3d8dd1efee82ccb11",
+    "name": "NetEase (Ondo Tokenized)",
+    "symbol": "NTESon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/nteson_160x160.png"
+  },
+  {
+    "address": "0x2ec46eed30c94caa5979e6a0395abe824138335f",
+    "name": "Lowe's (Ondo Tokenized)",
+    "symbol": "LOWon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/lowon_160x160.png"
+  },
+  {
+    "address": "0x2f9a35ab5ddfbc49927bfdeab98a86c53dc6e763",
+    "name": "Amber xStock",
+    "symbol": "AMBRx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMBRx.webp"
+  },
+  {
+    "address": "0x314938c596f5ce31c3f75307d2979338c346d7f2",
+    "name": "Bank of America xStock",
+    "symbol": "BACx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/BACx.webp"
+  },
+  {
+    "address": "0x31dabf49e4bc1af1456c1819cb6a2562154e92f3",
+    "name": "Home Depot (Ondo Tokenized)",
+    "symbol": "HDon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/hdon_160x160.png"
+  },
+  {
+    "address": "0x3522513e5f146a2006e2901b05f16b2821485e19",
+    "name": "AMD xStock",
+    "symbol": "AMDx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/AMDx.png"
+  },
+  {
+    "address": "0x3557ba345b01efa20a1bddc61f573bfd87195081",
+    "name": "Amazon.com xStock",
+    "symbol": "AMZNx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AMZNx.webp"
+  },
+  {
+    "address": "0x35895a1fa1aff7fb3204fb01257409fd75acb24c",
+    "name": "Lam Research (Ondo Tokenized)",
+    "symbol": "LRCXon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/lrcxon_160x160.png"
+  },
+  {
+    "address": "0x364f210f430ec2448fc68a49203040f6124096f0",
+    "name": "Coinbase xStock",
+    "symbol": "COINx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/COINx.webp"
+  },
+  {
+    "address": "0x36c424a6ec0e264b1616102ad63ed2ad7857413e",
+    "name": "PepsiCo xStock",
+    "symbol": "PEPx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PEPx.webp"
+  },
+  {
+    "address": "0x3802dc739ef9e226f36421a9c15efa519153bbbe",
+    "name": "ProShares Short QQQ (Ondo Tokenized)",
+    "symbol": "PSQon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/psqon_160x160.png"
+  },
+  {
+    "address": "0x38bac69cbbd28156796e4163b2b6dcb81e336565",
+    "name": "Broadcom xStock",
+    "symbol": "AVGOx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AVGOx.webp"
+  },
+  {
+    "address": "0x38e0445308e7fcd5230f2df6b52b36dd4ff313b6",
+    "name": "Strategy PP Fixed xStock",
+    "symbol": "STRKx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/STRKx.png"
+  },
+  {
+    "address": "0x3ee7e9b3a992fd23cd1c363b0e296856b04ab149",
+    "name": "Goldman Sachs xStock",
+    "symbol": "GSx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GSx.webp"
+  },
+  {
+    "address": "0x3fcd741646a9790635b938cdb69af5df356cbaab",
+    "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized)",
+    "symbol": "PALLon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/pallon_160x160.png"
+  },
+  {
+    "address": "0x4255279af47cf10efb9a5c8839f90170f4ef759f",
+    "name": "AT&T (Ondo Tokenized)",
+    "symbol": "Ton",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/ton_160x160.png"
+  },
+  {
+    "address": "0x44fde2c6bc2c2b54962c69fcef57a2a50121dbd7",
+    "name": "RTX (Ondo Tokenized)",
+    "symbol": "RTXon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/rtxon_160x160.png"
+  },
+  {
+    "address": "0x45e51bc23d592eb2dba86da3985299f7895d66ba",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x45e51bc23d592eb2dba86da3985299f7895d66ba_0x9bb9ff69a67beb9da0136e67cd21b30589487a63934d62797dcadf8035de9a5a.jpg"
+  },
+  {
+    "address": "0x4752ae8f910b25e64e4406eaad50c1b4e8de7e6d",
+    "name": "Plug Power (Ondo Tokenized)",
+    "symbol": "PLUGon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/plugon_160x160.png"
+  },
+  {
+    "address": "0x47b36ddb9dd12a8411f78226f55e8c3f0d65481f",
+    "name": "PG&E (Ondo Tokenized)",
+    "symbol": "PCGon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/pcgon_160x160.png"
+  },
+  {
+    "address": "0x4a4073f2eaf299a1be22254dcd2c41727f6f54a2",
+    "name": "Salesforce xStock",
+    "symbol": "CRMx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CRMx.webp"
+  },
+  {
+    "address": "0x4baf4dc56cf6a525a0874e25cc6372a6a8915135",
+    "name": "MP Materials (Ondo Tokenized)",
+    "symbol": "MPon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/mpon_160x160.png"
+  },
+  {
+    "address": "0x4cbf89ed7bb30b8a860fa86d3c96e9c72931299b",
+    "name": "TBLL xStock",
+    "symbol": "TBLLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TBLLx.webp"
+  },
+  {
+    "address": "0x4d209d275e3492ac08497a7a42915899c4dd5e86",
+    "name": "Exxon Mobil (Ondo Tokenized)",
+    "symbol": "XOMon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/xomon_160x160.png"
+  },
+  {
+    "address": "0x4ef383f521e803863a33fca8f3f861e53ef9ef9b",
+    "name": "iShares AAA CLO Active ETF (Ondo Tokenized)",
+    "symbol": "CLOAon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cloaon_160x160.png"
+  },
+  {
+    "address": "0x50a1291f69d9d3853def8209cfb1af0b46927be1",
+    "name": "AppLovin xStock",
+    "symbol": "APPx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/APPx.webp"
+  },
+  {
+    "address": "0x521860bb5df5468358875266b89bfe90d990c6e7",
+    "name": "DFDV xStock",
+    "symbol": "DFDVx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DFDVx.webp"
+  },
+  {
+    "address": "0x52ad57a7ea642e99a892afc79e937b383f1b59e9",
+    "name": "BitMine Immersion Technologies (Ondo Tokenized)",
+    "symbol": "BMNRon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/bmnron_160x160.png"
+  },
+  {
+    "address": "0x538e2838f9ebc9b891399df4a8dcc42890d9dc20",
+    "name": "Arista Networks (Ondo Tokenized)",
+    "symbol": "ANETon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/aneton_160x160.png"
+  },
+  {
+    "address": "0x53a8c5fc5643b437779742f494691e6b7c660a8b",
+    "name": "Capital One (Ondo Tokenized)",
+    "symbol": "COFon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cofon_160x160.png"
+  },
+  {
+    "address": "0x548308e91ec9f285c7bff05295badbd56a6e4971",
+    "name": "Oracle xStock",
+    "symbol": "ORCLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ORCLx.webp"
+  },
+  {
+    "address": "0x5621737f42dae558b81269fcb9e9e70c19aa6b35",
+    "name": "Microsoft xStock",
+    "symbol": "MSFTx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MSFTx.webp"
+  },
+  {
+    "address": "0x5d642505fe1a28897eb3baba665f454755d8daa2",
+    "name": "AstraZeneca xStock",
+    "symbol": "AZNx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AZNx.webp"
+  },
+  {
+    "address": "0x5ecc352c4640f1d26bd231dbbd171f40f7d0eec6",
+    "name": "Applied Materials (Ondo Tokenized)",
+    "symbol": "AMATon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/amaton_160x160.png"
+  },
+  {
+    "address": "0x5fa699c0c1319b8d86489af77dfde4fa97b47df8",
+    "name": "BitGo Holdings (Ondo Tokenized)",
+    "symbol": "BTGOon",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x5fa699c0c1319b8d86489af77dfde4fa97b47df8_0x3943a85d79abbd301879e957db002ba48aa349e8ee30f43b4a14dcd327642b44.png"
+  },
+  {
+    "address": "0x620477782cea4c4171165396f8014edef83a13da",
+    "name": "Figure Technology Solutions (Ondo Tokenized)",
+    "symbol": "FIGRon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/figron_160x160.png"
+  },
+  {
+    "address": "0x62a48560861b0b451654bfffdb5be6e47aa8ff1b",
+    "name": "Honeywell xStock",
+    "symbol": "HONx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HONx.webp"
+  },
+  {
+    "address": "0x6459303f58244ff1e7a42b90aa3782dfb6ca6969",
+    "name": "Trip.com Group (Ondo Tokenized)",
+    "symbol": "TCOMon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/tcomon_160x160.png"
+  },
+  {
+    "address": "0x65d84f0990b7394209d591380c2952c83d778aa3",
+    "name": "Constellation Energy (Ondo Tokenized)",
+    "symbol": "CEGon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cegon_160x160.png"
+  },
+  {
+    "address": "0x6a668332825450acd2e449372057d31b3de16a1e",
+    "name": "Core MSCI Emerging Markets xStock",
+    "symbol": "IEMGx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/IEMGx.png"
+  },
+  {
+    "address": "0x6d482cec5f9dd1f05ccee9fd3ff79b246170f8e2",
+    "name": "Palantir xStock",
+    "symbol": "PLTRx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PLTRx.webp"
+  },
+  {
+    "address": "0x6d5edeebbc6a4099eb8bb289eb3b80d799f7b28c",
+    "name": "Vanguard Total World xStock",
+    "symbol": "VTx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/VTx.png"
+  },
+  {
+    "address": "0x70bd780076e25d087ed9c35f4e4a540522abe8cf",
+    "name": "Denison Mines (Ondo Tokenized)",
+    "symbol": "DNNon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/dnnon_160x160.png"
+  },
+  {
+    "address": "0x71507068e98049cba81e9bbc8d901e4a2f4222eb",
+    "name": "SoFi Technologies (Ondo Tokenized)",
+    "symbol": "SOFIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/sofion_160x160.png"
+  },
+  {
+    "address": "0x766b0cd6ed6d90b5d49d2c36a3761e9728501ba9",
+    "name": "Home Depot xStock",
+    "symbol": "HDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HDx.webp"
+  },
+  {
+    "address": "0x784584933c2192caa062e90d8140d94768ce62d8",
+    "name": "Intuitive Surgical (Ondo Tokenized)",
+    "symbol": "ISRGon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/isrgon_160x160.png"
+  },
+  {
+    "address": "0x7aefc9965699fbea943e03264d96e50cd4a97b21",
+    "name": "Walmart xStock",
+    "symbol": "WMTx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/WMTx.webp"
+  },
+  {
+    "address": "0x7ba995f1662a01f3be0dc299ce94bb7e9c7075f5",
+    "name": "BigBear.ai Holdings (Ondo Tokenized)",
+    "symbol": "BBAIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/bbaion_160x160.png"
+  },
+  {
+    "address": "0x80a77a372c1e12accda84299492f404902e2da67",
+    "name": "McDonald's xStock",
+    "symbol": "MCDx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MCDx.webp"
+  },
+  {
+    "address": "0x817942d5de16092656568e9f67f54ccb462f8989",
+    "name": "Gemini Space Station (Ondo Tokenized)",
+    "symbol": "GEMIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/gemion_160x160.png"
+  },
+  {
+    "address": "0x84719a1082ed487c7eeac7d69885e3cc2009ea78",
+    "name": "Janus Henderson AAA CLO ETF (Ondo Tokenized)",
+    "symbol": "JAAAon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/jaaaon_160x160.png"
+  },
+  {
+    "address": "0x8677abad7b458bf16a0fb2676dfc7d3f55ac202a",
+    "name": "AbbVie (Ondo Tokenized)",
+    "symbol": "ABBVon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/abbvon_160x160.png"
+  },
+  {
+    "address": "0x869027261075c3c239d6a26842579b93802606f4",
+    "name": "Merck (Ondo Tokenized)",
+    "symbol": "MRKon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/mrkon_160x160.png"
+  },
+  {
+    "address": "0x88672043905bdd272df55a5a7bb1b7e1e693cbc5",
+    "name": "Opera (Ondo Tokenized)",
+    "symbol": "OPRAon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/opraon_160x160.png"
+  },
+  {
+    "address": "0x89233399708c18ac6887f90a2b4cd8ba5fedd06e",
+    "name": "Abbott xStock",
+    "symbol": "ABTx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ABTx.webp"
+  },
+  {
+    "address": "0x8ad3c73f833d3f9a523ab01476625f269aeb7cf0",
+    "name": "Tesla xStock",
+    "symbol": "TSLAx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TSLAx.webp"
+  },
+  {
+    "address": "0x8ba9da757d1d66c58b1ae7e2ed6c04087348a82d",
+    "name": "Savings Usdd",
+    "symbol": "sUSDD",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0x8ba9da757d1d66c58b1ae7e2ed6c04087348a82d_0x9e77018d91d52bc4d50b1427c8a220bffa32bcf388ebfc9fadf669429dff2bc6.jpg"
+  },
+  {
+    "address": "0x8ddb97556f6ae98b4d408c56b167139fe1cbe3e8",
+    "name": "Citigroup (Ondo Tokenized)",
+    "symbol": "Con",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/con_160x160.png"
+  },
+  {
+    "address": "0x8fd70ee385f470c8d6fda2d93a4e49c849bac6a6",
+    "name": "IREN (Ondo Tokenized)",
+    "symbol": "IRENon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/irenon_160x160.png"
+  },
+  {
+    "address": "0x90a2a4c76b5d8c0bc892a69ea28aa775a8f2dd48",
+    "name": "SP500 xStock",
+    "symbol": "SPYx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/SPYx.webp"
+  },
+  {
+    "address": "0x90ccbb75d61cb65cd73a3abb5df04a75961612b7",
+    "name": "Deere (Ondo Tokenized)",
+    "symbol": "DEon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/deon_160x160.png"
+  },
+  {
+    "address": "0x91c62325f901ee29da8e521cfe68980332a4ca06",
+    "name": "Archer Aviation (Ondo Tokenized)",
+    "symbol": "ACHRon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/achron_160x160.png"
+  },
+  {
+    "address": "0x91fc7371d6de682a1e8cfcb4eb7da693312a03a4",
+    "name": "Bilibili (Ondo Tokenized)",
+    "symbol": "BILIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/bilion_160x160.png"
+  },
+  {
+    "address": "0x940f442746d9ae699e63c378d52c4494ea02684f",
+    "name": "iShares Flexible Income Active ETF (Ondo Tokenized)",
+    "symbol": "BINCon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/bincon_160x160.png"
+  },
+  {
+    "address": "0x94174e3d1335db402dd03a092f7aa7ac2cb32be4",
+    "name": "United States Oil Fund (Ondo Tokenized)",
+    "symbol": "USOon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/usoon_160x160.png"
+  },
+  {
+    "address": "0x96702be57cd9777f835117a809c7124fe4ec989a",
+    "name": "Meta xStock",
+    "symbol": "METAx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/METAx.webp"
+  },
+  {
+    "address": "0x9810beac9af3c30d14cfb61cdd557e160f60fd50",
+    "name": "Li Auto (Ondo Tokenized)",
+    "symbol": "LIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/lion_160x160.png"
+  },
+  {
+    "address": "0x9cea8a7be1ab0320b709d368ad60d8500f55995f",
+    "name": "Vertiv (Ondo Tokenized)",
+    "symbol": "VRTon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/vrton_160x160.png"
+  },
+  {
+    "address": "0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a",
+    "name": "Apple xStock",
+    "symbol": "AAPLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/AAPLx.webp"
+  },
+  {
+    "address": "0xa09699fc0cbb1f85128450a0ff6a3c4d3a7e7b9b",
+    "name": "Opendoor Technologies (Ondo Tokenized)",
+    "symbol": "OPENon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/openon_160x160.png"
+  },
+  {
+    "address": "0xa3b089c886e6d721f49def8e050f3b9d4362560b",
+    "name": "Verizon (Ondo Tokenized)",
+    "symbol": "VZon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/vzon_160x160.png"
+  },
+  {
+    "address": "0xa6a65ac27e76cd53cb790473e4345c46e5ebf961",
+    "name": "Netflix xStock",
+    "symbol": "NFLXx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NFLXx.webp"
+  },
+  {
+    "address": "0xa753a7395cae905cd615da0b82a53e0560f250af",
+    "name": "Nasdaq xStock",
+    "symbol": "QQQx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/QQQx.webp"
+  },
+  {
+    "address": "0xa90424d5d3e770e8644103ab503ed775dd1318fd",
+    "name": "Procter & Gamble xStock",
+    "symbol": "PGx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/PGx.webp"
+  },
+  {
+    "address": "0xaa28cb97d7f7e172f54dee950743886d2d65447d",
+    "name": "S&P Small Cap xStock",
+    "symbol": "IJRx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/IJRx.png"
+  },
+  {
+    "address": "0xab2f74804c022c5249d52e743af4340e42f5f3b6",
+    "name": "Grab Holdings (Ondo Tokenized)",
+    "symbol": "GRABon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/grabon_160x160.png"
+  },
+  {
+    "address": "0xad56701d9e57957e28e546db7db508a16d4f86cc",
+    "name": "Terawulf (Ondo Tokenized)",
+    "symbol": "WULFon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/wulfon_160x160.png"
+  },
+  {
+    "address": "0xad5cdc3340904285b8159089974a99a1a09eb4c0",
+    "name": "Chevron xStock",
+    "symbol": "CVXx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CVXx.webp"
+  },
+  {
+    "address": "0xae2f842ef90c0d5213259ab82639d5bbf649b08e",
+    "name": "MicroStrategy xStock",
+    "symbol": "MSTRx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MSTRx.webp"
+  },
+  {
+    "address": "0xaeb681b69e5094e04d11bcef51a71358a374c3ed",
+    "name": "Bitmine xStock",
+    "symbol": "BMNRx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/BMNRx.png"
+  },
+  {
+    "address": "0xaf072f109a2c173d822a4fe9af311a1b18f83d19",
+    "name": "Thermo Fisher xStock",
+    "symbol": "TMOx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TMOx.webp"
+  },
+  {
+    "address": "0xaf6c03acf72355ce98d0741302b78870b376428c",
+    "name": "Oklo (Ondo Tokenized)",
+    "symbol": "OKLOon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/okloon_160x160.png"
+  },
+  {
+    "address": "0xb0752aa50b089ee6ea9acd51373207fa460e87bb",
+    "name": "Oscar Health (Ondo Tokenized)",
+    "symbol": "OSCRon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/oscron_160x160.png"
+  },
+  {
+    "address": "0xb1aba049c42b6fe811766eba61f51f11c57acc4b",
+    "name": "Ford Motor (Ondo Tokenized)",
+    "symbol": "Fon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/fon_160x160.png"
+  },
+  {
+    "address": "0xb35a9eab5d25282f4e668798b629a9294e9a47aa",
+    "name": "ON Semiconductor (Ondo Tokenized)",
+    "symbol": "ONon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/onon_160x160.png"
+  },
+  {
+    "address": "0xb365cd2588065f522d379ad19e903304f6b622c6",
+    "name": "Mastercard xStock",
+    "symbol": "MAx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MAx.webp"
+  },
+  {
+    "address": "0xbbe4dfe7a349fb72aec6f52d5cd9bdd78ae8f313",
+    "name": "Talen Energy (Ondo Tokenized)",
+    "symbol": "TLNon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/tlnon_160x160.png"
+  },
+  {
+    "address": "0xbc7170a1280be28513b4e940c681537eb25e39f4",
+    "name": "Comcast xStock",
+    "symbol": "CMCSAx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CMCSAx.webp"
+  },
+  {
+    "address": "0xbcf7d958791152128710565a5fc6f68342ed71c8",
+    "name": "Thermo Fisher Scientific (Ondo Tokenized)",
+    "symbol": "TMOon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/tmoon_160x160.png"
+  },
+  {
+    "address": "0xbd730e618bcd88c82ddee52e10275cf2f88a4777",
+    "name": "Vanguard xStock",
+    "symbol": "VTIx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/VTIx.webp"
+  },
+  {
+    "address": "0xbee6b69345f376598fe16abd5592c6f844825e66",
+    "name": "OPEN xStock",
+    "symbol": "OPENx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/OPENx.webp"
+  },
+  {
+    "address": "0xc008c5f579ec1450f20099c39f587547e27c7523",
+    "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized)",
+    "symbol": "SGOVon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/sgovon_160x160.png"
+  },
+  {
+    "address": "0xc145dc2ebdbe8ead1fecdebf46c76eb1fdd0104d",
+    "name": "Carvana (Ondo Tokenized)",
+    "symbol": "CVNAon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cvnaon_160x160.png"
+  },
+  {
+    "address": "0xc16f47c4a7ed39372b9a0e3e2016cede9b4cb83a",
+    "name": "VanEck Rare Earth and Strategic Metals ETF (Ondo Tokenized)",
+    "symbol": "REMXon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/remxon_160x160.png"
+  },
+  {
+    "address": "0xc2c7fcddc37f6737ca2481ebda6b81ee279fe20c",
+    "name": "Kanzhun (Ondo Tokenized)",
+    "symbol": "BZon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/bzon_160x160.png"
+  },
+  {
+    "address": "0xc2dd31b1b3a2f515ce0d48de712c6744c3475170",
+    "name": "Vanguard Value ETF (Ondo Tokenized)",
+    "symbol": "VTVon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/vtvon_160x160.png"
+  },
+  {
+    "address": "0xc6f9edbee6042a237d72493bbda3ee2c3c62f708",
+    "name": "NIO (Ondo Tokenized)",
+    "symbol": "NIOon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/nioon_160x160.png"
+  },
+  {
+    "address": "0xc845b2894dbddd03858fd2d643b4ef725fe0849d",
+    "name": "NVIDIA xStock",
+    "symbol": "NVDAx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NVDAx.webp"
+  },
+  {
+    "address": "0xca3a5c955f1f01f20aacf9501b03e4aa235e478b",
+    "name": "Texas Instruments (Ondo Tokenized)",
+    "symbol": "TXNon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/txnon_160x160.png"
+  },
+  {
+    "address": "0xcf3e84e62002ca459db81b2032d7fe13715bad51",
+    "name": "Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF (Ondo Tokenized)",
+    "symbol": "PDBCon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/pdbcon_160x160.png"
+  },
+  {
+    "address": "0xcfd1f0df84300ea1a4e2ba5238043a2fa5a7237c",
+    "name": "Pinterest (Ondo Tokenized)",
+    "symbol": "PINSon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/pinson_160x160.png"
+  },
+  {
+    "address": "0xd1f799cb9f5d0a02951b0755beced6c43882712f",
+    "name": "Johnson & Johnson (Ondo Tokenized)",
+    "symbol": "JNJon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/jnjon_160x160.png"
+  },
+  {
+    "address": "0xd615468088b19fb9d4f03cb3ce9e33876ff3db99",
+    "name": "Bank of America (Ondo Tokenized)",
+    "symbol": "BACon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/bacon_160x160.png"
+  },
+  {
+    "address": "0xd7a6353a23ed2c4fcac29a63cbbe3f65ffef41f5",
+    "name": "Southern (Ondo Tokenized)",
+    "symbol": "SOon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/soon_160x160.png"
+  },
+  {
+    "address": "0xd7e3317d54473dab04135fb0676623f237ff5ca9",
+    "name": "VanEck CLO ETF (Ondo Tokenized)",
+    "symbol": "CLOIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cloion_160x160.png"
+  },
+  {
+    "address": "0xd83c128e7498be555845a6dc331a99e1524c1777",
+    "name": "Utopia",
+    "symbol": "UTOPIA",
+    "decimals": 18,
+    "logoURI": "https://tokens-data.1inch.io/images/56/0xd83c128e7498be555845a6dc331a99e1524c1777_0x670a1d63bb01ff5fcfeaf8e16e56e529a8c9ac9d219ce7c51e1e7803769b9ff5.webp"
+  },
+  {
+    "address": "0xd85d4ce29b4ca361ff72ef0e53d6236e334c5db6",
+    "name": "Ondas Holdings (Ondo Tokenized)",
+    "symbol": "ONDSon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/ondson_160x160.png"
+  },
+  {
+    "address": "0xd9913208647671fe0f48f7f260076b2c6f310aac",
+    "name": "International Business Machines xStock",
+    "symbol": "IBMx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/IBMx.webp"
+  },
+  {
+    "address": "0xd9fc3e075d45254a1d834fea18af8041207dea0a",
+    "name": "JPMorgan Chase xStock",
+    "symbol": "JPMx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JPMx.webp"
+  },
+  {
+    "address": "0xdad07d0ca26ed4109bc00893dbee3ed4ce8ce2a4",
+    "name": "Cipher Mining (Ondo Tokenized)",
+    "symbol": "CIFRon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/cifron_160x160.png"
+  },
+  {
+    "address": "0xdadfb355c6110eda0908740d52c834d6c2bcddc7",
+    "name": "Russell 2000 xStock",
+    "symbol": "IWMx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/IWMx.png"
+  },
+  {
+    "address": "0xdb0482cfad4789798623e64b15eeba01b16e917c",
+    "name": "Johnson & Johnson xStock",
+    "symbol": "JNJx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/JNJx.webp"
+  },
+  {
+    "address": "0xdba228936f4079daf9aa906fd48a87f2300405f4",
+    "name": "Danaher xStock",
+    "symbol": "DHRx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/DHRx.webp"
+  },
+  {
+    "address": "0xdcc1a2699441079da889b1f49e12b69cc791129b",
+    "name": "Coca-Cola xStock",
+    "symbol": "KOx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/KOx.webp"
+  },
+  {
+    "address": "0xe1385fdd5ffb10081cd52c56584f25efa9084015",
+    "name": "Robinhood xStock",
+    "symbol": "HOODx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/HOODx.webp"
+  },
+  {
+    "address": "0xe23f03d2907cdc38a10f6ccdc1a157bf1afe51de",
+    "name": "Sprott Nickel Miners ETF (Ondo Tokenized)",
+    "symbol": "NIKLon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/niklon_160x160.png"
+  },
+  {
+    "address": "0xe2ac868f2fd097086d83bc939248e5ae08d35da4",
+    "name": "B2Gold (Ondo Tokenized)",
+    "symbol": "BTGon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/btgon_160x160.png"
+  },
+  {
+    "address": "0xe42cfb20e00912409b77a602b5bdcff3c7acc5f4",
+    "name": "ProShares UltraPro QQQ (Ondo Tokenized)",
+    "symbol": "TQQQon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/tqqqon_160x160.png"
+  },
+  {
+    "address": "0xe5ba472c98b7e4695bd856290de66bdedaffc123",
+    "name": "Charles Schwab (Ondo Tokenized)",
+    "symbol": "SCHWon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/schwon_160x160.png"
+  },
+  {
+    "address": "0xe5f6d3b2405abdfe6f660e63202b25d23763160d",
+    "name": "Gamestop xStock",
+    "symbol": "GMEx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GMEx.webp"
+  },
+  {
+    "address": "0xe6837794fbc6dd024733a1a31f86061296fa2752",
+    "name": "CrowdStrike (Ondo Tokenized)",
+    "symbol": "CRWDon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/crwdon_160x160.png"
+  },
+  {
+    "address": "0xe778a2e5d953c82eb9475cf3b87654226a867344",
+    "name": "Block (Ondo Tokenized)",
+    "symbol": "XYZon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/xyzon_160x160.png"
+  },
+  {
+    "address": "0xe92f673ca36c5e2efd2de7628f815f84807e803f",
+    "name": "Alphabet xStock",
+    "symbol": "GOOGLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/GOOGLx.webp"
+  },
+  {
+    "address": "0xe95ab205e333443d7970336d5fd827ef9ed97608",
+    "name": "TON xStock",
+    "symbol": "TONXx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/TONXx.png"
+  },
+  {
+    "address": "0xe96f94e10f1265dcc15f83d251f1f6758d2cd67d",
+    "name": "First Trust Global Tactical Commodity Strategy Fund (Ondo Tokenized)",
+    "symbol": "FTGCon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/ftgcon_160x160.png"
+  },
+  {
+    "address": "0xe9d43f7e6b2237e8873a7003b3f43c6b03160be5",
+    "name": "NextEra Energy (Ondo Tokenized)",
+    "symbol": "NEEon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/neeon_160x160.png"
+  },
+  {
+    "address": "0xeaad46f4146ded5a47b55aa7f6c48c191deaec88",
+    "name": "Marvell xStock",
+    "symbol": "MRVLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/MRVLx.webp"
+  },
+  {
+    "address": "0xec93fe7ff4b09ca3ccafbc4cc9615e62be412780",
+    "name": "Global X Copper Miners ETF (Ondo Tokenized)",
+    "symbol": "COPXon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/copxon_160x160.png"
+  },
+  {
+    "address": "0xed2a500eb2b66679e0bbd76e51a60049ae5f3271",
+    "name": "Rigetti Computing (Ondo Tokenized)",
+    "symbol": "RGTIon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/rgtion_160x160.png"
+  },
+  {
+    "address": "0xedcf71b2e2217064038adcb54a3c3a5fc3488ef1",
+    "name": "SoundHound AI (Ondo Tokenized)",
+    "symbol": "SOUNon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/sounon_160x160.png"
+  },
+  {
+    "address": "0xeedb0273c5af792745180e9ff568cd01550ffa13",
+    "name": "Exxon Mobil xStock",
+    "symbol": "XOMx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/XOMx.webp"
+  },
+  {
+    "address": "0xf2c24c47805f4f72d3919c8674bfdd401505794b",
+    "name": "Vistra (Ondo Tokenized)",
+    "symbol": "VSTon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/vston_160x160.png"
+  },
+  {
+    "address": "0xf325884d9bcac457271fe7f7b6be1765348fcca2",
+    "name": "Snap (Ondo Tokenized)",
+    "symbol": "SNAPon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/snapon_160x160.png"
+  },
+  {
+    "address": "0xf3e82ea164cb344b2b11bad4c24b0ea4f7ba4714",
+    "name": "PDD Holdings (Ondo Tokenized)",
+    "symbol": "PDDon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/pddon_160x160.png"
+  },
+  {
+    "address": "0xf49046aae76eaeb7ffd3ef116ce0f7cd0f52d93e",
+    "name": "MasTec (Ondo Tokenized)",
+    "symbol": "MTZon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/mtzon_160x160.png"
+  },
+  {
+    "address": "0xf4fd75764a5c086fb12f822be2ca318b3a362dc3",
+    "name": "WisdomTree Floating Rate Treasury Fund (Ondo Tokenized)",
+    "symbol": "USFRon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/usfron_160x160.png"
+  },
+  {
+    "address": "0xf6d87e523512704c29e9b7ca3e9e6226bdce3ea1",
+    "name": "Schwab International Equity xStock",
+    "symbol": "SCHFx",
+    "decimals": 18,
+    "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/SCHFx.png"
+  },
+  {
+    "address": "0xf8a80d1cb9cfd70d03d655d9df42339846f3b3c8",
+    "name": "Intel xStock",
+    "symbol": "INTCx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/INTCx.webp"
+  },
+  {
+    "address": "0xf9523e369c5f55ad72dbaa75b0a9b92b3d8b147e",
+    "name": "Novo Nordisk xStock",
+    "symbol": "NVOx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/NVOx.webp"
+  },
+  {
+    "address": "0xfa9a1e901085e269f6d428f79cd5252d8b919344",
+    "name": "SPDR Gold Shares (Ondo Tokenized)",
+    "symbol": "GLDon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/gldon_160x160.png"
+  },
+  {
+    "address": "0xfbdf0366f800cc79d6663da26bc0bf21fb455aa6",
+    "name": "Amgen (Ondo Tokenized)",
+    "symbol": "AMGNon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/amgnon_160x160.png"
+  },
+  {
+    "address": "0xfbe22d27b6e153244882fd7bdfe7c6109918281b",
+    "name": "Bullish (Ondo Tokenized)",
+    "symbol": "BLSHon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/blshon_160x160.png"
+  },
+  {
+    "address": "0xfbf2398df672cee4afcc2a4a733222331c742a6a",
+    "name": "AbbVie xStock",
+    "symbol": "ABBVx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/ABBVx.webp"
+  },
+  {
+    "address": "0xfc2067e3e6a289c205151d96ef67a032f339566d",
+    "name": "Invesco DB Commodity Index Tracking Fund (Ondo Tokenized)",
+    "symbol": "DBCon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/dbcon_160x160.png"
+  },
+  {
+    "address": "0xfc263946439b0d802bf4c5a6fcd34e2885259f91",
+    "name": "KLA (Ondo Tokenized)",
+    "symbol": "KLACon",
+    "decimals": 18,
+    "logoURI": "https://cdn.ondo.finance/tokens/logos/klacon_160x160.png"
+  },
+  {
+    "address": "0xfdddb57878ef9d6f681ec4381dcb626b9e69ac86",
+    "name": "TQQQ xStock",
+    "symbol": "TQQQx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/TQQQx.webp"
+  },
+  {
+    "address": "0xfebded1b0986a8ee107f5ab1a1c5a813491deceb",
+    "name": "Circle xStock",
+    "symbol": "CRCLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/foxwallet/tokenlist/main/img/CRCLx.webp"
   }
 ]

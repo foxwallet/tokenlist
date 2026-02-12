@@ -2199,5 +2199,37 @@
     "decimals": 8,
     "logoURI": "https://assets.panora.exchange/tokens/aptos/GMEOW.png",
     "type": "AptosFA"
+  },
+  {
+    "address": "0x51964f09020498a1421a2a3bafe8e1d9fa72574b60446486c599bc6f3e9fae29::echelon_coin::ELON",
+    "name": "Echelon Token",
+    "symbol": "ELON",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/ELON.svg",
+    "type": "AptosCoin"
+  },
+  {
+    "address": "0xfc087a394c203d62c43eecfeba79db01441d39dd9d234131b78415626a26750e",
+    "name": "Echelon Token",
+    "symbol": "ELON",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/ELON.svg",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0xc546cc2dd26d9e9a4516b4514288bedf1085259fcb106b84b6469337f527fb92",
+    "name": "PACT",
+    "symbol": "PACT",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/PACT.png",
+    "type": "AptosFA"
+  },
+  {
+    "address": "0x5b5c9ec5e88ddd6697b5b2f9f0a8e03eae1186c47fa4d934798632dc2987b249",
+    "name": "Goblin Staked APT token",
+    "symbol": "goAPT",
+    "decimals": 8,
+    "logoURI": "https://assets.panora.exchange/tokens/aptos/goAPT.svg",
+    "type": "AptosFA"
   }
 ]
