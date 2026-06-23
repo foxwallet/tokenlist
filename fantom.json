@@ -641,5 +641,13 @@
     "symbol": "WIGO",
     "decimals": 18,
     "logoURI": "https://tokens-data.1inch.io/images/250/0xe992beab6659bff447893641a378fbbf031c5bd6.png"
+  },
+  {
+    "address":"0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "name":"WBTC",
+    "symbol":"BTC",
+    "decimals":8,
+    "logoURI":"",
+    "priceSource":"static:0"
   }
 ]
